@@ -23,4 +23,4 @@ pluralizeListTitles = false
     [markup.goldmark.renderer]
       unsafe = true # Omogućava korišćenje HTML-a direktno u Markdownu (kao što je tvoj slučaj)
 
-# Moguće je dodati konfiguraciju za RSS feed, sitemap itd.
+# Moguće je dodati konfiguracijiu za RSS feed, sitemap itd.
