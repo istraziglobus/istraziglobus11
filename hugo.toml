@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = "https://istraziglobus.github.io/istraziglobus11/"
 languageCode = "sr"
 title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
 theme = "" # Ako koristiš temu, unesi ovde ime teme. Ako je prazno, Hugo gleda layout u rootu.
