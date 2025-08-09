@@ -1,4 +1,4 @@
-baseURL = "https://istraziglobus.github.io/istraziglobus11/"
+baseURL = "https://istraziglobus11.vercel.app/"
 relativeURLs = true
 canonifyURLs = true
 languageCode = "sr"

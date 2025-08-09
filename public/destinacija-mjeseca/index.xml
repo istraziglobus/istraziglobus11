@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arhiva Mesečnih Destinacija on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>http://localhost:1313/destinacija-mjeseca/</link>
+    <link>http://localhost:1313/istraziglobus11/destinacija-mjeseca/</link>
     <description>Recent content in Arhiva Mesečnih Destinacija on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
-    <atom:link href="http://localhost:1313/destinacija-mjeseca/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/istraziglobus11/destinacija-mjeseca/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Destinacije on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>http://localhost:1313/destinacije/</link>
+    <link>http://localhost:1313/istraziglobus11/destinacije/</link>
     <description>Recent content in Destinacije on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate>Fri, 01 Aug 2025 10:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/destinacije/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/istraziglobus11/destinacije/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kipar</title>
-      <link>http://localhost:1313/destinacije/kipar-ostrvo-afrodite/</link>
+      <link>http://localhost:1313/istraziglobus11/destinacije/kipar-ostrvo-afrodite/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/destinacije/kipar-ostrvo-afrodite/</guid>
+      <guid>http://localhost:1313/istraziglobus11/destinacije/kipar-ostrvo-afrodite/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kipar.&lt;/strong&gt; Ne samo tačka na mapi, već kapija u prošlost, raskrsnica imperija i živi dokaz otpornosti. Ovo je ostrvo koje je vekovima izdržavalo udare istorije, strateški nezaobilazno u mediteranskoj igri moći. Njegovo ime odzvana eonima, noseći priče o &lt;span class=&#34;highlight-text&#34;&gt;bogovima, kraljevima, osvajačima i neuništivom duhu naroda&lt;/span&gt; koji je ostao. Zakoračiti na Kipar znači prihvatiti poziv na putovanje koje nadilazi puko razgledanje; to je uranjanje u duboku, slojevitu tapiseriju gde se legende prepliću sa tragovima drevnih civilizacija, a prirodne lepote odražavaju dramu vekova. Kipar nije samo mesto za odmor; on je izazov za čula i um, destinacija koja zahteva poštovanje i obećava nezaboravno iskustvo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bali</title>
-      <link>http://localhost:1313/destinacije/bali-ostrvo-bogova/</link>
+      <link>http://localhost:1313/istraziglobus11/destinacije/bali-ostrvo-bogova/</link>
       <pubDate>Wed, 09 Jul 2025 22:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/destinacije/bali-ostrvo-bogova/</guid>
+      <guid>http://localhost:1313/istraziglobus11/destinacije/bali-ostrvo-bogova/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bali.&lt;/strong&gt; Samo ime priziva slike smaragdno &lt;strong&gt;zelenih pirinčanih terasa&lt;/strong&gt;, drevnih hramova obavijenih tamjanom, &lt;strong&gt;tirkiznih okeana&lt;/strong&gt; sa savršenim talasima i osmeha ljudi čija duša zrači mirom. Nije ni čudo što ovo indonežansko ostrvo nosi epitet &lt;strong&gt;&lt;span style=&#34;color: var(--accent-color); font-weight: bold;&#34;&gt;&amp;ldquo;Ostrvo Bogova&amp;rdquo;&lt;/span&gt;&lt;/strong&gt;. To je mesto gde se duhovnost oseća u vazduhu, gde umetnost nije samo ukras već način života, a priroda oduzima dah svojom netaknutom lepotom. Ako tražite destinaciju koja će vas opustiti, inspirisati i probuditi sva vaša čula, &lt;strong&gt;Bali je bez sumnje na vrhu liste.&lt;/strong&gt; Uronite sa nama u sve tajne i čari ovog raja na Zemlji.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rim</title>
-      <link>http://localhost:1313/destinacije/rim/</link>
+      <link>http://localhost:1313/istraziglobus11/destinacije/rim/</link>
       <pubDate>Thu, 03 Jul 2025 10:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/destinacije/rim/</guid>
+      <guid>http://localhost:1313/istraziglobus11/destinacije/rim/</guid>
       <description>&lt;p class=&#34;intro-paragraph&#34;&gt;Postoje destinacije, i postoji Rim. Njegovo ime nije samo lokacija na mapi; to je pozivnica u svijet gdje se prošlost i sadašnjost prepliću u neodoljivu tapiseriju. &lt;span class=&#34;highlight-text&#34;&gt;Rim&lt;/span&gt; nije muzej pod otvorenim nebom, niti je samo skup impresivnih spomenika. On je pulsirajući organizam, živući dokaz da se istorija ne mora učiti iz knjiga – ona se ovdje diše, dodiruje i proživljava na svakom koraku. Od masivnih antičkih ruševina što prkose vijekovima, preko ekstravagancije baroknih palata i fontana, do užurbanih, autentičnih piazza ispunjenih mirisima kafe i svježe pečenog hljeba – Rim se ne obilazi, Rim se upija.&lt;/p&gt;</description>
     </item>
   </channel>

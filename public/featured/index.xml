@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>http://localhost:1313/featured/</link>
+    <link>http://localhost:1313/istraziglobus11/featured/</link>
     <description>Recent content in Featured on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/featured/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/istraziglobus11/featured/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
