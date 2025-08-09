@@ -1,7 +1,7 @@
   {{ define "main" }}
 <section class="hero" id="pocetna">
     <video autoplay muted loop class="hero-video-background">
-        <source src="{{.Site.BaseURL}}slike/hero/hero_video.mp4" type="video/mp4">
+        <source src="{{ "/slike/hero/hero_video.mp4" | absURL }}" type="video/mp4">
         Vaš pregledač ne podržava video tag.
     </video>
     <div class="hero-content">
@@ -15,9 +15,9 @@
     <div class="container">
         <h2>Izdvojene Teme</h2>
         <div class="featured-cards-grid">
-            <a href="{{.Site.BaseURL}}categories/vijesti/" class="topic-card">
+            <a href="{{ "/categories/vijesti/" | absURL }}" class="topic-card">
                 <div class="card-image-overlay">
-                    <img src="{{.Site.BaseURL}}slike/podgrupe/vijesti.jpg" alt="Vijesti iz sveta putovanja" class="card-bg-image">
+                    <img src="{{ "/slike/podgrupe/vijesti.jpg" | absURL }}" alt="Vijesti iz sveta putovanja" class="card-bg-image">
                     <div class="overlay-content">
                         <h3>Vijesti</h3>
                         <p>Najnovije informacije i dešavanja iz sveta putovanja, aktuelnosti i trendovi.</p>
@@ -25,9 +25,9 @@
                     </div>
                 </div>
             </a>
-            <a href="{{.Site.BaseURL}}categories/istorijski-kutak/" class="topic-card">
+            <a href="{{ "/categories/istorijski-kutak/" | absURL }}" class="topic-card">
                 <div class="card-image-overlay">
-                    <img src="{{.Site.BaseURL}}slike/podgrupe/istorija.jpg" alt="Istorija i baština" class="card-bg-image">
+                    <img src="{{ "/slike/podgrupe/istorija.jpg" | absURL }}" alt="Istorija i baština" class="card-bg-image">
                     <div class="overlay-content">
                         <h3>Istorijski kutak</h3>
                         <p>Zavirite u bogatu prošlost sveta kroz priče o starim civilizacijama i spomenicima.</p>
@@ -35,9 +35,9 @@
                     </div>
                 </div>
             </a>
-            <a href="{{.Site.BaseURL}}categories/avio-svet/" class="topic-card">
+            <a href="{{ "/categories/avio-svet/" | absURL }}" class="topic-card">
                 <div class="card-image-overlay">
-                    <img src="{{.Site.BaseURL}}slike/podgrupe/avio.jpg" alt="Svet avijacije" class="card-bg-image">
+                    <img src="{{ "/slike/podgrupe/avio.jpg" | absURL }}" alt="Svet avijacije" class="card-bg-image">
                     <div class="overlay-content">
                         <h3>Avio svet</h3>
                         <p>Sve o putovanju avionom, aerodromima, avio-kompanijama i savetima za letenje.</p>
@@ -45,9 +45,9 @@
                     </div>
                 </div>
             </a>
-            <a href="{{.Site.BaseURL}}categories/sport-i-putovanja/" class="topic-card">
+            <a href="{{ "/categories/sport-i-putovanja/" | absURL }}" class="topic-card">
                 <div class="card-image-overlay">
-                    <img src="{{.Site.BaseURL}}slike/podgrupe/sport.jpg" alt="Sportske destinacije" class="card-bg-image">
+                    <img src="{{ "/slike/podgrupe/sport.jpg" | absURL }}" alt="Sportske destinacije" class="card-bg-image">
                     <div class="overlay-content">
                         <h3>Sport i putovanja</h3>
                         <p>Otkrijte sportske događaje i destinacije koje morate posetiti.</p>
@@ -55,9 +55,9 @@
                     </div>
                 </div>
             </a>
-         <a href="{{.Site.BaseURL}}categories/ukusi-svijeta/" class="topic-card">
+         <a href="{{ "/categories/ukusi-svijeta/" | absURL }}" class="topic-card">
             <div class="card-image-overlay">
-                <img src="{{.Site.BaseURL}}slike/podgrupe/hrana.jpg" alt="Svetska kuhinja" class="card-bg-image">
+                <img src="{{ "/slike/podgrupe/hrana.jpg" | absURL }}" alt="Svetska kuhinja" class="card-bg-image">
                 <div class="overlay-content">
                     <h3>Ukusi sveta</h3>
                     <p>Gastronomska putovanja i istraživanje kulinarske baštine različitih kultura.</p>
@@ -65,9 +65,9 @@
                 </div>
             </div>
         </a>
-            <a href="{{.Site.BaseURL}}categories/kultura/" class="topic-card">
+            <a href="{{ "/categories/kultura/" | absURL }}" class="topic-card">
                 <div class="card-image-overlay">
-                    <img src="{{.Site.BaseURL}}slike/podgrupe/kultura.jpg" alt="Kultura i tradicija" class="card-bg-image">
+                    <img src="{{ "/slike/podgrupe/kultura.jpg" | absURL }}" alt="Kultura i tradicija" class="card-bg-image">
                     <div class="overlay-content">
                         <h3>Kultura</h3>
                         <p>Zaronite u bogatstvo svetskih kultura i tradicija.</p>
@@ -106,7 +106,7 @@
             {{ end }}
         </div>
         <div style="text-align: center; margin-top: 40px;">
-            <a href="{{ .Site.BaseURL }}posts/" class="btn btn-secondary">Pogledaj Sve Članke</a>
+           <a href="{{ "/posts/" | absURL }}" class="btn btn-secondary">Pogledaj Sve Članke</a>
         </div>
     </div>
 </section>
