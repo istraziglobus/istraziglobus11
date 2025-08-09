@@ -1,4 +1,4 @@
-baseURL = "https://istraziglobus11.vercel.app/"
+baseURL = "https://www.istraziglobus.com/"
 relativeURLs = true
 canonifyURLs = true
 languageCode = "sr"
@@ -24,4 +24,3 @@ pluralizeListTitles = false
       unsafe = true # Omogućava korišćenje HTML-a direktno u Markdownu (kao što je tvoj slučaj)
 
 # Moguće je dodati konfiguracijiu za RSS feed, sitemap itd.
-mainSections = ["kultura-i-jezik"]
