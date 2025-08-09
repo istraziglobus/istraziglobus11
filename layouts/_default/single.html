@@ -1,0 +1,44 @@
+{{ define "main" }}
+<section class="single-post-section light-bg section-{{ .Section }}"> <div class="container">
+        <div class="main-rome-title-container">
+            <h1 class="main-rome-title">{{ .Title }}</h1>
+            <h2 class="subtitle-text">{{ .Params.subtitle }}</h2>
+        </div>
+
+        {{ if not .Date.IsZero }}
+            <p class="article-meta"><span class="publish-date">{{ .Date.Format "02. January 2006." }}</span></p>
+        {{ end }}
+
+        {{ with .Params.image }}
+        <div class="article-hero-image">
+            <img src="{{.}}" alt="{{$.Title}}" loading="lazy">
+            {{ with $.Params.image_caption }}
+                <p class="image-caption">{{ . }}</p>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        <div class="article-content">
+            {{.Content}}
+        </div>
+
+        <div class="share-buttons">
+            <button class="share-button" data-share-platform="facebook" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
+                <i class="fab fa-facebook-f"></i> Facebook
+            </button>
+            <button class="share-button" data-share-platform="twitter" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
+                <i class="fab fa-twitter"></i> Twitter
+            </button>
+            <button class="share-button" data-share-platform="whatsapp" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
+                <i class="fab fa-whatsapp"></i> WhatsApp
+            </button>
+            <button class="share-button" data-share-platform="linkedin" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </button>
+        </div>
+
+        <div style="margin-top: 40px; text-align: center;">
+            <a href="{{ .Site.BaseURL }}" class="btn btn-secondary">Nazad na Početnu</a>
+        </div>
+    </div>
+</section> {{ end }}

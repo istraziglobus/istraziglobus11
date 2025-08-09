@@ -1,0 +1,28 @@
+{{ $section := .Section }}
+{{ $displaySection := "" }}
+
+{{ if (in (slice "putujmo-u-evropu" "putujmo-u-aziju" "putujmo-u-afriku" "putujmo-u-ameriku" "putujmo-u-okeaniju") $section) }}
+    {{ $displaySection = "Destinacije" }}
+{{ else if eq $section "ukusi-svijeta" }}
+    {{ $displaySection = "Ukusi Svijeta" }}
+{{ else if eq $section "priroda-svijeta" }}
+    {{ $displaySection = "Priroda Svijeta" }}
+{{ else if eq $section "istorijski-kutak" }}
+    {{ $displaySection = "Istorijski Kutak" }}
+{{ else if eq $section "avio-svijet" }}
+    {{ $displaySection = "Avio Svijet" }}
+{{ else if eq $section "sport-i-putovanja" }}
+    {{ $displaySection = "Sport i Putovanja" }}
+{{ else if eq $section "putovanja-u-brojevima" }}
+    {{ $displaySection = "Putovanja u Brojevima" }}
+{{ else if eq $section "zanimljivosti-svijeta" }}
+    {{ $displaySection = "Zanimljivosti Svijeta" }}
+{{ else }}
+    {{ if .Params.categories }}
+        {{ $displaySection = (index .Params.categories 0) }} {{/* Koristi prvu kategoriju ako postoji */}}
+    {{ else }}
+        {{ $displaySection = $section | humanize }} {{/* Fallback na humanizovani naziv sekcije */}}
+    {{ end }}
+{{ end }}
+
+{{- $displaySection -}}

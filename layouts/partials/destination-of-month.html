@@ -1,0 +1,32 @@
+{{ $featuredPage := "" }}
+{{/* Pronađi prvu stranicu koja ima featured_monthly_theme: true u front matteru */}}
+{{ range first 1 (where .Site.RegularPages "Params.featured_monthly_theme" true) }}
+    {{ $featuredPage = . }}
+{{ end }}
+
+{{ if $featuredPage }}
+<section class="destination-of-month-section">
+    <div class="container">
+        {{/* GLAVNI NASLOV SEKCIJE OSTAJE "Destinacija Meseca" */}}
+        <h2 class="section-title">Destinacija Meseca</h2>
+        <div class="destination-card">
+            <div class="destination-image-wrapper">
+                {{ with $featuredPage.Params.image }}
+                    <img src="{{ . }}" alt="{{ $featuredPage.Title }}" loading="lazy">
+                {{ end }}
+            </div>
+            <div class="destination-content">
+                {{/* NOVO: "DESTINACIJA MESECA JUL" UNUTAR KARTICE - podebljano i velika slova */}}
+                {{ if $featuredPage.Params.mesec_destinacije }}
+                    <div class="card-month-title">{{ $featuredPage.Params.mesec_destinacije }}</div>
+                {{ end }}
+                <h2 class="card-title">{{ $featuredPage.Title }}</h2> <h3 class="card-subtitle">{{ $featuredPage.Params.subtitle }}</h3> 
+                <p>{{ $featuredPage.Description }}</p>
+                <a href="{{ $featuredPage.Permalink }}" class="btn btn-primary">Saznaj više</a>
+            </div>
+    </div>
+    <div class="section-button-container">
+        <a href="{{ .Site.BaseURL }}destinacija-mjeseca/" class="btn btn-secondary">Pogledaj sve članke</a>
+        </div>
+</section>
+{{ end }}

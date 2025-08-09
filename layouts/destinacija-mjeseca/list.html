@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="container main-content-area section-monthly-destinations"> 
+    <h1 class="section-title">Destinacije Mjeseca</h1> 
+    <div class="articles-list-container">
+        {{/* Prikazuje samo stranice koje imaju definisan 'mesec_destinacije' parametar, sortirane po datumu unazad */}}
+        {{ $monthlyDestinations := where .Site.RegularPages "Params.mesec_destinacije" "!=" nil }}
+
+        {{ range $monthlyDestinations.ByDate.Reverse }} 
+            <a href="{{ .Permalink }}" class="article-card-horizontal">
+                {{ with .Params.image }}
+                    <div class="image-container">
+                        <img src="{{ . | relURL }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                    </div>
+                {{ end }}
+                <div class="content-container">
+    {{/* Prikazuje "Destinacija meseca - Jul/Avgust" */}}
+    {{ if .Params.mesec_destinacije }}
+        <div class="card-month-title">{{ .Params.mesec_destinacije }}</div>
+    {{ end }}
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Summary | truncate 200 }}</p>
+    <span class="read-more-btn">Pročitaj Više</span>
+</div>
+            </a>
+        {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }} </div>
+{{ end }}

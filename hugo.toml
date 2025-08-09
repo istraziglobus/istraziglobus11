@@ -1,0 +1,24 @@
+baseURL = 'http://localhost:1313/'
+languageCode = "sr"
+title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
+theme = "" # Ako koristiš temu, unesi ovde ime teme. Ako je prazno, Hugo gleda layout u rootu.
+disablePathToLower = true # Preporučuje se za očuvanje velikih slova u URL-ovima
+pluralizeListTitles = false
+
+[params]
+  description = "Sajt za putovanja i avanture"
+  # Dodatni parametri koje možeš kasnije da proširiš
+  # Hugo će automatski tražiti sadržaj u 'posts', 'articles', 'blog' ili šta god definišeš.
+  # Ako želiš da povlači sve stranice, možeš da staviš sve foldere sa člancima ovde.
+  mainSections = ["koracima-balkana", "posts", "destinacije", "ukusi-svijeta", "priroda-svijeta", "istorijski-kutak", "avio-svijet", "sport-i-putovanja", "putovanja-u-brojevima", "zanimljivosti-svijeta"]
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # Hugo podrazumevani izlazi za home stranicu
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Omogućava korišćenje HTML-a direktno u Markdownu (kao što je tvoj slučaj)
+
+# Moguće je dodati konfiguraciju za RSS feed, sitemap itd.

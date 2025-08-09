@@ -1,0 +1,9 @@
+<div class="text-image-wrap">
+    <div class="text-content">
+        {{ .Inner }}
+    </div>
+    <div class="image-column">
+        {{ with .Get "img" }}  <img src="{{ $.Site.BaseURL }}{{ . }}" alt="Slika" loading="lazy">
+        {{ end }}
+    </div>
+</div>

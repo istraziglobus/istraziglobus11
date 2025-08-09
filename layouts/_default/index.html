@@ -1,0 +1,143 @@
+  {{ define "main" }}
+<section class="hero" id="pocetna">
+    <video autoplay muted loop class="hero-video-background">
+        <source src="{{.Site.BaseURL}}slike/hero/hero_video.mp4" type="video/mp4">
+        Vaš pregledač ne podržava video tag.
+    </video>
+    <div class="hero-content">
+        <h1>ISTRAŽI GLOBUS</h1>
+        <p>Nisu svi koji putuju izgubljeni !</p>
+        <a href="#izdvojene-teme" class="btn btn-primary">Istraži Odmah</a>
+    </div>
+</section>
+
+<section class="featured-topics-section" id="izdvojene-teme">
+    <div class="container">
+        <h2>Izdvojene Teme</h2>
+        <div class="featured-cards-grid">
+            <a href="{{.Site.BaseURL}}categories/vijesti/" class="topic-card">
+                <div class="card-image-overlay">
+                    <img src="{{.Site.BaseURL}}slike/podgrupe/vijesti.jpg" alt="Vijesti iz sveta putovanja" class="card-bg-image">
+                    <div class="overlay-content">
+                        <h3>Vijesti</h3>
+                        <p>Najnovije informacije i dešavanja iz sveta putovanja, aktuelnosti i trendovi.</p>
+                        <span class="card-cta">Saznaj više <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </div>
+            </a>
+            <a href="{{.Site.BaseURL}}categories/istorijski-kutak/" class="topic-card">
+                <div class="card-image-overlay">
+                    <img src="{{.Site.BaseURL}}slike/podgrupe/istorija.jpg" alt="Istorija i baština" class="card-bg-image">
+                    <div class="overlay-content">
+                        <h3>Istorijski kutak</h3>
+                        <p>Zavirite u bogatu prošlost sveta kroz priče o starim civilizacijama i spomenicima.</p>
+                        <span class="card-cta">Saznaj više <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </div>
+            </a>
+            <a href="{{.Site.BaseURL}}categories/avio-svet/" class="topic-card">
+                <div class="card-image-overlay">
+                    <img src="{{.Site.BaseURL}}slike/podgrupe/avio.jpg" alt="Svet avijacije" class="card-bg-image">
+                    <div class="overlay-content">
+                        <h3>Avio svet</h3>
+                        <p>Sve o putovanju avionom, aerodromima, avio-kompanijama i savetima za letenje.</p>
+                        <span class="card-cta">Saznaj više <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </div>
+            </a>
+            <a href="{{.Site.BaseURL}}categories/sport-i-putovanja/" class="topic-card">
+                <div class="card-image-overlay">
+                    <img src="{{.Site.BaseURL}}slike/podgrupe/sport.jpg" alt="Sportske destinacije" class="card-bg-image">
+                    <div class="overlay-content">
+                        <h3>Sport i putovanja</h3>
+                        <p>Otkrijte sportske događaje i destinacije koje morate posetiti.</p>
+                        <span class="card-cta">Saznaj više <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </div>
+            </a>
+         <a href="{{.Site.BaseURL}}categories/ukusi-svijeta/" class="topic-card">
+            <div class="card-image-overlay">
+                <img src="{{.Site.BaseURL}}slike/podgrupe/hrana.jpg" alt="Svetska kuhinja" class="card-bg-image">
+                <div class="overlay-content">
+                    <h3>Ukusi sveta</h3>
+                    <p>Gastronomska putovanja i istraživanje kulinarske baštine različitih kultura.</p>
+                    <span class="card-cta">Saznaj više <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </div>
+        </a>
+            <a href="{{.Site.BaseURL}}categories/kultura/" class="topic-card">
+                <div class="card-image-overlay">
+                    <img src="{{.Site.BaseURL}}slike/podgrupe/kultura.jpg" alt="Kultura i tradicija" class="card-bg-image">
+                    <div class="overlay-content">
+                        <h3>Kultura</h3>
+                        <p>Zaronite u bogatstvo svetskih kultura i tradicija.</p>
+                        <span class="card-cta">Saznaj više <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="latest-articles-section" id="najnoviji-clanci">
+    <div class="container">
+        <h2 class="section-title">Najnoviji Članci</h2>
+        <div class="latest-articles-grid">
+            {{ range first 6 .Site.RegularPages.ByDate.Reverse }}
+            <a href="{{ .Permalink }}" class="article-card-latest">
+                {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                {{ else }}
+                    <img src="https://via.placeholder.com/400x200?text=No+Image" alt="No Image" loading="lazy">
+                {{ end }}
+                <div class="article-card-latest-content">
+                    <h3>{{ .Title }}</h3>
+                    {{ with .Params.subtitle }}
+                        <p class="article-card-subtitle">{{ . }}</p>
+                    {{ end }}
+                    <p>{{ .Description | default (.Summary | truncate 150) }}</p>
+                    
+                    <div class="card-footer">
+                        <span class="btn btn-primary btn-small">Pročitaj Više</span>
+                        <span class="article-section-tag">{{ partial "get_display_section.html" . }}</span>
+                    </div>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+        <div style="text-align: center; margin-top: 40px;">
+            <a href="{{ .Site.BaseURL }}posts/" class="btn btn-secondary">Pogledaj Sve Članke</a>
+        </div>
+    </div>
+</section>
+<section class="balkan-section">
+    <h2 class="section-title">KORACIMA BALKANA</h2>
+    <div class="balkan-cards-container">
+        <a href="/koracima-balkana/trebinje/" class="balkan-card" style="background-image: url('/slike/balkan/trebinje.jpg');">
+            <div class="card-overlay">
+                <h3 class="card-title">Trebinje: Grad platana i sunca</h3>
+                <p class="card-subtitle">Smješteno na obalama rijeke Trebišnjice, ovo je mjesto gdje se spajaju istorija i mediteranski šarm, a kamene ulice, miris kestena i osunčane bašte čine ga draguljem istočne Hercegovine.</p>
+            </div>
+        </a>
+        <a href="/koracima-balkana/most-na-tari/" class="balkan-card" style="background-image: url('/slike/balkan/most-na-tari.jpg');">
+            <div class="card-overlay">
+                <h3 class="card-title">Most na Đurđevića Tari</h3>
+                <p class="card-subtitle">Grandiozni most koji se izdiže visoko iznad tirkizne rijeke Tare predstavlja inženjersko čudo i simbol neukrotive divljine Crne Gore, pružajući spektakularan pogled na kanjon i pozivajući na avanturu.</p>
+            </div>
+        </a>
+    </div>
+    <div class="articles-navigation">
+        <a href="#" class="nav-arrow nav-prev">
+            <span>&laquo;</span>
+        </a>
+
+        <span class="nav-title">Istraži dalje</span>
+
+        <a href="#" class="nav-arrow nav-next">
+            <span>&raquo;</span>
+        </a>
+    </div>
+</section>
+{{ partial "destination-of-month.html" . }}
+{{ partial "travel-tips.html" . }}
+{{ end }}

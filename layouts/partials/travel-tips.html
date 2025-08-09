@@ -1,0 +1,24 @@
+
+<section class="travel-tips-section">
+    <div class="container text-center">
+        <h2 class="section-title">Savjeti za putovanja</h2>
+        <p class="section-description">Pre nego što krenete na put, pročitajte naše korisne vodiče i savete.</p>
+        <div class="tips-grid">
+            {{ range first 3 (where site.RegularPages "Section" "saveti") }}
+            <div class="tip-card">
+                {{ with .Params.icon }}
+                    <div class="tip-icon"><i class="{{ . }}"></i></div>
+                {{ end }}
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ with .Params.description }}
+                    <p>{{ . }}</p>
+                {{ end }}
+                <a href="{{ .RelPermalink }}" class="read-more-link">Saznaj više <i class="fas fa-chevron-right"></i></a>
+            </div>
+            {{ end }}
+        </div>
+        <div class="section-button-container">
+      <a href="{{ .Site.BaseURL }}savjeti/" class="btn btn-secondary">Pogledaj sve članke</a>
+    </div>
+    </div>
+</section>
