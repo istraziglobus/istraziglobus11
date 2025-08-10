@@ -3,7 +3,6 @@ relativeURLs = false
 canonifyURLs = true
 languageCode = "sr"
 title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
-theme = "" # Ako koristiš temu, unesi ovde ime teme. Ako je prazno, Hugo gleda layout u rootu.
 disablePathToLower = true # Preporučuje se za očuvanje velikih slova u URL-ovima
 pluralizeListTitles = false
 
