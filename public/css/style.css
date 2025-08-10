@@ -687,16 +687,22 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+/* Finalno prilagođavanje za mobilne uređaje */
+@media (max-width: 768px) {
+  /* Uklanjanje maksimalne širine za sadržaj članka */
+  .article-content {
+    max-width: 100%;
+    padding: 0 15px; /* Dodaje razmak sa strane da tekst ne ide do ivice */
+  }
 
-.article-content img {
-    max-width: 100%; /* Ensure images don't overflow */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below image */
-    margin: 20px auto; /* Center images and provide vertical spacing */
-    box-shadow: var(--shadow); /* Optional: add shadow to inline images */
-    border-radius: var(--border-radius); /* Optional: round corners for inline images */
+  /* Prisiljavanje slika da zauzmu punu širinu */
+  .article-content img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
 }
-
 
 .article-content p {
     margin-bottom: 1em;
