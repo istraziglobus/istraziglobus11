@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main class="page-main container">
+  <h1 class="page-title">Vijesti</h1>
+  <p style="text-align: center; font-size: 1.2em; color: #888; margin-top: 20px;">
+    Uskoro...
+  </p>
+
+  <div class="articles-list-grid">
+    {{ range .Paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </div>
+</main>
+{{ end }}
