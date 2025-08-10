@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saveti on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>https://www.istraziglobus.com/saveti/</link>
+    <link>http://localhost:1313/saveti/</link>
     <description>Recent content in Saveti on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate>Thu, 10 Jul 2025 09:30:00 +0200</lastBuildDate>
-    <atom:link href="https://www.istraziglobus.com/saveti/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/saveti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sigurnost i Bezbednost na Putovanjima</title>
-      <link>https://www.istraziglobus.com/saveti/sigurnost-na-putovanjima/</link>
+      <link>http://localhost:1313/saveti/sigurnost-na-putovanjima/</link>
       <pubDate>Thu, 10 Jul 2025 09:30:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/saveti/sigurnost-na-putovanjima/</guid>
-      <description>&lt;p&gt;Putovanje je uzbudljiva avantura, prilika za istraživanje i stvaranje nezaboravnih uspomena. Međutim, da bi vaše iskustvo bilo zaista bezbrižno, ključno je posvetiti pažnju &lt;span class=&#34;highlight-text&#34;&gt;&lt;strong&gt;sigurnosti i bezbednosti&lt;/strong&gt;&lt;/span&gt;. Mudro planiranje i odgovorno ponašanje tokom putovanja mogu vas zaštititi od nepotrebnih neprijatnosti i osigurati da se kući vratite puni samo lepih utisaka.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pre-nego-što-krenete-pametno-planiranje-je-pola-posla&#34;&gt;Pre Nego Što Krenete: Pametno Planiranje je Pola Posla&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Istražite destinaciju:&lt;/strong&gt; Pre polaska, informišite se o kulturi, običajima, lokalnim zakonima i političkoj situaciji u zemlji koju posećujete. Proverite preporuke Ministarstva spoljnih poslova vaše zemlje.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dokumenta na sigurnom:&lt;/strong&gt; Napravite kopije svih važnih dokumenata (pasoš, viza, avionske karte, rezervacije) i čuvajte ih odvojeno od originala. Jednu kopiju ostavite kod kuće, a jednu digitalnu (npr. na cloud servisu).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Putno osiguranje:&lt;/strong&gt; Nikada ne putujte bez &lt;span class=&#34;highlight-text&#34;&gt;putnog zdravstvenog osiguranja&lt;/span&gt;. Ono vam može uštedeti ogromne troškove u slučaju nezgode ili bolesti. Razmislite i o osiguranju od otkaza putovanja ili gubitka prtljaga.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../slike/sigurnost/pasos1.jpg&#34; alt=&#34;Pasoš i putna dokumenta&#34; title=&#34;Važna dokumenta za putovanje&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/saveti/sigurnost-na-putovanjima/</guid>
+      <description>&lt;p&gt;Putovanje je uzbudljiva avantura, prilika za istraživanje i stvaranje nezaboravnih uspomena. Međutim, da bi vaše iskustvo bilo zaista bezbrižno, ključno je posvetiti pažnju &lt;span class=&#34;highlight-text&#34;&gt;&lt;strong&gt;sigurnosti i bezbednosti&lt;/strong&gt;&lt;/span&gt;. Mudro planiranje i odgovorno ponašanje tokom putovanja mogu vas zaštititi od nepotrebnih neprijatnosti i osigurati da se kući vratite puni samo lepih utisaka.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pre-nego-što-krenete-pametno-planiranje-je-pola-posla&#34;&gt;Pre Nego Što Krenete: Pametno Planiranje je Pola Posla&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Istražite destinaciju:&lt;/strong&gt; Pre polaska, informišite se o kulturi, običajima, lokalnim zakonima i političkoj situaciji u zemlji koju posećujete. Proverite preporuke Ministarstva spoljnih poslova vaše zemlje.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dokumenta na sigurnom:&lt;/strong&gt; Napravite kopije svih važnih dokumenata (pasoš, viza, avionske karte, rezervacije) i čuvajte ih odvojeno od originala. Jednu kopiju ostavite kod kuće, a jednu digitalnu (npr. na cloud servisu).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Putno osiguranje:&lt;/strong&gt; Nikada ne putujte bez &lt;span class=&#34;highlight-text&#34;&gt;putnog zdravstvenog osiguranja&lt;/span&gt;. Ono vam može uštedeti ogromne troškove u slučaju nezgode ili bolesti. Razmislite i o osiguranju od otkaza putovanja ili gubitka prtljaga.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/slike/sigurnost/pasos1.jpg&#34; alt=&#34;Pasoš i putna dokumenta&#34; title=&#34;Važna dokumenta za putovanje&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Najbolji Saveti za Rezervaciju Letova i Smeštaja</title>
-      <link>https://www.istraziglobus.com/saveti/saveti-letovi-smestaj/</link>
+      <link>http://localhost:1313/saveti/saveti-letovi-smestaj/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.istraziglobus.com/saveti/saveti-letovi-smestaj/</guid>
+      <guid>http://localhost:1313/saveti/saveti-letovi-smestaj/</guid>
       <description>&lt;p&gt;Planiranje putovanja može biti uzbudljivo, ali i izazovno, pogotovo kada je reč o pronalaženju najpovoljnijih letova i idealnog smeštaja. Tržište je preplavljeno opcijama, a cene mogu drastično varirati. Cilj svakog putnika je da maksimizuje svoje iskustvo uz minimalne troškove. Uz prave &lt;span class=&#34;highlight-text&#34;&gt;strategije i alate&lt;/span&gt;, možete značajno smanjiti izdatke i pronaći najbolje ponude koje odgovaraju vašim potrebama. Ovaj vodič će vas provesti kroz ključne savete i trikove za pametnu rezervaciju, osiguravajući da vaše sledeće putovanje počne bez stresa i praznog novčanika.&lt;/p&gt;</description>
     </item>
   </channel>

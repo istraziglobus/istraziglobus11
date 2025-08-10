@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ukusi Svijeta on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>https://www.istraziglobus.com/categories/Ukusi-Svijeta/</link>
+    <link>http://localhost:1313/categories/Ukusi-Svijeta/</link>
     <description>Recent content in Ukusi Svijeta on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate>Thu, 24 Jul 2025 23:00:00 +0200</lastBuildDate>
-    <atom:link href="https://www.istraziglobus.com/categories/Ukusi-Svijeta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/Ukusi-Svijeta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marokanska Kuhinja</title>
-      <link>https://www.istraziglobus.com/ukusi-svijeta/marokanska-kuhinja-putovanje-ukusima/</link>
+      <link>http://localhost:1313/ukusi-svijeta/marokanska-kuhinja-putovanje-ukusima/</link>
       <pubDate>Thu, 24 Jul 2025 23:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/ukusi-svijeta/marokanska-kuhinja-putovanje-ukusima/</guid>
+      <guid>http://localhost:1313/ukusi-svijeta/marokanska-kuhinja-putovanje-ukusima/</guid>
       <description>&lt;p class=&#34;intro-paragraph&#34;&gt;Marokanska kuhinja je poput ćilima satkanog od mirisa i ukusa, odraz vekovne istorije i kulturnih uticaja koji su oblikovali ovu severnoafričku zemlju. Od berberskih planina do arapskih pustinja, od andaluzijskih vrtova do mediteranskih obala, svaki zalogaj priča priču o trgovini začinima, osvajanjima i simbiozi različitih tradicija. Više od samo hrane, marokanska trpeza je iskustvo koje budi sva čula, pozivajući vas na putovanje kroz aromatične čarolije.&lt;/p&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;filozofija-marokanske-kuhinje-harmonija-ukusa-i-gostoprimstvo&#34;&gt;Filozofija Marokanske Kuhinje: Harmonija Ukusa i Gostoprimstvo&lt;/h2&gt;&#xA;&lt;p&gt;Srž marokanske kuhinje leži u savršenoj harmoniji slatkog i slanog, kiselog i ljutog. To se postiže majstorskom upotrebom začina – srca svakog jela. Marokanci koriste začine da stvore slojevite arome koje pričaju priču. Ključni su &lt;span class=&#34;highlight-text&#34;&gt;&lt;strong&gt;kumin, korijander, kurkuma, đumbir, šafran i paprika&lt;/strong&gt;&lt;/span&gt;, uz neizostavnu mešavinu &lt;code&gt;Ras el Hanout&lt;/code&gt; koja može sadržati i do trideset začina.&lt;/p&gt;</description>
     </item>
   </channel>

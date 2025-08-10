@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bosna I Hercegovina on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>https://www.istraziglobus.com/tags/Bosna-i-Hercegovina/</link>
+    <link>http://localhost:1313/tags/Bosna-i-Hercegovina/</link>
     <description>Recent content in Bosna I Hercegovina on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate>Sun, 06 Jul 2025 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://www.istraziglobus.com/tags/Bosna-i-Hercegovina/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/Bosna-i-Hercegovina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trebinje</title>
-      <link>https://www.istraziglobus.com/koracima-balkana/trebinje/</link>
+      <link>http://localhost:1313/koracima-balkana/trebinje/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/koracima-balkana/trebinje/</guid>
+      <guid>http://localhost:1313/koracima-balkana/trebinje/</guid>
       <description>&lt;h3 id=&#34;gde-istorija-šapuće-s-kamenih-zidova-a-vino-teče-u-potocima&#34;&gt;Gde istorija šapuće s kamenih zidova, a vino teče u potocima&lt;/h3&gt;&#xA;&lt;p&gt;Postoje gradovi koji se samo posećuju, i oni koji se doživljavaju svim čulima. Trebinje, smešteno na samom jugu Hercegovine, nedaleko od jadranske obale, pripada ovoj drugoj grupi. To je grad u kojem mediteranski šarm pleše sa bogatom balkanskom istorijom, a lagani ritam života teče u skladu sa smaragdnom Trebišnjicom. Trebinje je poznato kao grad sunca, kamena i platana, i sa skoro 300 sunčanih dana godišnje, ova reputacija je potpuno zaslužena. Vazduh je ovde ispunjen mirisom mediteranskog bilja, dok sunčevi zraci prelamaju preko kamenih fasada i stvaraju igru svetlosti i senki koja grad čini živopisnim.&lt;/p&gt;</description>
     </item>
   </channel>

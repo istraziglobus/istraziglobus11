@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kipar on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>https://www.istraziglobus.com/tags/Kipar/</link>
+    <link>http://localhost:1313/tags/Kipar/</link>
     <description>Recent content in Kipar on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate>Fri, 01 Aug 2025 10:00:00 +0200</lastBuildDate>
-    <atom:link href="https://www.istraziglobus.com/tags/Kipar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/Kipar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kipar</title>
-      <link>https://www.istraziglobus.com/destinacije/kipar-ostrvo-afrodite/</link>
+      <link>http://localhost:1313/destinacije/kipar-ostrvo-afrodite/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/destinacije/kipar-ostrvo-afrodite/</guid>
+      <guid>http://localhost:1313/destinacije/kipar-ostrvo-afrodite/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kipar.&lt;/strong&gt; Ne samo tačka na mapi, već kapija u prošlost, raskrsnica imperija i živi dokaz otpornosti. Ovo je ostrvo koje je vekovima izdržavalo udare istorije, strateški nezaobilazno u mediteranskoj igri moći. Njegovo ime odzvana eonima, noseći priče o &lt;span class=&#34;highlight-text&#34;&gt;bogovima, kraljevima, osvajačima i neuništivom duhu naroda&lt;/span&gt; koji je ostao. Zakoračiti na Kipar znači prihvatiti poziv na putovanje koje nadilazi puko razgledanje; to je uranjanje u duboku, slojevitu tapiseriju gde se legende prepliću sa tragovima drevnih civilizacija, a prirodne lepote odražavaju dramu vekova. Kipar nije samo mesto za odmor; on je izazov za čula i um, destinacija koja zahteva poštovanje i obećava nezaboravno iskustvo.&lt;/p&gt;</description>
     </item>
   </channel>

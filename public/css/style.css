@@ -1954,3 +1954,24 @@ blockquote p {
     background-color: var(--theme-green-color);
     border-radius: 2px;
 }
+/* Media query za mobilne uređaje i manje ekrane (npr. do 768px širine) */
+@media (max-width: 768px) {
+  /* Promena rasporeda kartica sa člancima */
+  .article-card-horizontal {
+    flex-direction: column; /* Slaže elemente jedan ispod drugog */
+    align-items: center; /* Centrirajte elemente vertikalno */
+    text-align: center; /* Centrirajte tekst */
+  }
+
+  /* Prilagođavanje kontejnera za sliku */
+  .article-card-horizontal .image-container {
+    width: 100%; /* Slika će zauzimati celu širinu */
+    margin-bottom: 10px; /* Dodaje malo razmaka ispod slike */
+  }
+
+  /* Prilagođavanje kontejnera za tekst */
+  .article-card-horizontal .content-container {
+    width: 100%; /* Tekst će zauzimati celu širinu */
+    padding: 0 15px; /* Dodaje malo horizontalnog razmaka */
+  }
+}

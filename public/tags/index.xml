@@ -2,304 +2,304 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Istraži Globus - Vaša Avantura Počinje Ovdje</title>
-    <link>https://www.istraziglobus.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Istraži Globus - Vaša Avantura Počinje Ovdje</description>
     <generator>Hugo</generator>
     <language>sr</language>
     <lastBuildDate>Sat, 02 Aug 2025 10:00:00 +0200</lastBuildDate>
-    <atom:link href="https://www.istraziglobus.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avantura</title>
-      <link>https://www.istraziglobus.com/tags/Avantura/</link>
+      <link>http://localhost:1313/tags/Avantura/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Avantura/</guid>
+      <guid>http://localhost:1313/tags/Avantura/</guid>
       <description></description>
     </item>
     <item>
       <title>Bikovi</title>
-      <link>https://www.istraziglobus.com/tags/Bikovi/</link>
+      <link>http://localhost:1313/tags/Bikovi/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Bikovi/</guid>
+      <guid>http://localhost:1313/tags/Bikovi/</guid>
       <description></description>
     </item>
     <item>
       <title>Festivali</title>
-      <link>https://www.istraziglobus.com/tags/Festivali/</link>
+      <link>http://localhost:1313/tags/Festivali/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Festivali/</guid>
+      <guid>http://localhost:1313/tags/Festivali/</guid>
       <description></description>
     </item>
     <item>
       <title>Kultura</title>
-      <link>https://www.istraziglobus.com/tags/Kultura/</link>
+      <link>http://localhost:1313/tags/Kultura/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Kultura/</guid>
+      <guid>http://localhost:1313/tags/Kultura/</guid>
       <description></description>
     </item>
     <item>
       <title>Pamplona</title>
-      <link>https://www.istraziglobus.com/tags/Pamplona/</link>
+      <link>http://localhost:1313/tags/Pamplona/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Pamplona/</guid>
+      <guid>http://localhost:1313/tags/Pamplona/</guid>
       <description></description>
     </item>
     <item>
       <title>SanFermin</title>
-      <link>https://www.istraziglobus.com/tags/SanFermin/</link>
+      <link>http://localhost:1313/tags/SanFermin/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/SanFermin/</guid>
+      <guid>http://localhost:1313/tags/SanFermin/</guid>
       <description></description>
     </item>
     <item>
       <title>Španija</title>
-      <link>https://www.istraziglobus.com/tags/%C5%A0panija/</link>
+      <link>http://localhost:1313/tags/%C5%A0panija/</link>
       <pubDate>Sat, 02 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/%C5%A0panija/</guid>
+      <guid>http://localhost:1313/tags/%C5%A0panija/</guid>
       <description></description>
     </item>
     <item>
       <title>Berlin</title>
-      <link>https://www.istraziglobus.com/tags/Berlin/</link>
+      <link>http://localhost:1313/tags/Berlin/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Berlin/</guid>
+      <guid>http://localhost:1313/tags/Berlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Hladni Rat</title>
-      <link>https://www.istraziglobus.com/tags/Hladni-rat/</link>
+      <link>http://localhost:1313/tags/Hladni-rat/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Hladni-rat/</guid>
+      <guid>http://localhost:1313/tags/Hladni-rat/</guid>
       <description></description>
     </item>
     <item>
       <title>Istorija</title>
-      <link>https://www.istraziglobus.com/tags/Istorija/</link>
+      <link>http://localhost:1313/tags/Istorija/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Istorija/</guid>
+      <guid>http://localhost:1313/tags/Istorija/</guid>
       <description></description>
     </item>
     <item>
       <title>Kipar</title>
-      <link>https://www.istraziglobus.com/tags/Kipar/</link>
+      <link>http://localhost:1313/tags/Kipar/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Kipar/</guid>
+      <guid>http://localhost:1313/tags/Kipar/</guid>
       <description></description>
     </item>
     <item>
       <title>Kulinarstvo</title>
-      <link>https://www.istraziglobus.com/tags/Kulinarstvo/</link>
+      <link>http://localhost:1313/tags/Kulinarstvo/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Kulinarstvo/</guid>
+      <guid>http://localhost:1313/tags/Kulinarstvo/</guid>
       <description></description>
     </item>
     <item>
       <title>Letovanje</title>
-      <link>https://www.istraziglobus.com/tags/Letovanje/</link>
+      <link>http://localhost:1313/tags/Letovanje/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Letovanje/</guid>
+      <guid>http://localhost:1313/tags/Letovanje/</guid>
       <description></description>
     </item>
     <item>
       <title>Nemačka</title>
-      <link>https://www.istraziglobus.com/tags/Nema%C4%8Dka/</link>
+      <link>http://localhost:1313/tags/Nema%C4%8Dka/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Nema%C4%8Dka/</guid>
+      <guid>http://localhost:1313/tags/Nema%C4%8Dka/</guid>
       <description></description>
     </item>
     <item>
       <title>Plaže</title>
-      <link>https://www.istraziglobus.com/tags/Pla%C5%BEe/</link>
+      <link>http://localhost:1313/tags/Pla%C5%BEe/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Pla%C5%BEe/</guid>
+      <guid>http://localhost:1313/tags/Pla%C5%BEe/</guid>
       <description></description>
     </item>
     <item>
       <title>Sloboda</title>
-      <link>https://www.istraziglobus.com/tags/Sloboda/</link>
+      <link>http://localhost:1313/tags/Sloboda/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Sloboda/</guid>
+      <guid>http://localhost:1313/tags/Sloboda/</guid>
       <description></description>
     </item>
     <item>
       <title>Ujedinjenje</title>
-      <link>https://www.istraziglobus.com/tags/Ujedinjenje/</link>
+      <link>http://localhost:1313/tags/Ujedinjenje/</link>
       <pubDate>Fri, 01 Aug 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Ujedinjenje/</guid>
+      <guid>http://localhost:1313/tags/Ujedinjenje/</guid>
       <description></description>
     </item>
     <item>
       <title>Fjordovi</title>
-      <link>https://www.istraziglobus.com/tags/Fjordovi/</link>
+      <link>http://localhost:1313/tags/Fjordovi/</link>
       <pubDate>Fri, 25 Jul 2025 15:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Fjordovi/</guid>
+      <guid>http://localhost:1313/tags/Fjordovi/</guid>
       <description></description>
     </item>
     <item>
       <title>Geologija</title>
-      <link>https://www.istraziglobus.com/tags/Geologija/</link>
+      <link>http://localhost:1313/tags/Geologija/</link>
       <pubDate>Fri, 25 Jul 2025 15:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Geologija/</guid>
+      <guid>http://localhost:1313/tags/Geologija/</guid>
       <description></description>
     </item>
     <item>
       <title>Norveška</title>
-      <link>https://www.istraziglobus.com/tags/Norve%C5%A1ka/</link>
+      <link>http://localhost:1313/tags/Norve%C5%A1ka/</link>
       <pubDate>Fri, 25 Jul 2025 15:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Norve%C5%A1ka/</guid>
+      <guid>http://localhost:1313/tags/Norve%C5%A1ka/</guid>
       <description></description>
     </item>
     <item>
       <title>Priroda</title>
-      <link>https://www.istraziglobus.com/tags/Priroda/</link>
+      <link>http://localhost:1313/tags/Priroda/</link>
       <pubDate>Fri, 25 Jul 2025 15:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Priroda/</guid>
+      <guid>http://localhost:1313/tags/Priroda/</guid>
       <description></description>
     </item>
     <item>
       <title>Putovanja</title>
-      <link>https://www.istraziglobus.com/tags/Putovanja/</link>
+      <link>http://localhost:1313/tags/Putovanja/</link>
       <pubDate>Fri, 25 Jul 2025 15:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Putovanja/</guid>
+      <guid>http://localhost:1313/tags/Putovanja/</guid>
       <description></description>
     </item>
     <item>
       <title>UNESCO</title>
-      <link>https://www.istraziglobus.com/tags/UNESCO/</link>
+      <link>http://localhost:1313/tags/UNESCO/</link>
       <pubDate>Fri, 25 Jul 2025 15:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/UNESCO/</guid>
+      <guid>http://localhost:1313/tags/UNESCO/</guid>
       <description></description>
     </item>
     <item>
       <title>Hrana</title>
-      <link>https://www.istraziglobus.com/tags/Hrana/</link>
+      <link>http://localhost:1313/tags/Hrana/</link>
       <pubDate>Thu, 24 Jul 2025 23:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Hrana/</guid>
+      <guid>http://localhost:1313/tags/Hrana/</guid>
       <description></description>
     </item>
     <item>
       <title>Kuhinja</title>
-      <link>https://www.istraziglobus.com/tags/Kuhinja/</link>
+      <link>http://localhost:1313/tags/Kuhinja/</link>
       <pubDate>Thu, 24 Jul 2025 23:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Kuhinja/</guid>
+      <guid>http://localhost:1313/tags/Kuhinja/</guid>
       <description></description>
     </item>
     <item>
       <title>Maroko</title>
-      <link>https://www.istraziglobus.com/tags/Maroko/</link>
+      <link>http://localhost:1313/tags/Maroko/</link>
       <pubDate>Thu, 24 Jul 2025 23:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Maroko/</guid>
+      <guid>http://localhost:1313/tags/Maroko/</guid>
       <description></description>
     </item>
     <item>
       <title>Tradicija</title>
-      <link>https://www.istraziglobus.com/tags/Tradicija/</link>
+      <link>http://localhost:1313/tags/Tradicija/</link>
       <pubDate>Thu, 24 Jul 2025 23:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Tradicija/</guid>
+      <guid>http://localhost:1313/tags/Tradicija/</guid>
       <description></description>
     </item>
     <item>
       <title>Začini</title>
-      <link>https://www.istraziglobus.com/tags/Za%C4%8Dini/</link>
+      <link>http://localhost:1313/tags/Za%C4%8Dini/</link>
       <pubDate>Thu, 24 Jul 2025 23:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Za%C4%8Dini/</guid>
+      <guid>http://localhost:1313/tags/Za%C4%8Dini/</guid>
       <description></description>
     </item>
     <item>
       <title>Argentina</title>
-      <link>https://www.istraziglobus.com/tags/Argentina/</link>
+      <link>http://localhost:1313/tags/Argentina/</link>
       <pubDate>Fri, 11 Jul 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Argentina/</guid>
+      <guid>http://localhost:1313/tags/Argentina/</guid>
       <description></description>
     </item>
     <item>
       <title>BocaJuniors</title>
-      <link>https://www.istraziglobus.com/tags/BocaJuniors/</link>
+      <link>http://localhost:1313/tags/BocaJuniors/</link>
       <pubDate>Fri, 11 Jul 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/BocaJuniors/</guid>
+      <guid>http://localhost:1313/tags/BocaJuniors/</guid>
       <description></description>
     </item>
     <item>
       <title>BuenosAires</title>
-      <link>https://www.istraziglobus.com/tags/BuenosAires/</link>
+      <link>http://localhost:1313/tags/BuenosAires/</link>
       <pubDate>Fri, 11 Jul 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/BuenosAires/</guid>
+      <guid>http://localhost:1313/tags/BuenosAires/</guid>
       <description></description>
     </item>
     <item>
       <title>Fudbal</title>
-      <link>https://www.istraziglobus.com/tags/Fudbal/</link>
+      <link>http://localhost:1313/tags/Fudbal/</link>
       <pubDate>Fri, 11 Jul 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Fudbal/</guid>
+      <guid>http://localhost:1313/tags/Fudbal/</guid>
       <description></description>
     </item>
     <item>
       <title>Stadioni</title>
-      <link>https://www.istraziglobus.com/tags/Stadioni/</link>
+      <link>http://localhost:1313/tags/Stadioni/</link>
       <pubDate>Fri, 11 Jul 2025 10:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Stadioni/</guid>
+      <guid>http://localhost:1313/tags/Stadioni/</guid>
       <description></description>
     </item>
     <item>
       <title>Bali</title>
-      <link>https://www.istraziglobus.com/tags/Bali/</link>
+      <link>http://localhost:1313/tags/Bali/</link>
       <pubDate>Wed, 09 Jul 2025 22:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Bali/</guid>
+      <guid>http://localhost:1313/tags/Bali/</guid>
       <description></description>
     </item>
     <item>
       <title>Duhovnost</title>
-      <link>https://www.istraziglobus.com/tags/Duhovnost/</link>
+      <link>http://localhost:1313/tags/Duhovnost/</link>
       <pubDate>Wed, 09 Jul 2025 22:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Duhovnost/</guid>
+      <guid>http://localhost:1313/tags/Duhovnost/</guid>
       <description></description>
     </item>
     <item>
       <title>Indonezija</title>
-      <link>https://www.istraziglobus.com/tags/Indonezija/</link>
+      <link>http://localhost:1313/tags/Indonezija/</link>
       <pubDate>Wed, 09 Jul 2025 22:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Indonezija/</guid>
+      <guid>http://localhost:1313/tags/Indonezija/</guid>
       <description></description>
     </item>
     <item>
       <title>Bosna I Hercegovina</title>
-      <link>https://www.istraziglobus.com/tags/Bosna-i-Hercegovina/</link>
+      <link>http://localhost:1313/tags/Bosna-i-Hercegovina/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Bosna-i-Hercegovina/</guid>
+      <guid>http://localhost:1313/tags/Bosna-i-Hercegovina/</guid>
       <description></description>
     </item>
     <item>
       <title>Crna Gora</title>
-      <link>https://www.istraziglobus.com/tags/Crna-Gora/</link>
+      <link>http://localhost:1313/tags/Crna-Gora/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Crna-Gora/</guid>
+      <guid>http://localhost:1313/tags/Crna-Gora/</guid>
       <description></description>
     </item>
     <item>
       <title>Đurđevića Tara</title>
-      <link>https://www.istraziglobus.com/tags/%C4%90ur%C4%91evi%C4%87a-Tara/</link>
+      <link>http://localhost:1313/tags/%C4%90ur%C4%91evi%C4%87a-Tara/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/%C4%90ur%C4%91evi%C4%87a-Tara/</guid>
+      <guid>http://localhost:1313/tags/%C4%90ur%C4%91evi%C4%87a-Tara/</guid>
       <description></description>
     </item>
     <item>
       <title>Durmitor</title>
-      <link>https://www.istraziglobus.com/tags/Durmitor/</link>
+      <link>http://localhost:1313/tags/Durmitor/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Durmitor/</guid>
+      <guid>http://localhost:1313/tags/Durmitor/</guid>
       <description></description>
     </item>
     <item>
       <title>Hercegovina</title>
-      <link>https://www.istraziglobus.com/tags/Hercegovina/</link>
+      <link>http://localhost:1313/tags/Hercegovina/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Hercegovina/</guid>
+      <guid>http://localhost:1313/tags/Hercegovina/</guid>
       <description></description>
     </item>
     <item>
       <title>Trebinje</title>
-      <link>https://www.istraziglobus.com/tags/Trebinje/</link>
+      <link>http://localhost:1313/tags/Trebinje/</link>
       <pubDate>Sun, 06 Jul 2025 12:00:00 +0200</pubDate>
-      <guid>https://www.istraziglobus.com/tags/Trebinje/</guid>
+      <guid>http://localhost:1313/tags/Trebinje/</guid>
       <description></description>
     </item>
   </channel>
