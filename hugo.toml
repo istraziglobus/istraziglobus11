@@ -1,5 +1,5 @@
 baseURL = "https://www.istraziglobus.com/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 languageCode = "sr"
 title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
