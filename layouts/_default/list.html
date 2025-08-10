@@ -1,12 +1,21 @@
 {{ define "main" }}
-<div class="container">
-    <h1>{{ .Title }}</h1>
-    <ul>
+<div class="container main-content-area section-{{ .Section }}">
+    <h1 class="section-title">{{ .Title | default "Svi Članci" }}</h1>
+    <div class="articles-list-container">
         {{ range .Paginator.Pages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
+            <a href="{{ .Permalink }}" class="article-card-horizontal">
+                {{ with .Params.image }}
+                    <div class="image-container">
+                        <img src="{{ . | relURL }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                    </div>
+                {{ end }}
+                <div class="content-container">
+                    <h2>{{ .Title }}</h2>
+                    <p>{{ .Summary | truncate 200 }}</p>
+                    <span class="read-more-btn">Pročitaj Više</span>
+                </div>
+            </a>
         {{ end }}
-    </ul>
+    </div>
 </div>
 {{ end }}
