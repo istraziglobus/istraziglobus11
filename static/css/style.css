@@ -1977,8 +1977,10 @@ blockquote p {
 }
 /* Prilagođavanje slika unutar članaka za mobilne uređaje */
 @media (max-width: 768px) {
-  .article-content img {
-    max-width: 100% !important; /* !important osigurava da ova linija koda ima prioritet */
-    height: auto !important; /* Zadržava originalni odnos stranica */
+  .article-content img, .article-content p img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
   }
 }
