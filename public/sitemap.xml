@@ -182,10 +182,10 @@
     <loc>http://localhost:1313/tags/Stadioni/</loc>
     <lastmod>2025-07-11T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/saveti/</loc>
+    <loc>http://localhost:1313/savjeti/</loc>
     <lastmod>2025-07-10T09:30:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/saveti/sigurnost-na-putovanjima/</loc>
+    <loc>http://localhost:1313/savjeti/sigurnost-na-putovanjima/</loc>
     <lastmod>2025-07-10T09:30:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/Azija/</loc>
@@ -206,7 +206,7 @@
     <loc>http://localhost:1313/categories/Putovanja/</loc>
     <lastmod>2025-07-09T22:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/saveti/saveti-letovi-smestaj/</loc>
+    <loc>http://localhost:1313/savjeti/savjeti-letovi-smestaj/</loc>
     <lastmod>2025-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/Avio-svet/</loc>

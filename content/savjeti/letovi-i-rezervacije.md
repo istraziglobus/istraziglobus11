@@ -1,6 +1,6 @@
 ---
-title: "Najbolji Saveti za Rezervaciju Letova i Smeštaja"
-slug: "saveti-letovi-smestaj" # SLUG za URL
+title: "Najbolji Savjeti za Rezervaciju Letova i Smeštaja"
+slug: "savjeti-letovi-smestaj" # SLUG za URL
 date: 2025-07-09T00:00:00+00:00
 draft: false
 description: "Saznajte tajne kako da pronađete najpovoljnije avio karte i idealan smeštaj za svoj budžet."
