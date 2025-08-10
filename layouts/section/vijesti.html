@@ -1,14 +1,9 @@
 {{ define "main" }}
-<main class="page-main container">
-  <h1 class="page-title">Vijesti</h1>
-  <p style="text-align: center; font-size: 1.2em; color: #888; margin-top: 20px;">
-    Uskoro...
+<main class="page-main container" style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 80vh;">
+  <h1 class="page-title" style="display: none;">Vijesti</h1>
+  <p style="text-align: center; font-size: 2.2em; color: #090909; font-weight: bold; text-decoration: underline;">
+    Uskoro najnovije vijesti iz svijeta turizma i putovanja samo na našoj stranici...
   </p>
-
-  <div class="articles-list-grid">
-    {{ range .Paginator.Pages }}
-      {{ .Render "summary" }}
-    {{ end }}
-  </div>
 </main>
 {{ end }}
+

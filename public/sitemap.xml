@@ -269,6 +269,9 @@
     <loc>http://localhost:1313/featured/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/vijesti/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/destinacija-mjeseca/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>

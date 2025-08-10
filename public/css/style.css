@@ -1981,3 +1981,17 @@ blockquote p {
     padding: 0 15px; /* Dodaje malo horizontalnog razmaka */
   }
 }
+/* Prilagođavanje navigacije za mobilne uređaje */
+@media (max-width: 768px) {
+  .header-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* Razmak između linkova */
+    margin-top: 20px; /* Razmak od naslova */
+  }
+  .header-nav a {
+    font-size: 1.5em; /* Povećava veličinu fonta da bude čitljivije */
+    padding: 10px 0;
+  }
+}
