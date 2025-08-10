@@ -1975,3 +1975,10 @@ blockquote p {
     padding: 0 15px; /* Dodaje malo horizontalnog razmaka */
   }
 }
+/* Prilagođavanje slika unutar članaka za mobilne uređaje */
+@media (max-width: 768px) {
+  .article-content img {
+    max-width: 100%; /* Osigurava da slika ne prelazi širinu ekrana */
+    height: auto; /* Zadržava originalni odnos stranica */
+  }
+}
