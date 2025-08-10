@@ -1978,7 +1978,7 @@ blockquote p {
 /* Prilagođavanje slika unutar članaka za mobilne uređaje */
 @media (max-width: 768px) {
   .article-content img {
-    max-width: 100%; /* Osigurava da slika ne prelazi širinu ekrana */
-    height: auto; /* Zadržava originalni odnos stranica */
+    max-width: 100% !important; /* !important osigurava da ova linija koda ima prioritet */
+    height: auto !important; /* Zadržava originalni odnos stranica */
   }
 }
