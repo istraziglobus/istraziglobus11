@@ -23,6 +23,7 @@ slug: "rim"
             <li><strong>Geografski položaj:</strong> Centralna Italija, na reci Tibar (41°53′35″N 12°28′58″E)</li>
         </ul>
     </div>
+    </ul>
     <figure class="article-image-box" style="margin: 0;">
       <img src="/slike/rim/rim1.jpg">
     </figure>
