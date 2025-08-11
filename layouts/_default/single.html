@@ -17,10 +17,11 @@
             {{ end }}
         </div>
         {{ end }}
-
-        <div class="article-content">
-            {{.Content}}
-        </div>
+<div class="article-content">
+    {{ with .Content }}
+        {{ . | replaceRE `(?s)<img(.*?)width="\d+"(.*?)height="\d+"(.*?)>` `<img$1$2$3 style="max-width: 100%; height: auto;" />` | safeHTML }}
+    {{ end }}
+</div>
 
         <div class="share-buttons">
             <button class="share-button" data-share-platform="facebook" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">

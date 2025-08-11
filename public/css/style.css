@@ -1960,38 +1960,93 @@ blockquote p {
     background-color: var(--theme-green-color);
     border-radius: 2px;
 }
-/* Media query za mobilne uređaje i manje ekrane (npr. do 768px širine) */
+/* ========================================= */
+/* ISPRAVKA ZA KARTICE NA SEKCIJAMA (samo na mobilnom) */
+/* ========================================= */
+
 @media (max-width: 768px) {
-  /* Promena rasporeda kartica sa člancima */
-  .article-card-horizontal {
-    flex-direction: column; /* Slaže elemente jedan ispod drugog */
-    align-items: center; /* Centrirajte elemente vertikalno */
-    text-align: center; /* Centrirajte tekst */
+    /* Menja raspored kartica u vertikalan */
+    .article-card-horizontal {
+        flex-direction: column !important;
+        border-radius: var(--border-radius-soft) !important;
+    }
+
+    /* Prilagođava kontejner slike */
+    .article-card-horizontal .image-container {
+        width: 100% !important;
+        height: 200px !important;
+        border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0 !important;
+    }
+
+    /* Prilagođava samu sliku unutar kontejnera */
+    .article-card-horizontal .image-container img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0 !important;
+    }
+
+    /* Prilagođava kontejner sa tekstom */
+    .article-card-horizontal .content-container {
+        width: 100% !important;
+        padding: 15px !important;
+    }
+}
+/* ========================================= */
+/* KONAČNA ISPRAVKA ZA MOBILNU NAVIGACIJU */
+/* ========================================= */
+
+@media (max-width: 768px) {
+  /* Osigurava da se header elementi slažu vertikalno */
+  .main-header .container {
+    flex-direction: column !important;
+    align-items: center !important;
   }
 
-  /* Prilagođavanje kontejnera za sliku */
-  .article-card-horizontal .image-container {
-    width: 100%; /* Slika će zauzimati celu širinu */
-    margin-bottom: 10px; /* Dodaje malo razmaka ispod slike */
+  /* Prikazuje glavnu navigaciju kao traku ispod naslova */
+  .main-nav-primary {
+    display: block !important;
+    order: 2 !important; /* Postavlja navigaciju ispod logo-a */
+    width: 100% !important;
+    margin-top: 15px !important;
+    overflow-x: auto !important; /* Omogućava horizontalni skrol */
+    white-space: nowrap !important; /* Sprečava prelamanje teksta */
   }
 
-  /* Prilagođavanje kontejnera za tekst */
-  .article-card-horizontal .content-container {
-    width: 100%; /* Tekst će zauzimati celu širinu */
-    padding: 0 15px; /* Dodaje malo horizontalnog razmaka */
+  .main-nav-primary ul {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-evenly !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .main-nav-primary li {
+    padding: 0 5px !important;
+  }
+
+  .main-nav-primary a {
+    font-size: 1em !important;
   }
 }
-/* Prilagođavanje navigacije za mobilne uređaje */
+/* ========================================= */
+/* KONAČNA ISPRAVKA ZA VELIČINU SLIKA U ČLANCIMA */
+/* ========================================= */
 @media (max-width: 768px) {
-  .header-nav {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px; /* Razmak između linkova */
-    margin-top: 20px; /* Razmak od naslova */
-  }
-  .header-nav a {
-    font-size: 1.5em; /* Povećava veličinu fonta da bude čitljivije */
-    padding: 10px 0;
+  /*
+    Ovo je ključna izmena. Slika se postavlja na 100% širine ekrana,
+    a onda se centrira pomoću transformacije, čime se izbegava
+    prelivanje.
+  */
+  .article-content img {
+    position: relative !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    max-width: 100vw !important; /* Osigurava da slika ne prelazi širinu ekrana */
+    width: 100vw !important; /* Zauzima tačno 100% širine ekrana */
+    height: 250px !important;
+    object-fit: cover !important;
+    margin: 0 !important;
+    display: block !important;
   }
 }
