@@ -2,7 +2,11 @@
 <div class="container main-content-area section-{{ .Section }}">
     <h1 class="section-title">{{ .Title | default "Svi Članci" }}</h1>
     <div class="articles-list-container">
-        {{ range .Paginator.Pages }}
+        {{ $pages := .Pages }}
+        {{ if eq .Section "posts" }}
+            {{ $pages = .Site.RegularPages }}
+        {{ end }}
+        {{ range $pages.ByDate.Reverse }}
             <a href="{{ .Permalink }}" class="article-card-horizontal">
                 {{ with .Params.image }}
                     <div class="image-container">

@@ -6,7 +6,6 @@ date: 2025-07-06T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Uronite u srce Pamplone tokom festivala San Fermín, devetodnevne ekstravagancije tradicije, strasti i adrenalina. Otkrijte priču o trkama s bikovima (Encierro), bogatoj istoriji, živoj kulturi i duhu zajedništva koji obuzima ulice ovog španskog grada."
 image: "/slike/san-fermin/san-fermin-hero.jpg" # Pretpostavljena putanja, prilagodi ako treba
-image_alt: "Trkači beže od bikova tokom Encierra na Festivalu San Fermín"
 categories:
   - Kultura
   - Putovanja

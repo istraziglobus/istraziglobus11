@@ -60,7 +60,7 @@ Nijedan pisani opis, pa čak ni televizijski prenos, ne može u potpunosti prene
 * **Miris i emocija:** Miris dima od baklji (iako zabranjen, povremeno se pojavi), piva i znoja ispunjava vazduh. Osećaj kolektivne ekstaze, stresa, nade i ludosti je opipljiv. To je doživljaj koji preplavljuje i zastrašuje protivnike.
 
 <div class="tip-box">
-    <h3> Superklasiko <h3>
+    <h3> Superklasiko </h3>
     <p>Vrhunac atmosfere na La Bomboneri je tokom **Superklasika** – derbija protiv najvećeg rivala, River Platea. Ovaj derbi se smatra jednim od najžešćih i najintenzivnijih fudbalskih rivalstava na svetu. Grad se podeli na dva dela, a atmosfera je električna, ispunjena neprekidnim navijanjem, pirotehnikom i tenzijom koja se može opipati. To je događaj koji parališe Buenos Ajres i privlači pažnju celog fudbalskog sveta.</p>
 </div>
 
@@ -79,7 +79,7 @@ Nijedan pisani opis, pa čak ni televizijski prenos, ne može u potpunosti prene
 La Bombonera nije samo sportska arena; ona je srce i duša kvarta <span class="highlight-text">**La Boca**</span>. Kvart je sam po sebi živopisan, poznat po šarenim kućama u ulici Caminito, uličnim plesačima tanga i umetničkim galerijama. Stadion je centralna tačka ovog radničkog kvarta, i njegov uticaj se oseća u svakom kutku. Stanovnici La Boce su duboko vezani za klub i stadion, a fudbal je sastavni deo njihovog identiteta i svakodnevnog života. Utakmice Boce pretvaraju ceo kvart u pravi festival, privlačeći hiljade ljudi i stvarajući jedinstvenu atmosferu zajedništva.
 
 <figure class="article-image-box">
-  <img src="/slike/bombonera/boca.jpg" 
+  <img src="/slike/bombonera/boca.jpg"> 
   
 </figure>
 

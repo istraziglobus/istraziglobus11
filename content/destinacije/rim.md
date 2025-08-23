@@ -1,19 +1,20 @@
 ---
-title: "Rim"
+title: "Rim - Vječni grad"
 subtitle: "Vječni grad"
 date: 2025-07-03T10:00:00+02:00
 draft: false
 description: "Zakoračite u Rim, grad gdje se istorija ne priča, već živi na svakom koraku. Otkrijte autentični duh Vječnog Grada."
 image: "/slike/rim/rim.jpg"
-image_caption: "Krovovi Rima pod zalazećim suncem. Grad oživljava, otkrivajući svoje slojeve istorije."
 slug: "rim"
+most_read: true
 ---
 
 <p class="intro-paragraph">Postoje destinacije, i postoji Rim. Njegovo ime nije samo lokacija na mapi; to je pozivnica u svijet gdje se prošlost i sadašnjost prepliću u neodoljivu tapiseriju. <span class="highlight-text">Rim</span> nije muzej pod otvorenim nebom, niti je samo skup impresivnih spomenika. On je pulsirajući organizam, živući dokaz da se istorija ne mora učiti iz knjiga – ona se ovdje diše, dodiruje i proživljava na svakom koraku. Od masivnih antičkih ruševina što prkose vijekovima, preko ekstravagancije baroknih palata i fontana, do užurbanih, autentičnih piazza ispunjenih mirisima kafe i svježe pečenog hljeba – Rim se ne obilazi, Rim se upija.</p>
 
+
 <div class="content-with-image-layout">
-    <div class="info-box">
-        <h3><img src="/slike/rim/grb_rim.png" alt="Grb Rima" class="info-box-icon" loading="lazy"> Osnovne informacije o Rimu</h3>
+    <div class="info-box-container">
+        <h3>  Osnovne informacije o Rimu </h3>
         <ul>
             <li><strong>Osnovan:</strong> 21. april 753. p.n.e. (tradicionalno)</li>
             <li><strong>Stanovništvo:</strong> ~2.8 miliona (grad); ~4.3 miliona (metropolitansko područje)</li>
@@ -21,11 +22,14 @@ slug: "rim"
             <li><strong>Valuta:</strong> Euro (€)</li>
             <li><strong>Nadimak:</strong> Večni grad (La Città Eterna)</li>
             <li><strong>Geografski položaj:</strong> Centralna Italija, na reci Tibar (41°53′35″N 12°28′58″E)</li>
+            <li><strong>Aerodrom:</strong> Leonardo da Vinči - Fiumicini (FCO)</li>
+            <li><strong>Atrakcija:</strong> Koloseum</li>
+            <li><strong>Pozivni broj:</strong> 06</li>
+            <li><strong>Vremenska zona:</strong> CET +1</li>
         </ul>
     </div>
-    </ul>
-    <figure class="article-image-box" style="margin: 0;">
-      <img src="/slike/rim/rim1.jpg">
+    <figure class="article-image-box">
+        <img src="/slike/rim/rim1.jpg">
     </figure>
 </div>
 

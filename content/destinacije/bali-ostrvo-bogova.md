@@ -18,7 +18,7 @@ tags:
   - Priroda
 # Dodatni parametar za isticanje teme meseca (opciono, ali korisno za specifične templejte)
 featured_monthly_theme: false
-mesec_destinacije: "DESTINACIJA MJESECA - JUL" 
+mesec_destinacije: JUL 2025
 ---
 
 **Bali.** Samo ime priziva slike smaragdno **zelenih pirinčanih terasa**, drevnih hramova obavijenih tamjanom, **tirkiznih okeana** sa savršenim talasima i osmeha ljudi čija duša zrači mirom. Nije ni čudo što ovo indonežansko ostrvo nosi epitet **<span style="color: var(--accent-color); font-weight: bold;">"Ostrvo Bogova"</span>**. To je mesto gde se duhovnost oseća u vazduhu, gde umetnost nije samo ukras već način života, a priroda oduzima dah svojom netaknutom lepotom. Ako tražite destinaciju koja će vas opustiti, inspirisati i probuditi sva vaša čula, **Bali je bez sumnje na vrhu liste.** Uronite sa nama u sve tajne i čari ovog raja na Zemlji.

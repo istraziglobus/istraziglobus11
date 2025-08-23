@@ -18,7 +18,7 @@ tags:
   - Kulinarstvo
   - Letovanje
 featured_monthly_theme: true # KLJUČNO: Označava Kipar kao destinaciju meseca!
-mesec_destinacije: "DESTINACIJA MJESECA - AVGUST" # Tekst koji se prikazuje u kartici
+mesec_destinacije: " AVGUST 2025" # Tekst koji se prikazuje u kartici
 ---
 
 **Kipar.** Ne samo tačka na mapi, već kapija u prošlost, raskrsnica imperija i živi dokaz otpornosti. Ovo je ostrvo koje je vekovima izdržavalo udare istorije, strateški nezaobilazno u mediteranskoj igri moći. Njegovo ime odzvana eonima, noseći priče o <span class="highlight-text">bogovima, kraljevima, osvajačima i neuništivom duhu naroda</span> koji je ostao. Zakoračiti na Kipar znači prihvatiti poziv na putovanje koje nadilazi puko razgledanje; to je uranjanje u duboku, slojevitu tapiseriju gde se legende prepliću sa tragovima drevnih civilizacija, a prirodne lepote odražavaju dramu vekova. Kipar nije samo mesto za odmor; on je izazov za čula i um, destinacija koja zahteva poštovanje i obećava nezaboravno iskustvo.

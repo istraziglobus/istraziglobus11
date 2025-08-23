@@ -1,5 +1,5 @@
 ---
-title: "Most na Đurđevića Tari: Veličanstveni svedok vremena i hrabrosti"
+title: "Most na Đurđevića Tari - Veličanstveni svedok vremena i hrabrosti"
 subtitle: "Arhitektonsko remek-delo iznad najdubljeg kanjona Evrope"
 slug: "most-na-tari"
 date: 2025-07-06T12:00:00+02:00
@@ -17,7 +17,6 @@ tags:
 draft: false
 ---
 
-### U zagrljaju neba i provalije
 
 Most na Đurđevića Tari nije samo građevina, to je monumentalni simbol ljudske inženjerske veštine, postojanosti i hrabrosti. Sa svojih pet elegantnih lukova, graciozno premošćuje najdublji kanjon u Evropi, uzdižući se čak 172 metra iznad tirkizne, divlje reke Tare. Izgrađen uoči Drugog svetskog rata, ovaj most je postao svedok dramatičnih istorijskih događaja, ali i kapija u svet avanture. Već pri prvom pogledu na most shvatate da je reč o zaista grandioznom delu, koje sjedinjuje čovekovu genijalnost sa moćnom prirodom na jedinstven način.
 

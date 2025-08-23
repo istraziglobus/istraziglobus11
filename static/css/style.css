@@ -1,11 +1,21 @@
-html {
+/* ========================================= */
+/* OSNOVE SAJTA */
+/* ========================================= */
+body, html { /*Ovo sprečava da se horizontalni scrollbar pojavi na stranici. Vrlo korisno za responsivne sajtove.*/
+    overflow-x: hidden;
+}
+html { /*Postavlja osnovnu veličinu fonta na 16 piksela. To je standardna, pristupačna veličina na kojoj se baziraju sve ostale "rem" jedinice na sajtu (npr. font-size: 1.4em). Bez toga, svi tvoji fontovi bi izgledali preveliki ili premali.*/
     font-size: 16px; /* Postavlja bazni font za rem jedinice */
 }
+
+/* =============================
+   IMPORT FONTOVA
+   ============================= */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 /* -- Root Variables -- */
-:root {
-    --primary-color: hsl(204, 100%, 49%); /* Blue */
+:root { /*Ovaj pseudo-selektor definiše CSS varijable. Neophodan je jer omogućava da brzo menjaš boje, radijuse i senke na celom sajtu tako što promeniš vrednost samo na jednom mestu. Bez varijabli, morao bi ručno da menjaš svaku boju na svakom elementu*/
     --secondary-color: #2c3e50; /* Dark Blue */
-    --accent-color: #e74c3c; /* Red */
     --light-bg-color: #ecf0f1; /* Light Gray */
     --dark-bg-color: #34495e; /* Deeper Dark Blue */
     --light-text-color: #ffffff;
@@ -17,7 +27,6 @@ html {
     --border-light-gray: #e0e0e0; /* Svetlo siva za tanke bordere */
     --light-light: #FFFFFF;
     --alternate-bg-color: #f4f7f6;      /* Nova, malo tamnija siva za alternativnu pozadinu */
-
     /* Theme Colors for sections and highlighted text */
     --theme-primary-color: #007bff; /* Default/Blue (for Putujmo u...) */
     --theme-green-color: #27ae60; /* Priroda Svijeta, Sport i putovanja */
@@ -25,23 +34,31 @@ html {
     --theme-darkblue-color: #34495e; /* Mitovi i Legende, Geo Kutak */
     --theme-grey-color: #bdc3c7; /* Putovanje kroz Film i Knjige */
     --highlight-blue: #007bff;
+    --primary-color: #3498db; /* Svetlija, moderna plava */
+    --primary-dark: #2980b9;  /* Tamnija plava za hover */
+    --accent-color: #2ecc71;  /* Zelena akcent boja */
+    --border-color: #e0e0e0;  /* Boja ivice */
+    --shadow-light: 0 4px 15px rgba(0, 0, 0, 0.08); /* Suptilna senka */
+    --border-radius-soft: 10px; /* Zaobljenije ivice */
+    --font-body: 'Open Sans', sans-serif; /* Moderniji font */
+    --font-heading: 'Montserrat', sans-serif; /* Font za naslove */
 }
-
 /* -- General Styles -- */
-body {
+body { 
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: var(--dark-text-color);
     line-height: 1.6;
+    font-family: var(--font-body);
+    color: var(--text-dark);
 }
-.container {
+.container { 
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
-a {
+a { 
     text-decoration: none;
     color: var(--primary-color);
     transition: color var(--transition-speed);
@@ -55,86 +72,157 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     font-size: 2.1em
 }
+/* ==== OSNOVNI STILOVI DUGMADI (Ažurirano za moderniji izgled) ==== */
 .btn {
     display: inline-block;
-    padding: 10px 25px;
-    border-radius: var(--border-radius);
-    transition: background-color var(--transition-speed), color var(--transition-speed);
+    font-weight: 600; /* Malo deblji font */
     text-align: center;
-    font-weight: 600;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 2px solid transparent; /* Deblja ivica */
+    padding: 12px 28px; /* Veći padding */
+    font-size: 1.05rem; /* Malo veći font */
+    line-height: 1.5;
+    border-radius: var(--border-radius-soft); /* Zaobljene ivice */
+    transition: all 0.3s ease; /* Glatke tranzicije */
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .btn-primary {
+    color: var(--light-light);
     background-color: var(--primary-color);
-    color: var(--light-text-color);
-    border: 2px solid var(--primary-color);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); /* Suptilna senka */
+    padding: 8px 20px; /* Padding oko teksta: 8px gore/dole, 20px levo/desno (prilagodi po želji) */
 }
-
+.section-button-container {
+    text-align: center; /* Centriranje dugmeta unutar njegovog kontejnera */
+    margin-top: 60px; /* Dodaje razmak iznad dugmeta */
+    margin-bottom: 60px; /* Dodaje razmak ispod dugmeta (opciono) */
+}
 .btn-primary:hover {
-    background-color: var(--accent-color);
-    border-color: var(--accent-color);
-    color: var(--light-text-color);
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4); /* Istaknutija senka na hover */
+    transform: translateY(-2px); /* Lagani skok na hover */
 }
 
-.btn-secondary {
-    background-color: transparent;
-    color: var(--primary-color);
-    border: 2px solid var(--primary-color);
+/* ---- STILOVI ZA DUGMAD I TAGOVE U KARTICAMA ---- */
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-light-gray);
 }
-
-.btn-secondary:hover {
+.btn {
+    display: inline-block;
+    padding: 8px 15px;
+    border-radius: var(--border-radius-soft);
+    font-size: 0.9em;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+.btn-primary {
+    color: var(--light-light);
     background-color: var(--primary-color);
-    color: var(--light-text-color);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); /* Suptilna senka */
+    transform: scale(1.01); /* Uvek 1% veće */
+    padding: 12px 28px; /* Održava originalni veći padding */
 }
-
-.light-bg {
-    background-color: var(--light-bg-color);
-    color: var(--dark-text-color);
-    box-shadow: var(--shadow); /* Dodaje suptilnu senku */
+/* Stilovi kada pređeš mišem preko dugmeta */
+.btn-primary:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4); /* Istaknutija senka na hover */
+    transform: scale(1.01) translateY(-2px); /* Lagani skok na hover */
 }
-
-.dark-bg {
+.btn-secondary {
+    color: var(--light-light);
     background-color: var(--dark-bg-color);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); /* Suptilna senka */
+    transform: scale(1.01); /* Uvek 1% veće */
+    padding: 12px 28px; /* Održava originalni veći padding */
+}
+.btn-secondary:hover {
+   background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4); /* Istaknutija senka na hover */
+    transform: scale(1.01) translateY(-2px); /* Lagani skok na hover */
+}
+.article-section-tag {
+    font-size: 0.85em;
+    font-weight: 600;
     color: var(--light-text-color);
+    background-color: var(--theme-green-color);
+    padding: 6px 12px;
+    border-radius: 5px;
+    opacity: 0.9;
+    white-space: nowrap;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+/* Dodatak za bolju responsivnost, ako već nemate: */
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* Osnovni stilovi za linkove u telu (ako već nemate) */
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+/* Centriranje teksta za opise sekcija */
+.section-description {
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 60px;
 }
 
-/* -- Header -- */
-.main-header {
+/* ========================================= */
+/* HEADER - ZAGLAVLJE */
+/* ========================================= */
+.main-header { /*Definiše opšti izgled zaglavlja: boju pozadine, senku,*/
     background-color: var(--secondary-color);
     box-shadow: var(--shadow);
-    position: sticky;
+    position: sticky;/*drži zaglavlje na vrhu ekrana dok se skroluje.*/
     top: 0;
     z-index: 1000;
     color: var(--light-text-color);
 }
-
-.main-header > .container { /* Direct child container of header */
+.main-header > .container { /* Koristi Flexbox da rasporedi elemente (logo, navigaciju) unutar zaglavlja i osigura da se pravilno poravnaju */
     display: flex;
     justify-content: space-between; /* Razmakni logo, nav i hamburger */
     align-items: center;
     padding: 10px 20px;
 }
-.logo-container {
+.logo-container { /*Ovo je Flexbox kontejner. Neophodan je za pravilno poravnanje unutar zaglavlja*/
     display: flex;
     align-items: center;
     gap: 10px;
     order: 1; /* LOGO JE PRVI */
 }
-
-.site-logo {
+.site-logo { /*Ovaj deo definiše tačnu veličinu tvoje slike logoa*/
     height: 50px;
     width: auto;
 }
-
-.site-logo-link {
+.site-logo-link { /*Ovo takođe koristi Flexbox. Neophodno je da se slika i tekst (.site-title-animated) postave jedan pored drugog sa razmakom od 10px. position: relative je ključan jer služi kao osnova za pozicioniranje animirane linije ispod teksta.*/
     display: flex;
     align-items: center;
     gap: 10px;
     color: var(--secondary-color);
     position: relative;
 }
-
-.site-logo-link::after {
+.site-logo-link::after { /*Ovo je pseudo-element koji se koristi za stvaranje animirane linije. On stvara liniju ispod teksta i u početku je skriva sa width: 0*/
     content: '';
     position: absolute;
     left: 0;
@@ -144,19 +232,19 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--primary-color);
     transition: width var(--transition-speed) ease-in-out;
 }
-
-.site-logo-link:hover::after {
+.site-logo-link:hover::after { /*Ova komanda je zadužena za samu animaciju. Ona se aktivira kada pređeš mišem preko logoa i menja širinu linije (width: 100%), stvarajući efekat crtanja linije. Bez ovoga, linija se ne bi pojavila.*/
     width: 100%;
 }
-
-.site-title-animated {
+.site-title-animated { /*Ovaj blok koda definiše stilove za tekstualni naslov tvog sajta koji se nalazi pored logoa.*/
     font-family: 'Playfair Display', serif;
     font-size: 1.8em;
     color: var(--light-text-color);
     letter-spacing: 1px;
 }
 
-/* Main Navigation (Početna, O nama, Kontakt) - za desktop */
+/* ========================================= */
+/* MAIN NAVIGATION O NAMA, POČETNA, KONTAKT, VIJESTI*/
+/* ========================================= */
 .main-nav-primary {
     display: flex; /* PRIKAZI GA NA DESKTOPU KAO FLEXBOX */
     flex-grow: 1; /* Dozvoli mu da zauzme dostupan prostor */
@@ -165,39 +253,37 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 20px; /* Dodaj malo razmaka pre hamburgera, ako je potrebno */
     order: 2; /* NAVIGACIJA JE DRUGA (POSLE LOGA) */
 }
-
 .main-nav-primary ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex; /* Osiguraj da su linkovi u liniji */
-    gap: 25px; /* Razmak između linkova */
+    list-style: none; /* Uklanja bullet tačke ispred stavki liste */
+    margin: 0; /* Uklanja podrazumevane margine oko liste */
+    padding: 0; /* Uklanja podrazumevane unutrašnje razmake oko liste */
+    display: flex; /* Postavlja li stavke jednu pored druge */
+    gap: 25px; /* Dodaje razmak od 25 piksela između svake stavke menija */
 }
-
 .main-nav-primary ul li a {
-    color: var(--light-text-color-color);
-    font-weight: 600;
-    font-size: 1.1em;
-    padding: 5px 0;
-    position: relative;
+    color: var(--light-text-color-color); /* Boja linka je svetli tekst */
+    font-weight: 600; /* Tekst linka je podebljan */
+    font-size: 1.1em; /* Veličina teksta linka je malo veća od osnovne veličine */
+    padding: 5px 0; /* Dodaje mali unutrašnji razmak iznad i ispod linka */
+    position: relative; /* Neophodno za animiranu liniju ispod linka */
 }
-
 .main-nav-primary ul li a::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -5px;
-    width: 0;
-    height: 2px;
-    background-color: var(--primary-color);
-    transition: width var(--transition-speed);
+    content: ''; /* Stvara novi, prazan element (liniju) */
+    position: absolute; /* Postavlja liniju u odnosu na link */
+    left: 0; /* Pozicionira liniju na levo */
+    bottom: -5px; /* Spušta liniju 5 piksela ispod teksta */
+    width: 0; /* Početna širina linije je 0 (nevidljiva) */
+    height: 2px; /* Visina linije je 2 piksela */
+    background-color: var(--primary-color); /* Boja linije je plava */
+    transition: width var(--transition-speed); /* Omogućava glatku animaciju kada se širina linije promeni */
 }
-
 .main-nav-primary ul li a:hover::after {
-    width: 100%;
+    width: 100%; /* Kada pređeš mišem preko linka, širina linije postaje 100%, stvarajući animaciju */
 }
 
-/* Hamburger menu icon */
+/* ========================================= */
+/* HAMBURGER MENU IKONICA*/
+/* ========================================= */
 .hamburger {
     display: block; /* PRIKAŽI HAMBURGER I NA DESKTOPU I NA MOBILNOM */
     width: 30px;
@@ -239,7 +325,9 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(-45deg);
 }
 
-/* Dropdown Menu (skriven na desktopu, prikazuje se JS-om na mobilnom) */
+/* ========================================= */
+/* DROPDOWN MENU
+/* ========================================= */
 .dropdown-menu {
     display: none; /* Uvek SKRIVEN na desktopu! */
     position: absolute;
@@ -297,21 +385,20 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--primary-color);
 }
 
-/* Submenu specific styles */
+/* ========================================= */
+/* SUBMENU STYLE*/
+/* ========================================= */
 .submenu-toggle {
     display: flex !important; /* Override display: block */
     justify-content: space-between;
     align-items: center;
 }
-
 .submenu-toggle .fas {
     transition: transform 0.3s ease;
 }
-
 .submenu-toggle.active .fas {
     transform: rotate(180deg);
 }
-
 .submenu {
     list-style: none;
     padding: 0;
@@ -323,26 +410,25 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 5px;
     margin-top: 5px;
 }
-
 .submenu.active {
     max-height: 500px; /* Or a value large enough to contain all items */
     /* Will be handled by JS to dynamically set max-height for smooth transition */
 }
-
 .submenu li a {
     padding: 8px 25px; /* Indent submenu items, manji padding */
     font-size: 1em; /* Malo manji font */
     color: var(--light-text-color);
     opacity: 0.8;
 }
-
 .submenu li a:hover {
     background-color: rgba(255, 255, 255, 0.15);
     color: var(--primary-color);
     opacity: 1;
 }
 
-/* -- Hero Section -- */
+/* ========================================= */
+/* HERO SECTION*/
+/* ========================================= */
 .hero {
     position: relative;
     height: 100vh; /* Adjust as needed */
@@ -354,7 +440,6 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
     margin-bottom: 5px; /* DODAJTE OVU LINIJU */
 }
-
 /* Stil za pozadinski video */
 .hero-video-background {
     position: absolute; /* Apsolutno pozicionira video unutar .hero sekcije */
@@ -365,156 +450,126 @@ h1, h2, h3, h4, h5, h6 {
     object-fit: cover; /* KLJUČNO: Osigurava da video pokriva ceo prostor, sekući višak ako je potrebno, ali čuvajući proporcije */
     z-index: -1; /* Postavlja video IZA sadržaja hero sekcije (teksta i dugmeta) */
 }
-
-.hero-content {
-    position: relative;
-    z-index: 1;
-    /* Uklanjamo stilove koji kreiraju "okvir" */
-    /* padding: 20px; */
-    /* background-color: rgba(0, 0, 0, 0.5); */
-    /* border-radius: var(--border-radius); */
-    /* box-shadow: var(--shadow); */
-}
-
 .hero-content h1 {
     font-size: 3.5em;
     margin-bottom: 10px;
     color: var(--light-text-color);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-
 .hero-content p {
     font-size: 1.5em;
     margin-bottom: 30px;
     color: var(--light-text-color);
 }
-
-/* -- Featured Topics Section -- */ izdvojene teme
-.featured-topics-section {
-    padding: 20px 0 60px; /* Povećan padding na vrhu */
-    text-align: center;
+/* ---- STIL ZA HERO VIDEO SAMO NA MOBILNOM UREĐAJU ---- */
+@media (max-width: 768px) {
+    .hero {
+        height: 250px; /* Možeš prilagoditi visinu hero sekcije */
+        overflow: hidden;
+    }
+    .hero-video-background {
+        height: 100%;
+        width: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        object-fit: cover;
+    }
+    .hero-content {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        text-align: center;
+    }
 }
 
-.featured-topics-section h2 {
-    font-family: 'Playfair Display', serif; /* Klasičan i elegantan font */
-    font-size: 2.5em;
-    margin-bottom: 40px;
-}
-
-.featured-cards-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
-    margin-top: 30px;
-}
-
-.topic-card {
-    background-color: var(--light-text-color);
-    border-radius: var(--border-radius);
-    overflow: hidden;
-    box-shadow: var(--shadow);
-    transition: transform var(--transition-speed), box-shadow var(--transition-speed);
-    text-align: left;
+/* ========================================= */
+/* NOVI STILOVI ZA "NAJNOVIJE ČLANKE" */
+/* (Udarni Horizontalni + Manji ispod) */
+/* ========================================= */
+.main-articles-layout {
     display: flex;
     flex-direction: column;
-    color: inherit; /* Inherit text color */
+    gap: 30px;
 }
-
-.topic-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
-
-.card-image-overlay {
-    position: relative;
-    padding-top: 60%; /* Aspect ratio 5:3 */
-    overflow: hidden;
-}
-
-.card-bg-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.5s ease;
-}
-
-.topic-card:hover .card-bg-image {
-    transform: scale(1.05);
-}
-
-.overlay-content {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
-    color: var(--light-text-color);
-    padding: 20px;
-    box-sizing: border-box;
-}
-
-.overlay-content h3 {
-    color: var(--light-text-color);
-    font-size: 1.3em;
-    margin-bottom: 5px;
-}
-
-.overlay-content p {
-    font-size: 0.7em;
-    margin-bottom: 10px;
-    opacity: 0.9;
-}
-
-.card-cta {
+/* Stil za udarnu karticu (veliki horizontalni članak) */
+/* Stil za udarnu karticu (veliki horizontalni članak) */
+.featured-main-article {
     display: flex;
-    align-items: center;
-    color: var(--light-text-color); /* Boja teksta dugmeta */
-    font-weight: 800;
-    font-size: 0.95rem
-}
-
-.card-cta i {
-    margin-left: 5px;
-    transition: margin-left var(--transition-speed);
-}
-
-.topic-card:hover .card-cta i {
-    margin-left: 10px;
-}
-
-/* -- Latest Articles Section -- */
-.article-card-latest {
-    display: flex;
-    flex-direction: column; /* Slaže sliku i sadržaj vertikalno */
-    height: 100%; /* Važno da kartice u gridu popune svoj prostor */
-    min-height: 380px; /* Postavi minimalnu visinu za doslednost */
-    background-color: var(--light-text-color); /* Bela pozadina */
+    flex-direction: row; /* Slika i tekst jedno pored drugog */
+    background-color: var(--light-text-color);
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
-    overflow: hidden; /* Osigurava da su uglovi slike zaobljeni */
-    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    text-decoration: none; /* Uklanja podvlačenje sa linka */
-    color:inherit; /* Nasleđuje boju teksta */
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+    height: 400px; /* Fiksna visina za horizontalni izgled */
+    margin-bottom: 30px; /* Dodajemo razmak ispod kartice */
 }
-
-.article-card-latest:hover {
+.featured-main-article:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
-
-.article-card-latest img {
+.featured-main-article .featured-image-container {
+    flex: 2; /* Slika zauzima 2/3 prostora */
+    position: relative;
+    overflow: hidden;
+}
+.featured-main-article img {
     width: 100%;
-    height: 200px; /* Fiksna visina za sliku */
-    object-fit: cover; /* Osigurava da slika pokriva celu površinu */
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+.featured-main-article:hover img {
+    transform: scale(1.05);
+}
+.featured-main-article .featured-article-content {
+    flex: 1; /* Tekst zauzima 1/3 prostora */
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/* Prilagođavanje stilova naslova i opisa */
+.featured-main-article h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 2.2em; /* Prilagođeno veličini naslova manjih kartica */
+    color: var(--dark-text-color);
+    line-height: 1.3;
+    font-weight: bold;
+}
+.featured-main-article .article-card-subtitle {
+    font-size: 0.95em;
+    color: var(--dark-text-color);
+    opacity: 0.95;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-weight: 800;
+    line-height: 1.4;
+}
+.featured-main-article p {
+    font-size: 0.95em; /* Prilagođeno veličini opisa na manjim karticama */
+    color: var(--dark-text-color);
+    line-height: 1.6;
+    margin-bottom: 20px;
+    opacity: 0.9;
 }
 
-/* Sadržaj kartice - omogući flex da gurne footer na dno */
+/* Kontejner za manje kartice u redu ispod */
+.small-articles-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 kartice u jednom redu */
+    gap: 20px;
+}
+
+/* Stil za male, "kockaste" kartice */
 .article-card-latest {
-    display: flex; /* Ovo je ključno */
-    flex-direction: column; /* Ovo je ključno */
+    display: flex;
+    flex-direction: column;
     height: 100%;
     min-height: 380px;
     background-color: var(--light-text-color);
@@ -524,31 +579,44 @@ h1, h2, h3, h4, h5, h6 {
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     text-decoration: none;
     color: inherit;
+    /* Dodajemo tranziciju na celoj kartici za animaciju */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+/* Efekat zumiranja i senke na hover */
+.article-card-latest:hover {
+    transform: scale(1.03) translateY(-5px); /* Zumira celu karticu i malo je podiže */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.article-card-latest img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    /* Uklanjamo tranziciju sa slike da se ne duplira efekat */
+    transition: none; 
+} 
+/* Sadržaj kartice */
 .article-card-latest-content {
     padding: 15px 15px 15px 20px;
     display: flex;
     flex-direction: column;
-    flex-grow: 1; /* Omogućava ovom delu da zauzme sav dostupan vertikalni prostor */
-    position: relative; /* Potrebno ako bi se footer pozicionirao apsolutno, ali flex ga gura */
-    min-height: 150px; /* Minimalna visina sadržaja */
+    flex-grow: 1;
+    position: relative;
+    min-height: 150px;
 }
-
+/* Smanjen font za naslove i podnaslove na manjim karticama */
 .article-card-latest-content h3 {
     margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 1.25em;
+    margin-bottom: 5px;
+    font-size: 1.1em;
     color: var(--dark-text-color);
     line-height: 1.3;
 }
-
-/* Stil za podnaslov unutar kartica "Najnoviji Članci" */
 .article-card-latest-content .article-card-subtitle {
-    font-size: 0.95em;
-    color: var(--current-section-color, var(--dark-text-color)); /* Boja prati sekciju */
+    font-size: 0.9em;
+    color: var(--current-section-color, var(--dark-text-color));
     opacity: 0.85;
     margin-top: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-weight: 400;
     line-height: 1.4;
 }
@@ -558,62 +626,148 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--dark-text-color);
     opacity: 0.9;
     line-height: 1.6;
-    flex-grow: 1; /* Omogućava paragrafu da zauzme preostali prostor */
-    margin-bottom: 15px; /* Standardni razmak */
+    flex-grow: 1;
+    margin-bottom: 10px;
 }
-
-/* NOVO: Footer za dugme i sekciju */
+/* Footer unutar kartice - dugme i tag */
 .article-card-latest-content .card-footer {
     display: flex;
-    justify-content: space-between; /* Dugme levo, tag desno */
+    justify-content: space-between;
     align-items: center;
-    margin-top: auto; /* Gura footer na dno flex kontejnera */
-    padding-top: 15px; /* Razmak između teksta i footera */
-    border-top: 1px solid var(--border-light-gray); /* Linija iznad footera */
+    margin-top: auto;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-light-gray);
+    flex-wrap: wrap;
 }
-
-/* NOVO: Stil za tag sekcije unutar kartice */
+/* Stil za dugme "Pročitaj Više" */
+.article-card-latest-content .btn-primary {
+    font-size: 0.85em;
+    padding: 6px 12px;
+    margin-top: 0;
+}
+/* Stil za zeleni tag sekcije */
 .article-card-latest-content .article-section-tag {
-    font-size: 0.8em; /* Malo manji font za tag */
+    font-size: 0.85em;
     font-weight: 600;
-    color: var(--light-text-color); /* Beli tekst */
-    background-color: var(--theme-green-color); /* Pozadina u boji sekcije (ili primarnoj boji) */
-    padding: 4px 8px;
+    color: var(--light-text-color);
+    background-color: var(--theme-green-color);
+    padding: 6px 12px;
     border-radius: 5px;
     opacity: 0.9;
-    white-space: nowrap; /* Sprečava prelamanje teksta */
+    white-space: nowrap;
+    border: none;
+    transition: background-color 0.3s ease;
 }
-
-/* Prilagodi dugme unutar kartice */
-.article-card-latest-content .btn-small {
-    padding: 8px 15px;
-    font-size: 0.85em;
-    margin-top: 0; /* Resetuje eventualne defaultne margine */
+.article-card-latest-content .article-section-tag:hover {
+    background-color: var(--theme-darkblue-color);
 }
-
-/* Placeholder sections for O Nama / Kontakt */
-.placeholder-section {
-    padding: 60px 0;
+/* Stil za podnaslov u karticama "Najnoviji Članci" */
+.article-card-latest-content .article-card-subtitle {
+    font-size: 0.95em; /* Malo manji font od naslova */
+    color: var(--dark-text-color); /* Koristi tamnu boju teksta */
+    opacity: 0.85; /* Blago providan za manje isticanje */
+    margin-top: 5px; /* Mali razmak iznad */
+    margin-bottom: 10px; /* Razmak pre opisa */
+    font-weight: 800; /* Normalna debljina fonta */
+    line-height: 1.4;
+}
+.latest-articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Kreira responsivnu rešetku sa najmanjom širinom od 300px */
+    gap: 30px; /* Razmak između kartica */
+    margin-top: 40px; /* Razmak iznad rešetke */
+}
+.latest-articles-section {
+    padding-top: 100px; /* Povećan razmak iznad sekcije */
+    padding-bottom: 60px; /* Povećan razmak ispod sekcije */
     text-align: center;
 }
 
-.placeholder-section h2 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
+/* ========================================= */
+/* STILOVI ZA STRANICU SA LISTOM ČLANAKA */
+/* ========================================= */
+/* Stilovi za kontejner liste članaka na stranici kategorije/sekcije */
+.articles-list-container {
+    display: grid; /* Koristi grid za slaganje horizontalnih kartica */
+    grid-template-columns: 1fr; /* Jedna kolona po širini, kartica ce biti uska po defaultu, a max-width kontejnera je kontroliše */
+    gap: 25px; /* Razmak između kartica */
+    margin-top: 30px;
+}
+/* Stilovi za pojedinačnu horizontalnu karticu članka */
+.article-card-horizontal {
+    display: flex; /* Omogućava horizontalni raspored unutar kartice */
+    align-items: center; /* Vertikalno poravnanje sadržaja (slika i tekst) */
+    background-color: var(--light-text-color); /* Bela pozadina */
+    border-radius: var(--border-radius-soft); /* Zaobljene ivice */
+    box-shadow: var(--shadow-light); /* Senka za "dubinu" */
+    overflow: hidden; /* Osigurava da se sadržaj lepo seče unutar granica */
+    text-decoration: none; /* Uklanja podvlačenje sa linka */
+    color: var(--dark-text-color); /* Boja teksta */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Glatka animacija */
+    padding: 15px; /* Unutrašnji razmak oko sadržaja kartice */
+    max-width: 900px; /* Ogranici maksimalnu sirinu kartice na 900px */
+    margin-left: auto; /* Centriraj karticu unutar njenog kontejnera */
+    margin-right: auto; /* Centriraj karticu unutar njenog kontejnera */
+}
+.article-card-horizontal:hover {
+    transform: translateY(-5px); /* Mali efekat podizanja pri prelasku mišem */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12); /* Jača senka na hover */
+}
+.article-card-horizontal .image-container {
+    flex-shrink: 0; /* Sprečava smanjivanje slike */
+    width: 220px; /* Fiksna širina za sliku u kartici (možeš podesiti) */
+    height: 150px; /* Fiksna visina za sliku */
+    margin-right: 25px; /* Razmak između slike i teksta */
+    border-radius: var(--border-radius-soft); /* Zaobljene ivice slike */
+    overflow: hidden;
+}
+.article-card-horizontal h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.8em; /* Veći naslov */
+    color: var(--secondary-color); /* Boja naslova */
+}
+.article-card-horizontal .read-more-btn {
+    display: inline-block;
+    background-color: var(--primary-color); /* Boja dugmeta */
+    color: var(--light-text-color); /* Boja teksta dugmeta */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.95em;
+    align-self: flex-start; /* Dugme je poravnato levo */
 }
 
-/* -- Article Specific Styles (for single.html and content) -- */
+/* ========================================= */
+/* STILOVI ZA STRANICU SA LISTOM ČLANAKA */
+/* ========================================= */
+
+@media (max-width: 992px) {
+    .featured-main-article {
+        flex-direction: column; /* Na manjim ekranima slika ide iznad teksta */
+        height: auto;
+    }
+    .featured-main-article .featured-image-container {
+        height: 250px;
+    }
+    .small-articles-row {
+        grid-template-columns: 1fr; /* Na manjim ekranima idu jedna ispod druge */
+    }
+}
+
+/* ========================================= */
+/* PODEŠAVANJE ZA POJEDINAČNE ČLANKE */
+/* ========================================= */
 .single-post-section {
     padding: 60px 0;
     background-color: var(--theme-light-gray-color); /* Vrlo svetlo siva pozadina */
     padding: 60px 0; /* Povećaj padding da ima više prostora iznad i ispod */
 }
-
 .main-rome-title-container {
     text-align: center; /* Osigurava da su H1 i H2 centrirani */
     margin-bottom: 20px;
 }
-
 .main-rome-title {
     font-family: 'Playfair Display', serif;
     font-size: 4.5em; /* Povećana veličina naslova */
@@ -622,7 +776,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px;
     line-height: 1.2;
 }
-
 .subtitle-text {
     font-family: 'Roboto', sans-serif;
     font-size: 2.2em; /* Povećana veličina podnaslova */
@@ -631,7 +784,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 20px;
     line-height: 1.4;
 }
-
 .article-meta {
     text-align: center; /* Centriran datum */
     font-size: 1.1em; /* Malo veći font za datum */
@@ -639,13 +791,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: -15px; /* Malo podignut datum bliže podnaslovu */
     margin-bottom: 30px; /* Razmak pre slike */
 }
-
 .publish-date {
     font-weight: 600;
     color: var(--dark-text-color);
 }
-
-
 .article-hero-image {
     width: 100%;
     max-height: 550px; /* Povećana visina hero slike */
@@ -657,6 +806,45 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: auto;
     margin-right: auto;
     display: block; /* Važno za centriranje sa margin: auto */
+}
+.article-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center bottom;
+}
+.image-caption {
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* -- Article Specific Styles (za single.html i content) -- */
+.article-meta {
+    text-align: center;
+    font-size: 1.1em;
+    color: #777;
+    margin-top: -15px;
+    margin-bottom: 30px;
+}
+
+.publish-date {
+    font-weight: 600;
+    color: var(--dark-text-color);
+}
+
+.article-hero-image {
+    width: 100%;
+    max-height: 550px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .article-hero-image img {
@@ -673,106 +861,15 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 10px;
 }
 
-.article-content {
-   max-width: 900px; /* Maksimalna širina sadržaja članka */
-    margin: 0 auto; /* Centriranje sadržaja članka */
-    padding: 35px; /* Povećan padding unutar bloka za više "vazduha" */
-    background-color: var(--light-text-color); /* Bela pozadina bloka članka */
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); /* Suptilnija, ali "dublja" senka */
-    border-radius: var(--border-radius); /* Zaobljene ivice */
-    border: 1px solid var(--border-light-gray); /* Tanak, svetli border oko bloka */
-    line-height: 1.7; /* Bolja čitljivost teksta */
-    font-size: 1.05em; /* Blago veći font za telo teksta */
-    color: var(--dark-text-color); /* Osnovna boja teksta */
-
-}
-
-/* Finalno prilagođavanje za mobilne uređaje */
-@media (max-width: 768px) {
-  /* Uklanjanje maksimalne širine za sadržaj članka */
-  .article-content {
-    max-width: 100%;
-    padding: 0 15px; /* Dodaje razmak sa strane da tekst ne ide do ivice */
-  }
-
-  /* Prisiljavanje slika da zauzmu punu širinu */
-  .article-content img {
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-    margin: 0;
-  }
-}
-
-.article-content p {
-    margin-bottom: 1em;
-}
-
-/* Stilovi za naslove unutar .article-content */
-.article-content h1,
-.article-content h2,
-.article-content h3,
-.article-content h4,
-.article-content h5,
-.article-content h6 {
-    color: var(--secondary-color); /* Tamnija boja za naslove */
-    margin-top: 45px; /* Više prostora iznad naslova */
-    margin-bottom: 20px;
-    line-height: 1.3;
-}
-
-.article-content h2 {
-    font-size: 2.2em; /* Veći H2 */
-    border-bottom: 1px solid var(--border-light-gray); /* Suptilna linija ispod H2 */
-    padding-bottom: 10px;
-    margin-bottom: 30px; /* Veći razmak ispod H2 linije */
-}
-
-.article-content h3 {
-    font-size: 1.8em;
-    color: var(--primary-color); /* Primarna boja za H3 naslove */
-}
-
-/* Stilovi za pasuse unutar .article-content */
-.article-content p {
-    margin-bottom: 25px; /* Povećan razmak između pasusa */
-    text-align: justify; /* Poravnanje teksta sa obe strane */
-}
-
-/* Custom text styles for markdown use */
-.highlight-text {
-    color: var(--highlight-blue); /* Default blue highlight */
-    font-weight: 600; /* Ensure highlighted text is bold */
-}
-
-/* Example custom colors for text - user can apply these in markdown via <span class="text-green">...</span> */
 .text-green { color: var(--theme-green-color); font-weight: 600; }
 .text-orange { color: var(--theme-orange-color); font-weight: 600; }
 .text-purple { color: var(--theme-purple-color); font-weight: 600; }
-/* Add more as needed based on theme colors */
-
-/* Info Box / Fact Box */
-.info-box {
-    background-color: var(--light-bg-color);
-    border-left: 5px solid var(--primary-color);
-    padding: 15px 20px;
-    margin: 30px 0;
-    border-radius: var(--border-radius);
-    box-shadow: var(--shadow);
-    font-style: italic;
-    color: var(--dark-text-color);
-}
-
-.info-box p {
-    margin: 0;
-}
 
 .share-buttons {
     text-align: center;
     margin-top: 40px;
     margin-bottom: 20px;
 }
-
 .share-button {
     background-color: var(--primary-color);
     color: var(--light-text-color);
@@ -784,23 +881,117 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1em;
     transition: background-color var(--transition-speed);
 }
-
 .share-button i {
     margin-right: 8px;
 }
-
 .share-button:hover {
     opacity: 0.9;
 }
 
-/* Social Media Button Specific Colors */
+/* Stilovi za telo članka (konačna, optimizovana verzija) */
+.article-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 35px;
+    background-color: var(--light-text-color);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-light-gray);
+    line-height: 1.7;
+    font-size: 1.05em;
+    color: var(--dark-text-color);
+}
+.article-content p {
+    margin-bottom: 25px;
+    text-align: justify;
+}
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6 {
+    color: var(--secondary-color);
+    margin-top: 40px;
+    margin-bottom: 20px;
+    line-height: 1.3;
+}
+.article-content h2 {
+    font-size: 2.2em;
+    border-bottom: 1px solid var(--border-light-gray);
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+.article-content h3 {
+    font-size: 1.8em;
+    color: var(--primary-color);
+}
+/* Stilovi za liste i linkove, sve na jednom mestu */
+.article-content ul,
+.article-content ol {
+    margin-left: 25px;
+    margin-bottom: 25px;
+    padding-left: 0;
+}
+.article-content ul {
+    list-style-type: disc;
+}
+.article-content ol {
+    list-style-type: decimal;
+}
+.article-content ul li,
+.article-content ol li {
+    margin-bottom: 10px;
+}
+.article-content a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+.article-content a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+/* --- RESPONSIVNO PODEŠAVANJE za članak --- */
+/* Stilovi za slike unutar članka na desktopu */
+.article-content img {
+    display: block;
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-radius: var(--border-radius);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+/* Prilagođavanja za slike na mobilnim uređajima */
+@media (max-width: 768px) {
+    .article-content img {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 110%; /* Širina na mobilnom uređaju */
+        max-width: 110%;
+        height: 250px; /* Postavljena fiksna visina */
+        object-fit: cover; /* Osigurava da se slika ne deformiše */
+    }
+}
+
+
+/* ========================================= */
+/* BUTON SHARE */
+/* ========================================= */
 .share-button[data-share-platform="facebook"] { background-color: #3b5998; }
 .share-button[data-share-platform="twitter"] { background-color: #1da1f2; }
 .share-button[data-share-platform="whatsapp"] { background-color: #25d366; }
 .share-button[data-share-platform="linkedin"] { background-color: #0077b5; }
 
 
-/* -- Footer -- */
+/* ========================================= */
+/* FOOTER */
+/* ========================================= */
 .main-footer {
     background-color: var(--secondary-color);
     color: var(--light-text-color);
@@ -830,205 +1021,134 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* -- Responsive Design -- */
-/* Medija upiti sada samo prilagođavaju ostale elemente, jer je hamburger uvek prikazan */
-@media (max-width: 768px) {
+/* --- RESPONSIVE PODEŠAVANJA --- */
+/* Prilagođavanja za tablete i manje laptope */
+@media (max-width: 992px) {
+    /* Na manjim ekranima slika ide iznad teksta za udarni članak */
+    .featured-main-article {
+        flex-direction: column; 
+        height: auto;
+    }
+    .featured-main-article .featured-image-container {
+        height: 250px;
+    } 
+    /* Na manjim ekranima idu jedna ispod druge */
+    .small-articles-row {
+        grid-template-columns: 1fr;
+    }
     /* Prilagođavanja za HEADER */
     .main-header > .container {
         justify-content: space-between;
         align-items: center;
         padding: 10px 15px;
-        flex-wrap: nowrap;
     }
-
-    .logo-container {
-        order: 1; /* Logo je prvi na mobilnom */
-    }
-
     /* Sakrij primarnu navigaciju (desktop verziju) na mobilnom */
     .main-nav-primary {
-        display: none; /* SAKRIJ PRIMARNU NAVIGACIJU NA MOBILNOM */
-        order: unset; /* Resetuj redosled za mobilni */
+        display: none;
     }
 
     /* Prikaži hamburger ikonicu na mobilnom */
     .hamburger {
-        display: block; /* PRIKAŽI HAMBURGER NA MOBILNOM */
-        margin-left: auto; /* Gurni hamburger skroz desno */
-        order: 2; /* Hamburger je drugi na mobilnom (posle loga) */
+        display: block;
     }
-
-    /* Prilagođavanja hero sekcije za mobilni */
-     .hero {
-        height: 25vh; /* Postavi visinu na željenu (1/4 ekrana je dobar početak) */
-        min-height: 120px; /* Minimalna visina da sadržaj (tekst, dugme) stane */
-        max-height: 200px; /* Maksimalna visina, da ne bude preveliko na većim telefonima/manjim tabletima */
-
-        /* Dodaj i ove stilove za centralizaciju hero bloka na širim mobilnim ekranima */
-        width: 100%;
-        max-width: 500px; /* Možeš podesiti ovo na 360px, 400px, 450px, zavisi od želje */
-        margin-left: auto;
-        margin-right: auto;
-        box-sizing: border-box; /* Uvek dobra praksa */
-        padding: 0 15px; /* Horizontalni padding da sadržaj nije zalepljen za ivice */
-    }
-
-    /* Ovi stilovi su i dalje potrebni za video unutar .hero (ili .hero-section ako je ugnježdeno) */
-    .hero-video {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    /* Ovi stilovi su i dalje potrebni za sadržaj teksta unutar hero sekcije */
-    .hero-content {
-        width: 100%;
-        max-width: 480px; /* Malo manje od max-width hero, da bude razmak */
-        box-sizing: border-box;
-        padding: 10px;
-        font-size: 0.8em;
-    }
-
-    .hero-content h1 {
-        font-size: 1.5em;
-    }
-
-    .hero-content p {
-        font-size: 0.9em;
-    }
-
-    /* Ostali mobilni stilovi */
-    .featured-cards-grid,
-    .latest-articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
-    margin-top: 30px;
 }
-
+/* Prilagođavanja za mobilne uređaje */
+@media (max-width: 768px) {
+    /* Uklanjanje maksimalne širine za sadržaj članka */
+    .article-content {
+        max-width: 100%;
+        padding: 0 15px;
+    }
+    /* Prilagođavanje glavnih naslova na stranici članka */
     .main-rome-title {
         font-size: 2.2em;
     }
-    .subtitle-text { /* Dodaj i za mobilni podnaslov */
+    .subtitle-text {
+        font-size: 1.5em;
+    }  
+    /* Prilagođavanje veličine fontova za HERO sekciju */
+    .hero-content h1 {
         font-size: 1.5em;
     }
+    .hero-content p {
+        font-size: 0.9em;
+    }
+    /* Prilagođavanje za horizontalne kartice na stranici sa listom članaka */
+    .article-card-horizontal {
+        flex-direction: column;
+        text-align: center;
+    }
+    .article-card-horizontal .image-container {
+        width: 100%;
+        height: 200px;
+    }
+    .article-card-horizontal .content-container {
+        padding: 20px;
+    }
 }
-
+/* Dodatna prilagođavanja za male mobilne ekrane */
 @media (max-width: 480px) {
     .site-title-animated {
         font-size: 1.5em;
     }
-
-    .hero-content h1 {
-        font-size: 2em;
-    }
-
-    .hero-content p {
-        font-size: 1em;
-    }
-
     .main-rome-title {
         font-size: 1.8em;
     }
-
     .share-button {
         display: block;
         margin: 10px auto;
         width: 80%;
     }
 }
-/* ==== GLOBALNE CSS VARIJABLE (PROVERI: Ako već imate ove varijable na vrhu fajla, prilagodite ih ili ih preskočite, ali neka budu iste ili slične vrednosti) ==== */
-:root {
-    --primary-color: #3498db; /* Svetlija, moderna plava */
-    --primary-dark: #2980b9;  /* Tamnija plava za hover */
-    --accent-color: #2ecc71;  /* Zelena akcent boja */
-    --text-dark: #2c3e50;     /* Tamni tekst */
-    --text-light: #ecf0f1;    /* Svetli tekst */
-    --bg-light: #f4f7f6;      /* Svetlija pozadina sekcija */
-    --bg-white: #ffffff;     /* Bela pozadina kartica */
-    --border-color: #e0e0e0;  /* Boja ivice */
-    --shadow-light: 0 4px 15px rgba(0, 0, 0, 0.08); /* Suptilna senka */
-    --border-radius-soft: 10px; /* Zaobljenije ivice */
-    --font-body: 'Open Sans', sans-serif; /* Moderniji font */
-    --font-heading: 'Montserrat', sans-serif; /* Font za naslove */
-}
-
-/* Osnovni stilovi za telo (ako već nemate, dodajte) */
-body {
-    font-family: var(--font-body);
-    color: var(--text-dark);
-    line-height: 1.6;
-}
 
 
-/* Stilovi za naslove sekcija */
-.section-title {
-    font-family: var(--font-heading);
-    font-size: 2.8em;
-    color: var(--text-dark);
-    margin-bottom: 40px;
-    text-align: center;
-    position: relative;
-    padding-bottom: 10px;
-}
 
-.section-title::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    /* Uklanjamo left i transform za centriranje, sada će linija početi od levog ruba */
-    left: 0; /* Osigurava da linija počinje od levog ruba naslova */
-    width: 100%; /* Linija se proteže preko cele širine naslova */
-    height: 4px; /* Debljina linije (možeš povećati na npr. 5px ako želiš još deblju) */
-    background-color: var(--primary-color);
-    border-radius: 2px;
-}
-
-/* ==== CSS ZA SEKCIJU: Destinacija Meseca (Fino i Moderno) ==== */
+/* ==== CSS ZA SEKCIJU: DESTINACIJA MJESECA (Fino i Moderno) ==== */
 .destination-of-month-section {
-    padding-top: 80px; /* Smanjen razmak iznad */
-    padding-bottom: 10px; /* Smanjen razmak ispod */
+    padding-top: 80px;
+    padding-bottom: 10px;
     text-align: center;
-    background-color: var(--light-text-color); /* DODAJTE OVU LINIJU */;
+    background-color: var(--light-text-color);
 }
-
 .destination-card {
     background-color: var(--bg-white);
     border-radius: var(--border-radius-soft);
     box-shadow: var(--shadow-light);
     display: flex;
+    width: 100%;
+    height: 90vh;
     flex-direction: column; /* Podrazumevano za mobilne */
-    align-items: center;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    color: inherit;
 }
-
 .destination-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
 }
-
+/* Izmenjen stil za desktop prikaz */
 @media (min-width: 768px) {
     .destination-card {
-        flex-direction: row; /* Za desktop */
+        flex-direction: row;
+        align-items: stretch; /* Poravnava visinu kontejnera */
         text-align: left;
     }
 }
-
 .destination-image-wrapper {
-    flex: 1;
-    min-width: 50%;
-    height: 350px; /* Fiksna visina za sliku */
+    flex: 2; /* Slika zauzima 2/3 prostora */
+    min-width: 75.00%;
+    height: 350px;
     overflow: hidden;
-    border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0; /* Gornje ivice zaobljene */
+    position: relative;
+    border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0;
 }
-
 @media (min-width: 768px) {
     .destination-image-wrapper {
-        border-radius: var(--border-radius-soft) 0 0 var(--border-radius-soft); /* Levi ugao zaobljen na desktopu */
+        border-radius: var(--border-radius-soft) 0 0 var(--border-radius-soft);
+        height: auto; /* Visina se prilagođava sadržaju */
     }
 }
-
 .destination-image-wrapper img {
     width: 100%;
     height: 100%;
@@ -1036,21 +1156,20 @@ body {
     display: block;
     transition: transform 0.5s ease;
 }
-
 .destination-card:hover .destination-image-wrapper img {
-    transform: scale(1.05); /* Suptilan zoom na hover */
+    transform: scale(1.05);
 }
-
 .destination-content {
-    flex: 1;
+    flex: 1; /* Tekst zauzima 1/3 prostora */
     padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+/* Ostali stilovi ostaju isti */
 .destination-content h2 {
     font-family: var(--font-heading);
-    font-size: 2.8em;
+    font-size: 3.8em;
     margin-bottom: 15px;
     color: var(--text-dark);
 }
@@ -1060,45 +1179,33 @@ body {
     margin-bottom: 15px;
     color: var(--text-dark);
 }
-
 .destination-content p {
     font-size: 1.1em;
     line-height: 1.7;
     margin-bottom: 25px;
-    color: var(--secondary-color); /* Malo svetlija siva */
+    color: var(--secondary-color);
 }
-/* Stil za "DESTINACIJA MESECA JUL" liniju unutar kartice */
 .destination-content .card-month-title {
-    font-weight: bold; /* Podebljava tekst */
-    text-transform: uppercase; /* Sva slova velika */
-    color: var(--primary-color); /* Ističe boju (možeš promeniti u --accent-color ako želiš crvenu) */
-    margin-bottom: 10px; /* Dodaje mali razmak ispod */
-    font-size: 1.9em; /* Malo veći font da se istakne */
+    font-weight: bold;
+    text-transform: uppercase;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-size: 1em;
 }
 
-/* Osigurava da H3 i paragrafi unutar kartice OSTAJU NORMALNI (nepodebljani) */
-.destination-card h3 {
-    font-size: 1.4em
-}
-.destination-card p {
-    font-weight: normal !important; /* Forsira normalan (nepodebljan) font */
-    color: var(--dark-text-color) !important; /* Osigurava standardnu boju teksta unutar kartice */
-}
 
-/* ==== CSS ZA SEKCIJU: Saveti za Putovanja (Fino i Moderno) ==== */
+/* ==== CSS ZA SEKCIJU - SAVJETI ZA PUTOVANJA (Fino i Moderno) ==== */
 .travel-tips-section {
     padding-top: 40px; /* Smanjen razmak iznad */
     padding-bottom: 40px; /* Smanjen razmak ispod */
     text-align: center;
 }
-
 .travel-tips-section .section-description {
     font-size: 1.15em;
     max-width: 700px;
     margin: 0 auto 50px auto;
     color: var(--secondary-color);
 }
-
 .tips-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Malo manji min-width */
@@ -1106,7 +1213,6 @@ body {
     justify-content: center;
     align-items: stretch;
 }
-
 .tip-card {
     background-color: var(--bg-white);
     border-radius: var(--border-radius-soft);
@@ -1119,40 +1225,33 @@ body {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: 1px solid var(--border-color); /* Dodatna suptilna ivica */
 }
-
 .tip-card:hover {
     transform: translateY(-8px);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
-
 .tip-icon {
     font-size: 3.5em; /* Veće ikone */
     color: var(--primary-color);
     margin-bottom: 25px;
     transition: color 0.3s ease;
 }
-
 .tip-card:hover .tip-icon {
     color: var(--primary-dark); /* Promena boje ikone na hover */
 }
-
 .tip-card h3 {
     font-family: var(--font-heading);
     font-size: 1.8em;
     margin-bottom: 15px;
     color: var(--text-dark);
 }
-
 .tip-card h3 a {
     text-decoration: none;
     color: inherit;
     transition: color 0.3s ease;
 }
-
 .tip-card h3 a:hover {
     color: var(--primary-color);
 }
-
 .tip-card p {
     font-size: 1em;
     color: var(--secondary-color);
@@ -1160,7 +1259,6 @@ body {
     flex-grow: 1;
     margin-bottom: 20px;
 }
-
 .read-more-link {
     display: inline-block;
     background-color: var(--primary-color); /* Boja dugmeta */
@@ -1173,168 +1271,20 @@ body {
     margin-top: auto;
     transition: color 0.3s ease;
 }
-
 .read-more-link i {
     margin-left: 8px;
     transition: transform 0.3s ease;
 }
-
 .read-more-link:hover {
     color: var(--primary-dark);
 }
-
 .read-more-link:hover i {
     transform: translateX(5px);
 }
 
-/* ==== OSNOVNI STILOVI DUGMADI (Ažurirano za moderniji izgled) ==== */
-.btn {
-    display: inline-block;
-    font-weight: 600; /* Malo deblji font */
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    user-select: none;
-    border: 2px solid transparent; /* Deblja ivica */
-    padding: 12px 28px; /* Veći padding */
-    font-size: 1.05rem; /* Malo veći font */
-    line-height: 1.5;
-    border-radius: var(--border-radius-soft); /* Zaobljene ivice */
-    transition: all 0.3s ease; /* Glatke tranzicije */
-    text-decoration: none;
-    cursor: pointer;
-}
-
-.btn-primary {
-    color: var(--light-light);
-    background-color: var(--primary-color);
-    border-color: var(--primary-color);
-    box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); /* Suptilna senka */
-}
-
-.btn-primary:hover {
-    background-color: var(--primary-dark);
-    border-color: var(--primary-dark);
-    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4); /* Istaknutija senka na hover */
-    transform: translateY(-2px); /* Lagani skok na hover */
-}
-
-.btn-secondary {
-    color: var(--light-dark);
-    background-color: transparent;
-    border-color: var(--secondary-color);
-}
-
-.btn-secondary:hover {
-    background-color: var(--secondary-color);
-    color: var(--text-light);
-    border-color: var(--secondary-color);
-    transform: translateY(-2px);
-}
-
-/* Dodatak za bolju responsivnost, ako već nemate: */
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* Osnovni stilovi za linkove u telu (ako već nemate) */
-a {
-    color: var(--primary-color);
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
-
-/* Centriranje teksta za opise sekcija */
-.section-description {
-    text-align: center;
-    margin-top: -20px; /* Prilagođeno da se bolje pozicionira ispod naslova */
-    margin-bottom: 60px;
-}
-/* --- Media Query za mobilne uređaje i manje tablete --- */
-@media (max-width: 768px) {
-    /* Prilagođavanja za HEADER */
-    /* .main-header .container stilovi su već gore definisani, samo ih kopiram da se vidi kompletna slika */
-    .main-header > .container {
-        display: flex; /* Osiguraj da je kontejner flexbox */
-        justify-content: space-between; /* Razmakni logo i hamburger */
-        align-items: center; /* Vertikalno poravnaj */
-        padding: 10px 15px; /* Prilagodi padding hedera na mobilnom */
-        flex-wrap: nowrap; /* Spreči prelamanje elemenata, da ostanu u jednom redu */
-    }
-   
-    /* Ostali mobilni stilovi */
-    .featured-cards-grid,
-
-    .subtitle-text { /* Dodaj i za mobilni podnaslov */
-        font-size: 1.5em;
-    }
-}
-    /* Ostali mobilni stilovi */
-    .featured-cards-grid,
-
-    .subtitle-text { /* Dodaj i za mobilni podnaslov */
-        font-size: 1.5em;
-    }
-/* Stilovi za kontejner liste članaka na stranici kategorije/sekcije */
-.articles-list-container {
-    display: grid; /* Koristi grid za slaganje horizontalnih kartica */
-    grid-template-columns: 1fr; /* Jedna kolona po širini, kartica ce biti uska po defaultu, a max-width kontejnera je kontroliše */
-    gap: 25px; /* Razmak između kartica */
-    margin-top: 30px;
-}
-
-/* Stilovi za pojedinačnu horizontalnu karticu članka */
-.article-card-horizontal {
-    display: flex; /* Omogućava horizontalni raspored unutar kartice */
-    align-items: center; /* Vertikalno poravnanje sadržaja (slika i tekst) */
-    background-color: var(--light-text-color); /* Bela pozadina */
-    border-radius: var(--border-radius-soft); /* Zaobljene ivice */
-    box-shadow: var(--shadow-light); /* Senka za "dubinu" */
-    overflow: hidden; /* Osigurava da se sadržaj lepo seče unutar granica */
-    text-decoration: none; /* Uklanja podvlačenje sa linka */
-    color: var(--dark-text-color); /* Boja teksta */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Glatka animacija */
-    padding: 15px; /* Unutrašnji razmak oko sadržaja kartice */
-    max-width: 900px; /* Ogranici maksimalnu sirinu kartice na 900px */
-    margin-left: auto; /* Centriraj karticu unutar njenog kontejnera */
-    margin-right: auto; /* Centriraj karticu unutar njenog kontejnera */
-}
-
-.article-card-horizontal:hover {
-    transform: translateY(-5px); /* Mali efekat podizanja pri prelasku mišem */
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12); /* Jača senka na hover */
-}
-
-.article-card-horizontal .image-container {
-    flex-shrink: 0; /* Sprečava smanjivanje slike */
-    width: 220px; /* Fiksna širina za sliku u kartici (možeš podesiti) */
-    height: 150px; /* Fiksna visina za sliku */
-    margin-right: 25px; /* Razmak između slike i teksta */
-    border-radius: var(--border-radius-soft); /* Zaobljene ivice slike */
-    overflow: hidden;
-}
-.article-card-horizontal h2 {
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 1.8em; /* Veći naslov */
-    color: var(--secondary-color); /* Boja naslova */
-}
-.article-card-horizontal .read-more-btn {
-    display: inline-block;
-    background-color: var(--primary-color); /* Boja dugmeta */
-    color: var(--light-text-color); /* Boja teksta dugmeta */
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 0.95em;
-    align-self: flex-start; /* Dugme je poravnato levo */
-}
-
-/* Stilovi za istaknuti box (callout) */
+/* ========================================= */
+/* STILOVI ZA ISTAKNUTE BOXOVE */
+/* ========================================= */
 .highlight-box {
     background-color: var(--theme-lightblue-color); /* Boja pozadine, prilagodi po želji (npr. #e0f7fa) */
     border-left: 8px solid var(--primary-color); /* Deblja leva ivica */
@@ -1348,7 +1298,6 @@ a:hover {
     align-items: center;
     text-align: center;
 }
-
 .highlight-box h3 {
     color: var(--light-text-color); /* Boja naslova unutar boxa */
     margin-top: 0;
@@ -1357,13 +1306,11 @@ a:hover {
     font-weight: bold;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 }
-
 .highlight-box p {
     font-size: 1.1em;
     line-height: 1.6;
     color: var(--light-text-color);
 }
-
 /* Stilovi za "Brzi savet" box */
 .tip-box {
     background-color: var(--theme-green-color); /* Zelena boja za savete */
@@ -1374,7 +1321,6 @@ a:hover {
     box-shadow: var(--shadow);
     color: var(--light-text-color);
 }
-
 .tip-box h3 {
     color: var(--light-text-color);
     margin-top: 0;
@@ -1382,7 +1328,6 @@ a:hover {
     font-size: 1.6em;
     font-weight: bold;
 }
-
 .article-content .tip-box p {
     font-size: 1.3rem;
     line-height: 1.4em;
@@ -1390,72 +1335,11 @@ a:hover {
     font-family: 'Playfair Display', sans-serif;
     font-weight: 400;
 }
-
 /* Stil za naglašeni tekst u samom paragrafu */
 .highlight-text {
     color: var(--primary-color); /* Koristi primarnu boju za isticanje */
     font-weight: bold;
     text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1); /* Blaga senka za bolju čitljivost */
-}
-
-/* Osnovna stilizacija za single članak da ne ide baš preko celog ekrana */
-.single-article-content {
-    max-width: 900px; /* Maksimalna širina sadržaja članka */
-    margin: 0 auto; /* Centriranje članka */
-    padding: 20px;
-    background-color: var(--light-text-color); /* Pozadina belog bloka članka */
-    box-shadow: var(--shadow);
-    border-radius: var(--border-radius);
-    line-height: 1.7; /* Bolja čitljivost teksta */
-    font-size: 1.05em;
-}
-
-.single-article-content h1,
-.single-article-content h2,
-.single-article-content h3 {
-    color: var(--secondary-color);
-    margin-top: 40px;
-    margin-bottom: 20px;
-}
-
-.single-article-content ul {
-    list-style-type: disc;
-    margin-left: 25px;
-    margin-bottom: 20px;
-}
-.single-article-content ul li {
-    margin-bottom: 8px;
-}
-/* Stilovi za liste unutar .article-content */
-.article-content ul {
-    list-style-type: disc;
-    margin-left: 25px; /* Pomeri listu malo udesno */
-    margin-bottom: 25px;
-    padding-left: 0;
-}
-.article-content ul li {
-    margin-bottom: 10px; /* Veći razmak između stavki liste */
-}
-
-.article-content ol {
-    list-style-type: decimal;
-    margin-left: 25px; /* Pomeri listu malo udesno */
-    margin-bottom: 25px;
-    padding-left: 0;
-}
-.article-content ol li {
-    margin-bottom: 10px; /* Veći razmak između stavki liste */
-}
-/* Stilovi za linkove unutar .article-content */
-.article-content a {
-    color: var(--primary-color); /* Koristi primarnu boju za linkove */
-    text-decoration: none; /* Ukloni podvlačenje po defaultu */
-    transition: color 0.3s ease-in-out; /* Glatka tranzicija boje */
-}
-
-.article-content a:hover {
-    color: var(--secondary-color); /* Promeni boju na hover */
-    text-decoration: underline; /* Dodaj podvlačenje na hover */
 }
 
 /* Stilizacija za hero sliku članka */
@@ -1467,7 +1351,6 @@ a:hover {
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
 }
-
 .single-article-hero img {
     width: 100%;
     height: 100%;
@@ -1483,221 +1366,69 @@ blockquote {
     /* border-radius: var(--border-radius); /* UKLONJENO */
     /* box-shadow: var(--shadow); /* UKLONJENO */
 }
-
 blockquote p {
     margin-bottom: 0; /* Bez dodatnog razmaka za pasuse unutar citata */
 }
-/* Stil za podnaslov u karticama "Najnoviji Članci" */
-.article-card-latest-content .article-card-subtitle {
-    font-size: 0.95em; /* Malo manji font od naslova */
-    color: var(--dark-text-color); /* Koristi tamnu boju teksta */
-    opacity: 0.85; /* Blago providan za manje isticanje */
-    margin-top: 5px; /* Mali razmak iznad */
-    margin-bottom: 10px; /* Razmak pre opisa */
-    font-weight: 800; /* Normalna debljina fonta */
-    line-height: 1.4;
-}
-.latest-articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Kreira responsivnu rešetku sa najmanjom širinom od 300px */
-    gap: 30px; /* Razmak između kartica */
-    margin-top: 40px; /* Razmak iznad rešetke */
-}
-.latest-articles-section {
-    padding-top: 100px; /* Povećan razmak iznad sekcije */
-    padding-bottom: 60px; /* Povećan razmak ispod sekcije */
-    text-align: center;
-}
-.main-content-area .section-title, /* Za list.html */
-.single-post-section .main-rome-title, /* Za single.html */
-.article-content h3 { /* NOVO: Za podnaslove (H3) unutar članka */
-    color: var(--secondary-color); /* Univerzalna boja za glavni naslov i naslove sekcija */
-    border-bottom: 3px solid var(--current-section-color, var(--primary-color)); /* Tema boja za donju liniju */
-    padding-bottom: 10px;
-    margin-bottom: 20px;
-    display: inline-block; /* Da bi border-bottom radio samo ispod teksta */
-}
-/* Stil za istaknute reči/fraze */
-.highlight-text {
-    color: var(--accent-color); /* Koristi akcentnu boju (crvenu #e74c3c) za isticanje */
-    font-weight: bold; /* Podebljava istaknuti tekst */
-}
-/* Stil za naslov (H3) unutar kartica "Izdvojene Teme" */
-.topic-card .overlay-content h3 {
-    /* Trenutna boja teksta bi trebalo da bude bela (ili var(--light-text-color)) */
-    color: var(--light-text-color); 
-    
-    /* DODAJ OVO ZA TAMNIJU POZADINU NASLOVA */
-    background-color: rgba(5, 5, 5, 0.507); /* Tamno crna sa 70% providnosti */
-    /* Alternativno, možeš koristiti neku od tvojih tamnijih varijabli: */
-    /* background-color: var(--secondary-color); */ /* Tamno plava */
-    /* background-color: var(--dark-bg-color); */ /* Još tamnija plava */
-    
-    padding: 8px 15px; /* Dodaje razmak oko teksta i pozadine */
-    display: inline-block; /* Osigurava da se pozadina primeni samo na širinu teksta */
-    border-radius: var(--border-radius); /* Blago zaobljeni uglovi pozadine */
-    
-    /* Osiguraj da je iznad drugih elemenata ako je potrebno */
-    position: relative;
-    z-index: 2; 
-}
-
-/* Jedinstven stil za SVE naslove sekcija na početnoj strani */
-.featured-topics-section h2,
-.latest-articles-section .section-title,
-.destination-of-month-section .section-title,
-.travel-tips-section .section-title {
-    font-family: 'Roboto', sans-serif; /* Tvoj izabrani font */
-    font-size: 2.5em; /* Tvoja izabrana veličina */
-    font-weight: bold; /* Bold tekst */
-    color: var(--dark-text-color);
-    text-transform: uppercase;
-    margin-bottom: 30px;
-    position: relative; /* Ključno za pozicioniranje zelene linije */
-    padding-bottom: 10px; /* Razmak između teksta i linije */
-    display: inline-block; /* Naslov se sada skuplja na širinu svog sadržaja (teksta) */
-}
-/* Centriranje naslova sekcija (koji su sada inline-block) */
-.featured-topics-section,
-.latest-articles-section,
-.destination-of-month-section,
-.travel-tips-section {
-    text-align: center; /* Centriranje svih inline-block elemenata unutar ovih sekcija */
-}
-/* Zelena linija ispod svih naslova sekcija na početnoj strani */
-.featured-topics-section h2::after,
-.latest-articles-section .section-title::after,
-.destination-of-month-section .section-title::after,
-.travel-tips-section .section-title::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%; /* Sada 100% od širine TEKSTA naslova */
-    height: 4px;
-    background-color: var(--theme-green-color);
-    border-radius: 2px;
-}
-  
-/* ---- STILOVI ZA DUGME "POGLEDAJ SVE ČLANKE" ---- */
-.section-button-container {
-    text-align: center; /* Centriranje dugmeta unutar njegovog kontejnera */
-    margin-top: 60px; /* Dodaje razmak iznad dugmeta */
-    margin-bottom: 60px; /* Dodaje razmak ispod dugmeta (opciono) */
-}
-/* Osnovni stilovi za dugme "Pogledaj sve članke" */
-.button-primary {
-    display: inline-block; /* Ponaša se kao inline, ali prihvata padding, širinu, visinu */
-    background-color: var(--primary-color); /* Plava pozadina dugmeta */
-    color: var(--light-text-color); /* Beli tekst dugmeta */
-    padding: 8px 20px; /* Padding oko teksta: 8px gore/dole, 20px levo/desno (prilagodi po želji) */
-    border-radius: var(--border-radius); /* Zaobljeni uglovi dugmeta */
-    text-decoration: none; /* Uklanja podvlačenje linka */
-    font-weight: bold; /* Podebljava tekst */
-    font-size: 1em; /* Veličina fonta dugmeta (možeš prilagoditi) */
-    transition: background-color var(--transition-speed) ease; /* Animacija promene pozadine na hover */
-}
-/* Stil za dugme kada pređeš mišem preko njega */
-.button-primary:hover {
-    background-color: #0056b3; /* Tamnija plava na hover */
-}
-
-/* Stil za Info Box - Plava boja */
-.info-box {
+/* Stil za Info Box */
+.info-box-container {
+    flex-basis: 50%;
+    /* Originalni stilovi iz tvog fajla */
     background-color: #e0f2f7; /* Svetlo plava pozadina */
     border-left: 5px solid #2196F3; /* Jača plava linija sa leve strane */
     padding: 20px;
-    margin: 30px 0;
-    border-radius: var(--border-radius); /* Koristi tvoj definisani border-radius */
-    box-shadow: var(--light-shadow); /* Koristi tvoj definisani shadow */
+    border-radius: var(--border-radius);
+    box-shadow: var(--light-shadow);
+    min-width: 280px;
 }
 
-.info-box h3 {
-    color: #1976D2; /* Tamnija plava za naslov */
+.info-box-container h3 {
+    color: #1976D2;
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 1.4em;
-    text-align: center; /* Centriraj naslov */
+    text-align: center;
 }
 
-.info-box ul {
-    list-style-type: none; /* Ukloni podrazumevane bullet poene */
+.info-box-container ul {
+    list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
-.info-box ul li {
+.info-box-container ul li {
     margin-bottom: 8px;
     line-height: 1.5;
     color: var(--dark-text-color);
-    display: flex; /* Omogućava poravnanje labela */
+    display: flex;
     align-items: baseline;
 }
 
-.info-box ul li strong {
-    color: #0d47a1; /* Tamnija plava za boldovan tekst (labele) */
-    min-width: 120px; /* Osigurava da labele imaju fiksnu širinu za poravnanje */
+.info-box-container ul li strong {
+    color: #0d47a1;
+    min-width: 120px;
     display: inline-block;
 }
-/* Stil za omotač (container) koji će držati box i sliku jedan pored drugog */
-.content-with-image-layout {
-    display: flex; /* Koristi flexbox za raspored */
-    flex-wrap: wrap; /* Dozvoljava elementima da pređu u novi red ako nema mesta */
-    gap: 20px; /* Razmak između boxa i slike */
-    align-items: stretch; /* Ključna promena: Razvlači elemente da popune istu visinu */
-    margin: 30px 0; /* Gornja i donja margina */
+/* Stilovi za sliku unutar Flexbox kontejnera */
+.content-with-image-layout img {
+    flex-basis: calc(50% - 1rem); /* Prilagođena širina da se uklopi sa gapom */
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
-.content-with-image-layout > div,
-.content-with-image-layout > figure {
-    flex: 1; /* Dozvoli im da zauzmu dostupan prostor podjednako */
-    min-width: 300px; /* Minimalna širina pre nego što pređu u novi red */
-    box-sizing: border-box; /* Uključi padding i border u širinu */
-    /* Dodatno: Osiguraj da figure ima definisanu visinu ako je potrebno */
-    display: flex; /* Nateraj figure da bude flex kontejner */
-    flex-direction: column; /* Sadržaj unutar figure se slaže vertikalno */
-}
+/* Responsivni dizajn: Na mobilnom se slažu jedan ispod drugog */
+@media (max-width: 768px) {
+    .content-with-image-layout {
+        flex-direction: column;
+        gap: 1rem;
+    }
 
-/* Stil za sliku unutar figure */
-.content-with-image-layout > figure img {
-    display: block; /* Uklanja dodatni prostor ispod slike */
-    width: 100%; /* Slika zauzima celu širinu figure */
-    height: 100%; /* Slika zauzima celu visinu figure */
-    object-fit: cover; /* Osigurava da slika popuni prostor zadržavajući proporcije (može doći do blagog isecanja) */
-    flex-grow: 1; /* Omogućava slici da se razvuče i popuni dostupan prostor unutar figure */
+    .info-box-container, .content-with-image-layout img {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
 }
-
-/* Prilagodbe za info box unutar ovog rasporeda, ako su potrebne */
-.content-with-image-layout .info-box {
-    margin: 0; /* Ukloni podrazumevanu marginu jer se sada kontroliše preko layouta */
-    height: 100%; /* Osiguraj da info-box zauzima punu visinu */
-    display: flex; /* Nateraj info-box da bude flex kontejner */
-    flex-direction: column; /* Sadržaj unutar info-boxa se slaže vertikalno */
-}
-/* Stil za ikonicu unutar info boxa */
-.info-box-icon {
-    height: 1.2em; /* Visina ikonice jednaka visini teksta */
-    width: auto; /* Automatska širina da zadrži proporcije */
-    vertical-align: middle; /* Poravnaj ikonicu sa sredinom teksta */
-    margin-right: 8px; /* Mali razmak između ikonice i teksta */
-    display: inline-block; /* Osigurava da se vertikal-align primeni */
-}
-
-/* Ako je potrebno malo prilagoditi h3 unutar info boxa zbog ikonice */
-.info-box h3 {
-    display: flex; /* Koristi flexbox za poravnanje sadržaja unutar h3 */
-    align-items: center; /* Centriraj elemente vertikalno */
-    justify-content: center; /* Centriraj elemente horizontalno */
-    /* ...ostali postojeći stilovi za h3... */
-}
-/* Osnovni stil za kontejner kartica */
-/* Osnovni stil za kontejner kartica */
-.balkan-cards-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0;
-    justify-content: center;
-}
+  
 /* ==========================================================================
    Stilovi za Koracima Balkana sekciju
    ========================================================================== */
@@ -1724,7 +1455,7 @@ blockquote p {
     left: 0;
     width: 100%;
     height: 4px;
-    background-color: var(--theme-green-color);
+    background-color: var(--primary-color);
     border-radius: 2px;
 }
 
@@ -1822,6 +1553,7 @@ blockquote p {
         letter-spacing: 0px;
     }
 }
+
 /* Animacija promene boje teksta na hover */
 .balkan-card .card-title,
 .balkan-card .card-subtitle {
@@ -1849,7 +1581,6 @@ blockquote p {
     margin-top: 40px;
     margin-bottom: 40px;
 }
-
 .nav-arrow {
     display: flex;
     justify-content: center;
@@ -1864,34 +1595,20 @@ blockquote p {
     font-weight: bold;
     transition: all 0.3s ease;
 }
-
 .nav-arrow:hover {
     background-color: var(--theme-green-color);
     color: white;
 }
-
 .nav-title {
     margin: 0 20px;
     font-size: 1.2em;
     font-weight: bold;
     color: var(--dark-text-color);
 }
-/* =============================
-   IMPORT FONTOVA
-   ============================= */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-
 
 /* =====================================
    PODESAVANJA ZA RAZMAKE I BOJE SEKCIJA
    ===================================== */
-
-/* Izdvojene Teme: Bela pozadina i veći razmak */
-.featured-topics-section {
-    padding: 120px 0 60px;
-    background-color: var(--light-text-color);
-    text-align: center;
-}
 
 /* Najnoviji Članci: Svetlo siva pozadina */
 .latest-articles-section {
@@ -1922,76 +1639,6 @@ blockquote p {
     text-align: center;
 }
 
-
-/* =============================
-   STILOVI ZA NASLOVE SEKCIJA
-   ============================= */
-
-/* Primenjuje Playfair Display i razmak na sve naslove sekcija */
-.featured-topics-section h2,
-.latest-articles-section .section-title,
-.balkan-section .section-title,
-.destination-of-month-section .section-title,
-.travel-tips-section .section-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.5em; /* Ili prilagodite veličinu po želji */
-    font-weight: 700;
-    letter-spacing: 1px; /* Razmak između slova */
-    color: var(--dark-text-color);
-    text-transform: uppercase;
-    margin-bottom: 30px;
-    position: relative;
-    padding-bottom: 10px;
-    display: inline-block;
-}
-
-/* Stil za liniju ispod naslova ostaje nepromenjen */
-.featured-topics-section h2::after,
-.latest-articles-section .section-title::after,
-.balkan-section .section-title::after,
-.destination-of-month-section .section-title::after,
-.travel-tips-section .section-title::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 4px;
-    background-color: var(--theme-green-color);
-    border-radius: 2px;
-}
-/* ========================================= */
-/* ISPRAVKA ZA KARTICE NA SEKCIJAMA (samo na mobilnom) */
-/* ========================================= */
-
-@media (max-width: 768px) {
-    /* Menja raspored kartica u vertikalan */
-    .article-card-horizontal {
-        flex-direction: column !important;
-        border-radius: var(--border-radius-soft) !important;
-    }
-
-    /* Prilagođava kontejner slike */
-    .article-card-horizontal .image-container {
-        width: 100% !important;
-        height: 200px !important;
-        border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0 !important;
-    }
-
-    /* Prilagođava samu sliku unutar kontejnera */
-    .article-card-horizontal .image-container img {
-        width: 100% !important;
-        height: 100% !important;
-        object-fit: cover !important;
-        border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0 !important;
-    }
-
-    /* Prilagođava kontejner sa tekstom */
-    .article-card-horizontal .content-container {
-        width: 100% !important;
-        padding: 15px !important;
-    }
-}
 /* ========================================= */
 /* KONAČNA ISPRAVKA ZA MOBILNI HEADER */
 /* ========================================= */
@@ -2003,7 +1650,6 @@ blockquote p {
     align-items: flex-start !important; /* Promenjeno: Poravnava sadržaj na levu stranu */
     padding-left: 20px !important; /* Dodaje razmak sa leve strane */
   }
-
   /* Prikazuje hamburger dugme u gornjem desnom uglu */
   .hamburger {
     display: block !important;
@@ -2011,7 +1657,6 @@ blockquote p {
     top: 20px !important;
     right: 20px !important;
   }
-  
   /* Prikazuje glavnu navigaciju kao traku ispod naslova */
   .main-nav-primary {
     display: block !important;
@@ -2021,7 +1666,6 @@ blockquote p {
     overflow-x: auto !important;
     white-space: nowrap !important;
   }
-
   .main-nav-primary ul {
     display: flex !important;
     flex-direction: row !important;
@@ -2029,34 +1673,344 @@ blockquote p {
     padding: 0 !important;
     margin: 0 !important;
   }
-
   .main-nav-primary li {
     padding: 0 5px !important;
   }
-
   .main-nav-primary a {
     font-size: 1em !important;
   }
 }
-/* ========================================= */
-/* KONAČNA ISPRAVKA ZA HERO SLIKU U ČLANCIMA */
-/* ========================================= */
 
+/* ========================================= */
+/* STILOVI ZA UŽIVO I NAJČITANIJE */
+/* ========================================= */
+.quote-horoscope-section {
+    padding: 80px 0; /* Povećan padding za više prostora iznad i ispod */
+    background-color: var(--alternate-bg-color);
+}
+/* Stilovi za roditeljski element koji sadrži obe kocke */
+.two-column-grid {
+    display: grid;
+    grid-template-columns: 2.1fr 1fr;
+    grid-gap: 10px; /* Povećan razmak između kocki */
+    align-items: stretch;
+}
+/* Stilovi za svaku od kocki pojedinačno */
+.quote-card-container,
+.horoscope-card-container {
+    background-color: var(--light-text-color);
+    border-radius: var(--border-radius);
+    padding: 60px 40px; /* Povećan vertikalni padding unutar kocki */
+    box-shadow: var(--shadow);
+    text-align: center;
+    /* Ključno: Eksplicitno podešena minimalna visina */
+    min-height: 400px; 
+}
+/* Medijski upit za mobilne uređaje */
 @media (max-width: 768px) {
-  /*
-    Ovo je ključna izmena. Slika se postavlja na 100% širine ekrana,
-    a onda se centrira pomoću transformacije, čime se izbegava
-    prelivanje.
-  */
-  .article-content img {
-    position: relative !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    max-width: 100vw !important; /* Osigurava da slika ne prelazi širinu ekrana */
-    width: 90vw !important; /* Zauzima tačno 100% širine ekrana */
-    height: 250px !important;
-    object-fit: cover !important;
-    margin: 0 !important;
-    display: block !important;
-  }
+    .two-column-grid {
+        grid-template-columns: 1fr;
+        gap: 20px; /* Dodaje razmak od 20px između kolona */
+    }
+}
+/* Kontejner */
+.whats-now {
+  padding: 0.5rem;
+  background: #f5f5f5;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+/* Stil za UŽIVO naslov */
+.whats-now h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  letter-spacing: 0.1em;
+  animation: blink 1s infinite;
+  color: #e74c3c;
+}
+/* Stilovi za sliku: Povećana i responsivna */
+.whats-now img {
+  width: 100%; /* Osigurava da slika ide od ivice do ivice kontejnera */
+  height: 400px; /* Povećana fiksna visina za veći prikaz */
+  object-fit: cover; /* KLJUČNO: Garantuje da se slika ne izobličuje */
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+/* Stilovi za tekst (naziv grada i podaci) */
+.whats-now h3 {
+  font-size: 1.6em;
+}
+/* Podebljava i povećava ostali tekst (vreme, valuta, itd.) */
+.whats-now p {
+  font-size: 0.8em;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@media (max-width: 768px) {
+    /* Smanjuje visinu slike unutar UŽIVO kontejnera */
+    .whats-now img {
+        height: 250px; /* Smanjena visina za mobilni prikaz */
+    }
+    /* Prilagođavanje veličine fontova za mobilni */
+    .whats-now h2 {
+        font-size: 1rem;
+    }
+    .whats-now h3 {
+        font-size: 1.4em;
+    }
+    .whats-now p {
+        font-size: 0.7em;
+    }
+}
+/* Animacija treperenja */
+@keyframes blink {
+  50% { opacity: 0; }
+}
+.country-flag {
+    vertical-align: middle;
+    margin-left: 8px;
+    height: 18px !important;
+    width: auto !important;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    filter: contrast(200%); /* Dodaje oštrinu zastavi */
+    transform: translateY(-10px); /* Podiže zastavu za 1 piksel gore */
+}
+/* Flexbox kontejner za jednaku visinu na desktopu i mobilnom */
+.topics-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: stretch; /* Ključno za jednaku visinu */
+}
+/* Stilovi za isticanje TOP teme */
+.most-read-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    text-decoration: none;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+    /* Dodajemo prelaz za sliku da bi zumiranje bilo glatko */
+    transition: background-size 0.5s ease;
+}
+/* Efekat zumiranja i tamnjenja na hover */
+.most-read-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    background-size: 150%; /* Zumiranje slike */
+}
+/* Pseudo-element za tamniju pozadinu slike na hover */
+.most-read-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent; /* Početno providno */
+    transition: background-color 0.5s ease;
+    z-index: 0;
+}
+/* Kontejner za naslov i opis */
+.most-read-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    /* Povećana visina trake da stane i opis */
+    width: 50%;
+    height: 120px; /* Povećana visina trake (30px * 4 = 120px) */
+    padding: 16px 24px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+    z-index: 1;
+}
+/* Tekst unutar bele trake */
+.most-read-title {
+    font-size: 2.5rem;
+    margin: 0 0 8px 0;
+    font-weight: bold;
+    color: #222;
+    z-index: 2;
+}
+.most-read-description {
+    display: block; /* Opis je sada vidljiv */
+    font-size: 0.9rem;
+    color: #555;
+    margin: 0;
+    z-index: 2;
+}
+
+.most-read-title {
+    /* Vaši postojeći stilovi... */
+    position: relative; /* Ključno za pozicioniranje pseudo-elemenata */
+    padding-bottom: 8px; /* Dodaje prostor za donju liniju */
+    display: inline-block; /* Omogućava da se pozadina i linije prilagode širini teksta */
+    z-index: 2;
+    transition: all 0.3s ease; /* Glatka tranzicija za boju i transformaciju */
+}
+
+/* Pseudo-elementi za gornju i donju liniju */
+.most-read-title::before,
+.most-read-title::after {
+    content: '';
+    position: absolute;
+    height: 3px;
+    background-color: var(--theme-green-color);
+    transition: width 0.3s ease-in-out; /* Animacija širine */
+}
+
+/* Početno stanje: Linije su nevidljive */
+.most-read-title::before {
+    top: 0;
+    left: 0;
+    width: 0;
+}
+.most-read-title::after {
+    bottom: 0;
+    right: 0;
+    width: 0;
+}
+
+/* Stanje kada se pređe mišem: Linije se pojave */
+.most-read-title:hover::before,
+.most-read-title:hover::after {
+    width: 100%; /* Povećava širinu linija do 100% */
+}
+
+    
+   /* RESPONSIVNI DIZAJN ZA MOBILNI */
+@media (max-width: 768px) {
+    .topics-container {
+        flex-direction: column;
+    } 
+    .most-read-card, .topic-card {
+        width: 100%;
+        min-height: 300px;
+    }
+    /* Traka na mobilnom: širina 50% i prilagođavanje teksta */
+    .most-read-content {
+        width: 50%;
+        height: 30%;
+        padding: 16px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .most-read-title {
+        font-size: 1.25rem;
+        white-space: normal; /* Dozvoljava prelamanje teksta */
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .most-read-description {
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Ograničava na 2 reda */
+    -webkit-box-orient: vertical;
+    line-clamp: 2; /* Dodano za kompatibilnost */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 0.95rem;
+    margin: 2px 0 0 0;
+    color: #555;
+}
+}
+
+/* Stilovi za bedž "NAJČITANIJE" */
+@keyframes pulse-top {
+    0% { opacity: 1; }
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
+}
+.most-read-card::before {
+    content: "NAJČITANIJE";
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: var(--accent-color, #e63946);
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: bold;
+    padding: 4px 10px;
+    border-radius: 8px;
+    z-index: 2;
+    box-shadow: 0 0 10px rgba(230, 57, 70, 0.7);
+    animation: pulse-top 2s infinite;
+}
+
+/* Stilovi za Flexbox kontejner (info box + slika) */
+.content-with-image-layout {
+    display: flex;
+    flex-wrap: wrap; /* Omogućava prelamanje na manjim ekranima */
+    gap: 2rem;
+    align-items: stretch; /* Ključno: Osigurava da oba elementa imaju istu visinu */
+    margin: 2rem 0;
+}
+/* ==== STIL ZA SVE NASLOVE SEKCIJA ==== */
+.section-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em; 
+    font-weight: bold; 
+    color: var(--dark-text-color);
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    position: relative;
+    padding-bottom: 10px; 
+    display: inline-block;
+}
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: var(--primary-color);
+    border-radius: 2px;
+}
+
+/* ---- RASPON ZA INFO KUTIJU I SLIKU - članak o gradovima RIM i budući ---- */
+.content-with-image-layout {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: stretch; /* Ključno: Osigurava da oba elementa imaju istu visinu */
+    margin: 2rem 0;
+}
+
+/* Stilovi za info kutiju */
+.info-box-container {
+    flex: 1; /* Omogućava da se element širi i skuplja */
+    min-width: 300px; /* Sprečava da kutija postane preuska na manjim ekranima */
+}
+
+/* Stilovi za sliku */
+.article-image-box {
+    flex: 1;
+    margin: 0; /* Uklanja podrazumevane margine `figure` taga */
+    display: flex;
+}
+
+
+/* Responsivni dizajn za mobilne uređaje */
+@media (max-width: 768px) {
+    .content-with-image-layout {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    .info-box-container,
+    .article-image-box {
+        flex-basis: 100%;
+    }
 }

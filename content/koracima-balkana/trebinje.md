@@ -1,5 +1,5 @@
 ---
-title: "Trebinje"
+title: "Trebinje - Gde istorija šapuće s kamenih zidova, a vino teče u potocima"
 subtitle: "Mediteranski duh Hercegovine pod stogodišnjim platanima"
 slug: "trebinje"
 date: 2025-07-06T12:00:00+02:00
@@ -17,7 +17,7 @@ tags:
 draft: false
 ---
 
-### Gde istorija šapuće s kamenih zidova, a vino teče u potocima
+
 
 Postoje gradovi koji se samo posećuju, i oni koji se doživljavaju svim čulima. Trebinje, smešteno na samom jugu Hercegovine, nedaleko od jadranske obale, pripada ovoj drugoj grupi. To je grad u kojem mediteranski šarm pleše sa bogatom balkanskom istorijom, a lagani ritam života teče u skladu sa smaragdnom Trebišnjicom. Trebinje je poznato kao grad sunca, kamena i platana, i sa skoro 300 sunčanih dana godišnje, ova reputacija je potpuno zaslužena. Vazduh je ovde ispunjen mirisom mediteranskog bilja, dok sunčevi zraci prelamaju preko kamenih fasada i stvaraju igru svetlosti i senki koja grad čini živopisnim.
 

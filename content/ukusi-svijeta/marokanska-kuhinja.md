@@ -30,8 +30,7 @@ Srž marokanske kuhinje leži u savršenoj harmoniji slatkog i slanog, kiselog i
 >Marokanska kuhinja je duboko posvećena <span class="highlight-text">**gostoprimstvu (Diyafa)**</span>. Svaki obrok je prilika za okupljanje, deljenje i uživanje. Jela se tradicionalno serviraju na velikim zajedničkim tanjirima, podstičući zajedničko obedovanje i interakciju, često jedući rukama. Spremnost da se deli hrana je ukorenjena vrednost koja se ogleda u svakom obroku.
 
 <figure class="article-image-box">
-  <img src="/slike/maroko-kuhinja/maroko-kuhinja1.jpg" alt="Različiti začini u posudama na marokanskom bazaru">
-  <figcaption>Šareni svet marokanskih začina: kumin, kurkuma, paprika i tajanstveni Ras el Hanout čekaju da obogate svako jelo.</figcaption>
+  <img src="/slike/maroko-kuhinja/maroko-kuhinja1.jpg">
 </figure>
 
 ---
@@ -47,8 +46,7 @@ Iako su `tagine` i `kus-kus` centralni, marokansko kulinarsko bogatstvo nudi mno
 * **Tanjia:** Jelo specifično za Marakeš, sporo kuvano u zemljanom ćupu. Sastoji se od jagnjetine, cimeta, kumina, šafrana i ukiseljenog limuna, rezultirajući neverovatno nežnim mesom.
 
 <figure class="article-image-box">
-  <img src="/slike/maroko-kuhinja/maroko-kuhinja2.jpg" alt="Tipičan marokanski tagine sa piletinom, maslinama i povrćem">
-  <figcaption>Tagine, srce marokanske kuhinje, simbol gostoprimstva i tradicije, spreman da obraduje sva čula.</figcaption>
+  <img src="/slike/maroko-kuhinja/maroko-kuhinja2.jpg">
 </figure>
 
 ---
@@ -71,7 +69,7 @@ Poseta Maroku ne bi bila potpuna bez istraživanja živahne ulične scene, poseb
 * **Baghrir:** Sunđeraste palačinke sa hiljadu rupa, <span class="highlight-text">natopljene medom i maslacem</span>.
 
 <figure class="article-image-box">
-  <img src="/slike/maroko-kuhinja/maroko-kuhinja3.jpg" alt="Različiti začini u posudama na marokanskom bazaru">
+  <img src="/slike/maroko-kuhinja/maroko-kuhinja3.jpg">
 </figure>
 
 * **Zaalouk:** Dimljena salata od patlidžana i paradajza.

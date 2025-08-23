@@ -1,0 +1,9 @@
+{{ $mostRead := where .Site.RegularPages "Params.most_read" true }}
+{{ with index $mostRead 0 }}
+<a href="{{ .RelPermalink }}" class="most-read-card" style="background-image: url('{{ .Params.image }}');">
+    <div class="most-read-content">
+        <h3 class="most-read-title">{{ .Title }}</h3>
+        <p class="most-read-description">{{ .Description }}</p>
+    </div>
+</a>
+{{ end }}
