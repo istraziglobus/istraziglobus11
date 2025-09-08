@@ -1122,7 +1122,18 @@ a:hover {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     text-decoration: none;
     color: inherit;
+     position: relative; /* Dodano za pozicioniranje linija */
 }
+.destination-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 4px;
+    background-color: var(--theme-green-color); /* Zelena boja linije */
+    transition: width 0.3s ease-in-out;
+} 
 .destination-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
@@ -1169,21 +1180,61 @@ a:hover {
 /* Ostali stilovi ostaju isti */
 .destination-content h2 {
     font-family: var(--font-heading);
-    font-size: 3.8em;
+    font-size: 2.8em;
     margin-bottom: 15px;
     color: var(--text-dark);
+    position: relative;
+}
+.destination-content h2::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 3px;
+    background-color: var(--theme-green-color);
+    transition: width 0.3s ease-in-out;
 }
 .destination-content h3 {
     font-family: var(--font-heading);
-    font-size: 2em;
+    font-size: 1.5em;
     margin-bottom: 15px;
     color: var(--text-dark);
+    position: relative;
+}
+.destination-content h3::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    background-color: var(--theme-green-color);
+    transition: width 0.3s ease-in-out;
 }
 .destination-content p {
     font-size: 1.1em;
     line-height: 1.7;
     margin-bottom: 25px;
     color: var(--secondary-color);
+    position: relative;
+}
+.destination-content p::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    background-color: var(--theme-green-color);
+    transition: width 0.3s ease-in-out;
+}
+
+/* Kljucni hover stil za animaciju */
+.destination-card:hover .destination-content h2::after,
+.destination-card:hover .destination-content h3::after,
+.destination-card:hover .destination-content p::after {
+    width: 100%;
 }
 .destination-content .card-month-title {
     font-weight: bold;
@@ -1612,29 +1663,35 @@ blockquote p {
 
 /* Najnoviji Članci: Svetlo siva pozadina */
 .latest-articles-section {
-    padding-top: 100px;
-    padding-bottom: 60px;
-    background-color: var(--alternate-bg-color);
+    padding-top: 1px;
+    padding-bottom: 15px;
+    background-color: var(--dark-bg-color);
     text-align: center;
+}
+.latest-articles-section .section-title {
+    color: var(--light-text-color);
 }
 
 /* Koracima Balkana: Bela pozadina */
 .balkan-section {
-    padding: 60px 0;
+    padding: 10px;
+    padding-bottom: 15px;
     background-color: var(--light-text-color);
     text-align: center;
 }
 
 /* Destinacija meseca: Svetlo siva pozadina */
 .destination-of-month-section {
-    padding: 60px 0;
+    padding: 10px;
+    padding-bottom: 1px;
     background-color: var(--alternate-bg-color);
     text-align: center;
 }
 
 /* Saveti za putovanja: Bela pozadina i manji razmak */
 .travel-tips-section {
-    padding: 40px 0;
+    padding: 10px;
+    padding-bottom: 15px;
     background-color: var(--light-text-color);
     text-align: center;
 }
