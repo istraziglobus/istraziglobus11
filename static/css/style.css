@@ -1896,7 +1896,7 @@ blockquote p {
 }
 /* Tekst unutar bele trake */
 .most-read-title {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
     margin: 0 0 8px 0;
     font-weight: bold;
     color: #222;
@@ -1904,7 +1904,7 @@ blockquote p {
 }
 .most-read-description {
     display: block; /* Opis je sada vidljiv */
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     color: #555;
     margin: 0;
     z-index: 2;

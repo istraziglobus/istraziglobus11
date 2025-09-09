@@ -6,7 +6,7 @@ draft: false
 description: "Zakoračite u Rim, grad gdje se istorija ne priča, već živi na svakom koraku. Otkrijte autentični duh Vječnog Grada."
 image: "/slike/rim/rim.jpg"
 slug: "rim"
-most_read: true
+most_read: false
 ---
 
 <p class="intro-paragraph">Postoje destinacije, i postoji Rim. Njegovo ime nije samo lokacija na mapi; to je pozivnica u svijet gdje se prošlost i sadašnjost prepliću u neodoljivu tapiseriju. <span class="highlight-text">Rim</span> nije muzej pod otvorenim nebom, niti je samo skup impresivnih spomenika. On je pulsirajući organizam, živući dokaz da se istorija ne mora učiti iz knjiga – ona se ovdje diše, dodiruje i proživljava na svakom koraku. Od masivnih antičkih ruševina što prkose vijekovima, preko ekstravagancije baroknih palata i fontana, do užurbanih, autentičnih piazza ispunjenih mirisima kafe i svježe pečenog hljeba – Rim se ne obilazi, Rim se upija.</p>
