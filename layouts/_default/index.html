@@ -81,29 +81,21 @@
 <section class="balkan-section">
     <h2 class="section-title">KORACIMA BALKANA</h2>
     <div class="balkan-cards-container">
-        <a href="/koracima-balkana/trebinje/" class="balkan-card" style="background-image: url('/slike/balkan/trebinje.jpg');">
-            <div class="card-overlay">
-                <h3 class="card-title">Trebinje: Grad platana i sunca</h3>
-                <p class="card-subtitle">Smješteno na obalama rijeke Trebišnjice, ovo je mjesto gdje se spajaju istorija i mediteranski šarm, a kamene ulice, miris kestena i osunčane bašte čine ga draguljem istočne Hercegovine.</p>
-            </div>
-        </a>
-        <a href="/koracima-balkana/most-na-tari/" class="balkan-card" style="background-image: url('/slike/balkan/most-na-tari.jpg');">
-            <div class="card-overlay">
-                <h3 class="card-title">Most na Đurđevića Tari</h3>
-                <p class="card-subtitle">Grandiozni most koji se izdiže visoko iznad tirkizne rijeke Tare predstavlja inženjersko čudo i simbol neukrotive divljine Crne Gore, pružajući spektakularan pogled na kanjon i pozivajući na avanturu.</p>
-            </div>
-        </a>
-    </div>
-    <div class="articles-navigation">
-        <a href="#" class="nav-arrow nav-prev">
-            <span>&laquo;</span>
-        </a>
-        <span class="nav-title">Istraži dalje</span>
-        <a href="#" class="nav-arrow nav-next">
-            <span>&raquo;</span>
-        </a>
-    </div>
-</section>
+    {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "koracima-balkana") }}
+    <a href="{{ .RelPermalink }}" class="balkan-card" style="background-image: url('{{ .Params.image }}');">
+        <div class="card-overlay">
+            <h3 class="card-title">{{ .Title }}</h3>
+            {{ with .Params.subtitle }}
+            <p class="card-subtitle">{{ . }}</p>
+            {{ end }}
+        </div>
+    </a>
+    {{ end }}
+</div>
+<div style="text-align: center;">
+    <a href="{{ "/koracima-balkana/" | absURL }}" class="btn btn-secondary">Pogledaj Sve Članke</a>
+</div>
+</div>
 
 {{ partial "destination-of-month.html" . }}
 {{ partial "travel-tips.html" . }}

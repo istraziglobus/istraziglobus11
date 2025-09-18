@@ -1,6 +1,6 @@
 ---
-title: "Rim - Vječni grad"
-subtitle: "Vječni grad"
+title: "Rim"
+subtitle: "Vječni grad – mozaik prošlosti i sadašnjosti"
 date: 2025-07-03T10:00:00+02:00
 draft: false
 description: "Zakoračite u Rim, grad gdje se istorija ne priča, već živi na svakom koraku. Otkrijte autentični duh Vječnog Grada."
@@ -43,6 +43,10 @@ U srcu Rima, pulsira ritam davno prošlih vremena, opipljiv na svakom koraku. Ko
 
 ---
 
+## Trastevere i svakodnevni život
+
+Iza monumentalnih fasada i svjetski poznatih trgova krije se i <span class="highlight-text">intimniji Rim – četvrt Trastevere</span>. Uske kaldrmisane ulice, fasade prekrivene bršljanom, živopisne trattorie i žamor studenata daju ovom dijelu grada poseban šarm. Ovdje se Rim otkriva bez turističkog sjaja – kao mjesto gdje djeca igraju fudbal na malim trgovima, stariji stanovnici ćaskaju na klupama, a miris pizze pečene na drva širi se svuda oko vas. Trastevere je duša savremenog Rima, podsjetnik da Vječni grad nije samo muzej, već i dom.
+
 ## Duhovni Centar i Umetnička Blaga
 
 Unutar samog Rima, kao država unutar države, leži <span class="highlight-text">Vatikan</span> – duhovno srce miliona i neiscrpna riznica neprocenjivih umetničkih dela. Bazilika Svetog Petra, sa svojom impozantnom kupolom koja dominira rimskim nebom i Berninijevim baldahinom, nije samo najveća crkva na svetu, već i veličanstveni simbol vere i ljudskog dostignuća. Zatim tu su Vatikanski muzeji, labirint prepun čuda, koji kulminira u neponovljivoj Sikstinskoj kapeli i Mikelanđelovim freskama koje dotiču dušu. Prolazak kroz ove dvorane je putovanje kroz istoriju umetnosti, susret sa genijalnošću koja prevazilazi vreme i kulturu. Čak i za one koji nisu religiozni, susret sa ovim kolosalnim delima umetnosti i arhitekture predstavlja duboko i nezaboravno iskustvo, svedočeći o snazi ljudskog duha i kreativnosti koja je oblikovala civilizaciju.
@@ -64,7 +68,11 @@ Ali Rim nije samo istorija i grandioznost; on je i festival ukusa i mirisa koji 
    <p>Bilo da ste zaljubljenik u istoriju, umetnost, gastronomiju, visoku modu ili jednostavno uživanje u životu bez previše briga, Rim ima nešto za svakoga. Njegova energija je zarazna, njegova lepota neprolazna, a njegova sposobnost da vas uvuče u svoj ritam je neuporediva. Prepustite se šarmu Rima i osetite pravu la dolce vita dok istražujete njegove ulice, trgove i spomenike.</p>
 </div>
 
-Ono što Rim zaista izdvaja je njegova sposobnost da vas uvuče u svoj jedinstveni ritam. U Rimu, vreme teče sporije, pozivajući vas da usporite, uživate u trenutku i prepustite se spontanosti. Nema potrebe za preteranim planiranjem; najbolji doživljaji često se kriju iza sledećeg ugla, u nepoznatoj piazza sa lokalnim muzičarima, u maloj radnji sa ručno rađenim suvenirima ili u susretu sa srdačnim Rimljanima. To je grad u kojem se moderni život neprimetno prepliće sa ostacima prošlosti, stvarajući jedinstvenu fuziju haosa i šarma koja je neodoljiva.
+Ono što Rim zaista izdvaja je njegova sposobnost da vas uvuče u svoj jedinstveni ritam. U Rimu, vreme teče sporije, pozivajući vas da usporite, uživate u trenutku i prepustite se spontanosti. Nema potrebe za preteranim planiranjem; najbolji doživljaji često se kriju iza sledećeg ugla, u nepoznatoj piazza sa lokalnim muzičarima, u maloj radnji sa ručno rađenim suvenirima ili u susretu sa <span class="highlight-text">srdačnim Rimljanima</span>. To je grad u kojem se moderni život neprimetno prepliće sa ostacima prošlosti, stvarajući jedinstvenu fuziju haosa i šarma koja je neodoljiva.
+
+## Rim noću
+
+Kada padne mrak, Rim otkriva svoje drugo lice. Fontane i spomenici obasjani reflektorima dobijaju mističnu dimenziju, a šetnja oko Koloseuma ili Panteona pod zvjezdanim nebom ostavlja utisak da ste zakoračili u neki drugi svijet. Noćni život, posebno u četvrtima poput <span class="highlight-text">Testaccia</span>, nudi spoj tradicionalnih taverni i modernih klubova, gdje se vino i muzika pletu do kasnih sati. Rim noću pulsira istim intenzitetom kao i danju – ali sa dozom intime i romantike koja ga čini neodoljivim.
 
 
 ## Barokni Sjaj i Večne Želje
@@ -78,6 +86,10 @@ Rim je i grad raskoši, gde se umetnost i arhitektura stapaju u dramatične, bar
 ## Strast i Kontrast Vječnog Grada
 
 Osim vekovne istorije i božanstvene kuhinje, Rim danas pulsira modernim životom, nudeći bogatu paletu doživljaja. Bilo da se radi o strasti prema fudbalu na Olimpijskom stadionu, gde navijači <span class="highlight-text">As Rome</span> i <span class="highlight-text">Lazija</span> stvaraju neverovatnu atmosferu, ili o svetski poznatoj rimskoj modi koja diktira trendove na modnim pistama, grad je centar savremene kulture i stila. Ulične galerije, pozorišne predstave pod vedrim nebom i brojni koncerti dodatno obogaćuju kulturnu scenu, dok opušteni ritam dolce vite poziva na uživanje u svakom trenutku. Rim je grad kontrasta – gde se drevno i novo, tišina i užurbanost, tradicija i inovacija, spajaju u jedinstven, nezaboravan mozaik koji vas poziva da budete deo njega.</p>
+
+## Umjetnost na svakom koraku
+
+Rim je grad u kojem umjetnost nije zatvorena u galerijama, već je prisutna svuda. Od <span class="highlight-text">Caravaggiovih slika</span> u crkvama koje se slobodno mogu posjetiti, preko Berninijevih skulptura na trgovima, do uličnih grafita u modernim kvartovima poput Ostiense – umjetnost ovdje živi u svim oblicima. Upravo taj kontrast visokog i popularnog, sakralnog i svakodnevnog, čini Rim beskonačno inspirativnim.
 
 Rim nije samo grad; to je stanje duha. On vas zagrli, zavede i nikada vas u potpunosti ne pusti. Njegova ljepota leži u suživotu drevnog i modernog, grandioznog i intimnog, stvarajući iskustvo koje se ne zaboravlja.
 Bacite novčić u **Fontanu di Trevi** i obećajte sebi povratak u <span class="highlight-text">Vječni grad</span>.

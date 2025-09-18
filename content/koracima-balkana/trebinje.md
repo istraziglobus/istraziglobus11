@@ -1,5 +1,5 @@
 ---
-title: "Trebinje - Gde istorija šapuće s kamenih zidova, a vino teče u potocima"
+title: "Trebinje - Grad platana i sunca"
 subtitle: "Mediteranski duh Hercegovine pod stogodišnjim platanima"
 slug: "trebinje"
 date: 2025-07-06T12:00:00+02:00

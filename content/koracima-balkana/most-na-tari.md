@@ -1,5 +1,5 @@
 ---
-title: "Most na Đurđevića Tari - Veličanstveni svedok vremena i hrabrosti"
+title: "Đurđevića Tara - Kameni div Tare"
 subtitle: "Arhitektonsko remek-delo iznad najdubljeg kanjona Evrope"
 slug: "most-na-tari"
 date: 2025-07-06T12:00:00+02:00

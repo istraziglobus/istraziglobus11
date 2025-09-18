@@ -57,6 +57,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    padding-bottom: 30px;
 }
 a { 
     text-decoration: none;
@@ -117,6 +118,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: auto;
     padding-top: 15px;
     border-top: 1px solid var(--border-light-gray);
+    gap: 10px;
 }
 .btn {
     display: inline-block;
@@ -167,6 +169,10 @@ h1, h2, h3, h4, h5, h6 {
     white-space: nowrap;
     border: none;
     transition: background-color 0.3s ease;
+    white-space: nowrap;     /* već imaš – zadržava u jednom redu */
+    max-width: 60%;          /* zauzima max 60% prostora footera */
+    overflow: hidden;        
+    text-overflow: ellipsis; /* skraćuje s ... ako ne stane */
 }
 /* Dodatak za bolju responsivnost, ako već nemate: */
 img {
@@ -657,6 +663,29 @@ a:hover {
     white-space: nowrap;
     border: none;
     transition: background-color 0.3s ease;
+    white-space: nowrap;     /* već imaš – zadržava u jednom redu */
+    max-width: 60%;          /* zauzima max 60% prostora footera */
+    overflow: hidden;        
+    text-overflow: ellipsis; /* skraćuje s ... ako ne stane */
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+    gap: 10px; /* razmak između taga i dugmeta */
+}
+
+.card-footer .btn {
+    flex-shrink: 0; /* dugme se ne smanjuje nikad */
+}
+
+.card-footer .article-section-tag {
+    flex: 1;                 /* zauzima preostali prostor */
+    max-width: 60%;          /* dodatna zaštita */
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    white-space: nowrap;
 }
 .article-card-latest-content .article-section-tag:hover {
     background-color: var(--theme-darkblue-color);
@@ -987,6 +1016,8 @@ a:hover {
 .share-button[data-share-platform="twitter"] { background-color: #1da1f2; }
 .share-button[data-share-platform="whatsapp"] { background-color: #25d366; }
 .share-button[data-share-platform="linkedin"] { background-color: #0077b5; }
+.share-button[data-share-platform="viber"] { background-color: #7360f2; }
+.share-button[data-share-platform="email"] { background-color: #B23121; }
 
 
 /* ========================================= */
@@ -1484,7 +1515,7 @@ blockquote p {
    Stilovi za Koracima Balkana sekciju
    ========================================================================== */
 .balkan-section {
-    padding: 0;
+    padding: 40;
     text-align: center;
 }
 
@@ -1514,6 +1545,7 @@ blockquote p {
     display: flex;
     flex-wrap: wrap;
     margin: -1px; /* Negativna margina da kompenzuje border na karticama */
+    padding-bottom: 40px;
 }
 
 .balkan-card {
@@ -1619,43 +1651,13 @@ blockquote p {
 .button-container {
     text-align: center;
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 /* Stil za alternativnu boju pozadine sekcija */
 .section-alternate-bg {
     background-color: var(--alternate-bg-color);
 }
-/* Stilovi za navigaciju člancima (strelice) */
-.articles-navigation {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 40px;
-    margin-bottom: 40px;
-}
-.nav-arrow {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50px;
-    height: 50px;
-    border: 2px solid var(--theme-green-color);
-    border-radius: 50%;
-    color: var(--theme-green-color);
-    text-decoration: none;
-    font-size: 2em;
-    font-weight: bold;
-    transition: all 0.3s ease;
-}
-.nav-arrow:hover {
-    background-color: var(--theme-green-color);
-    color: white;
-}
-.nav-title {
-    margin: 0 20px;
-    font-size: 1.2em;
-    font-weight: bold;
-    color: var(--dark-text-color);
-}
+
 
 /* =====================================
    PODESAVANJA ZA RAZMAKE I BOJE SEKCIJA
@@ -1809,7 +1811,7 @@ blockquote p {
 @media (max-width: 768px) {
     /* Smanjuje visinu slike unutar UŽIVO kontejnera */
     .whats-now img {
-        height: 250px; /* Smanjena visina za mobilni prikaz */
+        height: 200px; /* Smanjena visina za mobilni prikaz */
     }
     /* Prilagođavanje veličine fontova za mobilni */
     .whats-now h2 {
@@ -1952,10 +1954,10 @@ blockquote p {
 @media (max-width: 768px) {
     .topics-container {
         flex-direction: column;
-    } 
+    }
     .most-read-card, .topic-card {
         width: 100%;
-        min-height: 300px;
+        min-height: 350px;
     }
     /* Traka na mobilnom: širina 50% i prilagođavanje teksta */
     .most-read-content {
@@ -1966,7 +1968,7 @@ blockquote p {
         align-items: flex-start;
     }
     .most-read-title {
-        font-size: 1.25rem;
+        font-size: 1.8rem;
         white-space: normal; /* Dozvoljava prelamanje teksta */
         overflow: hidden;
         text-overflow: ellipsis;
@@ -1979,6 +1981,7 @@ blockquote p {
     overflow: hidden;
     text-overflow: ellipsis;
     font-size: 0.95rem;
+    font-weight: bold;
     margin: 2px 0 0 0;
     color: #555;
 }

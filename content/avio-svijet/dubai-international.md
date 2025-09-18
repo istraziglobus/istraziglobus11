@@ -35,12 +35,19 @@ DXB se ponosi najširim spektrom sadržaja koji putovanje čine prijatnijim, bez
 ![Impresivan enterijer terminala na Dubai International aerodromu sa putnicima](/slike/dubai/dubai_interior1.jpg)
 
 ---
+## Doživljaj putnika
+
+Iako brojke fasciniraju, istinska vrijednost DXB-a leži u iskustvu svakog putnika. Za nekoga je to trenutak kada prvi put prođe kroz futurističke <span class="highlight-text">**Smart Gates**</span> bez čekanja u redu. Za drugoga je to kafa u mirnom salonu s pogledom na pistu dok sunce zalazi iza horizonta. Za treće – šetnja kroz duty-free zonu koja podsjeća na luksuzni tržni centar. DXB se trudi da svaki boravak, ma koliko kratak, bude obojen osjećajem posebnosti i komfora.
 
 ## Tehnologija u Službi Putnika
 
 Dubai International je sinonim za inovaciju i efikasnost, implementirajući najsavremeniju tehnologiju kako bi optimizovao svaki aspekt putovanja. Od naprednih sistema za automatsku obradu prtljaga i brzog prolaska kroz carinu, do besplatnog i stabilnog <span class="highlight-text">**Wi-Fi interneta**</span> dostupnog širom aerodroma, te sofisticiranih mobilnih aplikacija koje olakšavaju navigaciju i pružaju informacije o letovima u realnom vremenu – tehnologija je integrisana na svakom koraku. Implementacija biometrijske kontrole i <span class="highlight-text">**pametnih kapija (Smart Gates)**</span> dodatno ubrzava procese ukrcavanja i izlaska, omogućavajući putnicima da uštede dragoceno vreme i izbegnu gužve. DXB konstantno ulaže u najnovija tehnološka rešenja kako bi osigurao da iskustvo putnika bude što fluidnije i bez stresa, postavljajući nove standarde u digitalizaciji avio-saobraćaja.
 
 ---
+
+## Multikulturalni mozaik
+
+DXB nije samo čvorište aviona, već i ljudi. Hodajući kroz terminale, možete čuti desetine jezika i osjetiti energiju jednog od najraznovrsnijih gradova na svijetu. Ovde se susreću poslovni ljudi iz Njujorka, turisti iz Tokija, radnici iz Indije i putnici iz Evrope na proputovanju ka Aziji. Ta mješavina kultura i običaja pretvara aerodrom u svojevrsni mikrokozmos globalizacije, mjesto gdje se granice brišu, a svijet postaje selo. Upravo zbog toga DXB mnogi nazivaju <span class="highlight-text">"gradom unutar grada"</span>, jer i sam posjeduje dinamiku, ritam i identitet koji prevazilazi običan tranzitni prostor.
 
 ## Povezanost sa Svetom i Globalni Uticaj
 
@@ -58,3 +65,7 @@ Dubai International nije fokusiran samo na sadašnjost, već i na ambicioznu bud
 ![Eksterijer Dubai International aerodroma sa avionima na pisti pri zalasku sunca](/slike/dubai/dubai_interior3.jpg)
 
 <span class="highlight-text">**Vizija Dubaija**</span> je da DXB nastavi da raste i postavlja nove standarde u avijaciji, pružajući neuporedivo iskustvo putovanja za generacije koje dolaze, uz istovremeno smanjenje uticaja na životnu sredinu. Planovi za dalje proširenje i modernizaciju osiguravaju da će DXB zadržati svoju poziciju globalnog lidera.
+
+## Simbol Dubaija i prestiža
+
+Za sam Dubai, DXB je mnogo više od aerodroma – to je <span class="highlight-text">**simbol prestiža**</span> i dokaz da grad može biti lider na svjetskoj sceni. Kao što Burj Khalifa pokazuje ambiciju u arhitekturi, tako Dubai International pokazuje ambiciju u avijaciji. On odražava filozofiju emirata: uvijek veće, luksuznije, inovativnije. DXB nije samo infrastruktura; on je alat pomoću kojeg se Dubai pozicionira kao nezaobilazna destinacija za turizam, trgovinu i biznis.
