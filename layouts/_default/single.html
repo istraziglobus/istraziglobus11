@@ -23,23 +23,26 @@
     {{ end }}
 </div>
 
-        <div class="share-buttons">
-            <button class="share-button" data-share-platform="facebook" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
-                <i class="fab fa-facebook-f"></i> Facebook
-            </button>
-            <button class="share-button" data-share-platform="twitter" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
-                <i class="fab fa-twitter"></i> Twitter
-            </button>
-            <button class="share-button" data-share-platform="whatsapp" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
-                <i class="fab fa-whatsapp"></i> WhatsApp
-            </button>
-            <button class="share-button" data-share-platform="viber" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
-                <i class="fab fa-viber"></i> Viber
-            </button>
-            <button class="share-button" data-share-platform="email" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
-                <i class="fas fa-envelope"></i> Email
-            </button>
-        </div>
+    <div class="share-section">
+    <h4>Podijeli ovaj sadržaj:</h4>
+    <div class="share-buttons">
+        <a href="#" class="share-button" aria-label="Share on Facebook">
+            <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="#" class="share-button" aria-label="Share on Twitter">
+            <i class="fab fa-twitter"></i>
+        </a>
+        <a href="#" class="share-button" aria-label="Share on WhatsApp">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+        <a href="#" class="share-button" aria-label="Share on Viber">
+            <i class="fab fa-viber"></i>
+        </a>
+        <a href="#" class="share-button" aria-label="Share by Email">
+            <i class="fa fa-envelope"></i>
+        </a>
+    </div>
+</div>
 
         <div style="margin-top: 40px; text-align: center;">
             <a href="{{ .Site.BaseURL }}" class="btn btn-secondary">Nazad na Početnu</a>
