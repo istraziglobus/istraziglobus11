@@ -21,9 +21,9 @@ Najlakši način da stupite u kontakt sa nama je putem emaila. Nastojimo da odgo
 
 Pratite nas na društvenim mrežama da biste bili u toku sa najnovijim člancima, inspirativnim fotografijama i putnim savetima:
 
-* [Facebook](https://facebook.com/istraziglobus) (zameni sa pravim linkom)
-* [Instagram](https://instagram.com/istraziglobus) (zameni sa pravim linkom)
-* [Twitter](https://twitter.com/istraziglobus) (zameni sa pravim linkom)
+* [Facebook](https://facebook.com/istraziglobus) 
+* [Instagram](https://instagram.com/istraziglobus) 
+* [Twitter](https://twitter.com/istraziglobus) 
 
 ### Pošaljite Nam Poruku
 
