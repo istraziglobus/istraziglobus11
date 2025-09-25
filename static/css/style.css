@@ -2034,7 +2034,7 @@ blockquote p {
 }
 /* ==== STIL ZA SVE NASLOVE SEKCIJA ==== */
 .section-title {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
     font-size: 2.5em; 
     font-weight: bold; 
     color: var(--dark-text-color);

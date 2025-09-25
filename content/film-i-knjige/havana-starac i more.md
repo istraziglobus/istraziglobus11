@@ -18,7 +18,7 @@ tags:
   - Književnost
   - Starac i more
 draft: false
-most_read: true
+most_read: false
 ---
 
 <p class="section-description">

@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="container main-content-area section-{{ .Section }}">
-    <h1 class="section-title">{{ .Title | default "Svi Članci" }}</h1>
+    <h1 class="section-title">{{ .Title | default "Svi Članci"| humanize }}</h1>
     <div class="articles-list-container">
         {{ $pages := .Pages }}
         {{ if eq .Section "posts" }}
