@@ -5,6 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-08-22T10:00:00+02:00
 image: "/slike/zvezde/zvezde-hero.jpg"
 image_alt: "Zvezdano nebo iznad planina"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "top-5-zvezdanih-destinacija"
 draft: false
 categories:

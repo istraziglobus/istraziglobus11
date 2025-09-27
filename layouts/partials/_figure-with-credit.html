@@ -1,0 +1,24 @@
+{{/* layouts/partials/figure-with-credit.html */}}
+{{ $src := .src | default "" }}
+{{ $alt := .alt | default "" }}
+{{ $author := .author | default "" }}
+{{ $source := .source | default "" }}
+{{ $source_url := .source_url | default "" }}
+{{ $license := .license | default "" }}
+{{ $license_url := .license_url | default "" }}
+
+<figure class="article-image-box">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{ if or $author $source $license }}
+  <figcaption class="image-credit">
+    <small>
+      {{ if $author }}Foto: {{ $author }}{{ end }}
+      {{ if and $author (or $source $license) }} / {{ end }}
+      {{ if $source }}<a href="{{ $source_url }}" target="_blank" rel="noopener noreferrer">{{ $source }}</a>{{ end }}
+      {{ if and $license (or $source) }} ({{ end }}
+      {{ if $license }}<a href="{{ $license_url }}" target="_blank" rel="noopener noreferrer">{{ $license }}</a>{{ end }}
+      {{ if and $license (or $source) }} ){{ end }}
+    </small>
+  </figcaption>
+  {{ end }}
+</figure>

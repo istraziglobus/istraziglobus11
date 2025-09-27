@@ -5,6 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-08-22T01:00:00+00:00
 image: "/slike/lochness/misterija-hero.jpg"
 image_alt: "Jezero Loh Nes sa maglom iznad vode"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "misterija-loh-nesa"
 draft: false
 categories:

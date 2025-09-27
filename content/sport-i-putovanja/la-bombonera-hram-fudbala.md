@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Zakoračite u legendarni stadion La Bombonera, dom kluba Boca Juniors i svedoka nebrojenih fudbalskih drama. Otkrijte istoriju, strast i jedinstvenu atmosferu ovog ikoničnog mesta u Buenos Ajresu."
 image: "/slike/bombonera/bombonera-hero.jpg" # Obavezno proveri da li je ova putanja tačna!
 image_alt: "Pogled na stadion La Bombonera iz ptičje perspektive"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Sport i putovanja
   - Južna Amerika

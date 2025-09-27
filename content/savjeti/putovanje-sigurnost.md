@@ -6,6 +6,11 @@ draft: false
 description: "Saznajte kako da osigurate bezbedno i bezbrižno putovanje uz naše savete za sigurnost i pametno planiranje."
 icon: "fas fa-shield-alt"
 image: "/slike/sigurnost/pasos.jpg"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 ---
 
 Putovanje je uzbudljiva avantura, prilika za istraživanje i stvaranje nezaboravnih uspomena. Međutim, da bi vaše iskustvo bilo zaista bezbrižno, ključno je posvetiti pažnju <span class="highlight-text">**sigurnosti i bezbednosti**</span>. Mudro planiranje i odgovorno ponašanje tokom putovanja mogu vas zaštititi od nepotrebnih neprijatnosti i osigurati da se kući vratite puni samo lepih utisaka.

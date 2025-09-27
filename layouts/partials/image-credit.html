@@ -1,0 +1,8 @@
+{{ with .Params.image_author }}
+<p class="image-credit">
+  Foto: {{ . }}
+  {{ with $.Params.image_source_url }}
+    (<a href="{{ . }}" target="_blank" rel="noopener">Izvor</a>)
+  {{ end }}
+</p>
+{{ end }}

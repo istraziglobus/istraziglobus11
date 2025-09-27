@@ -5,6 +5,11 @@ draft: false
 description: "Istraži Globus: Vaš partner u avanturama i otkrivanju svijeta. Ko smo, šta nas pokreće i zašto smo ovdje za vas."
 image: "/slike/o-nama/hero_onama.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "O NAMA" STRANICU
 image_alt: "Zadivljujući pogled na planinski vrh obasjan suncem"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 ---
 
 
@@ -16,7 +21,6 @@ Dobrodošli u Istraži Globus – mesto gde se vaša ljubav prema putovanjima pr
 
 Naša misija je jednostavna: želimo da vam otvorimo oči ka neograničenim lepotama i čudima našeg globusa. Verujemo da putovanja nisu samo odlazak od kuće, već putovanje ka samootkrivanju, razumevanju različitih kultura i stvaranju uspomena koje traju čitav život. Kroz naše članke, vodiče i fotografije, trudimo se da oživimo svaku destinaciju i prenesemo vam njenu suštinu, bilo da je reč o mirnim planinskim vrhovima ili užurbanim gradskim ulicama.
 
-![Zelena šuma obasjana suncem](/slike/o-nama/priroda1.jpg)
 
 ### Naša Priča: Sa Vama na Svakom Koraku
 
@@ -33,7 +37,7 @@ Nismo samo pisci, mi smo i putnici, baš kao i vi. Svaki članak je prožet naš
 * **Zapanjujuće Fotografije:** Vizuelno putovanje koje dopunjuje svaku reč.
 * **Kulturni Uvid:** Razumevanje lokalnih običaja i tradicija.
 
-![Prelepo plavo jezero u planinama](/slike/o-nama/priroda2.jpg)
+
 
 <p class="outro-paragraph">
 Pridružite nam se na putovanju! Neka Istraži Globus bude vaš kompas u svetu avanture. Hvala vam što ste deo naše zajednice.

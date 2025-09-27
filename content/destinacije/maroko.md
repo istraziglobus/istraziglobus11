@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Maroko u septembru: od zlatnih dina Sahare, do planinskih staza Atlasa i primorskih gradova punih historije – zemlja koja mami sva čula i budi maštu."
 image: "/slike/maroko/maroko-hero.jpg"
 image_alt: "Panorama Marakeša sa Koutoubia džamijom u zalasku sunca"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Destinacije
   - Afrika

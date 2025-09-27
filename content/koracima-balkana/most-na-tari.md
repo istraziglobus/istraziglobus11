@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Zakoračite na most na Đurđevića Tari, monumentalno delo koje premošćuje najdublji kanjon u Evropi. Otkrijte priču o njegovoj gradnji, uništenju i adrenalinskim avanturama koje nudi."
 image: "/slike/balkan/most-na-tari.jpg"
 image_alt: "Spektakularan pogled na most na Tari"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Balkanske Destinacije
   - Avantura

@@ -6,6 +6,11 @@ date: 2025-07-06T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Uronite u srce Pamplone tokom festivala San Fermín, devetodnevne ekstravagancije tradicije, strasti i adrenalina. Otkrijte priču o trkama s bikovima (Encierro), bogatoj istoriji, živoj kulturi i duhu zajedništva koji obuzima ulice ovog španskog grada."
 image: "/slike/san-fermin/san-fermin-hero.jpg" # Pretpostavljena putanja, prilagodi ako treba
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Kultura
   - Putovanja

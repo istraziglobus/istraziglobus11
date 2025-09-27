@@ -6,6 +6,11 @@ date: 2025-07-09T22:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u magični svet Balija, ostrva gde se drevne tradicije susreću sa modernom relaksacijom. Otkrijte bujne pirinčane terase, mirne hramove, surferske talase i autentičnu gostoprimljivost. Bali je više od destinacije – to je iskustvo koje transformiše!"
 image: "/slike/bali/bali-hero.jpg"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Putovanja
   - Azija

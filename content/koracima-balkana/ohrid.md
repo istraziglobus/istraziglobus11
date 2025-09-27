@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Zakoračite u magični Ohrid, grad koji je svjedok vijekova, spomenik kulture i duhovnosti, i dom najstarijeg jezera u Evropi." 
 image: "/slike/balkan/ohrid.jpg"
 image_alt: "Spektakularan pogled na stari grad Ohrid i crkvu Svetog Jovana Kanea sa jezera"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Balkanske Destinacije
   - Kultura

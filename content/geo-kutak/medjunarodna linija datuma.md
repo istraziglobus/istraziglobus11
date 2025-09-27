@@ -5,6 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-09-09T12:00:00+02:00
 image: "/slike/vremenske-zone/dateline-hero.jpg"
 image_alt: "Mapa Pacifika sa međunarodnom linijom datuma"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "medjunarodna-linija-datuma"
 draft: false
 categories:

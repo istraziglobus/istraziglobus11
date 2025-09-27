@@ -5,6 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-07-24T23:00:00+02:00
 image: "/slike/maroko-kuhinja/maroko-kuhinja-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
 image_alt: "Tradicionalna marokanska hrana - Tagine"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "marokanska-kuhinja-putovanje-ukusima"
 draft: false
 categories:

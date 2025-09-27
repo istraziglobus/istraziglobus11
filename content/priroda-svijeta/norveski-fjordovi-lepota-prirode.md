@@ -5,6 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-07-25T15:00:00+02:00
 image: "/slike/norveska-fjord/fjordovi-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
 image_alt: "Panoramski pogled na Geirangerfjord sa strmim liticama i vodopadima"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "norveski-fjordovi-lepota-prirode"
 draft: false
 categories:

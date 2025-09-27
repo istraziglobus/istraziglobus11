@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Zakoračite u Trebinje, grad koji živi u ritmu reke Trebišnjice, okupan suncem i ukrašen vekovnom istorijom. Otkrijte autentični duh Hercegovine i miris Mediterana."
 image: "/slike/balkan/trebinje.jpg"
 image_alt: "Pogled na Trebinje i Perovića most za vreme zalaska sunca"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Balkanske Destinacije
   - Kultura

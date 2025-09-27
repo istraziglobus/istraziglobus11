@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Otkrijte zašto je Kipar savršena destinacija za avgust: netaknute plaže, drevna istorija, živahni noćni život i ukusna kuhinja čekaju na vas na ostrvu Afrodite."
 image: "/slike/kipar/kipar-hero.jpg" # OBAVEZNO: Podesi putanju do tvoje slike za Kipar!
 image_alt: "Prelepa plaža na Kipru sa tirkiznom vodom"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 categories:
   - Destinacije
   - Evropa

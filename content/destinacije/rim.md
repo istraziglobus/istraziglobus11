@@ -5,6 +5,11 @@ date: 2025-07-03T10:00:00+02:00
 draft: false
 description: "Zakoračite u Rim, grad gdje se istorija ne priča, već živi na svakom koraku. Otkrijte autentični duh Vječnog Grada."
 image: "/slike/rim/rim.jpg"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "rim"
 most_read: true
 ---

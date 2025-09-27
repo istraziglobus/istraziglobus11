@@ -5,6 +5,11 @@ author: "Tvoje Ime/Sajt"
 date: "2025-07-07"
 image: "/slike/dubai/dubai_airport_hero.jpg"
 image_alt: "Panorama Dubai International Aerodroma"
+image_author: "John Smith"
+image_source: "Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_license: "CC BY-SA 4.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
 slug: "dubai-international"
 draft: false
 categories:
