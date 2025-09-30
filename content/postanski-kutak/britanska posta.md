@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-09-09T12:00:00+02:00
 image: "/slike/britanska-posta/penny-black-hero1.jpg"
 image_alt: "Penny Black – prva poštanska marka i simbol britanske pošte"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "JThomas" 
+image_source: "Geograph project"
+image_source_url: "https://commons.wikimedia.org/wiki/File:Royal_Mail_Building,_Newcastle_(geograph_3060733).jpg" # Direktni link do Geograph stranice slike
+image_license: "CC BY-SA 2.0"
+image_license_url: "https://creativecommons.org/licenses/by-sa/2.0/deed.en" 
 slug: "penny-black-royal-mail"
 draft: false
 categories:
@@ -33,9 +33,17 @@ Royal Mail je osnovan još <span class="highlight-text">**1516. godine**</span>,
 
 U XVIII vijeku, kako je rastao britanski imperijalni i trgovački uticaj, pojavile su se i prve <span class="highlight-text">**poštanske kočije**</span> (*mail coaches*). Brze, crveno obojene kočije jurile su između Londona i glavnih gradova provincija, pod zaštitom vozača i oružanih stražara. Na putevima bezbjednost nije uvijek bila zagarantovana, pa je kočija bila i simbol snage i pouzdanosti kraljevske pošte.  
 
-<figure class="article-image-box">
-  <img src="/slike/britanska-posta/penny-black1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/britanska-posta/penny-black1.jpg" 
+    alt="Prve poštanske kočije koje su služile za dostavu pošte"
+    author="British Postal Museum & Archive"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Royal_Mail_Coach.jpg"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/"
+>}}
 
 ---
 
@@ -47,9 +55,19 @@ Onda se pojavio <span class="highlight-text">**Sir Rowland Hill**</span>, reform
 
 Prva poštanska marka na svijetu izdata je **1. maja 1840. godine** (a u opticaj puštena od 6. maja), i vrijedila je **jedan peni**. Dizajnirana je sa portretom mlade kraljice Viktorije, u profilu okrenutom ulijevo. Autori dizajna bili su **Henry Corbould** i **Charles Heath**, a marke su štampane u crnoj boji na listovima od 240 komada.  
 
-<figure class="article-image-box">
-  <img src="/slike/britanska-posta/penny-black2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/britanska-posta/penny-black2.jpg" 
+    alt="Black penny prva poštanska markica na svijetu zaljepljena na pismu"
+    author="General Post Office (UK Government)"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Penny_Black_cover,_first_ever_First_Day_Cover_from_6th_May_1840.jpg"
+    license="Public Domain (Crown Copyright Expired)"
+    license_url="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/" 
+>}}
+
+---
 
 Ono što je danas posebno fascinantno jeste da je Penny Black bila ogroman uspjeh: u prvoj godini odštampano je <span class="highlight-text">**68 miliona primjeraka**</span>! Iako su mnoge marke sačuvane, one u netaknutom stanju danas vrijede pravo bogatstvo među kolekcionarima.  
 
@@ -78,9 +96,17 @@ Kako je pošta postajala sve popularnija, pojavila se potreba da građani sami u
 
 Njihov dizajn se tokom decenija mijenjao, ali prepoznatljiva <span class="highlight-text">**crvena boja**</span> i kraljevski monogram ostali su do danas zaštitni znak. Crveni sandučići postali su kulturna ikona Ujedinjenog Kraljevstva, jednako prepoznatljivi kao i „double-decker“ autobusi ili Big Ben.  
 
-<figure class="article-image-box">
-  <img src="/slike/britanska-posta/penny-black3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/britanska-posta/penny-black3.jpg" 
+    alt="Prepoznatljiva britanska crvena poštanska sandučad"
+    author="Alan Murray-Rust"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Postboxes_at_the_main_Royal_Mail_delivery_office_-_geograph.org.uk_-_5627963.jpg"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/" 
+>}}
 
 ---
 

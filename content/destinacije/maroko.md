@@ -7,15 +7,14 @@ author: "Istraži Globus Tim"
 description: "Maroko u septembru: od zlatnih dina Sahare, do planinskih staza Atlasa i primorskih gradova punih historije – zemlja koja mami sva čula i budi maštu."
 image: "/slike/maroko/maroko-hero.jpg"
 image_alt: "Panorama Marakeša sa Koutoubia džamijom u zalasku sunca"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "tawatchai07" 
+image_source: "Freepik"
+image_source_url: "https://www.freepik.com/free-photo/beautiful-girl-traditional-carpet-shop-goreme-city-cappadocia-turkey_11768855.htm" # OVDE UNESI
+image_license: "Free License (with attribution)"
+image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 categories:
   - Destinacije
   - Afrika
-  - Putovanja
 tags:
   - Maroko
   - Sahara
@@ -46,9 +45,19 @@ Maroko je mozaik civilizacija – od Berbera, Feničana i Rimljana, do arapskih 
 * **Volubilis:** Rimski grad u sjevernom Maroku, sa očuvanim mozaicima i stubovima, svjedoči o vremenu kada je ovaj dio Afrike bio rimska provincija.
 * **Meknes i Rabat:** Carski gradovi sa monumentalnim kapijama, vrtovima i palatama koje pričaju o političkoj moći prošlih vijekova.
 
-<figure class="article-image-box">
-  <img src="/slike/maroko/maroko1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/maroko/maroko1.jpg" 
+    alt="Pogled na noćni pijačni market u Marakešu"
+    author="A_Different_Perspective"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/marrakech-marketplace-morocco-4500910/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
+>}}
+
+---
 
 ### Prirodne ljepote: Od dina do mora
 
@@ -61,9 +70,19 @@ Marokanski pejzaži su prizori iz sna – pustinje koje se prelivaju u planine, 
 * **Atlantska obala:** Essaouira, grad umjetnika i ribara, sa vjetrovitim plažama i portugalskim tvrđavama.
 * **Sredozemna obala:** Manje poznata, ali jednako šarmantna – od Tangiera do Al Hoceime.
 
-<figure class="article-image-box">
-  <img src="/slike/maroko/maroko2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/maroko/maroko2.jpg" 
+    alt="Utvrđeno selo Ait Benhaddou u podnožju planine Atlas"
+    author="gavilla"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/morocco-fortress-adobe-castle-1188570/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/"  
+>}}
+
+---
 
 ### Gastronomija: Praznik ukusa
 
@@ -83,9 +102,19 @@ Marokanska kuhinja je spoj berberske, arapske, mediteranske i afričke tradicije
 * **Surfovanje:** Atlantska obala, posebno Taghazout, postaje hotspot za surfere u septembru.
 * **Hammam rituali:** Tradicionalna kupatila su dio marokanske kulture, a posjeta jednom od njih prava je terapija.
 
-<figure class="article-image-box">
-  <img src="/slike/maroko/maroko3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/maroko/maroko3.jpg" 
+    alt="Lampioni na jednom od markonskih pijaca"
+   author="Oleksandr Ryzhkov"
+    source="Freepik"
+    source_url="https://www.freepik.com/free-photo/mosaic-lamps-commonly-found-turkey_27469172.htm#fromView=keyword&page=1&position=0&uuid=1e373dc5-0844-483c-bc1a-59ff0a44564c&query=Grand+bazaar+istanbul"
+    license="Free License (with attribution)"
+    license_url="https://www.freepik.com/terms_of_use" 
+>}}
+
+---
 
 ### Praktični savjeti za septembar
 

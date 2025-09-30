@@ -5,11 +5,12 @@ draft: false
 description: "Istraži Globus: Vaš partner u avanturama i otkrivanju svijeta. Ko smo, šta nas pokreće i zašto smo ovdje za vas."
 image: "/slike/o-nama/hero_onama.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "O NAMA" STRANICU
 image_alt: "Zadivljujući pogled na planinski vrh obasjan suncem"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "mario_luengo" 
+image_source: "Freepik"
+image_source_url: "https://www.freepik.com/free-photo/port-sunset-with-ferris-wheel-background_954072.htm" # OVDE UNESITE CE KLI LINK DO SLIKE NA FREEPIKU!
+image_license: "Free License (with attribution)"
+image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
+Objašnjenje Polja:
 ---
 
 

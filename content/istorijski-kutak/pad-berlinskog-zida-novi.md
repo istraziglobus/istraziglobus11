@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-08-01T10:00:00+02:00
 image: "/slike/berlinski-zid/zid-hero.jpg"
 image_alt: "Ljudi na vrhu Berlinskog zida mašu zastavama i proslavljaju, simbol slobode"
-image_author: "John Smith"
+image_author: "Lear 21 at English Wikipedia (Reproduction)" 
 image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_source_url: "https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg" # Standardna lokacija slike
+image_license: "CC BY-SA 3.0 Unported (Multiple License)"
+image_license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
 slug: "pad-berlinskog-zida-novi"
 draft: false
 categories:
@@ -47,9 +47,19 @@ Istovremeno, talas izbeglica dramatično je rastao. Hiljade građana Istočne Ne
 
 Bilo je veče, pomalo prohladno, sasvim obično za kasnu jesen u Berlinu. Ali, to veče neće ostati obično. U Istočnom Berlinu, u International Press Centru, održavala se naizgled rutinska konferencija za štampu. Ginter Šabovski, član Politbiroa i partijski portparol, delovao je umorno i prilično nepripremljeno za tok događaja. Čitao je sa papira, zvučeći kao da jedva razume o čemu govori. Konferencija se bližila kraju, a tenzija u sali, među stranim novinarima koji su iščekivali bilo kakve vesti o promenama, bila je opipljiva.
 
-<figure class="article-image-box">
-  <img src="/slike/berlinski-zid/zid1.jpg" alt="Ljudi čekićima razbijaju Berlinski zid">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/berlinski-zid/zid1.jpg" 
+    alt="Čuveni mural bratski poljuba Brežnjeva i Honekera na berlinskom zidu"
+    author="Timothy Vollmer"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Berlin_Wall_remnants_(3868273262).jpg"
+    license="CC BY 2.0"
+    license_url="https://creativecommons.org/licenses/by/2.0/"  
+>}}
+
+---
 
 U jednom trenutku, pročitao je sa papira odluku Politbiroa o novim, liberalizovanim propisima za putovanja – dozvolu građanima da putuju u Zapadnu Nemačku, ali sa obaveznim podnošenjem zahteva za izlaznu vizu. Kada ga je italijanski novinar Riccardo Ehrman, zbunjen njegovim neodređenim tonom i nedostatkom preciznosti, upitao kada to stupa na snagu, Šabovski je oklevao, a onda, prelistavajući papire i ne razumevajući puni značaj dokumenta koji drži, promrmljao reči koje će odjeknuti svetom i promeniti tok istorije: "<span class="highlight-text">**Odmah... neizostavno.**</span>"
 
@@ -61,9 +71,19 @@ Te reči, izgovorene gotovo usputno, ali uhvaćene kamerama i mikrofonima svih v
 
 Na graničnim prelazima, prizori su bili nadrealni. Graničari su stajali zbunjeni, preplavljeni i uplašeni. Nisu imali nikakva naređenja koja bi odgovarala ovoj situaciji, niti su znali kako da se nose sa nepreglednom masom ljudi koja se, bez straha, primicala rampama. U njihovim očima videla se panika, ali i duboka nemoć. Gledali su u more lica, u oči pune nade, odlučnosti i decenija potiskivanih snova, osećajući kako pritisak mase postaje fizički nepodnošljiv. Oko 23:30, suočen sa pretnjom stampeda i svestan da bi svaki pokušaj primene sile mogao izazvati <span class="highlight-text">krvoproliće epskih razmera</span>, prvi graničar, kod Bornholmer Štrase, doneo je odluku koja je promenila sve – podigao je rampu. Bio je to trenutak kada je Zid, tihi, čvrsti Zid, prvi put progovorio, ne rečima, već činom – otvorio se.
 
-<figure class="article-image-box">
-  <img src="/slike/berlinski-zid/zid2.jpg" alt="Ljudi čekićima razbijaju Berlinski zid">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/berlinski-zid/zid2.jpg" 
+    alt="Vojska čuva neki od puntkova na berlinskom zidu 80tih godina"
+    author="Yann Forget"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Berlin-wall.jpg"
+    license="CC BY-SA 3.0 Unported (Multiple License)"
+    license_url="https://creativecommons.org/licenses/by-sa/3.0/deed.en"   
+>}}
+
+---
 
 Kroz te prve pukotine slivale su se reke ljudi, prvo stidljivo, a onda u euforičnom, nezadrživom naletu. Prizori koji su usledili bili su nestvarni: ljudi su plakali, smejali se, grlili potpune strance kao najrođenije. Mnogi su se, bez razmišljanja, peli na sam Zid, ti neosvojivi betonski bedemi, i plesali na njemu, simbolično gazeći decenije represije i razdvojenosti. Čekići i dleta, doneti u žurbi, počeli su da odbijaju komade betona – ne samo kamen, već simbole decenija patnje i okova. Susret Istoka i Zapada bio je eksplozija emocija, suza radosnica, zagrljaja porodica razdvojenih generacijama, i ponovnog rađanja nade. Miris šampanjca pomešao se sa mirisom prašine od srušenog betona i osećajem neopisive, opojne slobode. Ulice Zapadnog Berlina, decenijama izlog slobode za Istočne Nemce, ispunile su se novopridošlima, koji su bili dočekani aplauzima, cvećem i suzama dobrodošlice, u prizorima koji su ujedinili ne samo grad, već i ceo svet u tom trenutku.
 
@@ -73,8 +93,18 @@ Kroz te prve pukotine slivale su se reke ljudi, prvo stidljivo, a onda u eufori�
 
 Noć 9. novembra nije bila samo politički događaj; to je bila, pre svega, proslava ljudskog duha, trijumf nade nad strahom, i neoboriv dokaz da se mirnim putem, voljom naroda, mogu postići i najneverovatnije promene. Zid je pao, ne uz pucnjeve i krvoproliće, već uz klicanje i pesmu miliona ljudi. Bio je to dan kada se Berlin, a s njim i veliki deo sveta, oslobodio jednog teškog tereta prošlosti, otvarajući novu, neizvesnu, ali pre svega – <span class="highlight-text">**neizmerno slobodnu stranicu istorije.**</span>
 
-<figure class="article-image-box">
-  <img src="/slike/berlinski-zid/zid3.jpg" alt="Ljudi čekićima razbijaju Berlinski zid">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/berlinski-zid/zid3.jpg" 
+    alt="Ostatak berlinskog zida danas u modernom Berlinu"
+    author="Arild Vågen"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Berlin_Wall_November_2013.jpg"
+    license="CC BY-SA 3.0 Unported"
+    license_url="https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
+>}}
+
+---
 
 Njegov pad označio je ne samo kraj jedne epohe Hladnog rata i konačno ujedinjenje Nemačke, već i početak nove ere globalne politike, u kojoj su se obistinile davno zaboravljene nade o ujedinjenoj Evropi i mirnijem svetu. Berlinski zid je postao, i ostao, trajan simbol podela, ali i opomena da nijedan zid, ma koliko visok i čvrst bio, nikada ne može zauvek obuzdati ljudsku želju za slobodom, samoodređenjem i jedinstvom. Njegovi preostali delovi danas služe kao podsetnik na snagu volje običnih ljudi i na to da je sloboda vrednost za koju se vredi boriti, ali i koju treba ceniti svakog dana.

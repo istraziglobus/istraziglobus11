@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-08-22T01:00:00+00:00
 image: "/slike/lochness/misterija-hero.jpg"
 image_alt: "Jezero Loh Nes sa maglom iznad vode"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "StaraBlazkova at Czech Wikipedia" 
+image_source: "Wikimedia Commons (via cs.wikipedia)"
+image_source_url: "https://commons.wikimedia.org/wiki/File:Lochneska_poboba_museumofnessie.jpg" # Standardna lokacija slike
+image_license: "CC BY-SA 3.0 Unported (Multiple License)"
+image_license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
 slug: "misterija-loh-nesa"
 draft: false
 categories:
@@ -31,9 +31,19 @@ Prvi zapisi o čudovištu iz Loh Nesa datiraju još iz 6. veka, kada je sveti Ko
 
 Iako su naučnici pokušavali da objasne viđenja optičkim iluzijama, morskim lavovima ili jednostavno prevarama, misterija je opstala. Hiljade svedoka se zaklinjalo da su videle dugačak vrat, grbu ili neobično kretanje na površini vode.
 
-<figure class="article-image-box">
-<img src="/slike/lochness/misterija1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/lochness/misterija1.jpg" 
+    alt="slika čudovišta iz Loh Nesa"
+    author="Hugo Heikenwaelder"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Loch-Ness-Monster.jpg"
+    license="CC BY-SA 2.5 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.5/" 
+>}}
+
+---
 
 ## Geografske karakteristike i očaravajući pejzaž
 
@@ -65,9 +75,19 @@ Loh Nes nije samo duboko, već je i izuzetno hladno jezero, čija <span class="h
 
 Bez obzira na to da li je Nesi stvarna ili ne, ona je postala neizostavni deo lokalne kulture i glavni motor turizma u regionu. Ona nije samo priča, već simbol koji se preplice sa svakodnevnim životom stanovnika, od malih radnji do velikih hotela. Suveniri sa likom čudovišta nalaze se u svakoj radnji, a ture brodom po jezeru nude posetiocima priliku da postanu deo misterije. U obližnjem selu Drumnadrok, čak postoji i zvanični <span class="highlight-text">**Loch Ness Centre & Exhibition**</span>, gde se posetioci mogu informisati o svim viđenjima i teorijama. Za mnoge, poseta Nesi nije samo putovanje, već svojevrsno hodočašće u potrazi za čudom, čineći ih delom jedne od najvećih svetskih misterija.
 
-<figure class="article-image-box">
-<img src="/slike/lochness/misterija3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/lochness/misterija3.jpg" 
+    alt="Ulaz u Loh Nes centar u obližnjem selu Drumnadrok"
+    author="B.ciggaar"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:The_Original_Loch_Ness_Visitor_Center.jpg"
+    license="CC BY-SA 3.0 Unported (Multiple License)"
+    license_url="https://creativecommons.org/licenses/by-sa/3.0/deed.en"  
+>}}
+
+---
 
 Danas, poseta jezeru nije samo zbog potrage za čudovištem, već i zbog prelepog pejzaža, mirne prirode i osećaja da ste deo nečeg većeg i neobjašnjivog. Nesi je postala simbol, obećanje da čak i u našem visoko tehnološkom svetu, i dalje postoje misterije koje čekaju da budu otkrivene.
 
@@ -79,8 +99,18 @@ U 21. veku, potraga za Nesi je doživela renesansu, prelazeći sa velikih, skupi
 
 Na kraju, misterija Loh Nesa nudi više od samo neuhvatljivog stvorenja. Ona predstavlja duboku čežnju ljudskog duha za nepoznatim, za nekim zrnom magije u svijetu koji je sve više objašnjen naukom. Jezero ostaje <span class="highlight-text">poslednji bastion priča o nemogućem</span>, simbolizujući da i dalje postoje mesta na našoj planeti koja kriju tajne. To je podsetnik da, bez obzira na sav napredak, svet nikada neće biti u potpunosti razotkriven, te da mašta i nada imaju svoju moć. Priča o Nesi poziva svakog od nas da zadrži onaj dečiji osećaj čuđenja i da veruje u mogućnost da se čuda i dalje dešavaju, skrivena u najmračnijim dubinama.
 
-<figure class="article-image-box">
-<img src="/slike/lochness/misterija2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/lochness/misterija2.jpg" 
+    alt="Pogled na jezero Loh Nes"
+    author="David Dixon"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Loch_Ness_-_geograph.org.uk_-_7209694.jpg"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/"
+>}}
+
+---
 
 Svake godine milioni posetilaca dođu ovde, ne samo zbog Nesi, već i zbog prilike da uživaju u miru i tišini ovog jedinstvenog škotskog predela. Poseta Loh Nesu nije samo hodočašće u potrazi za <span class="highlight-text">čudovištem</span>, već putovanje koje nas podseća na to da je važno verovati u ono što ne možemo da vidimo, i da se prepustimo priči koja će nas zauvek intrigirati.

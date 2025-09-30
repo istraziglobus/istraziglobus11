@@ -901,7 +901,7 @@ a:hover {
 }
 
 .share-section h4 {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     color: #333;
     margin-bottom: 10px;
 }
@@ -2094,4 +2094,58 @@ blockquote p {
 }
 .article-hero-image img {
     padding-bottom: 0rem;
+}
+
+
+/* Kontejner za sliku i caption */
+.article-image-box {
+  display: block;          /* figure blok element */
+  text-align: center;      /* centriraj sve unutra */
+  margin: 0.5rem auto;
+  max-width: 850px;
+  clear: both;             /* gura sve ispod floata */
+}
+
+
+.article-image-box img {
+    display: block;
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    max-width: 100%;
+    margin: 0 auto 5px;
+    border-radius: var(--border-radius);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 768px) {
+    .article-content img,
+    .article-image-box img {
+        width: 100%;            /* zauzima cijelu širinu kontejnera */
+        max-width: 100%;        /* ne prelazi ekran */
+        height: 250px;          /* visina koja ti odgovara za mobitel */
+        object-fit: cover;      /* popunjava visinu bez deformacije */
+        display: block;
+        margin: 0 auto 5px;
+    }
+}
+
+
+/* Caption ispod slike */
+.article-image-box figcaption {
+  display: block;          /* caption uvijek blok ispod */
+  clear: both;             /* dodatna zaštita */
+  font-size: 0.55rem;
+  color: #666;
+  margin-top: 0.1rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.article-image-box figcaption a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.article-image-box figcaption a:hover {
+  text-decoration: underline;
 }

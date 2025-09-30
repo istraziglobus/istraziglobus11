@@ -6,14 +6,15 @@ date: 2025-07-09T22:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u magični svet Balija, ostrva gde se drevne tradicije susreću sa modernom relaksacijom. Otkrijte bujne pirinčane terase, mirne hramove, surferske talase i autentičnu gostoprimljivost. Bali je više od destinacije – to je iskustvo koje transformiše!"
 image: "/slike/bali/bali-hero.jpg"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "tawatchai07" 
+image_source: "Freepik"
+image_source_url: "https://www.freepik.com/free-photo/young-woman-standing-temple-gates-lempuyang-luhur-temple-bali-indonesia-vintage-tone_11306521.htm#fromView=keyword&page=1&position=5&uuid=b1bd9371-6845-455a-80e0-45afc759ab66&query=Bali+attractions" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
+image_license: "Free License (with attribution)"
+image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 categories:
-  - Putovanja
+  - Destinacije
   - Azija
+  - Indonezija
 tags:
   - Bali
   - Indonezija
@@ -44,9 +45,19 @@ Ono što Bali izdvaja od mnogih tropskih destinacija jeste njegova duboko ukoren
 * **<span class="highlight-text">Uluwatu:</span>** Smešten na dramatičnoj litici sa pogledom na Indijski okean, dom je nestašnim majmunima i nudi impresivne **Kecak plesne predstave u sumrak**. Majmuni su poznati po tome što kradu naočare i šešire, pa budite oprezni! Sam Kecak ples, sa svojim hipnotišućim ritmom i pričom o Ramayani, pruža nezaboravno kulturno iskustvo uz fantastičan pogled na zalazak sunca.
 * **<span class="highlight-text">Pura Ulun Danu Beratan:</span>** Ovaj predivni hram nalazi se na obali jezera Bratan i deluje kao da pluta na vodi, okružen mističnom maglom planina. Posvećen je boginji jezera Dewi Danu i jedna je od najfotografisanijih ikona Balija, nudeći miran i slikovit prizor.
 
-<figure class="article-image-box">
-  <img src="/slike/bali/bali1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/bali/bali1.jpg" 
+    alt="Pura Ulun Danu Beratan, jedan od naljepših hramova Balija"
+    author="jcomp"
+    source="Freepik"
+    source_url="https://www.freepik.com/free-photo/bali-pagoda-sunrise-indonesia_4694016.htm#fromView=keyword&page=1&position=1&uuid=2b2e3810-bfe1-422c-b2ee-2ac71cf7e602&query=Indonesia+destination"
+    license="Free License (with attribution)"
+    license_url="https://www.freepik.com/terms_of_use" 
+>}}
+
+---
 
 * **<span class="highlight-text">Besakih (Majka Hramova):</span>** Najveći i najsvetiji hram na Baliju, kompleks od 23 hrama na obroncima planine Agung. Ovde se oseća puls celog ostrva. Poseta Besakih-u je putovanje kroz balinežansku veru i istoriju. Preporučuje se angažovanje lokalnog vodiča kako biste razumeli kompleksnost ovog svetog mesta.
 * **<span class="highlight-text">Tirta Empul:</span>** Hram sa svetim izvorima gde se lokalno stanovništvo i turisti kupaju u blagoslovljenoj vodi radi pročišćenja. Veruje se da svaka fontana ima specifičnu moć čišćenja. Obucite sarong i pripremite se za jedinstveno duhovno iskustvo.
@@ -61,9 +72,19 @@ Pejzaži Balija su neverovatno raznoliki, nudeći sve od bujnih džungli do vulk
 
 **Pirinčane Terase:** Zelenilo pirinčanih terasa, posebno u **<span class="highlight-text">Tegallalang-u</span>** blizu Ubuda, je prizor za pamćenje. Terase se spuštaju niz padine u savršeno izrezbarenim nivoima, stvarajući prizor kao sa razglednice. Prošetajte uskim stazama između terasa i osetite mir ruralnog Balija. Jutarnja svetlost ili kasno popodne pružaju najbolje uslove za fotografisanje. Drugi manje poznati, ali jednako impresivni su Jatiluwih pirinčane terase, koje su čak i na UNESCO listi svetske baštine.
 
-<figure class="article-image-box">
-  <img src="/slike/bali/bali2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/bali/bali2.jpg" 
+    alt="prostrana polja pirinčanih terasa"
+    author="tawatchai07"
+    source="Freepik"
+    source_url="https://www.freepik.com/free-photo/aerial-view-terraced-rice-fields-bali-indonesia_11306426.htm#fromView=search&page=1&position=33&uuid=e03ced64-e681-464c-be22-76f0e6c6a455&query=Indonesia+destination"
+    license="Free License (with attribution)"
+    license_url="https://www.freepik.com/terms_of_use" 
+>}}
+
+---
 
 **Vodopadi:** Ostrvo je prepuno skrivenih dragulja – prelepih vodopada. Neki od najimpresivnijih su **<span class="highlight-text">Sekumpul</span>** (koji se sastoji od više vodopada u bujnoj džungli, zahteva malo pešačenja, ali vredi truda), **<span class="highlight-text">Tegenungan</span>** (lakše dostupan, popularan za plivanje i opuštanje) i **<span class="highlight-text">Gitgit</span>** (jedan od najviših i najpoznatijih vodopada na Baliju). Svi nude savršena mesta za osveženje i fotografisanje. Poseta vodopadima je idealna za beg od letnje vrućine.
 
@@ -82,9 +103,19 @@ Bali nudi pregršt aktivnosti za svakoga, od ljubitelja adrenalina do onih koji 
 
 **Wellness i Opuštanje:** Bali je svetski centar za jogu, meditaciju i wellness. Bezbroj je studija za jogu, spa centara i retreatova koji nude programe za opuštanje i podmlađivanje. Posebno je popularan Ubud sa svojim mirnim ambijentom. Uživajte u tradicionalnim balinežanskim masažama, aromaterapiji i detoks programima koji će vas preporoditi.
 
-<figure class="article-image-box">
-  <img src="/slike/bali/bali3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/bali/bali3.jpg" 
+    alt="Žena koja gleda u ljepote i prostranstva Balija"
+    author="tawatchai07"
+    source="Freepik"
+    source_url="https://www.freepik.com/free-photo/young-girl-steps-house-tree-sunrise-nusa-penida-island-bali-indonesia_11306472.htm#fromView=keyword&page=1&position=0&uuid=50da3aa4-3a1c-48eb-aa1c-497ccd6e5fa1&query=Indonesia+destination"
+    license="Free License (with attribution)"
+    license_url="https://www.freepik.com/terms_of_use"  
+>}}
+
+---
 
 **Avanture i Priroda:**
 * **<span class="highlight-text">Rafting na reci Ayung:</span>** Uzbudljiva vožnja gumenim čamcem kroz bujnu džunglu, sa spektakularnim pogledima i ponekim brzacima.

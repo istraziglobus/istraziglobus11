@@ -7,14 +7,15 @@ author: "Istraži Globus Tim"
 description: "Zakoračite na most na Đurđevića Tari, monumentalno delo koje premošćuje najdublji kanjon u Evropi. Otkrijte priču o njegovoj gradnji, uništenju i adrenalinskim avanturama koje nudi."
 image: "/slike/balkan/most-na-tari.jpg"
 image_alt: "Spektakularan pogled na most na Tari"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "czu_czu_PL" 
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/bridge-river-tara-rock-abyss-2747511/" # Link do profila autora (preporučeno)
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 categories:
+  - Koracima Balkana
   - Balkanske Destinacije
-  - Avantura
+  - Crna Gora
 tags:
   - Đurđevića Tara
   - Crna Gora
@@ -25,9 +26,19 @@ draft: false
 
 Most na Đurđevića Tari nije samo građevina, to je monumentalni simbol ljudske inženjerske veštine, postojanosti i hrabrosti. Sa svojih pet elegantnih lukova, graciozno premošćuje najdublji kanjon u Evropi, uzdižući se čak 172 metra iznad tirkizne, divlje reke Tare. Izgrađen uoči Drugog svetskog rata, ovaj most je postao svedok dramatičnih istorijskih događaja, ali i kapija u svet avanture. Već pri prvom pogledu na most shvatate da je reč o zaista grandioznom delu, koje sjedinjuje čovekovu genijalnost sa moćnom prirodom na jedinstven način.
 
-<figure class="article-image-box">
-  <img src="/slike/balkan/most1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/balkan/most1.jpg" 
+    alt="Impresivni most na Djurdjevića Tari"
+    author="Julian Nyča"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Tara_Bridge_Montenegro_1.JPG"
+    license="CC BY-SA 4.0 International"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
+>}}
+
+---
 
 Kanjon Tare, drugi po veličini u svetu, svojim zelenilom i stenovitim liticama pruža spektakularnu kulisu koja ovaj most čini još impresivnijim, stvarajući prizor koji oduzima dah. Osećaj strahopoštovanja koji se javlja dok stojite na mostu, posmatrajući reku koja teče daleko ispod vas, nešto je što se ne može opisati, već se mora doživeti. Prizor je posebno magičan u jutarnjim satima, kada se iz kanjona izdižu oblaci magle, stvarajući iluziju da se most nalazi iznad oblaka.
 
@@ -48,9 +59,19 @@ Nakon rata, most je obnovljen i od tada ponosno stoji kao svedočanstvo istorije
 
 Most nije samo lep prizor, već i kapija u svet adrenalina i avanture. Sa njega možete da se upustite u jedinstveno iskustvo **zip-line-a**, jednog od najdužih na Balkanu, koji pruža nezaboravan let iznad reke i kanjona. Pogled sa zip-lajna je jedinstven, kombinujući strahopoštovanje prema visini sa lepotom netaknute prirode. Postoje različite rute zip-line-a, od onih kraćih za početnike, do dužih i bržih za one najhrabrije.
 
-<figure class="article-image-box">
-  <img src="/slike/balkan/most2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/balkan/most2.jpg" 
+    alt="Detalj sa splavarenja na rijeci Tari u blizini mosta"
+    author="Jasmine Halki"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/120420083@N05/15079927371"
+    license="CC BY 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by/2.0/" 
+>}}
+
+---
 
 Za one koji žele da dožive Taru izbliza, **rafting** je prava poslastica. Reka Tara, poznata kao "suza Evrope" zbog svoje izuzetne čistoće, nudi uzbudljive brzake i mirne delove, a rafting ture privlače avanturiste iz celog sveta. Turističke agencije organizuju jednodnevne i višednevne ture, koje uključuju ne samo rafting, već i istraživanje kanjona, uživanje u lokalnim specijalitetima i spavanje u autentičnim bungalovima.
 
@@ -58,8 +79,18 @@ Za one koji žele da dožive Taru izbliza, **rafting** je prava poslastica. Reka
 
 Most na Đurđevića Tari je samo početak. On je ulazna kapija u **Nacionalni park Durmitor**, koji je pod zaštitom UNESCO-a. Ovde vas čekaju još brojne avanture: od planinarenja po stazama koje vode do vrhova i katuna, do posete **Crnom jezeru**, dragulju Durmitora. Kanjon Tare sa svojim zelenilom, kamenjem i brzacima predstavlja savršeno utočište od svakodnevne gužve, mesto gde se ponovo povezujete sa prirodom u njenom najčistijem obliku.
 
-<figure class="article-image-box">
-  <img src="/slike/balkan/most3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/balkan/most3.jpg" 
+    alt="Crno jezero na Žabljaku nedaleko od mosta"
+    author="Nick Savchenko"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Crno_Jezero_(26845344442).jpg"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/"  
+>}}
+
+---
 
 Ovo područje nudi sveobuhvatno iskustvo za svakog posetioca, bilo da traži akciju ili potpuni mir. Bilo da se odlučite za uzbudljivi rafting, let preko kanjona na zip-line-u, ili samo za opuštajuću šetnju i fotografisanje, most na Đurđevića Tari je destinacija koja se pamti. Njegova priča, lepota i avanture koje nudi, čine ga jednim od najposebnijih mesta na Balkanu.

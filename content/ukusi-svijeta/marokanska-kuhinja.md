@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-07-24T23:00:00+02:00
 image: "/slike/maroko-kuhinja/maroko-kuhinja-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
 image_alt: "Tradicionalna marokanska hrana - Tagine"
-image_author: "John Smith"
+image_author: "BBouchra00" 
 image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_source_url: "https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-plat-varie-et-sain.jpg" # Standardni URL za ovu sliku na Commonsu
 image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
 slug: "marokanska-kuhinja-putovanje-ukusima"
 draft: false
 categories:
@@ -34,9 +34,17 @@ Srž marokanske kuhinje leži u savršenoj harmoniji slatkog i slanog, kiselog i
 
 >Marokanska kuhinja je duboko posvećena <span class="highlight-text">**gostoprimstvu (Diyafa)**</span>. Svaki obrok je prilika za okupljanje, deljenje i uživanje. Jela se tradicionalno serviraju na velikim zajedničkim tanjirima, podstičući zajedničko obedovanje i interakciju, često jedući rukama. Spremnost da se deli hrana je ukorenjena vrednost koja se ogleda u svakom obroku.
 
-<figure class="article-image-box">
-  <img src="/slike/maroko-kuhinja/maroko-kuhinja1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/maroko-kuhinja/maroko-kuhinja1.jpg" 
+    alt="Začini raznih ukusa i boja na pijaci u Maroku"
+    author="wirestock"
+    source="Freepik"
+    source_url="https://www.freepik.com/free-photo/closeup-shot-colorful-asian-spices-market-with-blurry_10399781.htm#fromView=keyword&page=1&position=0&uuid=6975d27f-014f-4c67-be4b-2cd959e1a1ff&query=Middle+east+spices"
+    license="Free License (with attribution)"
+    license_url="https://www.freepik.com/terms_of_use" 
+>}}
 
 ---
 
@@ -50,9 +58,18 @@ Iako su `tagine` i `kus-kus` centralni, marokansko kulinarsko bogatstvo nudi mno
 * **Bastilla (Pastilla):** Elaboratna pita koja spaja slatko i slano, <span class="highlight-text">tradicionalno od mesa goluba ili piletine</span>. Fil se kombinuje sa bademima, jajima, peršunom i začinima, umotan u hrskave slojeve `warqa` testa, posut šećerom u prahu i cimetom.
 * **Tanjia:** Jelo specifično za Marakeš, sporo kuvano u zemljanom ćupu. Sastoji se od jagnjetine, cimeta, kumina, šafrana i ukiseljenog limuna, rezultirajući neverovatno nežnim mesom.
 
-<figure class="article-image-box">
-  <img src="/slike/maroko-kuhinja/maroko-kuhinja2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/maroko-kuhinja/maroko-kuhinja2.jpg" 
+    alt="Tajine - jedno od specijaliteta Maroka"
+    author="Marco Almbauer"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Moroccan_tajine_with_meat.jpg"
+    license="CC BY-SA 4.0"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
+>}}
+
 
 ---
 
@@ -73,9 +90,19 @@ Poseta Maroku ne bi bila potpuna bez istraživanja živahne ulične scene, poseb
 * **M'semen:** Hrskave, slojevite palačinke, slatke ili slane.
 * **Baghrir:** Sunđeraste palačinke sa hiljadu rupa, <span class="highlight-text">natopljene medom i maslacem</span>.
 
-<figure class="article-image-box">
-  <img src="/slike/maroko-kuhinja/maroko-kuhinja3.jpg">
-</figure>
+
+
+{{< figcredit 
+    src="/slike/maroko-kuhinja/maroko-kuhinja3.jpg" 
+    alt="Ulična hrana u Maraku"
+    author="Grand Parc - Bordeaux, France"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Place_Jemaa_el-Fna_-_Aicha_n%C2%B01_-_Marrakech_-_Morocco_-_Maroc_-_Maroko_-_%CE%9C%CE%B1%CF%81%CF%8C%CE%BA%CE%BF_-_Fas_-_Marruecos_-_Marokko_-_%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA_picture_image_photo_(9123932853).jpg"
+    license="CC BY 2.0"
+    license_url="https://creativecommons.org/licenses/by/2.0/"  
+>}}
+
+
 
 * **Zaalouk:** Dimljena salata od patlidžana i paradajza.
 * **Sveže ceđeni sokovi:** Osvežavajući sokovi od pomorandže, nara i drugog voća.

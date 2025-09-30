@@ -7,11 +7,11 @@ author: "Istraži Globus Tim"
 description: "Zakoračite u legendarni stadion La Bombonera, dom kluba Boca Juniors i svedoka nebrojenih fudbalskih drama. Otkrijte istoriju, strast i jedinstvenu atmosferu ovog ikoničnog mesta u Buenos Ajresu."
 image: "/slike/bombonera/bombonera-hero.jpg" # Obavezno proveri da li je ova putanja tačna!
 image_alt: "Pogled na stadion La Bombonera iz ptičje perspektive"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "Prensa TV Pública from Buenos Aires, Argentina" 
+image_source: "Flickr"
+image_source_url: "https://www.flickr.com/photos/125618985@N06/17346926886" # Direktni URL do slike na Flickru
+image_license: "CC BY 2.0"
+image_license_url: "https://creativecommons.org/licenses/by/2.0/" 
 categories:
   - Sport i putovanja
   - Južna Amerika
@@ -36,9 +36,18 @@ Pre izgradnje La Bombonere, Club Atlético Boca Juniors igrao je na drvenom stad
 
 > Za dizajn stadiona bio je zadužen slovenački arhitekta <span class="highlight-text">**Viktor Sulčič**</span>, u saradnji sa Joséom Luisom Delpinijem i Raúlom Solsonom. Glavni izazov bio je ograničen prostor u gusto naseljenom kvartu La Boca. Rešenje je bilo genijalno i nekonvencionalno: stadion je izgrađen u obliku slova "D", sa tri strme tribine i jednom vertikalnom tribinom na zapadnoj strani koja se gotovo naslanja na stambene zgrade. Ova vertikalna tribina, poznata kao "tribina sa ložama", dala je stadionu njegov karakterističan, "isečeni" izgled i doprinela nadimku "Bombonera" zbog sličnosti sa kutijom čokoladica.
 
-<figure class="article-image-box">
-  <img src="/slike/bombonera/bombonera-tribine.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/bombonera/bombonera-tribine.jpg" 
+    alt="Navijači Boke na tribinama"
+    author="Steven Newton"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:La_Bombonera.jpg" 
+    license="CC BY 2.0"
+    license_url="https://creativecommons.org/licenses/by/2.0/"  
+>}}
+---
 
 Kapacitet stadiona je tokom godina varirao, ali danas može da primi oko <span class="highlight-text">**57.000 navijača**</span>. Njena specifična konstrukcija, sa tribinama koje su izuzetno blizu terena i pod vrlo strmim uglom, stvara izuzetnu akustiku i osećaj klaustrofobije za protivničke timove. Zvuk navijanja ovde ne samo da se čuje, već se i oseća.
 
@@ -50,9 +59,17 @@ La Bombonera je neraskidivo vezana za identitet <span class="highlight-text">**C
 
 Kroz decenije, La Bombonera je bila svedok nebrojenih istorijskih utakmica, osvojenih titula i rađanja fudbalskih legendi. Mnoga imena su koračala njenim travnjakom, ali jedno se izdvaja iznad svih: <span class="highlight-text">**Dijego Armando Maradona**</span>. Maradona, koji je i sam bio strastveni navijač Boce od detinjstva, proveo je značajan deo svoje karijere igrajući za njih u dva navrata (1981-1982. i 1995-1997.). Njegovo prisustvo na stadionu, bilo kao igrača koji stvara magiju na terenu ili kao navijača u loži, uvek je izazivalo euforiju i histeriju. Statua posvećena Maradoni nalazi se ispred stadiona, kao večni podsetnik na njegovu neraskidivu vezu sa klubom i Bombonerom. Pored Maradone, mnoga druga imena su postala ikone Bombonere, uključujući <span class="highlight-text">**Martína Palerma**</span>, najboljeg strelca kluba, i <span class="highlight-text">**Juana Romána Riquelmea**</span>, majstora veznog reda, čiji su se potezi i golovi slavili uz frenetično "Ole!" sa tribina.
 
-<figure class="article-image-box">
-  <img src="/slike/bombonera/maradona-boca.jpg" alt="Dijego Maradona u dresu Boce Juniors na La Bomboneri" loading="lazy">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/bombonera/maradona-boca.jpg" 
+    alt="Navijači slave Dijega Armanda Maradonu"
+    author="El Gráfico"
+    source="El Gráfico (Wikimedia Commons)"
+    source_url="https://commons.wikimedia.org/wiki/File:Diego_Maradona_celebrando_la_obtenci%C3%B3n_del_Torneo_Metropolitano_de_1981.jpg"
+    license="Public Domain (Javno Domen)"
+    license_url="https://creativecommons.org/publicdomain/mark/1.0/deed.en" 
+>}}
 
 ---
 
@@ -83,10 +100,17 @@ Nijedan pisani opis, pa čak ni televizijski prenos, ne može u potpunosti prene
 
 La Bombonera nije samo sportska arena; ona je srce i duša kvarta <span class="highlight-text">**La Boca**</span>. Kvart je sam po sebi živopisan, poznat po šarenim kućama u ulici Caminito, uličnim plesačima tanga i umetničkim galerijama. Stadion je centralna tačka ovog radničkog kvarta, i njegov uticaj se oseća u svakom kutku. Stanovnici La Boce su duboko vezani za klub i stadion, a fudbal je sastavni deo njihovog identiteta i svakodnevnog života. Utakmice Boce pretvaraju ceo kvart u pravi festival, privlačeći hiljade ljudi i stvarajući jedinstvenu atmosferu zajedništva.
 
-<figure class="article-image-box">
-  <img src="/slike/bombonera/boca.jpg"> 
-  
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/bombonera/boca.jpg" 
+    alt="Dio grada Buenos Aeresa gdje je smješten stadion"
+    author="Matthias Bethke"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:20170807_La_Bombonera_-_Estadio_Alberto_Jacinto_Armando.jpg"
+    license="CC BY-SA 4.0"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en"  
+>}}
 
 ---
 

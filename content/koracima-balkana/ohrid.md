@@ -7,14 +7,15 @@ author: "Istraži Globus Tim"
 description: "Zakoračite u magični Ohrid, grad koji je svjedok vijekova, spomenik kulture i duhovnosti, i dom najstarijeg jezera u Evropi." 
 image: "/slike/balkan/ohrid.jpg"
 image_alt: "Spektakularan pogled na stari grad Ohrid i crkvu Svetog Jovana Kanea sa jezera"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "dimitrisvetsikas1969" 
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/saint-john-at-kaneo-north-macedonia-6496188/" # Link do profila autora (preporučeno)
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 categories:
+  - Koracima Balkana
   - Balkanske Destinacije
-  - Kultura
+  - Sjeverna Makedonija
 tags:
   - Ohrid
   - Makedonija
@@ -28,17 +29,37 @@ Postoje gradovi koji vas obore s nogu na prvi pogled, ali ima i onih koji vas po
 
 Ohridsko jezero, staro više od tri miliona godina, jedno je od najstarijih i najdubljih jezera u Evropi, a njegova kristalno čista, oligotrofna voda i bogat biodiverzitet uvrstili su ga, zajedno sa gradom, na **UNESCO-ov popis svjetske baštine**. Njegova dubina, koja na nekim mjestima prelazi 280 metara, krije tajne geoloških epoha, a rijetke endemske vrste, poput čuvene ohridske pastrmke, svjedoče o njegovoj jedinstvenosti. Dok sunce zalazi, boje na nebu se prelamaju preko površine jezera, stvarajući prizor koji se pamti zauvijek. Zbog svoje dubine, jezero ima specifičan efekat na mikroklimu grada, čineći ljeta prijatnijim, a zime blagim. Vazduh je ovdje svjež, ispunjen mirisom borova i jezera, a ritam života je opušten, prilagođen prirodi i istoriji koja ga okružuje.
 
-<figure class="article-image-box">
-  <img src="/slike/balkan/ohrid1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/balkan/ohrid1.jpg" 
+    alt="Drveno šetalište po ivici ohridskog jezera"
+    author="dimitrisvetsikas1969"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/lake-ohrid-pathway-wooden-path-4721019/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
+>}}
+
+---
 
 ### Šetnja kroz vijekove: Od antičkog teatra do srednjovjekovne tvrđave
 
 Srce Ohrida je njegov **Stari grad**, utvrđen zidinama iz srednjeg vijeka, čije se uske i kaldrmisane ulice spuštaju niz brdo, do same obale. Šetajući njima, osjetićete autentični duh prošlosti, dok vas okružuju prelijepe kuće sa drvenim verandama i tradicionalnim fasadama, koje svjedoče o bogatoj arhitektonskoj istoriji. Na samom vrhu grada uzdiže se **Samuilova tvrđava**, koja pruža najspektakularniji panoramski pogled na jezero, planine i cijeli grad. Tvrđava, podignuta još u 4. vijeku prije nove ere, a obnovljena u vrijeme cara Samuila, svjedok je burnih vremena i mnogih osvajanja, ali i simbol snage i opstanka.
 
-<figure class="article-image-box">
-  <img src="/slike/balkan/ohrid2.jpg" >
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/balkan/ohrid2.jpg" 
+    alt="Samuilova tvrđava jedan od simbola Ohrida"
+    author="Petar Milošević"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Samuil%27s_Fortress_in_Ohrid_(%D0%A1%D0%B0%D0%BC%D1%83%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0_%D1%82%D0%B2%D1%80%D1%92%D0%B0%D0%B2%D0%B0_%D1%83_%D0%9E%D1%85%D1%80%D0%B8%D0%B4%D1%83).jpg"
+    license="CC BY-SA 4.0 International"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
+>}}
+
+---
 
 Nedaleko od centra, otkrićete i **Antički teatar**, izgrađen prije više od 2.000 godina, u helenističkom periodu. Iako je u rimsko doba služio za gladijatorske borbe i progone hrišćana, danas je on mjesto za koncerte, predstave i kulturna dešavanja koja oživljavaju njegovu davnu slavu. Akustika je i dalje izvanredna, a boravak na tribinama vraća vas hiljadama godina unazad, u vijeme antičkih tragedija.
 
@@ -52,9 +73,19 @@ Ohrid se često naziva "balkanskim Jerusalimom" zbog velikog broja crkava i mana
 
 Nezaobilazna je i posjeta **manastiru Svetog Nauma**, udaljenom 30-ak kilometara od grada, na samoj granici sa Albanijom. Kompleks manastira, poznat po čuvenim paunima koji slobodno šetaju vrtovima, prava je duhovna oaza. Posjetioci mogu uživati u vožnji čamcem po kristalno čistim izvorima rijeke Crni Drim, koji se ulivaju u jezero, i istražiti netaknutu prirodu oko manastira. Smatra se da su ovdje počeci pismenosti, a sam manastir je posvećen Svetom Naumu, učeniku Svetog Klimenta Ohridskog.
 
-<figure class="article-image-box">
-  <img src="/slike/balkan/ohrid3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/balkan/ohrid3.jpg" 
+    alt="Manastir Svetog Nauma nedaleko od Ohrida"
+    author="Petar Milošević"
+    source="Wikimedia Commons"
+    source_url="https://sr.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Saint_Naum_Monastery_(%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A1%D0%B2%D0%B5%D1%82%D0%B8_%D0%9D%D0%B0%D1%83%D0%BC_%D0%BA%D0%BE%D0%B4_%D0%9E%D1%85%D1%80%D0%B8%D0%B4%D0%B0,_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0).jpg"
+    license="CC BY-SA 4.0 International"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en"  
+>}}
+
+---
 
 Još jedan važan lokalitet je **Manastir Svetog Klimenta i Pantelejmona**, koji se nalazi na Plaošniku, brdu iznad starog grada. Na ovom mjestu je, po legendi, Sveti Kliment Ohridski osnovao prvi slovenski univerzitet i razvio glagoljicu, prvo slovensko pismo, čime je Ohrid postao kolevka slovenske pismenosti i kulture. Danas se na tom mjestu nalazi prelijepo obnovljena crkva, okružena arheološkim nalazištem koje otkriva ostatke drevnih bazilika i krstionica.
 

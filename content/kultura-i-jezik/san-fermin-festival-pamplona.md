@@ -6,11 +6,11 @@ date: 2025-07-06T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Uronite u srce Pamplone tokom festivala San Fermín, devetodnevne ekstravagancije tradicije, strasti i adrenalina. Otkrijte priču o trkama s bikovima (Encierro), bogatoj istoriji, živoj kulturi i duhu zajedništva koji obuzima ulice ovog španskog grada."
 image: "/slike/san-fermin/san-fermin-hero.jpg" # Pretpostavljena putanja, prilagodi ako treba
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "SanFermin" 
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/sanferm%C3%ADn-sanfermines-vivasanfermin-3587336/" # Link do profila autora (preporučeno)
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 categories:
   - Kultura
   - Putovanja
@@ -38,9 +38,17 @@ Festival San Fermín ima dugu i bogatu istoriju, datirajući još iz srednjeg ve
 
 > Festival se održava u čast Svetog Fermína, koji je, prema legendi, bio misionar i mučenik iz 3. veka. Njegov dan, 7. jul, je centralni dan festivala, kada se održava velika verska procesija. Tradicija trka s bikovima, odnosno Enkiera, započela je kao praktičan način da se bikovi prebace izvan gradskih zidina do arene za borbe. Vremenom su se meštani počeli takmičiti u hrabrosti trčeći ispred bikova, pretvarajući ovu praktičnu potrebu u ritualni test odvažnosti. Uticaj Ernesta Hemingwaya je nezaobilazan, jer su njegova dela učinila Pamplonu i San Fermín globalno poznatim, privlačeći avanturiste i putnike iz celog sveta.
 
-<figure class="article-image-box">
-  <img src="/slike/san-fermin/san-fermin1.jpg" alt="Prikaz verske procesije tokom San Fermín festivala" loading="lazy">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/san-fermin/san-fermin1.jpg" 
+    alt="Vjerske procesije povodoma dana San Fermina"
+    author="JLVwiki"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Procesi%C3%B3n_San_Ferm%C3%ADn_2022-5.jpg"
+    license="CC BY-SA 4.0 International"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
+>}}
 
 ---
 
@@ -50,9 +58,17 @@ Festival San Fermín ima dugu i bogatu istoriju, datirajući još iz srednjeg ve
 
 Nijedan pisani opis, pa čak ni televizijski prenos, ne može u potpunosti preneti <span class="highlight-text">**iskustvo biti blizu Enkiera**</span>. To je kombinacija buke, mirisa, napetosti i osećaja opasnosti koja se može osetiti u vazduhu. Zvuk ispaljene rakete koja signalizira puštanje bikova stvara električnu atmosferu. Trka je izuzetno opasna i svake godine ima povređenih, a nažalost, povremeno i smrtnih slučajeva. Učešće je na sopstveni rizik i strogo je regulisano; trkači moraju biti punoletni, trezni i smeju trčati samo u jednom pravcu. Za one koji ne žele da trče, najbolji način da dožive Enkiero je sa balkona duž staze (koji se mogu iznajmiti) ili sa tribina arene, odakle se pruža siguran, ali jednako uzbudljiv pogled.
 
-<figure class="article-image-box">
-  <img src="/slike/san-fermin/san-fermin2.jpg" alt="Pogled na Enkiero sa balkona, trkači i bikovi na ulici" loading="lazy">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/san-fermin/san-fermin2.jpg" 
+    alt="Narod okupljen na trgu čeka borbu sa bikovima"
+    author="San Fermin Pamplona Navarra"
+    source="Flickr"
+    source_url="https://flickr.com/photos/163459866@N06/29969669988"
+    license="CC0 1.0 (Public Domain)"
+    license_url="https://creativecommons.org/publicdomain/zero/1.0/deed.en" 
+>}}
 
 ---
 
@@ -73,9 +89,17 @@ Tokom celog festivala, ulice su ispunjene muzikom, od tradicionalnih "txistulari
 
 San Fermín nije samo niz događaja; to je duboko ukorenjen kulturni fenomen koji odražava duh hrabrosti, zajedništva i hedonizma koji karakteriše ovaj deo Španije. Iako kontroverzan zbog učešća bikova, festival ostaje ključni deo identiteta Pamplone i Navare, privlačeći pažnju celog sveta. Ernest Hemingway je maestralno uhvatio suštinu festivala, opisujući ga kao nešto što ide dublje od samog sporta, dotičući se iskonskih ljudskih instinkata i odnosa sa prirodom. Za meštane, to je vreme kada se ponovo povezuju sa svojom tradicijom i slave svoj jedinstveni način života.
 
-<figure class="article-image-box">
-  <img src="/slike/san-fermin/san-fermin3.jpg" alt="Šareni ljudi i atmosfera na ulicama Pamplone tokom festivala" loading="lazy">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/san-fermin/san-fermin3.jpg" 
+    alt="Tradicionalni ples povodom dana San Fermina"
+   author="SanFermin"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/sanferm%C3%ADn-sanfermines-vivasanfermin-3587340/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
+>}}
 
 ---
 

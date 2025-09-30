@@ -5,12 +5,22 @@ date: 2025-07-03T10:00:00+02:00
 draft: false
 description: "Zakoračite u Rim, grad gdje se istorija ne priča, već živi na svakom koraku. Otkrijte autentični duh Vječnog Grada."
 image: "/slike/rim/rim.jpg"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "Julius_Silver" 
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/rome-vatican-city-italy-tiber-3021586/" # Link do profila autora (preporučeno)
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 slug: "rim"
+categories:
+- Destinacije
+- Evropa
+- Italija
+tags:
+- Rim
+- Italija
+- Koloseum
+- Vatikan
+- Fontana di Trevi
 most_read: true
 ---
 
@@ -42,9 +52,17 @@ most_read: true
 
 U srcu Rima, pulsira ritam davno prošlih vremena, opipljiv na svakom koraku. Koračati ulicama ovog grada znači putovati kroz istoriju sa svakim korakom, osećajući težinu i veličanstvenost civilizacije koja je oblikovala svet kakav danas poznajemo. Monumentalni <span class="highlight-text">Koloseum</span>, nekada poprište gladijatorskih borbi i carskih spektakla, i dalje dominira panoramom, svedočeći o inženjerskoj genijalnosti i ambicijama carstva. Njegove masivne ruševine nisu samo kameni ostaci; oni su prozor u svet u kojem su se krojile sudbine, a eho uzbuđene publike kao da još uvek lebdi u vazduhu. Susresti se sa Koloseumom, a zatim se izgubiti među ostacima Foruma i Palatina, znači dobiti jasan uvid u moć i opseg Rimskog carstva. Ovi drevni spomenici, okruženi modernim životom, ne stoje samo kao relikvije; oni su živi podsetnici na neprekinuti tok istorije, pružajući jedinstven osećaj bezvremenosti.
 
-<figure class="article-image-box">
-  <img src="/slike/rim/koloseum.jpg" alt="Koloseum u Rimu, drevni amfiteatar" loading="lazy">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/rim/koloseum.jpg" 
+    alt="koloseum, impozantni dragulj Rima"
+   author="MARTINOPHUC"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/italy-rome-colosseum-sunset-9505450/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
+>}}
 
 ---
 
@@ -56,9 +74,17 @@ Iza monumentalnih fasada i svjetski poznatih trgova krije se i <span class="high
 
 Unutar samog Rima, kao država unutar države, leži <span class="highlight-text">Vatikan</span> – duhovno srce miliona i neiscrpna riznica neprocenjivih umetničkih dela. Bazilika Svetog Petra, sa svojom impozantnom kupolom koja dominira rimskim nebom i Berninijevim baldahinom, nije samo najveća crkva na svetu, već i veličanstveni simbol vere i ljudskog dostignuća. Zatim tu su Vatikanski muzeji, labirint prepun čuda, koji kulminira u neponovljivoj Sikstinskoj kapeli i Mikelanđelovim freskama koje dotiču dušu. Prolazak kroz ove dvorane je putovanje kroz istoriju umetnosti, susret sa genijalnošću koja prevazilazi vreme i kulturu. Čak i za one koji nisu religiozni, susret sa ovim kolosalnim delima umetnosti i arhitekture predstavlja duboko i nezaboravno iskustvo, svedočeći o snazi ljudskog duha i kreativnosti koja je oblikovala civilizaciju.
 
-<figure class="article-image-box">
-  <img src="/slike/rim/vatikan.jpg" alt="Bazilika Svetog Petra u Vatikanu" loading="lazy">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/rim/vatikan.jpg" 
+    alt="Bazilika Svetog Petra u Vatikanu"
+    author="Romain Pontida"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/105106606@N05/10225787206"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/"
+>}}
 
 ---
 
@@ -83,9 +109,21 @@ Kada padne mrak, Rim otkriva svoje drugo lice. Fontane i spomenici obasjani refl
 ## Barokni Sjaj i Večne Želje
 
 Rim je i grad raskoši, gde se umetnost i arhitektura stapaju u dramatične, barokne scene, transformišući svaki trg u pozornicu. Među njima, <span class="highlight-text">Fontana di Trevi</span> blista kao remek-delo, mesto gde se legende prepliću sa svakodnevnim životom i gde se snovi bacaju u vodu. Njene grandiozne skulpture i moćni vodopadi stvaraju prizor koji oduzima dah, dok milioni posetilaca, sledeći tradiciju, bacaju novčiće preko ramena, tiho prizivajući povratak u <span class="highlight-text">Vječni grad</span>.
-<figure class="article-image-box" style="margin: 0;">
-      <img src="/slike/rim/trevi.jpg" alt="Fontana di Trevi u Rimu, barokna fontana" loading="lazy">
-    </figure>
+
+---
+
+{{< figcredit 
+    src="/slike/rim/trevi.jpg" 
+    alt="Fontana di Trevi, barokna fontana u Rimu"
+    author="Juan Sáez"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/juandect/53911062954/"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/"  
+>}}
+
+---
+
  To nije samo puka želja, već neizbežno obećanje da će vas Rim zauvek privlačiti nazad. U blizini, monumentalni <span class="highlight-text">Panteon</span>, sa svojim savršeno očuvanim oculusom koji propušta zrak svetlosti kao da sam Bog diše kroz njega, stoji kao svedočanstvo rimske genijalnosti i večne posvećenosti. Njegova grandiozna kupola, čudo drevnog inženjeringa, nudi jedinstvenu perspektivu neba iznad, dok mirna unutrašnjost pruža predah od gradske vreve, pozivajući na tiho divljenje i refleksiju.
 
 ## Strast i Kontrast Vječnog Grada

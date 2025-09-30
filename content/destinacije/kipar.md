@@ -7,11 +7,11 @@ author: "Istraži Globus Tim"
 description: "Otkrijte zašto je Kipar savršena destinacija za avgust: netaknute plaže, drevna istorija, živahni noćni život i ukusna kuhinja čekaju na vas na ostrvu Afrodite."
 image: "/slike/kipar/kipar-hero.jpg" # OBAVEZNO: Podesi putanju do tvoje slike za Kipar!
 image_alt: "Prelepa plaža na Kipru sa tirkiznom vodom"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "dimitrisvetsikas1969" 
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/cyprus-kyrenia-town-port-boat-7692621/" # Link do profila autora (preporučeno)
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 categories:
   - Destinacije
   - Evropa
@@ -45,9 +45,19 @@ Kiparska zemlja je krunisana tragovima bezbrojnih osvajača, svedočeći o njego
 * <span class="highlight-text">Selo Lefkara:</span> Pitoreskno selo poznato po vekovnoj tradiciji izrade čipke ("Lefkaritika") i filigranskog srebrnog nakita, koje je čak i Leonardo da Vinči navodno posetio. Pruža autentičan uvid u tradicionalni kiparski zanat.
 * <span class="highlight-text">Nikozija – Stari grad i Zelena Linija:</span> Jedinstveni glavni grad, podeljen Zelenom Linijom, nudi putovanje kroz istoriju unutar venecijanskih zidina. Istražite uske ulice, muzeje i osetite puls grada na spoju Istoka i Zapada.
 
-<figure class="article-image-box">
-  <img src="/slike/kipar/kipar1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/kipar/kipar1.jpg" 
+    alt="Pogled sa vidikovca na džamiju Selimiju u Nikoziji"
+    author="A.Savin"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Nicosia_01-2017_img20_View_from_Shacolas_Tower.jpg"
+    license="Free Art License"
+    license_url="https://artlibre.org/licence/lal/en/"  
+>}}
+
+---
 
 ### Prirodne Lepote Kipra: Od Planinskih Visina do Azurnih Obala
 
@@ -61,9 +71,19 @@ Kiparski pejzaž je iznenađujuće raznolik, pružajući spektakularne kontraste
 * <span class="highlight-text">Plaže Ayia Nape i Protarasa:</span> Poznate po finom belom pesku i tirkiznom moru, uključujući popularne lokacije kao što su Konnos Bay, Nissi Beach i Fig Tree Bay, idealne za sunčanje i vodene sportove.
 * <span class="highlight-text">Karpaz poluostrvo:</span> Na severoistoku, ovo poluostrvo nudi nedirnutu prirodu, divlje magarce i jednu od najlepših plaža na ostrvu, Golden Beach, za istinski osećaj divljine i izolacije.
 
-<figure class="article-image-box">
-  <img src="/slike/kipar/kipar2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/kipar/kipar2.jpg" 
+    alt="Pogled iz vazduha na plazu u ljetovalištu Protaras"
+   author="dronepicr"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Protaras_Cyprus_(43006389464).jpg"
+    license="CC BY 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by/2.0/" 
+>}}
+
+---
 
 ### Aktivnosti i Avanture: Otkrijte Dušu Kipra
 
@@ -84,9 +104,19 @@ Kiparska kuhinja je odraz njegove istorije i geografije – robustna, slojevita 
 
 Vinogradarska tradicija Kipra seže hiljadama godina unazad, a <span class="highlight-text">Commandaria</span>, jedno od najstarijih vina na svetu, simbol je te bogate baštine. Poseta vinarijama u regijama Limasol i Pafos omogućava razumevanje procesa proizvodnje i degustaciju lokalnih sorti koje često iznenade svojim kvalitetom i karakterom. Kulinarsko iskustvo na Kipru nije samo o hrani; to je o gostoprimstvu, ritualu deljenja i dubokom poštovanju prema namirnicama koje zemlja nudi. Ostrvo je puno malih sela gde se i dalje proizvodi domaći maslinovo ulje, med i slatkiši od rogača, pružajući priliku za autentične susrete sa lokalnim proizvođačima.
 
-<figure class="article-image-box">
-  <img src="/slike/kipar/kipar3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/kipar/kipar3.jpg" 
+    alt="Vinogradi vinarije Zenon na Kipru"
+    author="Serhio Magpie"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Zenon_Winery_Vineyards_3.jpg"
+    license="CC BY 4.0 International"
+    license_url="https://creativecommons.org/licenses/by/4.0/deed.en" 
+>}}
+
+---
 
 ### Praktični Saveti za Vaše Putovanje na Kipar
 

@@ -15,6 +15,7 @@ draft: false
 categories:
 - Sport i putovanja
 tags:
+- Glazgov
 - Fudbal
 - Derbi
 - Škotska
@@ -37,9 +38,15 @@ Prvi susret Celtica i Rangersa odigran je **28. maja 1888. godine**, a Celtic, k
 
 ---
 
-<figure class="article-image-box">
-<img src="/slike/old-firm/oldfirm1.jpg" alt="Navijači Celtica i Rangersa tokom derbija" loading="lazy">
-</figure>
+{{< figcredit 
+    src="/slike/old-firm/oldfirm1.jpg" 
+    alt="Ekipa Seltika u sezoni 1917/1918"
+    author="Nepoznat autor (Unknown Author)"
+    source="(Wikimedia Commons)"
+    source_url="https://commons.wikimedia.org/wiki/File:Celtic_team_1908.jpg"
+    license="Public Domain (Javno Domen)"
+    license_url="https://creativecommons.org/publicdomain/mark/1.0/deed.en" 
+>}}
 
 ---
 
@@ -78,10 +85,15 @@ Atmosfera na stadionima, bilo na **Celtic Parku** sa svojih 60.000 mjesta ili na
 
 ---
 
-<figure class="article-image-box">
-<img src="/slike/old-firm/oldfirm2.jpg" alt="Atmosfera na tribinama tokom Old Firm derbija" loading="lazy">
-</figure>
-
+{{< figcredit 
+    src="/slike/old-firm/oldfirm2.jpg" 
+    alt="Navijači oba kluba na tribinama"
+    author="stevelynch"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/25150741@N05/2373447695/"
+    license="CC BY 2.0"
+    license_url="https://creativecommons.org/licenses/by/2.0/" 
+>}}
 ---
 
 ## Igrači koji su obilježili Old Firm
@@ -120,9 +132,15 @@ Za današnje generacije, Old Firm je dokaz da fudbal nije samo igra, već i emoc
 
 ---
 
-<figure class="article-image-box">
-<img src="/slike/old-firm/oldfirm3.jpg">
-</figure>
+{{< figcredit 
+    src="/slike/old-firm/oldfirm3.jpg" 
+    alt="Detalj sa utakmice Seltik - Rendžers"
+    author="Excalibur1953"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Oldfirmclash.JPG"
+    license="Public Domain (Javno Domen)"
+    license_url="https://creativecommons.org/publicdomain/zero/1.0/deed.en"  
+>}}
 
 ---
 

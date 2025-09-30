@@ -5,11 +5,11 @@ draft: false
 description: "Kontaktirajte Istraži Globus tim za sva pitanja, saradnju ili predloge. Radujemo se vašoj poruci!"
 image: "/slike/kontakt/hero_kontakt.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "KONTAKT" STRANICU
 image_alt: "Mapa sveta sa pinovima koji označavaju destinacije"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "Freepik" # Ako nije naveden pojedinačni autor, koristi se 'Freepik'
+image_source: "Freepik"
+image_source_url: "https://www.freepik.com/free-photo/traveller-holding-hi-tech-smartphone_1538024.htm" # OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
+image_license: "Free License (with attribution)"
+image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 ---
 
 <p class="intro-paragraph">

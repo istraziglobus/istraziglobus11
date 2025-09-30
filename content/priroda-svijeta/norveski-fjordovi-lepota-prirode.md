@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-07-25T15:00:00+02:00
 image: "/slike/norveska-fjord/fjordovi-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
 image_alt: "Panoramski pogled na Geirangerfjord sa strmim liticama i vodopadima"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "v.ivash" 
+image_source: "Freepik"
+image_source_url: "https://www.freepik.com/free-photo/man-sits-end-trolltunga-before-mountains_1275204.htm#fromView=search&page=1&position=13&uuid=42ef8b7f-2a5d-4ac4-ac28-f69b082117ff&query=Conquering+liathach+ridge" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
+image_license: "Free License (with attribution)"
+image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 slug: "norveski-fjordovi-lepota-prirode"
 draft: false
 categories:
@@ -32,9 +32,17 @@ tags:
 
 Fjordovi su dugački, uski zalivi mora koji se duboko usecaju u kopno, okruženi strmim liticama koje se dižu hiljadama metara iznad vode. Njihovo poreklo je geološki fascinantno: formirali su ih <span class="highlight-text">**drevni glečeri**</span> tokom ledenih doba. Ogromne mase leda klizale su niz doline, meljući i oblikujući kamenje, stvarajući duboke, U-oblične useke koji su se kasnije ispunili morskom vodom kada se led povukao. Vode u fjordovima su često izuzetno duboke, a njihove strane tako strme da stvaraju dramatičan kontrast između mirne površine vode i vertikalnih zidova planina. Ova geološka istorija daje fjordovima njihov prepoznatljiv, gotovo mitski izgled, čineći ih živim muzejima planetarnih procesa.
 
-<figure class="article-image-box">
-  <img src="/slike/norveska-fjord/fjordovi1.jpg" alt="Dramatičan pogled na fjord sa strmim liticama koje se spuštaju u more, oblačno vreme">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/norveska-fjord/fjordovi1.jpg" 
+    alt="Atlanski put koji prolazi preko ostrvacdi i povezuje fjordove"
+    author="Clementp.fr"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Route_de_l%27Atlantique_en_norv%C3%A8ge.jpg"
+    license="CC BY-SA 4.0"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
+>}}
 
 ---
 
@@ -50,9 +58,17 @@ Zatim tu je i **Nærøyfjord**, takođe pod zaštitom UNESCO-a, koji se ističe 
 
 Na zapadnoj obali Norveške leži i **Lysefjord**, poznat po svojim ikoničnim stenovitim formacijama koje su postale simboli norveškog turizma. <span class="highlight-text">**Preikestolen (Propovedaonica)**</span> je masivna, gotovo savršeno ravna stena koja se uzdiže 604 metra iznad fjorda, nudeći jedan od najspektakularnijih panoramskih pogleda na svetu. Nedaleko je i <span class="highlight-text">**Kjeragbolten**</span>, gigantska stena zaglavljena između dve litice, popularna destinacija za adrenalinske zavisnike koji se usuđuju da stanu na nju. Ovi prirodni fenomeni privlače planinare i ljubitelje prirode željne nezaboravnih avantura.
 
-<figure class="article-image-box">
-  <img src="/slike/norveska-fjord/fjordovi2.jpg" alt="Krstarenje brodom po Geirangerfjordu, okruženo vodopadima i zelenim liticama">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/norveska-fjord/fjordovi2.jpg" 
+    alt="Girangerfjord dragulj norveskih fjordova"
+    author="jeaneeem"
+    source="Wikimedia commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Geirangerfjord_boats.jpg"
+    license="CC BY 2.0"
+    license_url="https://creativecommons.org/licenses/by/2.0/"  
+>}}
 
 ---
 
@@ -83,9 +99,18 @@ Uprkos dramatičnim pejzažima strmih litica i dubokih voda, fjordovi su dom raz
 
 Norveška vlada i lokalne zajednice posvećene su očuvanju netaknute lepote fjordova za buduće generacije. Mnogi fjordovi i okolna područja su zaštićeni kao nacionalni parkovi ili UNESCO lokaliteti, sa strogim propisima koji ograničavaju razvoj i podstiču održivi turizam. Cilj je da se posetiocima omogući uživanje u prirodi, istovremeno minimalizujući uticaj na krhke ekosisteme. Razvoj ekoturizma, kampanje podizanja svesti o očuvanju, stroga kontrola zagađenja i promovisanje odgovornog ponašanja među turistima ključni su za opstanak ovog prirodnog blaga. Norveška nastoji da bude primer kako se masovni turizam može balansirati sa zaštitom životne sredine, nudeći inspiraciju svetu.
 
-<figure class="article-image-box">
-  <img src="/slike/norveska-fjord/fjordovi3.jpg" alt="Krstarenje brodom po Geirangerfjordu, okruženo vodopadima i zelenim liticama">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/norveska-fjord/fjordovi3.jpg" 
+    alt="Kućica i brodić u jednom od norveskih fjordova"
+    author="Matthias Bethke"
+    author="Aqwis"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Fjærlandsfjorden2.jpg"
+    license="CC BY-SA 3.0 Unported"
+    license_url="https://creativecommons.org/licenses/by-sa/3.0/deed.en"  
+>}}
 
 ---
 

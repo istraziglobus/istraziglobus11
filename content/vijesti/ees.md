@@ -1,12 +1,17 @@
 ---
-title: "Sve o novom EES sistemu za ulazak u Šengen zonu od jeseni 2025."
-subtitle: "Važna objava za sve putnike"
+title: "Sve o novom EES sistemu za ulazak u Šengen zonu"
+subtitle: "Važna objava za sve putnike od jeseni 2025."
 slug: "ees-sistem"
 date: 2025-09-16T13:30:00+02:00
 author: "Istraži Globus Tim"
 description: " Saznajte sve o novom EES (Entry/Exit System) sistemu i kako će uticati na vaše putovanje."
 image: "/slike/vijesti/ees-sistem.jpg"
 image_alt: "Granicni prelaz sa tablom EES sistema"
+image_author: "UK Home Office" 
+image_source: "Flickr"
+image_source_url: "https://www.flickr.com/photos/49956354@N04/53603990450/" 
+image_license: "CC BY 2.0"
+image_license_url: "https://creativecommons.org/licenses/by/2.0/"
 categories:
   - Vijesti
 tags:

@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: 2025-09-21T10:00:00+02:00
 image: "/slike/turkmenistan/vrata-pakla-hero.jpg"
 image_alt: "Krater Vrata pakla u plamenu noću"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "Stefan Krasowski" 
+image_source: "Flickr: Central Asia 100"
+image_source_url: "https://www.flickr.com/photos/65638600@N05/6086389269" # URL sa Flickra
+image_license: "CC BY 2.0"
+image_license_url: "https://creativecommons.org/licenses/by/2.0/"
 slug: "vrata-pakla-turkmenistan"
 draft: false
 categories:
@@ -36,9 +36,17 @@ Priča počinje 1971. godine, u doba kada je Turkmenistan bio dio Sovjetskog Sav
 
 Iz rupe se počeo oslobađati metan, a strahovalo se da bi otrovni gasovi mogli ugroziti stanovnike obližnjih sela i stoku. Sovjetski stručnjaci donijeli su odluku da zapale gas, očekujući da će sagorjeti za nekoliko dana. Ali priroda je imala drugačiji plan – plamen je nastavljen i traje do danas, neprekidno više od 50 godina.  
 
-<figure class="article-image-box">
-  <img src="/slike/turkmenistan/vrata pakla1.jpg">
-</figure>  
+---
+
+{{< figcredit 
+    src="/slike/turkmenistan/vrata pakla1.jpg" 
+    alt="Pogled iz vazduha na masivni, užareni Gasni krater Darvaza usred prostrane pustinje Karakum, Turkmenistan"
+    author="Kalpak Travel"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Turkmenistan_gas_crater.jpg"
+    license="CC BY-SA 4.0 International"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+>}}
 
 ---
 
@@ -58,9 +66,17 @@ Za turiste, put do kratera je avantura sama po sebi – višesatna vožnja džip
 
 Na rubu se osjeća toplota koja izbija iz zemlje, vatra pucketa i blješti, a miris sagorijelog gasa ispunjava vazduh. Posjetioci često kažu da imaju osjećaj da stoje na granici između dva svijeta – stvarnog i mitskog.  
 
-<figure class="article-image-box">
-  <img src="/slike/turkmenistan/vrata pakla2.jpg">
-</figure>  
+---
+
+{{< figcredit 
+    src="/slike/turkmenistan/vrata pakla2.jpg" 
+    alt="Turisti posmatraju užareni Gasni krater Darvaza, poznat kao Vrata pakla"
+    author="miketnorton"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/49665685@N06/29180277082/"
+    license="CC BY 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by/2.0/"
+>}}
 
 ---
 
@@ -93,9 +109,17 @@ Za lokalno stanovništvo, krater je vremenom prerastao u simbol – mjesto koje 
 
 Neki turisti kažu da osjećaj gledanja u krater izaziva strahopoštovanje slično kao posjeta velikim vulkanima ili gejzirima – to je podsjetnik koliko je priroda moćna i koliko je čovjek mali pred njenim silama.  
 
-<figure class="article-image-box">
-  <img src="/slike/turkmenistan/vrata pakla3.jpg">
-</figure>  
+---
+
+{{< figcredit 
+    src="/slike/turkmenistan/vrata pakla3.jpg" 
+    alt="Gorući Gasni krater Darvaza, prirodni fenomen koji neprestano gori decenijama, obasjava noćno nebo u Turkmenistanu"
+    author="flydime"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:The_Door_to_Hell_-_Turkmenistan,_Darvaza_-_panoramio.jpg"
+    license="CC BY 3.0 Unported"
+    license_url="https://creativecommons.org/licenses/by/3.0/deed.en"  
+>}}
 
 ---
 

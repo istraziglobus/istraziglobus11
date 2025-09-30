@@ -3,26 +3,23 @@
 {{ $alt := .Get "alt" | default "" }}
 {{ $author := .Get "author" | default "" }}
 {{ $source := .Get "source" | default "" }}
-{{ $source_url := .Get "source_url" | default "" }}
-{{ $license := .Get "license" | default "" }}
-{{ $license_url := .Get "license_url" | default "" }}
+{{ $sourceURL := .Get "source_url" | default "" }}
 
 <figure class="article-image-box">
   <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
-  {{ if or $author $source $license }}
+
+  {{ if or $author $source }}
   <figcaption class="image-credit">
-    <small>
-      {{ if $author }}Foto: {{ $author }}{{ end }}
-      {{ if and $author (or $source $license) }} / {{ end }}
-      {{ if $source }}
-        <a href="{{ $source_url }}" target="_blank" rel="noopener noreferrer">{{ $source }}</a>
+    {{ with $author }}Foto: {{ . }}{{ end }}
+    {{ if and $author $source }} ({{ end }}
+    {{ with $source }}
+      {{ if $sourceURL }}
+        <a href="{{ $sourceURL }}" target="_blank" rel="noopener">{{ . }}</a>
+      {{ else }}
+        {{ . }}
       {{ end }}
-      {{ if and $license (or $source) }} ({{ end }}
-      {{ if $license }}
-        <a href="{{ $license_url }}" target="_blank" rel="noopener noreferrer">{{ $license }}</a>
-      {{ end }}
-      {{ if and $license (or $source) }} ){{ end }}
-    </small>
+    {{ end }}
+    {{ if and $author $source }} ){{ end }}
   </figcaption>
   {{ end }}
 </figure>

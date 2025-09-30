@@ -7,15 +7,13 @@ author: "Istraži Globus Tim"
 description: "Hemingvejev grad u kojem se duh borbe i jednostavnosti života, oličen u liku starca Santiaga, susreće sa mediteranskim šarmom i večnom borbom čovjeka sa prirodom."
 image: "/slike/havana-starac-i-more/havana-starac-i-more-hero.jpg"
 image_alt: "Kolonijalne ulice Havane u zalasku sunca"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "mainathlet" 
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/cuba-havana-antique-car-automobile-4453398/" # Link do profila autora (preporučeno)
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 categories:
   - Knjige i Film
-  - Destinacije
-  - Putovanja
 tags:
   - Havana
   - Kuba
@@ -39,9 +37,17 @@ Kada je Ernest Hemingvej 1939. godine stigao na Kubu, svijet je bio na ivici rat
 
 Finca Vigía danas je muzej, ali i vremenska kapsula. U dnevnoj sobi stoji njegova pisaća mašina, u uglu su polaroid fotografije, a na policama stotine knjiga koje je nosio sa sobom širom svijeta. Zidovi su obješeni trofejima iz lova i ribolova, a u dvorištu i dalje rastu iste palme koje su šuštale dok je pisac ujutro ispijao kafu. Bio je to njegov radni hram, ali i dom gdje je primao goste, od lokalnih ribara do slavnih holivudskih lica.
 
-<figure class="article-image-box">
-  <img src="/slike/havana-starac-i-more/havana-starac-i-more1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/havana-starac-i-more/havana-starac-i-more1.jpg" 
+    alt="Soba Ernesta Hemingveja na Kubi"
+    author="Enrico Strocchi"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/strocchi/48311157201/"
+    license="CC BY-SA 2.0 Generic"
+    license_url="https://creativecommons.org/licenses/by-sa/2.0/" 
+>}}
 
 ---
 
@@ -59,9 +65,17 @@ Na istočnoj obali Havane leži malo ribarsko selo <span class="highlight-text">
 
 Cojímar je tih dana bio mjesto bez turističkih brodova i velikih hotela. Danas, iako ga posjećuju znatiželjnici, zadržao je autentičnost: ribari još uvijek izlaze na more prije zore, mreže se suše na obali, a more je jednako nepredvidivo. Na malom trgu stoji spomenik Hemingveju, podignut zahvaljujući donacijama lokalnih ribara – dokaz da veza između pisca i ovog mjesta nikada nije prekinuta.
 
-<figure class="article-image-box">
-  <img src="/slike/havana-starac-i-more/havana-starac-i-more2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/havana-starac-i-more/havana-starac-i-more2.jpg" 
+    alt="Malo ribarsko selo Cojimar, gdje je Hemingvej crpio inspiraciju"
+    author="Hedel.nb"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Pueblo_de_Cojimar.JPG"
+    license="CC BY 3.0 Unported (Multiple License)"
+    license_url="https://creativecommons.org/licenses/by/3.0/deed.en"  
+>}}
 
 ---
 
@@ -79,9 +93,16 @@ Hodajući <span class="highlight-text">Maleconom</span>, legendarnim obalnim še
 
 U staroj Havani, kolonijalne palače i crkve pričaju priču o španskoj prošlosti, dok grafiti i murali nose lice Che Guevare i Fidela Castra, podsjećajući na revolucionarnu istoriju ostrva. Turisti se guraju ispred El Floridite kako bi se fotografisali sa bronzanim Hemingvejem, dok lokalci znaju da prava Havana počinje tamo gdje prestaju turističke mape.
 
-<figure class="article-image-box">
-  <img src="/slike/havana-starac-i-more/havana-starac-i-more3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/havana-starac-i-more/havana-starac-i-more3.jpg" 
+    alt="Ulični svirači koji naljepše oslikavju duh Havane"
+    author="hoeldino"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/havana-cuba-music-attitude-to-life-2256329/"
+    license="Pixabay"
+>}}
 
 ---
 

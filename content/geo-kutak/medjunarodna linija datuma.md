@@ -5,16 +5,15 @@ author: "Istraži Globus Tim"
 date: 2025-09-09T12:00:00+02:00
 image: "/slike/vremenske-zone/dateline-hero.jpg"
 image_alt: "Mapa Pacifika sa međunarodnom linijom datuma"
-image_author: "John Smith"
+image_author: "Goran tek-en" 
 image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
+image_source_url: "https://commons.wikimedia.org/wiki/File:Time_zones_of_the_world-UTC.svg" # Standardna lokacija za ovakvu sliku
 image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
 slug: "medjunarodna-linija-datuma"
 draft: false
 categories:
 - Geo kutak
-- Zanimljivosti svijeta
 tags:
 - Geografija
 - Vrijeme
@@ -33,9 +32,19 @@ tags:
 
 Međunarodna linija datuma proteže se duž 180. meridijana, ali nikada nije potpuno ravna. Kako bi izbjegla da presiječe ostrva, teritorije i države, ona vijuga poput zmije kroz Tihi okean. Tako, na primjer,<span class="highlight-text"> **Kiribati** i **Samoa**</span> imaju posebne „izbočine“ koje omogućavaju da cijele države budu u istoj vremenskoj zoni, iako su geografski razbacane.  
 
-<figure class="article-image-box">
-  <img src="/slike/vremenske-zone/dateline1.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/vremenske-zone/dateline1.jpg" 
+    alt="Medjunardona linija datuma prikazana na mapi"
+    author="Amitchell125"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:International_Date_Line_(Kiribati_region).svg"
+    license="CC BY-SA 4.0 International"
+    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
+>}}
+
+---
 
 Zahvaljujući toj liniji, na Zemlji uvijek postoji mjesto gdje se dočekuje Nova godina prvo, i mjesto gdje stari datum još traje. Dovoljno je preći samo nekoliko kilometara i naći ćete se u jučerašnjem danu ili već u sjutrašnjem.
 
@@ -47,9 +56,17 @@ Linija datuma je nevidljiva, ali njene posljedice su vrlo stvarne. Ako se nalazi
 
 Najpoznatiji apsurd dogodio se 2011. godine, kada je <span class="highlight-text">**Samoa odlučila da preskoči čitav jedan dan**</span>. Zbog ekonomskih veza sa Australijom i Novim Zelandom, vlasti su premjestile zemlju „na drugu stranu“ linije. Tako je 30. decembar 2011. jednostavno nestao iz njihovog kalendara – nakon 29. decembra, došao je odmah 31. decembar. Ljudi su se probudili i shvatili da su izgubili jedan dan života, ali dobili praktičniju poslovnu sedmicu.  
 
-<figure class="article-image-box">
-  <img src="/slike/vremenske-zone/dateline2.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/vremenske-zone/dateline2.jpg" 
+    alt="Pogled na ostvra koja pripadaju Pacifickom regionu"
+    author="David Broad"
+    source="Panoramio (via Wikimedia Commons)"
+    source_url="https://web.archive.org/web/20161031113324/http://www.panoramio.com/photo/114144317"
+    license="CC BY 3.0 Unported"
+    license_url="https://creativecommons.org/licenses/by/3.0/deed.en"  
+>}}
 
 ---
 
@@ -80,9 +97,19 @@ Kruzeri su takođe posebna priča. Putnici koji krstare Pacifikom često imaju u
 
 Međunarodna linija datuma podsjeća nas da je vrijeme ljudska tvorevina. Priroda ne poznaje <span class="highlight-text">granice dana i noći</span> osim smjene Sunca i tame, ali ljudi su morali pronaći način da sinhronizuju svijet. Iako ponekad djeluje apsurdno, linija datuma omogućava funkcionisanje globalne ekonomije, avio-saobraćaja i svakodnevnih života milijardi ljudi.  
 
-<figure class="article-image-box">
-  <img src="/slike/vremenske-zone/dateline3.jpg">
-</figure>
+---
+
+{{< figcredit 
+    src="/slike/vremenske-zone/dateline3.jpg" 
+    alt="Zalazak sunca sa broda"
+    author="ImagePerson"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Cruise_Ship_Caribbean_Sunrise_2014.jpg"
+    license="CC BY 4.0 International"
+    license_url="https://creativecommons.org/licenses/by/4.0/deed.en" 
+>}}
+
+---
 
 I možda je baš u tome njena ljepota: ona je podsjetnik da, ma koliko željeli kontrolisati svijet, vrijeme uvijek ostaje iznad nas. Dok negdje ljudi tek počinju svoj dan, na drugom kraju planete isti taj dan već se pretvara u sjećanje.
 

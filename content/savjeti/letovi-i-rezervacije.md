@@ -6,11 +6,11 @@ draft: false
 description: "Saznajte tajne kako da pronađete najpovoljnije avio karte i idealan smeštaj za svoj budžet."
 icon: "fas fa-plane-departure" # Font Awesome ikona - proverite da li je Font Awesome uključen u baseof.html
 image: "/slike/rezervacije/booking.jpg"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "rawpixel.com" 
+image_source: "Freepik"
+image_source_url: "https://www.freepik.com/free-photo/booking-hotel-reservation-travel-destination-concept_16458886.htm#fromView=keyword&page=1&position=0&uuid=a5ac32d0-6e34-4916-b1d0-eaa6e899e34c&query=Booking+ticket" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
+image_license: "Free License (with attribution)"
+image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 ---
 Planiranje putovanja može biti uzbudljivo, ali i izazovno, pogotovo kada je reč o pronalaženju najpovoljnijih letova i idealnog smeštaja. Tržište je preplavljeno opcijama, a cene mogu drastično varirati. Cilj svakog putnika je da maksimizuje svoje iskustvo uz minimalne troškove. Uz prave <span class="highlight-text">strategije i alate</span>, možete značajno smanjiti izdatke i pronaći najbolje ponude koje odgovaraju vašim potrebama. Ovaj vodič će vas provesti kroz ključne savete i trikove za pametnu rezervaciju, osiguravajući da vaše sledeće putovanje počne bez stresa i praznog novčanika.
 

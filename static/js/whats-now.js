@@ -25,10 +25,10 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
 
   const exchangeRates = {
-    "EUR": 1, "USD": 1.17, "GBP": 0.86, "AUD": 1.80, "JPY": 172.15,
-    "RSD": 117.24, "RUB": 93.75, "CNY": 8.41, "AED": 4.29, "TRY": 47.72,
-    "ARS": 1518.57, "HKD": 9.16, "ISK": 143.20, "CUP": 28.05, "MYR": 4.92,
-    "EGP": 56.49, "SGD": 1.50, "BRL": 6.07
+    "EUR": 1, "USD": 1.16, "GBP": 0.87, "AUD": 1.78, "JPY": 174.79,
+    "RSD": 117.24, "RUB": 96.0, "CNY": 8.33, "AED": 4.29, "TRY": 48.52,
+    "ARS": 1561.9, "HKD": 9.08, "ISK": 142.0, "CUP": 28.05, "MYR": 4.92,
+    "EGP": 56.49, "SGD": 1.50, "BRL": 6.25
   };
 
   const weatherAPIKey = "006710101db1b5a700d24c46ac3f67bb";

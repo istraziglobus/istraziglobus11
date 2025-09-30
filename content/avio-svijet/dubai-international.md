@@ -5,11 +5,11 @@ author: "Tvoje Ime/Sajt"
 date: "2025-07-07"
 image: "/slike/dubai/dubai_airport_hero.jpg"
 image_alt: "Panorama Dubai International Aerodroma"
-image_author: "John Smith"
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:..." # Morate uneti validan URL
-image_license: "CC BY-SA 4.0"
-image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" # Morate uneti validan URL
+image_author: "Konstantin von Wedelstaedt" 
+image_source: "airliners.net"
+image_source_url: "https://mt.m.wikipedia.org/wiki/Stampa:Dubai_-_International_(DXB_-_OMDB)_AN1204297.jpg" # Direktni link do stranice slike
+image_license: "Copyrighted by Konstantin von Wedelstaedt"
+image_license_url: "http://www.airliners.net/" # Link ka glavnoj stranici portala
 slug: "dubai-international"
 draft: false
 categories:
@@ -37,7 +37,18 @@ Od trenutka kada kročite na DXB, bićete zadivljeni njegovom veličinom, <span 
 
 DXB se ponosi najširim spektrom sadržaja koji putovanje čine prijatnijim, bez obzira na dužinu boravka. Od ekskluzivnih <span class="highlight-text">**luksuznih salona**</span> opremljenih za poslovne putnike i one željne mira, preko vrhunskih spa centara koji nude masaže i opuštanje, do raznovrsnih restorana i kafića koji služe jela iz svih svetskih kuhinja – aerodrom nudi nešto za svakoga. Ovde možete provesti sate istražujući gastronomske užitke, kupovati u buticima svetskih brendova, opustiti se u "zen vrtovima" ili čak odspavati u udobnim <span class="highlight-text">**kapsulama za spavanje**</span>. Za porodice sa decom, tu su posebno dizajnirana igrališta i zabavni sadržaji koji putovanje čine manje stresnim i pretvaraju ga u avanturu. Duty-free zona nudi neverovatan izbor proizvoda, od lokalnih suvenira do najnovije elektronike i mode, čineći šoping iskustvo pravim doživljajem.
 
-![Impresivan enterijer terminala na Dubai International aerodromu sa putnicima](/slike/dubai/dubai_interior1.jpg)
+---
+
+{{< figcredit 
+    src="/slike/dubai/dubai_interior1.jpg" 
+    alt="Luksuzna unutrašnjost aerodorma Dubai International"
+    author="Ввласенко"
+    source="Wikimedia Commons"
+    source_url="https://commons.wikimedia.org/wiki/File:Interior_of_Terminal_3_Dubai_Airport._United_Arab_Emirates.jpg"
+    license="CC BY-SA 3.0 Unported"
+    license_url="https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
+>}}
+
 
 ---
 ## Doživljaj putnika
@@ -58,7 +69,20 @@ DXB nije samo čvorište aviona, već i ljudi. Hodajući kroz terminale, možete
 
 Kao dom avio-kompanije Emirates i jedna od <span class="highlight-text">**najprometnijih vazdušnih luka na svetu**</span>, DXB služi kao vitalno čvorište koje povezuje Evropu, Aziju, Afriku i Ameriku. Njegova strateška lokacija čini ga idealnom tranzitnom tačkom za duge letove, a neverovatna efikasnost usluga osigurava da čak i kratka presedanja budu prijatna i bezbrižna. Kroz DXB prolazi ogroman deo svetskog putničkog i teretnog saobraćaja, što ga čini ključnim igračem u globalnoj ekonomiji i turizmu. Aerodrom svakodnevno dočekuje i ispraća stotine hiljada ljudi, predstavljajući pravi "lonac za topljenje" kultura i ideja, gde se susreću ljudi iz svih krajeva sveta. Njegova uloga u povezivanju udaljenih destinacija i olakšavanju međunarodne trgovine je nezamenljiva.
 
-![Automatske kapije za prolazak na aerodromu DXB sa putnicima](/slike/dubai/dubai_interior2.jpg)
+---
+
+{{< figcredit 
+    src="/slike/dubai/dubai_interior2.jpg" 
+    alt="Avion Emirates čeka na polijetanje na aerodromu u Dubaiju"
+    author="Alireza Akhlaghi"
+    source="Unsplash"
+    source_url="https://unsplash.com/es/fotos/un-gran-avion-de-pasajeros-sentado-encima-de-la-pista-de-un-aeropuerto-yp00l5bntPE"
+    license="Unsplash License"
+    license_url="https://unsplash.com/license"   
+>}}
+
+
+---
 
 > Kao jedan od najdinamičnijih aerodroma na svetu, Dubai International (DXB) operiše sa impresivnim brojem letova, dostižući i do **preko 1.100 letova dnevno** tokom špica sezone. Njegova strateška pozicija omogućava mu da bude ključna veza za putnike koji putuju između Evrope, Azije, Afrike i Pacifika. Među najprometnijim i najpopularnijim destinacijama do kojih se leti iz DXB-a ističu se evropski gradovi poput **Londona, Frankfurta i Pariza**, azijski centri kao što su **Mumbaj, Bangkok i Peking**, ali i američki gradovi poput **Njujorka i Los Anđelesa**. Godišnje, aerodrom opslužuje preko <span class="highlight-text">**80 miliona putnika**</span>, potvrđujući svoju ulogu vitalnog čvorišta u globalnoj avijaciji i omogućavajući neometan protok ljudi i robe širom planete.
 ---
@@ -67,7 +91,19 @@ Kao dom avio-kompanije Emirates i jedna od <span class="highlight-text">**najpro
 
 Dubai International nije fokusiran samo na sadašnjost, već i na ambicioznu budućnost. Kroz brojne inicijative za smanjenje <span class="highlight-text">**ugljeničnog otiska**</span>, aktivno recikliranje otpada i implementaciju zelene tehnologije (kao što su solarni paneli i energetski efikasni sistemi), aerodrom teži da bude lider u održivom vazdušnom saobraćaju. Konstantna ulaganja u infrastrukturu i inovacije osiguravaju da DXB ostane aerodrom budućnosti – ne samo u smislu kapaciteta, već i u pogledu ekološke odgovornosti i naprednih usluga. 
 
-![Eksterijer Dubai International aerodroma sa avionima na pisti pri zalasku sunca](/slike/dubai/dubai_interior3.jpg)
+---
+
+{{< figcredit 
+    src="/slike/dubai/dubai_interior3.jpg" 
+    alt="Putnici idu ka svom gate-u na aerodomu Dubai International"
+    author="Freepik"
+    source="Freepik"
+    source_url="https://www.freepik.com/free-ai-image/tourist-carrying-baggage_272735991.htm#fromView=keyword&page=2&position=49&uuid=5745bd12-c4a4-42b1-a177-1dd80c98a1a8&query=Family+showing+anticipation+airport"
+    license="Free License (with attribution)"
+    license_url="https://www.freepik.com/terms_of_use"  
+>}}
+
+---
 
 <span class="highlight-text">**Vizija Dubaija**</span> je da DXB nastavi da raste i postavlja nove standarde u avijaciji, pružajući neuporedivo iskustvo putovanja za generacije koje dolaze, uz istovremeno smanjenje uticaja na životnu sredinu. Planovi za dalje proširenje i modernizaciju osiguravaju da će DXB zadržati svoju poziciju globalnog lidera.
 
