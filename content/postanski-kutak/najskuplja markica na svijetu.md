@@ -2,7 +2,7 @@
 title: "Gvajana – Najskuplja markica na svijetu"
 subtitle: "Mali papir iz 1856. koji je postao svjetska ikona"
 slug: "najskuplja-markica-british-guiana-1c-magenta"
-date: 2025-09-28T10:00:00+02:00
+date: 2025-09-30T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Priča o najskupljoj poštanskoj markici na svijetu, British Guiana 1c Magenta iz 1856. godine – njenom nastanku, istoriji, vlasnicima i rekordnim aukcijama."
 image: "/slike/gvajana-markica/gvajana-hero.jpg" # Glavna naslovna slika
