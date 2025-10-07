@@ -6,12 +6,12 @@ date: 2025-08-01T10:00:00+02:00 # Datum kada je članak objavljen (ili za avgust
 author: "Istraži Globus Tim"
 description: "Otkrijte zašto je Kipar savršena destinacija za avgust: netaknute plaže, drevna istorija, živahni noćni život i ukusna kuhinja čekaju na vas na ostrvu Afrodite."
 image: "/slike/kipar/kipar-hero.jpg" # OBAVEZNO: Podesi putanju do tvoje slike za Kipar!
-image_alt: "Prelepa plaža na Kipru sa tirkiznom vodom"
-image_author: "dimitrisvetsikas1969" 
-image_source: "Pixabay"
-image_source_url: "https://pixabay.com/photos/cyprus-kyrenia-town-port-boat-7692621/" # Link do profila autora (preporučeno)
-image_license: "Pixabay License"
-image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
+image_alt: "djevojka gleda ka ostacima antickog amfiteatra i Sredozemno more"
+image_author: "AI by Google Gemini" 
+image_source: "Generisano na zahtev"
+image_source_url: "" # Link do profila autora (preporučeno)
+image_license: "Dozvola za korišćenje"
+image_license_url: "" # Link do uslova korišćenja Pixabay-a
 categories:
   - Destinacije
   - Evropa
@@ -75,12 +75,12 @@ Kiparski pejzaž je iznenađujuće raznolik, pružajući spektakularne kontraste
 
 {{< figcredit 
     src="/slike/kipar/kipar2.jpg" 
-    alt="Pogled iz vazduha na plazu u ljetovalištu Protaras"
-   author="dronepicr"
-    source="Wikimedia commons"
-    source_url="https://commons.wikimedia.org/wiki/File:Protaras_Cyprus_(43006389464).jpg"
-    license="CC BY 2.0 Generic"
-    license_url="https://creativecommons.org/licenses/by/2.0/" 
+    alt="Pogled na jednu od marina na Kipru"
+    author="dimitrisvetsikas1969"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/cyprus-kyrenia-town-port-boat-7692621/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
 >}}
 
 ---
