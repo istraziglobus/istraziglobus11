@@ -147,8 +147,8 @@ Muzej Picassa u Gotičkoj četvrti sadrži više od <span class="highlight-text"
 <div class="info-box-container">
   <h3>Zanimljivosti o Barseloni</h3>
   <ul>
-    <li>Barselona ima više od <strong>4,5 kilometara gradskih plaža</strong> koje su stvorene tek za Olimpijske igre 1992. godine.</li>
-    <li>Grad ima čak <strong>9 UNESCO zaštićenih lokacija</strong>, od kojih je većina djelo Antonija Gaudija.</li>
+    <li>Barselona ima više od 4,5 kilometara gradskih plaža koje su stvorene tek za Olimpijske igre 1992. godine.</li>
+    <li>Grad ima čak 9 UNESCO zaštićenih lokacija, od kojih je većina djelo Antonija Gaudija.</li>
     <li>U Sagradi Familiji se i dalje radi po Gaudijevim originalnim nacrtima, koji su preživjeli požar 1936. godine.</li>
     <li>Na brdu Tibidabo, s kojeg se pruža panoramski pogled na cijeli grad, nalazi se jedan od najstarijih zabavnih parkova u Evropi.</li>
   </ul>
