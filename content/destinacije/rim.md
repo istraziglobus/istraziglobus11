@@ -41,6 +41,9 @@ most_read: true
             <li><strong>Atrakcija:</strong> Koloseum</li>
             <li><strong>Pozivni broj:</strong> 06</li>
             <li><strong>Vremenska zona:</strong> CET +1</li>
+            <li><strong>Regija:</strong> Lacio</li>
+            <li><strong>Površina:</strong> 1.285 km²</li>
+            <li><strong>Klima:</strong> Mediteranska </li>
         </ul>
     </div>
     <figure class="article-image-box">
