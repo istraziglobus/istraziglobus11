@@ -1836,6 +1836,8 @@ blockquote p {
     gap: 16px;
     align-items: stretch; /* Ključno za jednaku visinu */
 }
+
+
 /* Stilovi za isticanje TOP teme */
 .most-read-card {
     position: relative;
@@ -1849,17 +1851,18 @@ blockquote p {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    flex-grow: 1;
-    /* Dodajemo prelaz za sliku da bi zumiranje bilo glatko */
+    flex-grow: 2;
     transition: background-size 0.5s ease;
 }
+
 /* Efekat zumiranja i tamnjenja na hover */
 .most-read-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
     background-size: 150%; /* Zumiranje slike */
 }
-/* Pseudo-element za tamniju pozadinu slike na hover */
+
+/* Tamni prelaz na dnu slike (za čitljivost teksta) */
 .most-read-card::after {
     content: '';
     position: absolute;
@@ -1867,62 +1870,49 @@ blockquote p {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: transparent; /* Početno providno */
-    transition: background-color 0.5s ease;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
+    transition: background 0.5s ease;
     z-index: 0;
 }
-/* Kontejner za naslov i opis */
+
+/* Kontejner za naslov i opis — sada direktno na slici */
 .most-read-content {
     position: absolute;
     bottom: 0;
     left: 0;
-    /* Povećana visina trake da stane i opis */
-    width: 50%;
-    height: 120px; /* Povećana visina trake (30px * 4 = 120px) */
+    width: 100%;
     padding: 16px 24px;
-    background-color: #fff;
+    background: none; /* Maknuta bijela traka */
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    overflow: hidden;
-    z-index: 1;
+    z-index: 2;
 }
-/* Tekst unutar bele trake */
+
+/* Tekst unutar slike */
 .most-read-title {
-    font-size: 1.8rem;
+    font-size: 2.8rem;
     margin: 0 0 8px 0;
     font-weight: bold;
-    color: #222;
-    z-index: 2;
-}
-.most-read-description {
-    display: block; /* Opis je sada vidljiv */
-    font-size: 0.8rem;
-    color: #555;
-    margin: 0;
-    z-index: 2;
+    color: #fff;
+    position: relative;
+    padding-bottom: 8px;
+    display: inline-block;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
+    z-index: 3;
+    transition: all 0.3s ease;
 }
 
-.most-read-title {
-    /* Vaši postojeći stilovi... */
-    position: relative; /* Ključno za pozicioniranje pseudo-elemenata */
-    padding-bottom: 8px; /* Dodaje prostor za donju liniju */
-    display: inline-block; /* Omogućava da se pozadina i linije prilagode širini teksta */
-    z-index: 2;
-    transition: all 0.3s ease; /* Glatka tranzicija za boju i transformaciju */
-}
-
-/* Pseudo-elementi za gornju i donju liniju */
+/* Efekat linija ispod i iznad naslova */
 .most-read-title::before,
 .most-read-title::after {
     content: '';
     position: absolute;
     height: 3px;
     background-color: var(--theme-green-color);
-    transition: width 0.3s ease-in-out; /* Animacija širine */
+    transition: width 0.3s ease-in-out;
 }
 
-/* Početno stanje: Linije su nevidljive */
 .most-read-title::before {
     top: 0;
     left: 0;
@@ -1933,15 +1923,27 @@ blockquote p {
     right: 0;
     width: 0;
 }
-
-/* Stanje kada se pređe mišem: Linije se pojave */
 .most-read-title:hover::before,
 .most-read-title:hover::after {
-    width: 100%; /* Povećava širinu linija do 100% */
+    width: 100%;
 }
 
-    
-   /* RESPONSIVNI DIZAJN ZA MOBILNI */
+.most-read-description {
+    display: block;
+    font-size: 1.25rem; /* sada možeš povećati */
+    color: #f0f0f0;
+    margin: 4px 0 0 0;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    z-index: 3;
+    overflow: visible;
+    white-space: normal;
+    text-overflow: unset;
+    font-weight: 700; /* ✅ BOLD cijeli tekst */
+}
+
+
+
+/* RESPONSIVNI DIZAJN ZA MOBILNI */
 @media (max-width: 768px) {
     .topics-container {
         flex-direction: column;
@@ -1950,32 +1952,38 @@ blockquote p {
         width: 100%;
         min-height: 350px;
     }
-    /* Traka na mobilnom: širina 50% i prilagođavanje teksta */
+
+    /* Tekst ostaje na slici i na mobilnom */
     .most-read-content {
-        width: 50%;
-        height: 30%;
+        width: 100%;
         padding: 16px;
         flex-direction: column;
         align-items: flex-start;
+        background: none;
     }
+
     .most-read-title {
-        font-size: 1.8rem;
-        white-space: normal; /* Dozvoljava prelamanje teksta */
+        font-size: 1.6rem;
+        white-space: normal;
         overflow: hidden;
         text-overflow: ellipsis;
+        color: #fff;
+        text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
     }
+
     .most-read-description {
-    display: -webkit-box;
-    -webkit-line-clamp: 2; /* Ograničava na 2 reda */
-    -webkit-box-orient: vertical;
-    line-clamp: 2; /* Dodano za kompatibilnost */
-    overflow: hidden;
-    text-overflow: ellipsis;
-    font-size: 0.95rem;
-    font-weight: bold;
-    margin: 2px 0 0 0;
-    color: #555;
-}
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        line-clamp: 2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 0.9rem;
+        font-weight: bold;
+        margin: 2px 0 0 0;
+        color: #f0f0f0;
+        text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8);
+    }
 }
 
 /* Stilovi za bedž "NAJČITANIJE" */
