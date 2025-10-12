@@ -1951,6 +1951,10 @@ blockquote p {
     .most-read-card, .topic-card {
         width: 100%;
         min-height: 350px;
+        overflow: visible;       /* da se vidi sav tekst */
+        white-space: normal;     /* dozvoljava prelamanje u više redova */
+        text-overflow: unset;    /* uklanja „...“ */
+        line-clamp: unset;   
     }
      .most-read-content {
       padding: 20px;
