@@ -1941,8 +1941,6 @@ blockquote p {
     font-weight: 700; /* ✅ BOLD cijeli tekst */
 }
 
-
-
 /* RESPONSIVNI DIZAJN ZA MOBILNI */
 @media (max-width: 768px) {
     .topics-container {
@@ -1950,49 +1948,8 @@ blockquote p {
     }
     .most-read-card, .topic-card {
         width: 100%;
-        min-height: 350px;
-        /* Ove tri linije ispod više nisu potrebne jer sada koristimo line-clamp */
-        /* overflow: visible; */
-        /* white-space: normal; */
-        /* text-overflow: unset; */
+        min-height: 350px; 
     }
-    
-    .most-read-content {
-        /* Smanjite padding na mobilnom kako biste dali više prostora tekstu */
-        padding: 16px; 
-        width: 100%; /* Osigurano 100% širine */
-        flex-direction: column;
-        align-items: flex-start;
-        background: none;
-    }
-
-    .most-read-title {
-        font-size: 1.6rem;
-        width: 100%; /* KLJUČNO: Osigurava da naslov popunjava samo 100% prostora */
-        white-space: normal; /* Dozvoljava prelamanje */
-        overflow: hidden;
-        text-overflow: ellipsis;
-        color: #fff;
-        text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
-        /* Ako želite da naslov bude samo u jednom redu sa '...' (kao skraćeni URL) koristite: white-space: nowrap; */
-        /* U ovom slučaju, normal je bolji, ali ga je potrebno zaštititi */
-    }
-
-    .most-read-description {
-        display: -webkit-box;
-        -webkit-line-clamp: 2; /* OGRANIČENJE NA 2 REDA */
-        -webkit-box-orient: vertical;
-        line-clamp: 2;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        font-size: 0.9rem;
-        font-weight: bold;
-        margin: 2px 0 0 0;
-        color: #f0f0f0;
-        text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8);
-    }
-}
-
     /* Tekst ostaje na slici i na mobilnom */
     .most-read-content {
         width: 100%;
