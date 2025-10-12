@@ -1945,13 +1945,13 @@ blockquote p {
 
 /* RESPONSIVNI DIZAJN ZA MOBILNI */
 @media (max-width: 768px) {
-    .topics-container {
-        flex-direction: column;
-    }
-    .most-read-card, .topic-card {
-        width: 100%;
-        min-height: 350px;
-    }
+  .most-read-content {
+      padding: 20px;
+  }
+  .most-read-description {
+      font-size: 1rem;
+  }
+}
 
     /* Tekst ostaje na slici i na mobilnom */
     .most-read-content {
