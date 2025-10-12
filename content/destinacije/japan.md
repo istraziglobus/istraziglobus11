@@ -23,6 +23,7 @@ tags:
   - Gastronomija
 featured_monthly_theme: true
 mesec_destinacije: "OKTOBAR 2025"
+most_read: true 
 ---
 
 **Japan.** Zemlja gdje svaka jesen izgleda kao da ju je naslikao <span class="highlight-text">pažljiv umjetnik</span>. Kada oktobar stigne, arhipelag se oblači u crveno, zlatno i narandžasto, a ulice i parkovi postaju galerija pod vedrim nebom. Ovo je mjesec kada priroda i kultura plešu u istom ritmu: festivali u gradovima prate mijenu lišća, hramovi uronjeni u krošnje podsjećaju na vjekovnu tradiciju, a moderna metropola pokazuje svoje mirnije, tiše lice. Japan u oktobru nije samo destinacija – to je iskustvo koje spaja prošlost i budućnost, ritam grada i spokoj planine, boje prirode i ljudsku maštu.  

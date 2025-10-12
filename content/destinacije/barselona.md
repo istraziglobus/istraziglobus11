@@ -89,7 +89,7 @@ Osim Sagrade, Gaudijeve ruke ostavile su trag u čuvenom <strong>Parku Güell</s
 
 ---
 
-## Grad svjetlosti, muzike i ulica koje žive
+## Mijesto svjetlosti, muzike i ulica koje žive
 
 Barselona diše u ritmu svojih ulica. Uvečer, dok sunce tone iza Tibidaba, grad se pretvara u pozornicu. Gitare i glasovi odjekuju sa Ramble, dok se iz skrivenih barova u <span class="highlight-text">El Bornu</span> čuje žamor mještana koji raspravljaju o fudbalu, umjetnosti i životu. Svaka ulica nosi neku melodiju – od fado nota što dolaze iz starih taverni do improvizovanih koncerata u podzemlju metroa.
 
