@@ -1123,27 +1123,38 @@ a:hover {
 
 
 
-/* ==== CSS ZA SEKCIJU: DESTINACIJA MJESECA (Fino i Moderno) ==== */
+/* ==== DESTINACIJA MJESECA (Optimizovano i stabilno) ==== */
+
 .destination-of-month-section {
     padding-top: 80px;
     padding-bottom: 10px;
     text-align: center;
     background-color: var(--light-text-color);
 }
+
+/* Glavna kartica */
 .destination-card {
+    display: flex;
+    flex-direction: column; /* Mobile-first pristup */
+    width: 100%;
+    height: auto;
+    min-height: 400px;
     background-color: var(--bg-white);
     border-radius: var(--border-radius-soft);
     box-shadow: var(--shadow-light);
-    display: flex;
-    width: 100%;
-    height: 90vh;
-    flex-direction: column; /* Podrazumevano za mobilne */
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     text-decoration: none;
     color: inherit;
-     position: relative; /* Dodano za pozicioniranje linija */
+    position: relative;
 }
+
+.destination-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+/* Zelena linija animacija na hover */
 .destination-card::after {
     content: '';
     position: absolute;
@@ -1151,111 +1162,47 @@ a:hover {
     left: 0;
     width: 0;
     height: 4px;
-    background-color: var(--theme-green-color); /* Zelena boja linije */
+    background-color: var(--theme-green-color);
     transition: width 0.3s ease-in-out;
-} 
-.destination-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
 }
-/* Izmenjen stil za desktop prikaz */
-@media (min-width: 768px) {
-    .destination-card {
-        flex-direction: row;
-        align-items: stretch; /* Poravnava visinu kontejnera */
-        text-align: left;
-    }
+.destination-card:hover::after {
+    width: 100%;
 }
+
+/* ==== SLIKA ==== */
 .destination-image-wrapper {
-    flex: 2; /* Slika zauzima 2/3 prostora */
-    min-width: 75.00%;
-    height: 350px;
+    flex: 2;
+    width: 100%;
+    aspect-ratio: 16 / 9; /* ✅ Fiksira proporcije */
     overflow: hidden;
     position: relative;
     border-radius: var(--border-radius-soft) var(--border-radius-soft) 0 0;
 }
-@media (min-width: 768px) {
-    .destination-image-wrapper {
-        border-radius: var(--border-radius-soft) 0 0 var(--border-radius-soft);
-        height: auto; /* Visina se prilagođava sadržaju */
-    }
-}
+
 .destination-image-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
     transition: transform 0.5s ease;
+    pointer-events: none; /* sprječava slučajno povlačenje slike */
 }
+
 .destination-card:hover .destination-image-wrapper img {
     transform: scale(1.05);
 }
+
+/* ==== SADRŽAJ ==== */
 .destination-content {
-    flex: 1; /* Tekst zauzima 1/3 prostora */
+    flex: 1;
     padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-/* Ostali stilovi ostaju isti */
-.destination-content h2 {
-    font-family: var(--font-heading);
-    font-size: 2.8em;
-    margin-bottom: 15px;
-    color: var(--text-dark);
-    position: relative;
-}
-.destination-content h2::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -5px;
-    width: 0;
-    height: 3px;
-    background-color: var(--theme-green-color);
-    transition: width 0.3s ease-in-out;
-}
-.destination-content h3 {
-    font-family: var(--font-heading);
-    font-size: 1.5em;
-    margin-bottom: 15px;
-    color: var(--text-dark);
-    position: relative;
-}
-.destination-content h3::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -3px;
-    width: 0;
-    height: 2px;
-    background-color: var(--theme-green-color);
-    transition: width 0.3s ease-in-out;
-}
-.destination-content p {
-    font-size: 1.1em;
-    line-height: 1.7;
-    margin-bottom: 25px;
-    color: var(--secondary-color);
-    position: relative;
-}
-.destination-content p::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -3px;
-    width: 0;
-    height: 2px;
-    background-color: var(--theme-green-color);
-    transition: width 0.3s ease-in-out;
+    text-align: left;
 }
 
-/* Kljucni hover stil za animaciju */
-.destination-card:hover .destination-content h2::after,
-.destination-card:hover .destination-content h3::after,
-.destination-card:hover .destination-content p::after {
-    width: 100%;
-}
+/* Naslov mjeseca */
 .destination-content .card-month-title {
     font-weight: bold;
     text-transform: uppercase;
@@ -1263,6 +1210,109 @@ a:hover {
     margin-bottom: 10px;
     font-size: 1em;
 }
+
+/* Naslov */
+.destination-content h2,
+.destination-content h3,
+.destination-content p {
+    position: relative;
+}
+
+/* h2 Naslov */
+.destination-content h2 {
+    font-family: var(--font-heading);
+    font-size: 2.8em;
+    margin-bottom: 15px;
+    color: var(--text-dark);
+}
+
+/* h3 Podnaslov */
+.destination-content h3 {
+    font-family: var(--font-heading);
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: var(--text-dark);
+}
+
+/* Opis */
+.destination-content p {
+    font-size: 1.1em;
+    line-height: 1.7;
+    margin-bottom: 25px;
+    color: var(--secondary-color);
+}
+
+/* Linije ispod teksta */
+.destination-content h2::after,
+.destination-content h3::after,
+.destination-content p::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 2px;
+    background-color: var(--theme-green-color);
+    transition: width 0.3s ease-in-out;
+}
+
+/* Aktivacija linije na hover */
+.destination-card:hover .destination-content h2::after,
+.destination-card:hover .destination-content h3::after,
+.destination-card:hover .destination-content p::after {
+    width: 100%;
+}
+
+/* ==== DESKTOP LAYOUT ==== */
+@media (min-width: 768px) {
+    .destination-card {
+        flex-direction: row;
+        align-items: stretch;
+        text-align: left;
+    }
+
+    .destination-image-wrapper {
+        border-radius: var(--border-radius-soft) 0 0 var(--border-radius-soft);
+        aspect-ratio: auto;
+        height: auto;
+        min-height: 400px;
+    }
+
+    .destination-content {
+        padding: 40px;
+    }
+}
+
+/* ==== MOBILNI DIZAJN ==== */
+@media (max-width: 768px) {
+    .destination-card {
+        flex-direction: column;
+        text-align: left;
+    }
+
+    .destination-image-wrapper {
+        aspect-ratio: 4 / 3; /* ✅ Fiksirano za mobilne */
+        max-height: 320px;
+    }
+
+    .destination-content {
+        padding: 20px;
+    }
+
+    .destination-content h2 {
+        font-size: 2rem;
+    }
+
+    .destination-content h3 {
+        font-size: 1.3rem;
+    }
+
+    .destination-content p {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+}
+
 
 
 /* ==== CSS ZA SEKCIJU - SAVJETI ZA PUTOVANJA (Fino i Moderno) ==== */
