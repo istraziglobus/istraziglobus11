@@ -2,7 +2,7 @@
 title: "Edinburg – Grad Harija Potera"
 subtitle: "Šetnja ulicama koje su nadahnule svijet magije"
 slug: "edinburgh-grad-harry-pottera"
-date: 2025-10-16T10:00:00+02:00
+date: 2025-10-21T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Otkrijte kako su kamene ulice Edinburgha, magloviti dvorci i stare knjižare postali mjesto gdje je rođen jedan od najpoznatijih svjetova književnosti – svijet Harryja Pottera."
 teaser: "U maglovitim ulicama Edinburgha rođen je svijet koji je promijenio djetinjstvo milijuna ljudi. Otkrijte gdje je J.K. Rowling pronašla inspiraciju za Hogwarts i kako je ovaj škotski grad postao stvarni dom čarobnjaka."
