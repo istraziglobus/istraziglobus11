@@ -85,6 +85,11 @@ Cojímar je tih dana bio mjesto bez turističkih brodova i velikih hotela. Danas
 
 Kritičari su roman opisali kao povratak Hemingveja njegovom najboljem stilu – jednostavnom, čistom i snažnom. Godinu dana kasnije, dobio je Pulitzerovu nagradu, a 1954. Nobelovu nagradu za književnost, gdje je posebno istaknuto upravo ovo djelo.
 
+<div class="tip-box">
+  <h3>El Floridita</h3>
+  <p>Mnogi vjeruju da je lik starog ribara Santiaga inspirisan stvarnim čovjekom — Gregoriom Fuentesom, kubanskim ribarom koji je s Hemingvejem godinama lovio tune i marlina. U Havani i danas postoji bar *El Floridita*, koji Hemingvej nikada nije napuštao bez svog omiljenog daikirija — koktela koji su kasnije nazvali *“Papa Doble”* po njemu.</p>
+</div>
+
 ---
 
 ## Havana danas: grad u kojem književnost hoda ulicom

@@ -114,7 +114,7 @@ Nakon šetnje avenijama i muzejima, Barselona vas poziva na obalu. Plaže poput 
 Mediteranska kuhinja ovdje je način života. Od malih <span class="highlight-text">tapas-barova</span> do ekskluzivnih restorana, Barselona nudi uživanje u gastronomiji koja spaja tradiciju i inovaciju. Probajte <em>paellu</em>, <em>jamón ibérico</em> i čašu lokalnog vina, dok gledate zalazak sunca nad Mediteranom – i shvatićete zašto se u Barselonu ljudi zaljubljuju trajno.
 
 <div class="tip-box">
-  <h3>Okusi Barselone</h3>
+  <h3>Ukusi Barselone</h3>
   <p>Ne propustite posjetu tržnici <strong>La Boquería</strong> na Rambli – jednom od najživopisnijih pijaca u Evropi. Tu možete probati svježe voće, morske plodove, sireve i tradicionalne katalonske delicije, sve uz žamor i energiju lokalaca.</p>
 </div>
 
