@@ -4,6 +4,9 @@ subtitle: "Mjesto gdje putovanje postaje doživljaj, a aerodrom turistička dest
 slug: "aerodrom-changi-singapur"
 date: 2025-10-15T10:00:00+02:00
 author: "Istraži Globus Tim"
+continent: "Azija"
+country: "Singapur"
+city: "Singapur"
 description: "Otkrijte zašto je Aerodrom Changi u Singapuru proglašen najboljim na svijetu — spoj prirode, arhitekture i futurističke udobnosti koji nadmašuje pojam aerodroma."
 image: "/slike/changi-aerodrom/changi-hero.jpg"
 image_author: "GeorgeTan#1"

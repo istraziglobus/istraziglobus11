@@ -2,6 +2,9 @@
 title: "Pljačka vijeka u Luvru"
 subtitle: "Sedam minuta haosa u hramu svjetske umjetnosti"
 author: "Istraži Globus Tim"
+continent: Evropa
+country: Francuska
+city: Pariz
 date: 2025-10-25T18:00:00+02:00
 image: "/slike/luvr-pljacka/luvr-hero.jpg"
 image_alt: "Muzej Luvr u Parizu noću"
