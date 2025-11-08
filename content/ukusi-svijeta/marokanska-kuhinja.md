@@ -1,5 +1,5 @@
 ---
-title: "Marokanska Kuhinja"
+title: "Maroko - miris začina i pijeska"
 subtitle: "Putovanje Kroz Ukuse Sjeverne Afrike"
 author: "Istraži Globus Tim"
 date: 2025-07-24T23:00:00+02:00
