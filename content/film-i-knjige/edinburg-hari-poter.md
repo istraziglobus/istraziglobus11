@@ -1,5 +1,5 @@
 ---
-title: "Edinburg – Grad Harija Potera"
+title: "Edinburg: Grad Harija Potera"
 subtitle: "Šetnja ulicama koje su nadahnule svijet magije"
 slug: "edinburgh-grad-harry-pottera"
 date: 2025-10-21T10:00:00+02:00

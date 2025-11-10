@@ -1,5 +1,5 @@
 ---
-title: "Meksiko - zrno koje hrani dušu"
+title: "Meksiko: zrno koje hrani dušu"
 subtitle: "Zemlja gdje kukuruz priča istoriju"
 slug: "meksiko-ukusi-svijeta"
 date: 2025-11-05T10:00:00+02:00
