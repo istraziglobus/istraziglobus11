@@ -1988,7 +1988,7 @@ blockquote p {
     overflow: visible;
     white-space: normal;
     text-overflow: unset;
-    font-weight: 700; /* ✅ BOLD cijeli tekst */
+    font-weight: 900; /* ✅ BOLD cijeli tekst */
 }
 
 /* RESPONSIVNI DIZAJN ZA MOBILNI */
@@ -2002,7 +2002,7 @@ blockquote p {
     }
     /* Tekst ostaje na slici i na mobilnom */
     .most-read-content {
-        width: 100%;
+        width: 95%;
         padding: 16px;
         flex-direction: column;
         align-items: flex-start;
