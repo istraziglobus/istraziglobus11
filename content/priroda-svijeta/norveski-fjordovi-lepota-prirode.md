@@ -11,7 +11,6 @@ image_source_url: "https://www.freepik.com/free-photo/man-sits-end-trolltunga-be
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 slug: "norveski-fjordovi-lepota-prirode"
-draft: false
 categories:
   - Priroda Svijeta
   - Evropa

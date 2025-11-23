@@ -14,7 +14,6 @@ slug: "promjena-sata-zasto-i-kako"
 draft: false
 categories:
 - Geo kutak
-- Zanimljivosti svijeta
 tags:
 - Vrijeme
 - Promjena sata

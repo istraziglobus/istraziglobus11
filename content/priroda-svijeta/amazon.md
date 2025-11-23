@@ -11,9 +11,8 @@ image_source_url: "https://commons.wikimedia.org/wiki/File:Campo12Foto_2.JPG"
 image_license: "CC BY 3.0 Unported (Multiple License)"
 image_license_url: "https://creativecommons.org/licenses/by/3.0/deed.en"
 slug: "amazonija-pluca-planete"
-draft: false
 categories:
-  - Priroda svijeta
+  - Priroda Svijeta
 tags:
   - Amazonija
   - Priroda

@@ -1,0 +1,33 @@
+{{ $current := . }}
+{{ $category := index .Params.categories 0 }}
+
+<div class="related-section">
+    <h3 class="related-title">Povezani članci</h3>
+
+    <div class="related-grid">
+
+        {{ $sameCategory := where .Site.RegularPages "Params.categories" "intersect" (slice $category) }}
+        {{ $related := $sameCategory.Related $current | first 4 }}
+
+        {{ range $related }}
+        <a href="{{ .RelPermalink }}" class="related-card">
+            <div class="related-image-wrapper">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+            </div>
+
+            <div class="related-card-content">
+                <span class="related-category">
+                    {{ index .Params.categories 0 }}
+                </span>
+
+                <h4 class="related-card-title">{{ .Title }}</h4>
+
+                {{ with .Summary }}
+                    <p class="related-card-excerpt">{{ . | plainify | truncate 120 }}</p>
+                {{ end }}
+            </div>
+        </a>
+        {{ end }}
+
+    </div>
+</div>

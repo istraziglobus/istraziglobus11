@@ -1,5 +1,5 @@
 ---
-title: "Evropski Koridori – Arterije Kontinenta"
+title: "Evropski koridori – Arterije kontinenta"
 subtitle: "Priče koje žive između putokaza i horizonta"
 slug: "evropski-koridori-putevi-koji-povezuju-kontinent"
 date: 2025-11-18T10:00:00+02:00
@@ -9,16 +9,15 @@ image: "/slike/evropski-koridori/evropski-koridori-hero.jpg"
 image_alt: "Mapa evropskih putnih koridora"
 categories:
   - Geo kutak
-  - Evropa
-  - Saobraćaj
 tags:
   - Evropski koridori
   - Putovanja autom
   - Infrastruktura
   - Balkan
+  - Evropa
+  - Saobraćaj
 ---
 
-# **Evropski Koridori – Putevi koji Povezuju Kontinent**
 
 Evropa je kontinent koji se <span class="highlight-text">najljepše upoznaje kada se krene putem</span>.  
 Automobil, voz, brod ili samo ruksak preko ramena – svejedno je, jer se kontinent otkriva upravo između dva odredišta, na mjestima gdje se horizont otvara poput stranice knjige. Dok gledaš kako se brda smjenjuju ravnicama, kako se jezera pojavljuju poput ogledala ispod planinskih grebena, a gradovi izranjaju iza zavoja, shvatiš da je Evropa zapravo mreža puteva, jedna živa i stalno pokretna cjelina.

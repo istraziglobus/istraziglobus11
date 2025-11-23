@@ -14,6 +14,7 @@ image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/"
 categories:
   - Vijesti
+  - Geo kutak
 tags:
   - EES sistem
   - Šengen zona

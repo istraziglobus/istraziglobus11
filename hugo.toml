@@ -22,4 +22,19 @@ pluralizeListTitles = false
     [markup.goldmark.renderer]
       unsafe = true # Omogućava korišćenje HTML-a direktno u Markdownu (kao što je tvoj slučaj)
 
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 80
+
+
 # Moguće je dodati konfiguracijiu za RSS feed, sitemap itd.

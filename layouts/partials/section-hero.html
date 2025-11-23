@@ -1,0 +1,37 @@
+{{/* HERO HEADER radi samo za sekcije */}}
+{{ if ne .Kind "section" }}
+    {{ return }}
+{{ end }}
+
+<section class="ng-hero" style="--ng-section-color: var(--ng-{{ .Section }});">
+
+    <!-- HERO SLIKA -->
+    <div class="ng-hero-bg">
+        {{ if .Params.image }}
+            <div class="ng-hero-image" style="background-image:url('{{ .Params.image | relURL }}')"></div>
+        {{ end }}
+    </div>
+
+    <!-- HERO SADRŽAJ -->
+    <div class="ng-hero-content">
+
+        <!-- Ikonica + Naslov u istom redu -->
+        <div class="ng-hero-header">
+            <span class="ng-hero-icon">
+                {{ partial "section-icons.html" . }}
+            </span>
+
+            <h1 class="ng-hero-title">{{ .Title }}</h1>
+        </div>
+
+        <!-- Linija ispod naslova -->
+        <div class="ng-hero-accent"></div>
+
+        <!-- Opis sekcije -->
+        {{ with .Description }}
+            <p class="ng-hero-sub">{{ . }}</p>
+        {{ end }}
+
+    </div>
+
+</section>

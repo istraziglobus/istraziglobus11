@@ -1,8 +1,6 @@
 ---
 title: "Koracima Balkana"
-description: "Otkrijte skrivene dragulje Balkana, od planinskih vrhova do obala Jadranskog mora."
-date: 2025-08-01T10:00:00+02:00
-type: "page"
+description: "Priče, tragovi i pejzaži Balkana — od gradova i rijeka do legendi i ljudi koji čuvaju duh ovog prostora."
+image: "/slike/section-heroes/koracima-balkana.jpg"
 ---
 
-Dobrodošli na stranicu Koracima Balkana! Ovde ćemo uskoro objavljivati putopise i članke o najlepšim destinacijama u regionu.

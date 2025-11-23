@@ -17,6 +17,7 @@ slug: "pljacka-luvra"
 draft: false
 categories:
 - Vijesti
+- Kultura i Jezik
 tags:
 - Luvr
 - Francuska

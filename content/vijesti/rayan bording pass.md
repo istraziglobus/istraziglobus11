@@ -14,6 +14,7 @@ slug: "ryanair-digitalne-karte"
 draft: false
 categories:
 - Vijesti
+- Avio svijet
 tags:
 - Ryanair
 - Avio saobraćaj
