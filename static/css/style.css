@@ -1813,10 +1813,24 @@ blockquote p {
         gap: 20px; /* Dodaje razmak od 20px između kolona */
     }
 }
+/* ============================== */
+/*    UŽIVO – PREMIUM NG STYLE    */
+/* ============================== */
+
+:root {
+    --live-red: #fffffffb;   /* NG crvena */
+    --ng-blue: #2BB7DA;    /* NG led plava */
+    --ng-bg: #0f172a;      /* tamna pozadina */
+    --ng-card: #162238;    /* card pozadina */
+    --ng-text: #eef6ff;    /* svijetli tekst */
+    --ng-muted: #9db0c7;   /* sekundarni tekst */
+    --ng-shadow: rgba(0, 0, 0, 0.35);
+}
+
 /* Kontejner */
 .whats-now {
   padding: 0.5rem;
-  background: #f5f5f5;
+  background: #162238;
   border-radius: 12px;
   text-align: center;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -1824,11 +1838,15 @@ blockquote p {
 /* Stil za UŽIVO naslov */
 .whats-now h2 {
   margin-bottom: 0.5rem;
-  font-size: 1.2rem;
+  font-size: 2.2rem;
   letter-spacing: 0.1em;
   animation: blink 1s infinite;
-  color: #e74c3c;
+  color: #f8f020f2;
+  position: relative;
 }
+
+
+
 /* Stilovi za sliku: Povećana i responsivna */
 .whats-now img {
   width: 100%; /* Osigurava da slika ide od ivice do ivice kontejnera */
@@ -1836,10 +1854,16 @@ blockquote p {
   object-fit: cover; /* KLJUČNO: Garantuje da se slika ne izobličuje */
   border-radius: 8px;
   margin-top: 1rem;
+  border: 3px solid #FFD700; /* Žuti okvir debljine 3px */
+  padding: 2px; /* Mali padding da odvoji sliku od okvira */
+  width: calc(100% + 0.3rem); 
+  margin-left: -0.3rem;
+  margin-bottom: -0.5rem;
 }
 /* Stilovi za tekst (naziv grada i podaci) */
 .whats-now h3 {
   font-size: 1.6em;
+  color: #fbf9f9;
 }
 /* Podebljava i povećava ostali tekst (vreme, valuta, itd.) */
 .whats-now p {
@@ -1848,21 +1872,38 @@ blockquote p {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  color: #fbf9f9;
 }
 @media (max-width: 768px) {
-    /* Smanjuje visinu slike unutar UŽIVO kontejnera */
-    .whats-now img {
-        height: 200px; /* Smanjena visina za mobilni prikaz */
+    /* Smanjite padding kontejnera */
+    .whats-now {
+        padding: 0.3rem 0.5rem; /* Smanjeno vertikalno, zadržano horizontalno */
     }
+    
+    /* Povećava visinu slike na mobilnom i smanjuje gornju marginu */
+    .whats-now img {
+        height: 250px; /* RASIRENO U VISINU */
+        margin-top: 0.5rem; /* Smanjeno sa 1rem */
+        width: calc(100% + 0.3rem);
+        margin-left: -0.3rem;
+    }
+
     /* Prilagođavanje veličine fontova za mobilni */
     .whats-now h2 {
         font-size: 1rem;
     }
+    
+    /* Smanjite vertikalne margine h3 */
     .whats-now h3 {
-        font-size: 1.4em;
+        font-size: 2em;
+        margin-top: 0.1rem; 
+        margin-bottom: 0.1rem;
     }
+    
+    /* Smanjite vertikalne margine p elemenata */
     .whats-now p {
-        font-size: 0.7em;
+        font-size: 1em;
+        margin: 2px 0;
     }
 }
 /* Animacija treperenja */
@@ -2405,35 +2446,43 @@ blockquote p {
     max-width: 100%;
 }
 
-
-
-
-
-
-
 /* MOBILE */
 @media (max-width: 768px) {
+
+    /* VEĆA HERO SLIKA */
+    .ng-hero-bg {
+        height: 130px; /* bilo 80px — sada realan mobilni hero */
+    }
+
+    /* MANJE MJESTA ZA OPISNI BLOK */
     .ng-hero-content { 
-        /* Povećavamo padding na 25px sa obe strane */
-        padding: 25px 15px 15px 25px; /* ili skraćeno: padding: 25px 25px 35px; */
-        max-width: 90%; 
+        padding: 15px 18px 16px 18px; /* bilo 25px — sada kompaktnije */
+        max-width: 92%;
     }
+
+    /* MANJI NASLOV */
     .ng-hero-title { 
-        font-size: 1.5rem; 
+        font-size: 1.35rem;
+        line-height: 1.25;
+        margin-bottom: 3px;
     }
-    
+
+    /* KOMPAKTNIJI OPIS (3 reda max) */
     .ng-hero-sub { 
-        font-size: 0.75rem;
-        /* Line-Clamp i dalje osigurava max 3 reda */
-        display: -webkit-box; 
+        font-size: 0.78rem;
+        line-height: 1.35;
+        display: -webkit-box;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        white-space: normal !important; 
-        text-overflow: clip !important; 
+        white-space: normal; 
+        text-overflow: ellipsis;
     }
-    
-    .ng-hero-bg { 
-        height: 80px; 
+
+    /* MALA AKCENT LINIJICA */
+    .ng-hero-accent {
+        width: 70px;
+        height: 3px;
+        margin-bottom: 10px;
     }
 }
 

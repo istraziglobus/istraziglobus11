@@ -26,6 +26,15 @@
     <link rel="shortcut icon" href="/apple-touch-icon.png">
 
     <script defer src="/_vercel/insights/script.js"></script>
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      OneSignalDeferred.push(async function(OneSignal) {
+        await OneSignal.init({
+          appId: "1e163b67-b061-4298-8b71-6531c3d33068",
+        });
+      });
+    </script>
 </head>
 <body>
 
@@ -218,10 +227,9 @@
             <img src="{{ "slike/logo/logo.png.png" | relURL }}" alt="Travel Site Logo" class="footer-logo">
             <p>&copy; {{ now.Year }} Istraži Globus. Sva prava zadržana.</p>
             <div class="social-links">
-                <a href="https://www.facebook.com/istraziglobus" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.facebook.com/istraziglous" target="_blank"><i class="fab fa-facebook"></i></a>
                 <a href="https://twitter.com/istraziglobus" target="_blank"><i class="fab fa-twitter"></i></a>
                 <a href="https://www.instagram.com/Istraziglobus/" target="_blank"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-pinterest"></i></a>
             </div>
         </div>
     </footer>
