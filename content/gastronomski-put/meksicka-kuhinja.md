@@ -13,7 +13,7 @@ image_source_url: "" # Link do profila autora (preporučeno)
 image_license: "Dozvola za korišćenje"
 image_license_url: "" # Link do uslova korišćenja Pixabay-a
 categories:
-  - Gastronomski put
+  - Gastronomski Put
 tags:
   - Meksiko
   - Latinska Amerika
