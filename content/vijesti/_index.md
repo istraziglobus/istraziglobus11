@@ -1,5 +1,5 @@
 ---
 title: "Vijesti"
-date: 2024-04-10
-type: "vijesti"
+description: "Vijesti iz svijeta putovanja"
+image: "/slike/section-heroes/vijesti.jpg"
 ---
