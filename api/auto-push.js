@@ -5,12 +5,21 @@ const parser = new Parser();
 // ❗ Tvoji podaci
 const RSS_URL = "https://istraziglobus.com/index.xml"; 
 const ONESIGNAL_APP_ID = "1e163b67-b061-4298-8b71-6531c3d33068";
-const REST_API_KEY = "tigta6xqhukheefmg7d4z7dg4"; 
-// ^ Koristimo tvoj Legacy Key (25 karaktera)
+const REST_API_KEY = "x4s23nbzuu52f3at7n4z6fsaf"; 
 
 let lastPost = null;
 
 export default async function handler(req, res) {
+  
+    // ***** KRITIČNA PROVERA ZA VERCEL CRON JOB *****
+    const CRON_SECRET = process.env.CRON_SECRET;
+    
+    // Ako Vercel ne pošalje pravu šifru u zaglavlju, odbij zahtev (401 Unauthorized)
+    if (req.headers.get('Authorization') !== `Bearer ${CRON_SECRET}`) {
+        return res.status(401).json({ error: "Unauthorized access: Missing or invalid CRON_SECRET." });
+    }
+    // ************************************************
+
   try {
     const feed = await parser.parseURL(RSS_URL);
     const latest = feed.items[0];
@@ -29,16 +38,13 @@ export default async function handler(req, res) {
     if (latest.link !== global.lastPost) {
         global.lastPost = latest.link;
 
-        // ***** IZMENA za Legacy Key: Uklanjamo Authorization header i dodajemo rest_api_key u telo zahteva *****
         await fetch("https://api.onesignal.com/notifications", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
-                // UKLANJAMO: "Authorization": `Basic ${REST_API_KEY}`
             },
             body: JSON.stringify({
                 app_id: ONESIGNAL_APP_ID,
-                // KLJUČNA IZMENA: Šaljemo ključ u telu za Legacy podršku
                 rest_api_key: REST_API_KEY, 
                 included_segments: ["Subscribed Users"],
                 headings: { en: latest.title },
@@ -46,8 +52,7 @@ export default async function handler(req, res) {
                 url: latest.link
             })
         });
-        // ****************************************************************************************************
-
+        
         return res.status(200).json({ message: "Push sent!" });
     }
 
