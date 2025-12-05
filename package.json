@@ -1,5 +1,11 @@
 {
+  "name": "hugo-cron-job-project",
+  "version": "1.0.0",
+  "description": "Dependencies for Vercel Serverless Cron Jobs",
+  "main": "api/auto-push.js",
+  "type": "module",
   "dependencies": {
-    "@vercel/analytics": "^1.5.0"
+    "@vercel/analytics": "^1.5.0",
+    "rss-parser": "^3.13.0"
   }
 }
