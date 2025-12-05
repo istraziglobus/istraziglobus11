@@ -1,9 +1,0 @@
-<nav class="pagination-nav">
-    {{ if .Paginator.HasPrev }}
-        <a class="pagination-btn prev" href="{{ .Paginator.Prev.URL }}">← Prethodna</a>
-    {{ end }}
-
-    {{ if .Paginator.HasNext }}
-        <a class="pagination-btn next" href="{{ .Paginator.Next.URL }}">Sledeća →</a>
-    {{ end }}
-</nav>
