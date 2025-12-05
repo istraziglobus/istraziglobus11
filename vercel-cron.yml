@@ -1,0 +1,3 @@
+crons:
+  - path: /api/auto-push
+    schedule: '0 8 * * *'
