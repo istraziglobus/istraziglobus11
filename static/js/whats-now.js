@@ -1,4 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
+const cityNameElement = document.getElementById("city-name");
+    if (!cityNameElement) {
+        return; 
+    }
   const cities = [
     { name: "Reykjavik", currency: "ISK" },
     { name: "Tokyo", currency: "JPY" },
