@@ -15,7 +15,7 @@ pluralizeListTitles = false
 
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"] # Hugo podrazumevani izlazi za home stranicu
+  home = ["HTML", "RSS"] # Hugo podrazumevani izlazi za home stranicu
 
 [markup]
   [markup.goldmark]
