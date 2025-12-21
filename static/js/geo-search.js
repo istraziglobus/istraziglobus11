@@ -93,13 +93,20 @@ document.addEventListener('DOMContentLoaded', function () {
     if (cityUrlExact) { window.location.href = cityUrlExact; return; }
     if (countryUrlExact) { window.location.href = countryUrlExact; return; }
 
-    // 2) fallback URL (radi i bez geoSearchData)
-    const citySlug = slugify(ctRaw);
-    const countrySlug = slugify(cRaw);
+    // 2) fallback URL (čuva velika slova kao što Hugo pravi)
+function termToPath(s) {
+  return encodeURIComponent(
+    (s || "")
+      .trim()
+      .replace(/\s+/g, "-")   // razmake u crtu
+  );
+}
 
-    if (citySlug) { window.location.href = `/cities/${citySlug}/`; return; }
-    if (countrySlug) { window.location.href = `/countries/${countrySlug}/`; return; }
+const cityPath = termToPath(ctRaw);
+const countryPath = termToPath(cRaw);
 
+if (cityPath) { window.location.href = `/cities/${cityPath}/`; return; }
+if (countryPath) { window.location.href = `/countries/${countryPath}/`; return; }
     if (err) {
       err.textContent = "Izaberi državu ili grad iz liste.";
       err.style.display = "block";

@@ -18,7 +18,7 @@ categories:
 - Avantura
 tags:
 - Putovanja
-- Zvezde
+- Zvjezde
 - Mlečni put
 - Astronomija
 - Priroda
