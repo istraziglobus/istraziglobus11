@@ -1,5 +1,5 @@
 ---
-title: "La Bombonjera Stadion "
+title: "Buenos Ajres: Bombonjera- fudbalski hram"
 subtitle: "Hram Fudbala i Srce Buenos Ajresa"
 slug: "la-bombonera-hram-fudbala"
 date: 2025-07-11T10:00:00+02:00
@@ -12,6 +12,8 @@ image_source: "Flickr"
 image_source_url: "https://www.flickr.com/photos/125618985@N06/17346926886" # Direktni URL do slike na Flickru
 image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/" 
+countries: ["Argentina"]
+cities: ["Buenos Ajres"]
 categories:
   - Šampionski Plamen
 tags:

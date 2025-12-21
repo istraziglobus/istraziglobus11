@@ -11,6 +11,7 @@ image_author: "Marco Brotto"
 image_source: "Generisano na zahtjev"
 image_license: "CC BY-SA 4.0 International"
 license_url: "creativecommons.org/licenses/by-sa/4.0/deed.en"
+countries: ["Finska"]
 categories: 
 - Destinacija mjeseca
 - Evropa

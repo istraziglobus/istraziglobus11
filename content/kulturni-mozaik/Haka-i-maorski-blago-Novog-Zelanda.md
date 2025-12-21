@@ -12,6 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/maori-painted-warrior-new-zealand-2151594/"
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/"
+countries: ["Novi Zeland"]
 categories:
   - Kulturni Mozaik
 tags:

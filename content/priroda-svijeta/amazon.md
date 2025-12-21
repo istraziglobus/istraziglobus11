@@ -1,5 +1,5 @@
 ---
-title: "Amazonija – pluća planete"
+title: "Brazil: Amazonija – pluća planete"
 subtitle: "Putovanje kroz srce najveće prašume svijeta"
 author: "Istraži Globus Tim"
 date: 2025-10-05T09:00:00+02:00
@@ -11,6 +11,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File:Campo12Foto_2.JPG"
 image_license: "CC BY 3.0 Unported (Multiple License)"
 image_license_url: "https://creativecommons.org/licenses/by/3.0/deed.en"
 slug: "amazonija-pluca-planete"
+countries: ["Brazil"]
 categories:
   - Priroda Svijeta
 tags:

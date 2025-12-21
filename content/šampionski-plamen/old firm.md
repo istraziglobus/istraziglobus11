@@ -1,5 +1,5 @@
 ---
-title: "Old Firm – derbi Glazgova"
+title: "Glazgov: Fudbalski derbri- Old firm"
 subtitle: "Celtic i Rangers – Najveći gradski derbi Evrope"
 author: "Istraži Globus Tim"
 date: 2025-09-26T19:00:00+02:00
@@ -12,6 +12,8 @@ image_license: "CC BY-SA 4.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 slug: "old-firm-derbi"
 draft: false
+countries: ["Skotska"]
+cities: ["Glazgov"]
 categories:
 - Šampionski Plamen
 tags:

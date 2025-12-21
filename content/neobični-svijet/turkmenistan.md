@@ -1,5 +1,5 @@
 ---
-title: "Vrata pakla u Turkmenistanu"
+title: "Turkmenistan: Tajna vrata pakla"
 subtitle: "Vječni plamen pustinje Karakum"
 author: "Istraži Globus Tim"
 date: 2025-09-21T10:00:00+02:00
@@ -12,6 +12,7 @@ image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/"
 slug: "vrata-pakla-turkmenistan"
 draft: false
+countries: ["Turkmenistan"]
 categories:
   - Zanimljivosti svijeta
   - Priroda

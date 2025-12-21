@@ -1,0 +1,31 @@
+{{ with index (where .Site.RegularPages "Params.featured_monthly_theme" true) 0 }}
+
+<a href="{{ .Permalink }}" class="destination-full">
+
+  <img
+    src="{{ .Params.image | relURL }}"
+    alt="{{ .Title }}"
+    class="destination-full-bg"
+  >
+
+  {{ with .Params.mesec_destinacije }}
+    <span class="destination-top-label">
+      Destinacija mjeseca · {{ . }}
+    </span>
+  {{ end }}
+
+  <div class="destination-full-overlay"></div>
+
+  <div class="destination-full-content">
+
+    <h3>{{ .Title }}</h3>
+
+    <p>
+      {{ .Description | default (.Summary | truncate 120) }}
+    </p>
+
+  </div>
+
+</a>
+
+{{ end }}

@@ -1,5 +1,5 @@
 ---
-title: "Panda diplomatija"
+title: "Kina: Panda diplomatija"
 subtitle: "Kako su pande postale simbol prijateljstva i političkog uticaja Kine"
 author: "Istraži Globus Tim"
 date: 2025-10-27T21:00:00+02:00
@@ -12,6 +12,7 @@ image_source_url: "https://pixabay.com/photos/panda-bamboo-mammal-black-and-whit
 image_license: "Pexels License (Attribution Optional)"
 image_license_url: "https://www.pexels.com/license/"
 draft: false
+countries: ["Kina"]
 categories:
 - Prirodna Riznica
 tags:

@@ -10,6 +10,8 @@ source: "Pixabay"
 source_url: "https://pixabay.com/photos/istanbul-turkey-buildings-city-5809612/"
 license: "Pixabay License"
 license_url: "https://pixabay.com/service/license/" 
+countries: ["Turska"]
+cities: ["Istanbul"]
 categories:
   - Putni Vodiči
 tags:

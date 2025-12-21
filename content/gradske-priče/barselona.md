@@ -13,6 +13,8 @@ image_license: "Pexels License (Attribution Optional)"
 image_license_url: "https://www.pexels.com/license/"
 slug: "barselona-grad-umjetnosti"
 draft: false
+countries: ["Spanija"]
+cities: ["Barselona"]
 categories:
 - Gradske Priče
 tags:

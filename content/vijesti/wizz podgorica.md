@@ -12,6 +12,8 @@ image_license: "CC BY-SA 4.0 International"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 slug: "wizz-air-baza-podgorica"
 draft: false
+countries: ["Crna Gora"]
+cities: ["Podgorica"]
 categories:
 - Vijesti
 - Avio svijet

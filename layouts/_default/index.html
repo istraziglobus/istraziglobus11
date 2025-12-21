@@ -26,7 +26,7 @@
         <h2 class="section-title">Najnoviji Članci</h2>
         <div class="articles-grid-new">
 
-            {{ range first 1 .Site.RegularPages.ByDate.Reverse }}
+            {{ range first 1 (where .Site.RegularPages.ByDate.Reverse "Section" "ne" "dnevni-globus") }}
             <a href="{{ .Permalink }}" class="featured-main-article">
                 <div class="featured-image-container">
                     {{ with .Params.image }}
@@ -50,7 +50,7 @@
             {{ end }}
             
             <div class="small-articles-row">
-                {{ range after 1 (first 5 .Site.RegularPages.ByDate.Reverse) }}
+                {{ range after 1 (first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "ne" "dnevni-globus")) }}
                 <a href="{{ .Permalink }}" class="article-card-latest">
                     {{ with .Params.image }}
                     <img src="{{ . }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
@@ -80,24 +80,40 @@
 
 <section class="balkan-section">
     <h2 class="section-title">KORACIMA BALKANA</h2>
-    <div class="balkan-cards-container">
-    {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "koracima-balkana") }}
-    <a href="{{ .RelPermalink }}" class="balkan-card" style="background-image: url('{{ .Params.image }}');">
-        <div class="card-overlay">
-            <h3 class="card-title">{{ .Title }}</h3>
-            {{ with .Params.subtitle }}
-            <p class="card-subtitle">{{ . }}</p>
-            {{ end }}
-        </div>
-    </a>
-    {{ end }}
-</div>
-<div style="text-align: center;">
-    <a href="{{ "/koracima-balkana/" | absURL }}" class="btn btn-secondary">Pogledaj Sve Članke</a>
-</div>
-</div>
 
-{{ partial "destination-of-month.html" . }}
+    <div class="balkan-cards-container">
+        {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "koracima-balkana") }}
+        <a href="{{ .RelPermalink }}" class="balkan-card" style="background-image: url('{{ .Params.image }}');">
+            <div class="card-overlay">
+                <h3 class="card-title">{{ .Title }}</h3>
+                {{ with .Params.subtitle }}
+                <p class="card-subtitle">{{ . }}</p>
+                {{ end }}
+            </div>
+        </a>
+        {{ end }}
+    </div>
+
+    <div style="text-align: center;">
+        <a href="{{ "/koracima-balkana/" | absURL }}" class="btn btn-secondary">Pogledaj Sve Članke</a>
+    </div>
+</section>
+
+<section class="home-specials">
+  <div class="container">
+    <div class="two-column-grid">
+
+      {{ partial "destination-of-month-home.html" . }}
+      {{ partial "on-this-day.html" . }}
+
+    </div>
+  </div>
+</section>
+
+{{/* {{ partial "destination-of-month.html" . }} */}}
 {{ partial "travel-tips.html" . }}
 
 {{ end }}
+
+
+

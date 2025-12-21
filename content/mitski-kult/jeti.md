@@ -12,6 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/yeti-mountains-snow-nature-5007351/"
 image_license: "Pixabay License"
 license_url: "https://pixabay.com/service/license/"
+countries: ["Nepal"]
 categories:
   - Mitski kult
 tags:

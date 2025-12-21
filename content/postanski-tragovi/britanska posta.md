@@ -12,6 +12,7 @@ image_license: "CC BY-SA 2.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/2.0/deed.en" 
 slug: "penny-black-royal-mail"
 draft: false
+countries: ["Velika Britanija"]
 categories:
   - Poštanski Tragovi
 tags:

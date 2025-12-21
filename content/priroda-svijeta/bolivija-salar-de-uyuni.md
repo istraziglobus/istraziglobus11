@@ -12,6 +12,7 @@ image_source: "Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Bolivia_-_Salar_de_Uyuni_-_Wiki_Commons.jpg"
 image_license: "CC BY-SA 4.0 International"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+countries: ["Bolivija"]
 categories:
 - Priroda Svijeta
 tags:

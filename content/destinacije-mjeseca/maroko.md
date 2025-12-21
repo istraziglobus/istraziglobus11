@@ -12,6 +12,7 @@ image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/beautiful-girl-traditional-carpet-shop-goreme-city-cappadocia-turkey_11768855.htm" # OVDE UNESI
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
+countries: ["Maroko"]
 categories:
   - Destinacija mjeseca
   - Afrika

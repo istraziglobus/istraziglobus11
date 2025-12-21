@@ -12,6 +12,8 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/edinburgh-scotland-city-sky-4361491/"
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/"
+countries: ["Skotska"]
+cities: ["Edinburg"]
 categories:
   - Stranice Kadra
 tags:

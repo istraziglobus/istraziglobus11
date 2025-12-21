@@ -12,6 +12,7 @@ image_source: "Flickr"
 image_source_url: "https://www.flickr.com/photos/49956354@N04/53603990450/" 
 image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/"
+countries: ["Ostalo"]
 categories:
   - Vijesti
   - Geo kutak

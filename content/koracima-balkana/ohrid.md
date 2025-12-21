@@ -1,5 +1,5 @@
 ---
-title: "Ohrid - Živa riznica istorije"
+title: "Ohrid : Živa riznica istorije"
 subtitle: "Putovanje u srce Makedonije: Bajkovita priča o jezeru, crkvama i miru"
 slug: "ohrid"
 date: 2025-09-06T12:00:00+02:00
@@ -12,6 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/saint-john-at-kaneo-north-macedonia-6496188/" # Link do profila autora (preporučeno)
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
+countries: ["Makedonija"]
 categories:
   - Koracima Balkana
   - Balkanske Destinacije

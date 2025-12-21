@@ -11,6 +11,8 @@ image_source_url: "https://pixabay.com/photos/rome-vatican-city-italy-tiber-3021
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
 slug: "rim"
+countries: ["Italija"]
+cities: ["Rim"]
 categories:
 - Gradske Priče
 tags:

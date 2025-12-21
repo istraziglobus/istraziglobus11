@@ -1,5 +1,5 @@
 ---
-title: "Maroko - miris začina i pijeska"
+title: "Maroko : Miris začina i pijeska"
 subtitle: "Putovanje Kroz Ukuse Sjeverne Afrike"
 author: "Istraži Globus Tim"
 date: 2025-07-24T23:00:00+02:00
@@ -11,6 +11,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-pl
 image_license: "CC BY-SA 4.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
 slug: "marokanska-kuhinja-putovanje-ukusima"
+countries: ["Maroko"]
 categories:
   - Gastronomski Put
 tags:

@@ -12,6 +12,7 @@ image_source: "Flickr / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File:CMA_CGM_Thalassa_(ship,_2008)_001.jpg"
 image_license: "CC BY 2.0 Generic"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
+countries: ["Egipat"]
 categories: 
 - Nautički Dnevnik
 tags:

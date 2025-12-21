@@ -12,6 +12,7 @@ image_source: "Generisano na zahtev"
 image_source_url: "" # Link do profila autora (preporučeno)
 image_license: "Dozvola za korišćenje"
 image_license_url: "" # Link do uslova korišćenja Pixabay-a
+countries: ["Vijetnam"]
 categories:
   - Destinacija mjeseca
   - Azija

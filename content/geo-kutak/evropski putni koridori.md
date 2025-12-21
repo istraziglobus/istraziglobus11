@@ -7,6 +7,7 @@ author: "Istraži Globus Tim"
 description: "Veliki putopisno-praktični vodič kroz evropske putne koridore – kroz drumove, priče i krajolike koji povezuju kontinent."
 image: "/slike/evropski-koridori/evropski-koridori-hero.jpg"
 image_alt: "Mapa evropskih putnih koridora"
+countries: ["Ostalo"]
 categories:
   - Geo kutak
 tags:

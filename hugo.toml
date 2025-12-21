@@ -6,6 +6,10 @@ title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
 disablePathToLower = true # Preporučuje se za očuvanje velikih slova u URL-ovima
 pluralizeListTitles = false
 
+[taxonomies]
+  country = "countries"
+  city = "cities"
+
 [params]
   description = "Sajt za putovanja i avanture"
   # Dodatni parametri koje možeš kasnije da proširiš

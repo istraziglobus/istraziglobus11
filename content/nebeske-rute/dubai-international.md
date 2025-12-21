@@ -1,5 +1,5 @@
 ---
-title: "Dubai Aerodrom"
+title: "Dubai: Najluksuzniji aerodrom svijeta"
 subtitle: "Aerodrom Budućnosti - Dubai International"
 author: "Tvoje Ime/Sajt"
 date: "2025-07-07"
@@ -11,6 +11,8 @@ image_source_url: "https://mt.m.wikipedia.org/wiki/Stampa:Dubai_-_International_
 image_license: "Copyrighted by Konstantin von Wedelstaedt"
 image_license_url: "http://www.airliners.net/" # Link ka glavnoj stranici portala
 slug: "dubai-international"
+countries: ["Ujedinjeni Arapski Emirati"]
+cities: ["Dubai"]
 categories:
   - Nebeske Rute
 tags:
@@ -24,8 +26,8 @@ tags:
   - Putovanja
 ---
 
-<p class="section-description">
-    Dobrodošli na Dubai International (DXB) – epicentar globalnog vazdušnog saobraćaja, mesto gde se susreću kultura i inovacija. Ovo nije samo aerodrom, već arhitektonsko remek-delo i samostalna destinacija koja definiše standarde u avijaciji 21. veka. Kroz svoje kapije, milioni putnika svakodnevno prolaze, otkrivajući ne samo prostranstva aerodroma, već i duh Dubaija – grada koji nikada ne spava i uvek teži nemogućem. DXB je mnogo više od tranzitne tačke; to je dinamičan ekosistem dizajniran da fascinira, opusti i poveže ljude iz svih krajeva sveta, pružajući neuporedivo iskustvo pre, tokom i posle leta.
+
+<p class="intro-paragraph">Dobrodošli na Dubai International (DXB) – epicentar globalnog vazdušnog saobraćaja, mesto gde se susreću kultura i inovacija. Ovo nije samo aerodrom, već arhitektonsko remek-delo i samostalna destinacija koja definiše standarde u avijaciji 21. veka. Kroz svoje kapije, milioni putnika svakodnevno prolaze, otkrivajući ne samo prostranstva aerodroma, već i duh Dubaija – grada koji nikada ne spava i uvek teži nemogućem. DXB je mnogo više od tranzitne tačke; to je dinamičan ekosistem dizajniran da fascinira, opusti i poveže ljude iz svih krajeva sveta, pružajući neuporedivo iskustvo pre, tokom i posle leta.
 </p>
 
 ---

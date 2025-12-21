@@ -1,5 +1,5 @@
 ---
-title: "Fjordovi Norveške"
+title: "Norveška: Fjordovi, remek djelo prirode"
 subtitle: "Putovanje Kroz Spektakularne Pejzaže Oblikovane Ledom i Vremenom"
 author: "Istraži Globus Tim"
 date: 2025-07-25T15:00:00+02:00
@@ -11,6 +11,7 @@ image_source_url: "https://www.freepik.com/free-photo/man-sits-end-trolltunga-be
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 slug: "norveski-fjordovi-lepota-prirode"
+countries: ["Norveska"]
 categories:
   - Priroda Svijeta
   - Evropa

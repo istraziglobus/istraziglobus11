@@ -1,5 +1,5 @@
 ---
-title: "Aerodrom Changi – Singapursko čudo"
+title: "Singapur: Čudesni aerodrom Changi"
 subtitle: "Mjesto gdje putovanje postaje doživljaj, a aerodrom turistička destinacija"
 slug: "aerodrom-changi-singapur"
 date: 2025-10-15T10:00:00+02:00
@@ -14,6 +14,8 @@ image_source: "Flickr / Public Domain"
 image_source_url: "https://www.flickr.com/photos/j0035001-2/54803174202/"
 image_license: "CC0 1.0 Universal (Public Domain)"
 image_license_url: "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+countries: ["Singapur"]
+cities: ["Singapur"]
 categories:
   - Nebeske Rute
 tags:

@@ -12,6 +12,7 @@ image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/terms/" # Morate uneti validan URL
 slug: "ryanair-digitalne-karte"
 draft: false
+countries: ["Ostalo"]
 categories:
 - Vijesti
 - Avio svijet

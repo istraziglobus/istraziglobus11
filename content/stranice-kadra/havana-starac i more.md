@@ -12,6 +12,8 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/cuba-havana-antique-car-automobile-4453398/" # Link do profila autora (preporučeno)
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
+countries: ["Kuba"]
+cities: ["Havana"]
 categories:
   - Stranice Kadra
 tags:
@@ -25,8 +27,8 @@ draft: false
 most_read: false
 ---
 
-<p class="section-description">
-    Dobrodošli u Havanu – grad koji pleše između prošlosti i sadašnjosti, gdje se istorija ne skriva iza muzeja, već se odvija na ulicama, i gdje duh Ernesta Hemingveja i dalje lebdi iznad valova Atlantskog okeana. Ovdje je napisano jedno od najvažnijih djela 20. vijeka, <em>Starac i more</em>, a inspiracija za njega još uvijek živi među ribarima, u starim barovima i na obalama koje svjedoče o stoljećima ljudske borbe s morem.
+
+<p class="intro-paragraph">Dobrodošli u Havanu – grad koji pleše između prošlosti i sadašnjosti, gdje se istorija ne skriva iza muzeja, već se odvija na ulicama, i gdje duh Ernesta Hemingveja i dalje lebdi iznad valova Atlantskog okeana. Ovdje je napisano jedno od najvažnijih djela 20. vijeka, <em>Starac i more</em>, a inspiracija za njega još uvijek živi među ribarima, u starim barovima i na obalama koje svjedoče o stoljećima ljudske borbe s morem.
 </p>
 
 ---

@@ -11,6 +11,8 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/sanferm%C3%ADn-sanfermines-vivasanfermin-3587336/" # Link do profila autora (preporučeno)
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
+countries: ["Spanija"]
+cities: ["Pamplona"]
 categories:
   - Kulturni Mozaik
 tags:

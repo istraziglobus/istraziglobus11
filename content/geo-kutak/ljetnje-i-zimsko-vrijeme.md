@@ -12,6 +12,7 @@ license: "Generated Content (All Rights Reserved/Free to Use)"
 license_url: "[Opcionalno: Link do Googleovih Uslova korišćenja za AI sadržaj]"
 slug: "promjena-sata-zasto-i-kako"
 draft: false
+countries: ["Ostalo"]
 categories:
 - Geo kutak
 tags:

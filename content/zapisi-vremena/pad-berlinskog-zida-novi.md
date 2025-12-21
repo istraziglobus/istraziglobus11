@@ -1,5 +1,5 @@
 ---
-title: "Pad Berlinskog Zida"
+title: "Berlin : Rušenje berlinskog zida"
 subtitle: "Noć kada je Zid progovorio"
 author: "Istraži Globus Tim"
 date: 2025-08-01T10:00:00+02:00
@@ -12,6 +12,8 @@ image_license: "CC BY-SA 3.0 Unported (Multiple License)"
 image_license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
 slug: "pad-berlinskog-zida-novi"
 draft: false
+countries: ["Njemacka"]
+cities: ["Berlin"]
 categories:
   - Zapisi Vremena
 tags:

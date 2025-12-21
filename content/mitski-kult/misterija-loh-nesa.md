@@ -11,6 +11,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File:Lochneska_poboba_muse
 image_license: "CC BY-SA 3.0 Unported (Multiple License)"
 image_license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
 slug: "misterija-loh-nesa"
+countries: ["Skotska"]
 categories:
 - Mitski kult
 tags:

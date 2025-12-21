@@ -11,6 +11,7 @@ image_source: "Smithsonian National Postal Museum / Public Domain"
 image_source_url: "https://postalmuseum.si.edu/exhibition/british-guiana-one-cent-magenta/stamp-deconstruction"
 image_license: "Public Domain (UK Crown Copyright Expired)"
 image_license_url: "https://commons.wikimedia.org/wiki/Template:PD-UK-Gov"
+countries: ["Gvajana"]
 categories:
   - Poštanski Tragovi
 tags:

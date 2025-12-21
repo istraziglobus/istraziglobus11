@@ -12,6 +12,7 @@ image_license: "CC BY-SA 4.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
 slug: "medjunarodna-linija-datuma"
 draft: false
+countries: ["Ostalo"]
 categories:
 - Geo kutak
 tags:

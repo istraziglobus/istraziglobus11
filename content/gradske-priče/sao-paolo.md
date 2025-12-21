@@ -12,6 +12,8 @@ image_source: "Generisano na zahtev"
 image_source_url: ""
 image_license: "Dozvola za korišćenje"
 image_license_url: ""
+countries: ["Brazil"]
+cities: ["Sao Paulo"]
 categories:
   - Gradske Priče
 tags:
@@ -23,7 +25,7 @@ tags:
   - Gastronomija
   - Umjetnost
   - Gradovi svijeta
-most_read: true
+most_read: false
 ---
 
 <p class="intro-paragraph">

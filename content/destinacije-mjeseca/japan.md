@@ -12,6 +12,7 @@ image_source: "Shutterstock"
 image_source_url: "https://www.shutterstock.com" 
 image_license: "Standard License"
 image_license_url: "https://www.shutterstock.com/license"
+countries: ["Japan"]
 categories:
   - Destinacija mjeseca
   - Azija

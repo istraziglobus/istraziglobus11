@@ -49,7 +49,7 @@
 
             <nav class="main-nav-primary">
                 <ul>
-                    <li><a href="/">Početna</a></li>
+                    <li><a href="#" id="openSearchModal">Pretraga</a></li>
                     <li><a href="/o-nama">O nama</a></li>
                     <li><a href="/kontakt">Kontakt</a></li>
                     <li><a href="/vijesti">Vijesti</a></li>
@@ -216,7 +216,45 @@
             </div>
         </div>
     </header>
+<div class="geo-search-overlay" id="geoSearchOverlay" aria-hidden="true">
+  <div class="geo-search-modal" role="dialog" aria-modal="true" aria-labelledby="geoSearchTitle">
 
+    <button type="button" class="geo-search-close" id="geoSearchClose" aria-label="Zatvori pretragu">×</button>
+
+    <h3 id="geoSearchTitle" class="geo-search-title">Pretraži sve članke</h3>
+
+    <form id="geoSearchForm" class="geo-search-form">
+      <label class="geo-search-label" for="geoCountry">Država</label>
+      <input id="geoCountry" class="geo-search-input" type="text" list="countriesDatalist"
+             placeholder="Upiši ili izaberi državu…" autocomplete="off">
+      <datalist id="countriesDatalist">
+        {{ range site.Taxonomies.countries.ByCount }}
+          {{ $pages := where .Pages "Section" "ne" "dnevni-globus" }}
+          {{ if gt (len $pages) 0 }}
+            <option value="{{ .Page.Title }}"></option>
+          {{ end }}
+        {{ end }}
+      </datalist>
+
+      <label class="geo-search-label" for="geoCity">Grad</label>
+      <input id="geoCity" class="geo-search-input" type="text" list="citiesDatalist"
+             placeholder="Upiši ili izaberi grad…" autocomplete="off">
+      <datalist id="citiesDatalist">
+        {{ range site.Taxonomies.cities.ByCount }}
+          {{ $pages := where .Pages "Section" "ne" "dnevni-globus" }}
+          {{ if gt (len $pages) 0 }}
+            <option value="{{ .Page.Title }}"></option>
+          {{ end }}
+        {{ end }}
+      </datalist>
+
+      <p class="geo-search-error" id="geoSearchError" style="display:none;"></p>
+
+      <button type="submit" class="btn btn-primary geo-search-btn">Pretraži</button>
+    </form>
+
+  </div>
+</div>
     <main>
         {{ block "main" . }}
         {{ end }}
@@ -326,5 +364,33 @@
         });
     </script>
     <script src="/js/whats-now.js"></script>
+    <script id="geoSearchData" type="application/json">
+{
+  "countries": [
+    {{- $first := true -}}
+    {{- range site.Taxonomies.countries.ByCount -}}
+      {{- $pages := where .Pages "Section" "ne" "dnevni-globus" -}}
+      {{- if gt (len $pages) 0 -}}
+        {{- if not $first }},{{ end -}}
+        {{- $first = false -}}
+        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
+      {{- end -}}
+    {{- end -}}
+  ],
+  "cities": [
+    {{- $first2 := true -}}
+    {{- range site.Taxonomies.cities.ByCount -}}
+      {{- $pages := where .Pages "Section" "ne" "dnevni-globus" -}}
+      {{- if gt (len $pages) 0 -}}
+        {{- if not $first2 }},{{ end -}}
+        {{- $first2 = false -}}
+        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
+      {{- end -}}
+    {{- end -}}
+  ]
+}
+</script>
+
+<script defer src="/js/geo-search.js"></script>
 </body>
 </html>

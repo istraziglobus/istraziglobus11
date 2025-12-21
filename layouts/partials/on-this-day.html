@@ -1,0 +1,32 @@
+{{ $today := now.Format "01-02" }}
+{{ $daily := first 1 (where (where .Site.RegularPages "Section" "dnevni-globus") "Params.on_this_day" $today) }}
+
+{{ range $daily }}
+  <div class="daily-globus-card">
+
+    <div class="daily-globus-media"
+         style="background-image:url('{{ .Params.image | relURL }}');">
+    </div>
+
+    <div class="daily-globus-body">
+      <div class="daily-globus-kicker">Dnevni globus</div>
+      <div class="daily-globus-date">{{ .Date.Format "02.01.2006" }}</div>
+      <h3 class="daily-globus-title">{{ .Title }}</h3>
+      <p class="daily-globus-text">{{ .Description }}</p>
+    </div>
+
+  </div>
+{{ else }}
+  <div class="daily-globus-card daily-globus-card--placeholder">
+
+    <div class="daily-globus-media daily-globus-media--placeholder"></div>
+
+    <div class="daily-globus-body">
+      <div class="daily-globus-kicker">Dnevni globus</div>
+      <div class="daily-globus-date">{{ now.Format "02.01.2006" }}</div>
+      <h3 class="daily-globus-title">Na današnji dan</h3>
+      <p class="daily-globus-text">Sekcija “Na današnji dan” uskoro dostupna.</p>
+    </div>
+
+  </div>
+{{ end }}

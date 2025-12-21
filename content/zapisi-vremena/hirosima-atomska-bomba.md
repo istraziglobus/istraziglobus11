@@ -1,5 +1,5 @@
 ---
-title: "Hirošima – Grad koji je preživio kraj svijeta"
+title: "Hirošima : Grad koji je preživio kraj svijeta"
 subtitle: "Od ruševina do simbola mira i ponovnog rađanja"
 slug: "hirosima-grad-koji-je-prezivio"
 date: 2025-10-15T12:00:00+02:00
@@ -11,6 +11,8 @@ image_source: "Flickr (via Wikimedia Commons)"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Hiroshima-after-the-bomb_(6018958296).jpg"
 image_license: "CC BY-SA 2.0 Generic"
 image_license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+countries: ["Japan"]
+cities: ["Hirošima"]
 categories:
   - Zapisi Vremena
 tags:

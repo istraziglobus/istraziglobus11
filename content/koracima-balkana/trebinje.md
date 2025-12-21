@@ -1,5 +1,5 @@
 ---
-title: "Trebinje - Grad platana i sunca"
+title: "Trebinje : Grad platana i sunca"
 subtitle: "Mediteranski duh Hercegovine pod stogodišnjim platanima"
 slug: "trebinje"
 date: 2025-07-06T12:00:00+02:00
@@ -12,6 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/trebinje-leotar-bosnia-city-2199696/" # Link do profila autora (preporučeno)
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
+countries: ["Bosna i Hercegovina"]
 categories:
   - Koracima Balkana
   - Balkanske Destinacije

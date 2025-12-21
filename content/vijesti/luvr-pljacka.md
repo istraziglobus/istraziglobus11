@@ -15,6 +15,8 @@ image_license: "Pexels License (Attribution Optional)"
 image_license_url: "https://www.pexels.com/license/"
 slug: "pljacka-luvra"
 draft: false
+countries: ["Francuska"]
+cities: ["Pariz"]
 categories:
 - Vijesti
 - Kultura i Jezik

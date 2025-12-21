@@ -12,6 +12,7 @@ image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/"
 slug: "top-5-svjetionika-svijeta"
 draft: false
+countries: ["Ostalo"]
 categories:
 - Top 5
 - Putovanja
@@ -31,7 +32,7 @@ Visoki, usamljeni i postojani – svjetionici su oduvijek predstavljali više od
 
 ---
 
-## 1. Svjetionik Lindau – Njemačka bajka na Bodenskom jezeru
+**1. Svjetionik Lindau – Bodensko jezero, Njemačka**
 
 Na granici između Njemačke, Austrije i Švajcarske, svjetionik **Lindau** već više od 160 godina čuva ulaz u luku Bodenskog jezera. Izgrađen 1856. godine, ovaj toranj visok 33 metra savršeno kombinuje eleganciju i funkcionalnost – s tornjem od bijelog kamena i velikim satom koji dominira njegovom fasadom. Smješten tik uz monumentalnu statuu bavarskog lava, Lindau je više od pomorskog orijentira – on je simbol grada i svjedočanstvo zlatnog doba putovanja parobrodom po evropskim jezerima. Noću, njegova svjetlost se presijeca s odsjajem planinskih vrhova i stvara prizor koji izgleda kao kadar iz bajke. Danas, svjetionik nije samo tehnički spomenik već i nezaobilazno turističko mjesto s kojeg se pruža pogled na Alpe i beskrajne talase Bodenskog jezera.
 
@@ -47,7 +48,7 @@ Na granici između Njemačke, Austrije i Švajcarske, svjetionik **Lindau** već
 
 ---
 
-## 2. Svjetionik Peggy’s Cove – Nova Škotska, Kanada
+**2. Svjetionik Peggy’s Cove – Nova Škotska, Kanada**
 
 Na surovoj atlantskoj obali Kanade, gdje se granitne stijene bore s talasima i vjetar ne prestaje ni na trenutak, nalazi se **Peggy’s Cove Lighthouse**. Ovaj svjetionik iz 1915. godine postao je jedno od najpoznatijih mjesta u Novoj Škotskoj, ali i ikona cijele kanadske obale. Njegova crveno-bijela kula stoji na stijenama koje more neprestano oblikuje, a u njenom podnožju smješteno je malo ribarsko naselje koje kao da je ostalo u nekom drugom vremenu. Svjetionik i danas pomaže brodovima da se orijentišu u magli i olujama, ali njegova najveća vrijednost leži u tišini i prirodnoj ljepoti pejzaža. Svake godine hiljade posjetilaca dolazi da posmatra zalazak sunca, dok se more i nebo stapaju u jedinstvenu paletu boja. Legenda kaže da ime sela potiče od preživjele brodolomnice Peggy, koja je ovdje pronašla novi dom – i da njen duh i dalje bdije nad svjetionikom.
 
@@ -63,7 +64,7 @@ Na surovoj atlantskoj obali Kanade, gdje se granitne stijene bore s talasima i v
 
 ---
 
-## 3. Svjetionik Portland Head Light – SAD
+**3. Svjetionik Portland Head Light – SAD**
 
 Na stjenovitoj obali države Maine, gdje se Atlantski okean sudara s kopnom u talasima pjene i magle, stoji Portland Head Light, jedan od najstarijih i najpoznatijih svjetionika u Sjedinjenim Američkim Državama. Izgrađen 1791. godine po nalogu samog Georgea Washingtona, ovaj svjetionik je više od pomorskog orijentira – on je simbol američkog sjeveroistoka i stoljećima svjedok burnih oluja i ljudske hrabrosti. Njegov bijeli toranj visok 24 metra i crveni krov kuće čuvara stvaraju prizor koji izgleda kao razglednica iz prošlog vremena. I danas baca svjetlost 43 metra iznad mora, dok se u njegovom muzeju čuvaju priče o brodolomima, spasavanjima i životima čuvara svjetionika koji su generacijama čuvali ovo svjetlo. Svakog ljeta hiljade posjetilaca dolazi da prošetaju liticama Fort Williams parka i uživaju u pogledu koji spaja istoriju, prirodu i more u jedinstvenu sliku.
 
@@ -79,7 +80,7 @@ Na stjenovitoj obali države Maine, gdje se Atlantski okean sudara s kopnom u ta
 
 ---
 
-## 4. Svjetionik Hook – Irska
+**4. Svjetionik Hook – Irska**
 
 Na jugoistočnoj obali Irske, na rtu koji se suprotstavlja Atlantskom okeanu, nalazi se **Hook Lighthouse**, jedan od najstarijih aktivnih svjetionika na svijetu. Njegova istorija seže u 12. vijek, kada je normanski grof Raymond le Gros naredio njegovu izgradnju. Sagrađen od krečnjačkog kamena, toranj je visok 35 metara, a u njegovom podnožju i danas se vide ostaci srednjovjekovnih prostorija u kojima su živjeli čuvari svjetionika. Legende govore da su monasi s obližnjeg samostana palili vatru na ovom rtu još u 5. vijeku, čineći Hook jednim od prvih svjetionika na svijetu. Danas je svjetionik otvoren za posjetioce i pruža impresivan pogled na more i neprekidno kretanje talasa. U njegovom muzeju prikazana je evolucija navigacije – od plamena uljane lampe do električne svjetlosti koja danas sja 23 milje daleko.
 
@@ -95,7 +96,7 @@ Na jugoistočnoj obali Irske, na rtu koji se suprotstavlja Atlantskom okeanu, na
 
 ---
 
-## 5. Svjetionik Cape Byron – Australija
+**5. Svjetionik Cape Byron – Australija**
 
 Na najistočnijoj tački australijskog kopna, visoko iznad azurno plavih talasa Pacifika, uzdiže se **Cape Byron Lighthouse**, podignut 1901. godine. Ovaj bijeli toranj visine 23 metra simbol je pomorskog nasljeđa Australije i nezaobilazna destinacija svakog putnika koji posjeti državu Novi Južni Vels. Svjetionik i danas koristi originalnu sočivu Fresnelovog sistema, koja baca svjetlost do udaljenosti od 40 kilometara. Okružen tropskom vegetacijom i stazama za posmatranje kitova, Cape Byron je istovremeno i prirodni rezervat i istorijski spomenik. Tokom dana, iz njegove osmatračnice može se vidjeti beskrajni horizont, dok se uveče svjetlost tornja ogleda u vodi kao simbol neugasle nade. Mnogi putnici kažu da upravo na ovom mjestu prvi put zaista osjete koliko je svijet velik i koliko je more beskrajno.
 

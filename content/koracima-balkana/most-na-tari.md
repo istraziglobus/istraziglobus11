@@ -1,5 +1,5 @@
 ---
-title: "Đurđevića Tara - Kameni div Tare"
+title: "Đurđevića Tara : Kameni div Tare"
 subtitle: "Arhitektonsko remek-delo iznad najdubljeg kanjona Evrope"
 slug: "most-na-tari"
 date: 2025-07-06T12:00:00+02:00
@@ -12,6 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/bridge-river-tara-rock-abyss-2747511/" # Link do profila autora (preporučeno)
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" # Link do uslova korišćenja Pixabay-a
+countries: ["Crna Gora"]
 categories:
   - Koracima Balkana
   - Balkanske Destinacije

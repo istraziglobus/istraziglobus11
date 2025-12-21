@@ -11,6 +11,7 @@ image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/young-woman-standing-temple-gates-lempuyang-luhur-temple-bali-indonesia-vintage-tone_11306521.htm#fromView=keyword&page=1&position=5&uuid=b1bd9371-6845-455a-80e0-45afc759ab66&query=Bali+attractions" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
+countries: ["Indonezija"]
 categories:
   - Destinacija mjeseca
   - Azija
