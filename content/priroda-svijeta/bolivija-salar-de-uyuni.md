@@ -75,9 +75,9 @@ Turizam je donio nove prihode, ali i nova <span class="highlight-text">pitanja</
 <div class="info-box-container">
  <h3>Kurioziteti Salar de Uyunija</h3>
  <ul>
- <li>Navigacija: Lokalni vodiči tokom kišne sezone navigiraju isključivo po položaju Sunca i zvezdama jer GPS i tradicionalne mape često zataje.</li>
- <li>Fosili: Ostrvo Incahuasi i okolne stene sadrže fosilne ostatke morskih koralnih grebena, dokazujući da je Salar nekada bio pod okeanom.</li>
- <li>Slana Trgovina: Na Salaru se nalaze čak i **suvenirnice i tržnice** koje su u potpunosti izgrađene od blokova soli.</li>
+  <li>Navigacija: Lokalni vodiči tokom kišne sezone navigiraju isključivo po položaju Sunca i zvezdama jer GPS i tradicionalne mape često zataje.</li>
+  <li>Fosili: Ostrvo Incahuasi i okolne stene sadrže fosilne ostatke morskih koralnih grebena, dokazujući da je Salar nekada bio pod okeanom.</li>
+  <li>Slana Trgovina: Na Salaru se nalaze čak i **suvenirnice i tržnice** koje su u potpunosti izgrađene od blokova soli.</li>
  </ul>
 </div>
 
