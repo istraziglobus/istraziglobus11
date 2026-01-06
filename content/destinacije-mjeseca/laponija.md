@@ -14,7 +14,6 @@ license_url: "creativecommons.org/licenses/by-sa/4.0/deed.en"
 countries: ["Finska"]
 categories: 
 - Destinacija mjeseca
-- Evropa
 tags:
 - Laponija
 - Finska

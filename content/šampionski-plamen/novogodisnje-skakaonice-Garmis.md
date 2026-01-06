@@ -12,8 +12,10 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/hill-ski-jump-ski-sport-ski-jumping-3540632/"
 image_license: "Pixabay Content License (Free for commercial use, no attribution required)"
 image_license_url: "https://pixabay.com/service/license/"
+countries: ["Njemacka"]
+cities: ["Garmis-Patenkirhen"]
 categories:
-- Šampionski plamen
+ - Šampionski Plamen
 tags:
 - Njemačka
 - Garmiš-Partenkirhen
