@@ -7,15 +7,14 @@ image: "/slike/turkmenistan/vrata-pakla-hero.jpg"
 image_alt: "Krater Vrata pakla u plamenu noću"
 image_author: "Stefan Krasowski" 
 image_source: "Flickr: Central Asia 100"
-image_source_url: "https://www.flickr.com/photos/65638600@N05/6086389269" # URL sa Flickra
+image_source_url: "https://www.flickr.com/photos/65638600@N05/6086389269"
 image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/"
 slug: "vrata-pakla-turkmenistan"
 draft: false
 countries: ["Turkmenistan"]
 categories:
-  - Zanimljivosti svijeta
-  - Priroda
+  - Neobični Svijet
 tags:
   - Turkmenistan
   - Vrata pakla
