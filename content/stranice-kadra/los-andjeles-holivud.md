@@ -3,7 +3,7 @@ title: "Los Anđeles: Holivud kao fabrika globalne mašte"
 subtitle: "Los Anđeles i industrija koja je pretvorila iluziju u globalnu moć"
 slug: "holivud-los-andjeles-nastanak-uticaj-svijet"
 date: 2026-01-15T10:00:00+01:00
-author: "Redakcija"
+author: "Istraži Globus Tim"
 description: "Kako je Holivud, postao najmoćnija kulturna industrija u istoriji čovječanstva i zauvijek promijenio način na koji svijet vidi sebe."
 image: "/slike/holivud/holivud-hero.jpg"
 image_alt: "Holivudski znak iznad Los Anđelesa u zalazak sunca"

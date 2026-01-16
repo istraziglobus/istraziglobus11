@@ -25,7 +25,7 @@ tags:
 - Zimski gradovi
 - Gastronomija
 - Atmosfera
-most_read: true
+most_read: false
 ---
 
 <p class="intro-paragraph">Novogodišnji bazari nisu samo niz kućica sa suvenirima i kuvanim vinom. Oni su kratka, ali moćna sezona u kojoj gradovi postanu pozornice: trgovi mirišu na cimet i pečene kestene, ulice zvuče kao tiha pjesma, a hladan vazduh dobije ono “dobro” lice zime — lice koje vas tjera da usporite. Ako tražiš putovanje koje u nekoliko dana vrati osjećaj čuda, ovo je najlakši način: odeš u grad, izađeš uveče, i pustiš da te svjetla vode. U tome je i tajna: bazar se ne “obilazi”, nego se doživljava, kao mala šetnja kroz mirise, zvukove i tople boje. Najljepše je kad plan ostaviš dovoljno širok da se dva puta vratiš na isto mjesto — jer svaka večer ima drugačiji ritam, drugu gužvu i drugačije svjetlo. Ispod je pet bazara koji su, svaki na svoj način, mali univerzum praznične Evrope.</p>
