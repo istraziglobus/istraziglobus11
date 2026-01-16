@@ -1,5 +1,5 @@
 ---
-title: "Honduras: Copán – grad gdje se majanska istorija čita u kamenu"
+title: "Honduras: Kopán – grad gdje se majanska istorija čita u kamenu"
 subtitle: "Dolina u kojoj kamen govori"
 slug: "honduras-copan-grad-maja"
 date: 2026-01-12T10:00:00+02:00
