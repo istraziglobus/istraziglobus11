@@ -30,23 +30,23 @@ const cityNameElement = document.getElementById("city-name");
 
   const exchangeRates = {
     "EUR": 1, 
-    "USD": 1.08,  /* Ažurirano sa 1.16 */
+    "USD": 1.08,  
     "GBP": 0.85, 
-    "AUD": 1.75, 
-    "JPY": 178.00, /* Ažurirano sa 174.79 */
-    "RSD": 117.29, 
+    "AUD": 1.66, 
+    "JPY": 178.00, 
+    "RSD": 117.20, 
     "RUB": 96.30, 
-    "CNY": 7.88,  /* Ažurirano sa 8.33 */
-    "AED": 4.34, 
-    "TRY": 32.20,  /* Ažurirano sa 48.52 - VELIKA IZMENA */
-    "ARS": 900.0, /* Ažurirano sa 1561.9 - VELIKA IZMENA */
-    "HKD": 8.47,  /* Ažurirano sa 9.08 */
-    "ISK": 149.0, /* Ažurirano sa 142.0 */
+    "CNY": 7.78,  
+    "AED": 4.12, 
+    "TRY": 51.40,  
+    "ARS": 1620.0, 
+    "HKD": 8.42,  
+    "ISK": 149.0, 
     "CUP": 26.20, 
-    "MYR": 5.10, 
-    "EGP": 52.90, 
+    "MYR": 4.95, 
+    "EGP": 58.40, 
     "SGD": 1.45, 
-    "BRL": 5.40   /* Ažurirano sa 6.25 */
+    "BRL": 6.10   
 };
 
   const weatherAPIKey = "006710101db1b5a700d24c46ac3f67bb";

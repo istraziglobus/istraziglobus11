@@ -11,6 +11,8 @@ image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/medium-shot-happy-family-airport_22849847.htm#fromView=keyword&page=1&position=0&uuid=57de5f92-ca53-4484-85cd-8ee7df81fb2b&query=Family+airport" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
+categories:
+  - Savjeti
 ---
 
 Putovanje je uzbudljiva avantura, prilika za istraživanje i stvaranje nezaboravnih uspomena. Međutim, da bi vaše iskustvo bilo zaista bezbrižno, ključno je posvetiti pažnju <span class="highlight-text">**sigurnosti i bezbednosti**</span>. Mudro planiranje i odgovorno ponašanje tokom putovanja mogu vas zaštititi od nepotrebnih neprijatnosti i osigurati da se kući vratite puni samo lepih utisaka.
