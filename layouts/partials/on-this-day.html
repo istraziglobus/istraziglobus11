@@ -3,23 +3,32 @@
 
 {{ if $entry }}
   <div class="daily-globus-card">
-
-    <div class="daily-globus-media">
+    <div class="daily-globus-kicker">Dnevni Globus</div>
+    
+    <div class="daily-globus-date">
+      Danas, {{ now.Day }}. {{ index (slice "" "Januar" "Februar" "Mart" "April" "Maj" "Jun" "Jul" "Avgust" "Septembar" "Oktobar" "Novembar" "Decembar") now.Month }}. {{ now.Year }}.
     </div>
 
     <div class="daily-globus-body">
-      <div class="daily-globus-kicker">Dnevni globus</div>
-      <div class="daily-globus-date">{{ $entry | truncate 10 "" }}</div>
-      <p class="daily-globus-text">{{ $entry }}</p>
+      {{ $parts := split $entry " – " }}
+      
+      {{ if gt (len $parts) 1 }}
+        <div class="daily-globus-year">
+          {{ index (findRE "[0-9]{4}" (index $parts 0)) 0 }}.
+        </div>
+        
+        <p class="daily-globus-text">{{ index $parts 1 }}</p>
+      {{ else }}
+        <p class="daily-globus-text">{{ $entry }}</p>
+      {{ end }}
     </div>
-
   </div>
 {{ else }}
-  <div class="daily-globus-card daily-globus-card--placeholder">
+  <div class="daily-globus-card">
+    <div class="daily-globus-kicker">Dnevni Globus</div>
+    <div class="daily-globus-date">Danas, {{ now.Format "02.01.2006" }}</div>
     <div class="daily-globus-body">
-      <div class="daily-globus-kicker">Dnevni globus</div>
-      <div class="daily-globus-date">{{ now.Format "02.01.2006" }}</div>
-      <p class="daily-globus-text">Sekcija “Na današnji dan” uskoro dostupna.</p>
+      <p class="daily-globus-text">Istražujemo istoriju za današnji dan...</p>
     </div>
   </div>
 {{ end }}
