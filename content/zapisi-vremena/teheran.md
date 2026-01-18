@@ -16,7 +16,6 @@ countries: ["Iran"]
 cities: ["Teheran"]
 categories:
   - Zapisi Vremena
-  - Gradske Priče
 tags:
   - Iran
   - Teheran
