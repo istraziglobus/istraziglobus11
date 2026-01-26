@@ -1,5 +1,5 @@
 ---
-title: "Jemen – zemlja divljeg meda i pčela koje prkose ratu"
+title: "Jemen: Zemlja divljeg meda i pčela koje prkose ratu"
 subtitle: "Najskuplji med na svijetu i endemske pčele koje čuvaju drevni ekosistem Arabije"
 slug: "jemen-divlji-med-endemske-pcele"
 date: 2026-01-22T10:00:00+01:00

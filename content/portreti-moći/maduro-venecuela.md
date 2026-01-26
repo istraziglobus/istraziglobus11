@@ -1,5 +1,5 @@
 ---
-title: "Maduro i Venecuela – od naftnog sna do države na ivici sloma"
+title: "Maduro i Venecuela: Od naftnog sna do države na ivici sloma"
 subtitle: "Portret moći jednog režima i priča o zemlji koja je nekada hranila kontinent"
 slug: "nicolas-maduro-venecuela-portret-moci"
 date: 2026-01-19T10:00:00+01:00
