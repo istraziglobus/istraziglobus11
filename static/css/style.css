@@ -686,6 +686,14 @@ a:hover {
     margin-top: 40px; /* Razmak iznad rešetke */
 }
 
+.horizontal-card-footer {
+    display: flex;
+}
+
+.horizontal-card-footer .article-section-tag {
+    margin-left: auto;
+}
+
 /* ========================================= 
    STILOVI ZA STRANICU SA LISTOM ČLANAKA 
    ========================================= */

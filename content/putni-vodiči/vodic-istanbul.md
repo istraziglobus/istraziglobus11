@@ -1,5 +1,5 @@
 ---
-title: "Istanbul - Detaljan Vodič 2025"
+title: "Istanbul 2025: Detaljan putni vodič"
 subtitle: "Kompletan vodič za Istanbul – kada putovati, kako doći, atrakcije, cijene, smještaj, suveniri i savjeti."
 author: "ChatGPT"
 date: "2025-10-01"

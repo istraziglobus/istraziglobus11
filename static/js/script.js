@@ -1,20 +1,20 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
+    // HAMBURGER + DROPDOWN
     const hamburger = document.querySelector('.hamburger');
     const dropdownMenu = document.querySelector('.dropdown-menu');
-    const submenuToggles = document.querySelectorAll('.submenu-toggle'); // Selektuj sve elemente za uključivanje podmenija
+    const submenuToggles = document.querySelectorAll('.submenu-toggle');
 
     if (hamburger && dropdownMenu) {
-        hamburger.addEventListener('click', function() {
-            hamburger.classList.toggle('is-active'); // Dodaj/ukloni klasu za animaciju hamburgera
-            dropdownMenu.classList.toggle('active'); // Uključi/isključi 'active' klasu na padajućem meniju
+        hamburger.addEventListener('click', function () {
+            hamburger.classList.toggle('is-active');
+            dropdownMenu.classList.toggle('active');
         });
 
-        // Zatvori padajući meni ako se klikne van njega
-        document.addEventListener('click', function(event) {
+        document.addEventListener('click', function (event) {
             if (!dropdownMenu.contains(event.target) && !hamburger.contains(event.target)) {
                 dropdownMenu.classList.remove('active');
-                hamburger.classList.remove('is-active'); // Deaktiviraj ikonicu hamburgera
-                // Zatvori i sve otvorene podmenije kada se klikne van glavnog menija
+                hamburger.classList.remove('is-active');
+
                 submenuToggles.forEach(toggle => {
                     toggle.classList.remove('rotated');
                     const submenu = toggle.nextElementSibling;
@@ -26,15 +26,13 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Rukovanje otvaranjem/zatvaranjem podmenija
     submenuToggles.forEach(toggle => {
-        toggle.addEventListener('click', function(event) {
-            event.preventDefault(); // Spreči podrazumevano ponašanje linka
+        toggle.addEventListener('click', function (event) {
+            event.preventDefault();
             const submenu = this.nextElementSibling;
             if (submenu && submenu.classList.contains('submenu')) {
-                // Zatvori sve ostale podmenije pre otvaranja novog
                 submenuToggles.forEach(otherToggle => {
-                    if (otherToggle !== this) { // Ne zatvaraj trenutni
+                    if (otherToggle !== this) {
                         otherToggle.classList.remove('rotated');
                         const otherSubmenu = otherToggle.nextElementSibling;
                         if (otherSubmenu && otherSubmenu.classList.contains('submenu')) {
@@ -44,28 +42,20 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
 
                 submenu.classList.toggle('active');
-                this.classList.toggle('rotated'); // Rotira ikonicu strelice
+                this.classList.toggle('rotated');
             }
         });
     });
-});
-document.addEventListener('DOMContentLoaded', function() {
-});
-document.addEventListener('DOMContentLoaded', function() {
-});
-   document.addEventListener('DOMContentLoaded', function() {
-});
 
-document.addEventListener('DOMContentLoaded', function() {
-});
+    // KLIK NA ZELENI TAG – OTVORI SEKCIJU
+    document.addEventListener('click', function (e) {
+        const tag = e.target.closest('.article-section-tag[data-section-url]');
+        if (!tag) return;
 
-document.addEventListener('DOMContentLoaded', function() {
+        console.log('Klik na TAG:', tag.dataset.sectionUrl); // TEST
 
+        e.preventDefault();
+        e.stopPropagation();
+        window.location.href = tag.dataset.sectionUrl;
+    });
 });
-document.addEventListener('DOMContentLoaded', function() {
-    
-});
-document.addEventListener('DOMContentLoaded', () => {
-  }); 
-
-  
