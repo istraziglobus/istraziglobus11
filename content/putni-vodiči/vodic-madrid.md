@@ -5,11 +5,12 @@ author: "Istraži Globus Tim"
 date: "2026-02-04"
 description: "Detaljan vodič kroz Madrid za 2026. godinu: od logistike dolaska iz regiona Balkana do dubinske analize kulturnih znamenitosti i cijena."
 image: "/slike/vodic/madrid-hero.jpg"
-author: "Julius_Silver"
-source: "Pixabay"
-source_url: "https://pixabay.com/photos/madrid-spain-road-plaza-del-callao-3021998/"
-license: "Pixabay License"
-license_url: "https://pixabay.com/service/license/" 
+image_alt: "Pogled na Gran Via, cuvenu ulucu u Madridu"
+image_author: "Julius_Silver"
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/madrid-spain-road-plaza-del-callao-3021998/"
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" 
 countries: ["Španija"]
 cities: ["Madrid"]
 categories:
