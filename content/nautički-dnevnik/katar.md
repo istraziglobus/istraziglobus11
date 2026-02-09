@@ -135,7 +135,7 @@ Pomorska infrastruktura Katara ima i širi geopolitički značaj. Persijski zali
 
 U tom kontekstu, svaka nova luka dobija dimenziju **političkog resursa**, a ne samo turističkog projekta. Grand Cruise Terminal je dio šire strategije jačanja prisustva Katara na pomorskoj mapi regiona. Iako je formalno usmjeren na kruzing turizam, njegova simbolička vrijednost leži u demonstraciji kapaciteta države da upravlja obalom i međunarodnim tokovima. Luka postaje vidljivi <span class="highlight-text">**marker ambicije Katara**</span> da bude prepoznat kao stabilno i relevantno čvorište u Zalivu.
 
-Kao mala država okružena snažnijim akterima, Katar koristi infrastrukturu za jačanje svoje pregovaračke pozicije i međunarodne vidljivosti. Luke postaju produžetak spoljne politike i regionalnog pozicioniranja. Kroz njih se ne šalje samo poruka otvorenosti za turizam, već i poruka <span class="highlight-text">**sposobnosti, organizovanosti i suverenog**</span> upravljanja prostorom. Infrastruktura se tako pretvara u tiho, ali trajno sredstvo političke projekcije moći.
+>Kao mala država okružena snažnijim akterima, Katar koristi infrastrukturu za jačanje svoje pregovaračke pozicije i međunarodne vidljivosti. Luke postaju produžetak spoljne politike i regionalnog pozicioniranja. Kroz njih se ne šalje samo poruka otvorenosti za turizam, već i poruka <span class="highlight-text">**sposobnosti, organizovanosti i suverenog**</span> upravljanja prostorom. Infrastruktura se tako pretvara u tiho, ali trajno sredstvo političke projekcije moći.
 
 ---
 

@@ -97,7 +97,7 @@ Grad je specifičan po svojoj skromnosti. Nema monumentalnih nebodera, nema gran
 
 Island je često navođen kao primjer<span class="highlight-text"> **energetske tranzicije**</span> koja je već ostvarena. Većina energije na ostrvu dolazi iz obnovljivih izvora, prvenstveno geotermalne i hidroenergije. Topla voda dolazi direktno iz zemlje. Kuće se griju prirodnom toplotom planete. Ovdje se koncept održivosti ne doživljava kao **ideološki slogan**, već kao praktična nužnost u zemlji koja nema značajne rezerve fosilnih goriva.
 
-Geotermalne elektrane nisu samo energetski objekti – one su simbol odnosa između <span class="highlight-text">**društva i prirode**</span>. Island koristi ono što mu zemlja nudi, ali uz stalnu svijest da je taj resurs dio nestabilnog sistema. Erupcije, potresi i geološke promjene podsjećaju da kontrola nad prirodom nikada nije potpuna. Energetska nezavisnost Islanda često se navodi kao model za druge države, ali rijetko se naglašava da je ona moguća upravo zbog specifičnih geoloških uslova koje malo koja zemlja dijeli.
+>Geotermalne elektrane nisu samo energetski objekti – one su simbol odnosa između <span class="highlight-text">**društva i prirode**</span>. Island koristi ono što mu zemlja nudi, ali uz stalnu svijest da je taj resurs dio nestabilnog sistema. Erupcije, potresi i geološke promjene podsjećaju da kontrola nad prirodom nikada nije potpuna. Energetska nezavisnost Islanda često se navodi kao model za druge države, ali rijetko se naglašava da je ona moguća upravo zbog specifičnih geoloških uslova koje malo koja zemlja dijeli.
 
 ---
 

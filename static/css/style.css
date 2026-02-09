@@ -2437,10 +2437,7 @@ blockquote p {
 }
 
 
-
-
 /*DNEVNI GLOBUS*/
-
 /* GLAVNI KONTEJNER */
 .daily-globus-card {
   display: flex;
@@ -2553,28 +2550,36 @@ blockquote p {
 @media (max-width: 900px) {
   .daily-globus-card {
     height: auto;
-    min-height: 400px;
-    /* Osiguraj da su lijevi i desni padding identični za savršenu simetriju */
-    padding: 30px 20px; 
+    min-height: 450px;
+    padding: 30px 20px; /* Smanjen padding roditelja da ostane više mesta za sadržaj */
     align-items: center;
+    box-sizing: border-box; /* Osigurava da padding ne širi karticu */
   }
 
   .daily-globus-kicker {
-    font-size: 2.1rem;
+    font-size: 1.8rem; /* Blago smanjen naslov za mobilne */
   }
 
   .daily-globus-body {
-    width: 100%;       /* Okvir će zauzeti sav dostupan prostor */
-    margin: 0 0 0 -20px; /* Resetujemo margine (top, right, bottom, left) */
-    padding: 20px;
-    box-sizing: border-box; /* Ključno: uključuje padding u širinu da ne izlazi van */
-}
+    width: 100%;        /* Umesto 100%, stavljamo 92% da bi imali vizuelni razmak od ivica */
+    margin: 20 auto;    /* Centriranje unutar kartice */
+    padding: 20px 15px;
+    box-sizing: border-box; 
+    border-width: 3px; /* Malo tanji border lepše izgleda na malim ekranima */
+  }
+
   .daily-globus-title {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
+  }
+
+  .daily-globus-year {
+    font-size: 2rem;   /* Smanjena godina da ne dominira previše na mobilnom */
+    margin-top: -45px; /* Prilagođen offset za manji font */
   }
 
   .daily-globus-text {
-    font-size: 1.15rem;
+    font-size: 1.05rem;
+    line-height: 1.5;
   }
 }
 
