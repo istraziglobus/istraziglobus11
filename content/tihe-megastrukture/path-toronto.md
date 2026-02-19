@@ -7,6 +7,11 @@ author: "Istraži Globus Tim"
 description: "Istražujemo Toronto PATH – 30 kilometara podzemnih hodnika koji povezuju nebodere, banke i život metropole, stvarajući paralelni svijet izolovan od kanadske zime."
 image: "/slike/toronto-path/path-hero.jpg"
 image_alt: "Podzemni hodnici PATH sistema u Torontu sa modernim osvjetljenjem"
+image_author: "/" 
+image_source: "Pixabay"
+image_source_url: "/" 
+image_license: "/"
+image_license_url: "/"
 countries: ["Kanada"]
 cities: ["Toronto"]
 categories:
@@ -107,23 +112,13 @@ Crvena boja (slovo P) usmjerava ka jugu, dok narandžasta (slovo A) vodi pješak
 Sistem oznaka je integrisan u podove, zidove i plafon, čineći ga sveprisutnim ali nenametljivim dijelom enterijera. Dizajneri su proveli godine istražujući psihologiju kretanja kako bi stvorili sistem koji omogućava pješacima da donose odluke o skretanju u djeliću sekunde. Navigacija u PATH-u je trijumf <span class="highlight-text">**grafičkog dizajna**</span> koji uspijeva unijeti red u podzemni haos, pretvarajući zbunjujuće tunele u funkcionalnu pješačku mrežu.
 
 <div class="info-box-container">
-  <h3> Hronologija i inženjering PATH-a</h3>
+  <h3> Evolucija podzemnog grada: Ključne tačke</h3>
   <ul>
-    <li><strong>Početak (1900):</strong> Eaton's robna kuća
-      <p>Prvi tunel je izgrađen kako bi povezao glavnu prodavnicu sa njenim aneksom, čime je započela istorija pješačkog kretanja ispod nivoa ulice u Torontu.</p>
-    </li>
-    <li><strong>Ekspanzija (1970-te):</strong> Bum nebodera
-      <p>Izgradnjom velikih bankarskih tornjeva, PATH se drastično širi, postajući integralni dio svakog novog projekta u finansijskom distriktu.</p>
-    </li>
-    <li><strong>Ginisov rekord:</strong> Najveći na svijetu
-      <p>Sa preko 30 kilometara tunela i 371.600 m² komercijalnog prostora, Toronto zvanično posjeduje najopsežniji podzemni pješački sistem na planeti.</p>
-    </li>
-    <li><strong>Strateška povezanost:</strong> 5 metro stanica
-      <p>PATH direktno integriše javni prevoz sa radnim mjestima, omogućavajući da se protok od preko 200.000 ljudi dnevno odvija bez opterećenja uličnog saobraćaja.</p>
-    </li>
-    <li><strong>Privatno-javni model:</strong> Hibridna uprava
-      <p>Svaki dio PATH-a pripada zgradi kroz koju prolazi, što ga čini jedinstvenim primjerom saradnje privatnih vlasnika i grada u održavanju javne infrastrukture.</p>
-    </li>
+    <li><strong>1900 – Geneza:</strong> Izgradnja prvog tunela ispod robne kuće Eaton’s, začetak ideje o kretanju bez zime.</li>
+    <li><strong>1970-te – Zlatno doba:</strong> Bum nebodera u finansijskom distriktu; PATH postaje standard moderne gradnje.</li>
+    <li><strong>1987 – Integracija:</strong> Grad Toronto preuzima koordinaciju i uvodi jedinstveni sistem navigacije (boje i smjerovi).</li>
+    <li><strong>Ginisov rekord:</strong> Zvanično proglašen najvećim podzemnim šoping kompleksom na svijetu (30 km tunela).</li>
+    <li><strong>Infrastrukturna mreža:</strong> Direktna veza sa 5 metro stanica i preko 75 poslovnih nebodera.</li>
   </ul>
 </div>
 

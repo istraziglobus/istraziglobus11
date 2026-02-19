@@ -137,23 +137,13 @@ Njihova egzistencija je kontinuirana, ali gotovo potpuno nevidljiva za istoriju 
 Ova tišina postaje njihov najdublji identitet i njihovo najjače oružje u borbi protiv haosa. Ona ih odvaja od nepotrebne buke površine, omogućavajući im da čuju <span class="highlight-text">**otkucaje srca grada**</span> i prepoznaju opasnost prije nego što ona postane očigledna. U toj tišini, nindža kornjače pronalaze mir koji je potreban za održavanje discipline, pretvarajući podzemlje u prostor meditacije usred najveće buke na svijetu.
 
 <div class="info-box-container">
-  <h3> Geneza mita: Od skice do ikone</h3>
+  <h3> Evolucija mita: Ključne prekretnice</h3>
   <ul>
-    <li><strong>Nastanak stripa (1984):</strong> 
-      <p>Počelo je kao mračna parodija Eastman-a i Laird-a. Prvi crno-bijeli brojevi bili su brutalni i sirovi, daleko od kasnijeg dječijeg imidža.</p>
-    </li>
-    <li><strong>Rana faza:</strong> 
-      <p>Godine izolacije u podzemlju pod Splinterovim vođstvom. Fokus je na strogoj disciplini i nindžicu obuci kao jedinom načinu preživljavanja.</p>
-    </li>
-    <li><strong>Animacija (1987–1996):</strong> 
-      <p>Globalna "Turtlemanija". Uvode se marame u bojama i humor, a kornjače postaju pop-kulturni simboli i ljubitelji pizze.</p>
-    </li>
-    <li><strong>Filmska era:</strong> 
-      <p>Izlazak na velika platna 1990. godine. Revolucionarni kostimi Jima Hensona oživjeli su mitologiju u realnom, mračnom Njujorku.</p>
-    </li>
-    <li><strong>Moderna era:</strong> 
-      <p>Kontinuirano redefinisanje. Danas su kornjače kompleksni heroji koji spajaju nostalgiju 80-ih sa modernom digitalnom borbom.</p>
-    </li>
+    <li><strong>1984 – Nastanak:</strong> Kevin Eastman i Peter Laird objavljuju prvi crno-bijeli strip (Mirage Studios).</li>
+    <li><strong>1987 – Globalni bum:</strong> Početak prve animirane serije; uvođenje boja, humora i "pizzamanije".</li>
+    <li><strong>1990 – Filmska era:</strong> Premijera prvog igranog filma sa legendarnim kostimima Jima Hensona.</li>
+    <li><strong>2000-te – Reinventiranje:</strong> Nove animacije (2003, 2012) i povratak mračnijim korijenima kroz IDW stripove.</li>
+    <li><strong>Digitalna era:</strong> Transformacija u globalnu franšizu koja spaja nostalgiju sa modernim CGI filmovima.</li>
   </ul>
 </div>
 
