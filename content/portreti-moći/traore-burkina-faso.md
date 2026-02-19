@@ -119,7 +119,7 @@ U središtu Traoréove moći je rješavanje bezbjednosne kriz koja prijeti opsta
 
 On odbacuje tradicionalne metode mirovnih misija UN-a, smatrajući ih neefikasnim i pasivnim. Umjesto toga, promoviše brze, agresivne operacije i direktnu konfrontaciju, često lično nadgledajući planove na frontu. Njegova moć je direktno vezana za rezultate; svaki vraćeni grad cementira njegovu poziciju. On vlada u stanju <span class="highlight-text">**stalne vanredne situacije**</span>, gdje se sigurnost prodaje kao jedini put ka stvarnoj slobodi.
 
-Kroz savez sa Malijem i Nigerom, Traoré gradi novu arhitekturu moći u Sahelu, poznatu kao Alijansa država Sahela (AES). Ovaj blok predstavlja regionalni otpor zapadnim integracijama koje on vidi kao instrumente stranog uticaja. Njegova vizija je Sahel koji sam rješava svoje probleme, koristeći sopstvene resurse, stvarajući tako novi <span class="highlight-text">**centar moći**</span> na kontinentu koji odbija da se povinuje starim, kolonijalnim pravilima.
+>Kroz savez sa Malijem i Nigerom, Traoré gradi novu arhitekturu moći u Sahelu, poznatu kao Alijansa država Sahela (AES). Ovaj blok predstavlja regionalni otpor zapadnim integracijama koje on vidi kao instrumente stranog uticaja. Njegova vizija je Sahel koji sam rješava svoje probleme, koristeći sopstvene resurse, stvarajući tako novi <span class="highlight-text">**centar moći**</span> na kontinentu koji odbija da se povinuje starim, kolonijalnim pravilima.
 
 ---
 

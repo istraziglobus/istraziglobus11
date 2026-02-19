@@ -104,7 +104,7 @@ Njujork nije samo statični skup zgrada; on je grad koji se neprekidno mijenja, 
 
 Kornjače su se vremenom potpuno integrisale u ovaj sistem, postajući njegova "imuna ćelija" koja reaguje na patogene poput Foot Clan-a. One se kreću kroz vene grada sa hirurškom preciznošću, reagujući na njegove poremećaje prije nego što oni postanu vidljivi na površini. One nisu odvojene od Njujorka; one su njegov <span class="highlight-text">**biološki produžetak**</span>, odgovor prirode na vještačko okruženje koje je postalo previše kompleksno za ljudsku kontrolu.
 
-Ova simbioza između bića i infrastrukture predstavlja sasvim novu vrstu urbanog odnosa koji redefiniše šta znači biti građanin. Grad ne samo da pasivno stvara život kroz mutaciju, već ga aktivno integriše u svoju funkciju održavanja ravnoteže. Kornjače su živi dokaz da <span class="highlight-text">**urbani sistem**</span> teži samoizlječenju, stvarajući svoje čuvare tamo gdje ih niko ne bi očekivao – u dubokoj tami, u talogu sopstvene potrošnje.
+>Ova simbioza između bića i infrastrukture predstavlja sasvim novu vrstu urbanog odnosa koji redefiniše šta znači biti građanin. Grad ne samo da pasivno stvara život kroz mutaciju, već ga aktivno integriše u svoju funkciju održavanja ravnoteže. Kornjače su živi dokaz da <span class="highlight-text">**urbani sistem**</span> teži samoizlječenju, stvarajući svoje čuvare tamo gdje ih niko ne bi očekivao – u dubokoj tami, u talogu sopstvene potrošnje.
 
 ---
 
