@@ -112,7 +112,7 @@ Crvena boja (slovo P) usmjerava ka jugu, dok narandžasta (slovo A) vodi pješak
 Sistem oznaka je integrisan u podove, zidove i plafon, čineći ga sveprisutnim ali nenametljivim dijelom enterijera. Dizajneri su proveli godine istražujući psihologiju kretanja kako bi stvorili sistem koji omogućava pješacima da donose odluke o skretanju u djeliću sekunde. Navigacija u PATH-u je trijumf <span class="highlight-text">**grafičkog dizajna**</span> koji uspijeva unijeti red u podzemni haos, pretvarajući zbunjujuće tunele u funkcionalnu pješačku mrežu.
 
 <div class="info-box-container">
-  <h3> Evolucija podzemnog grada: Ključne tačke</h3>
+  <h3>7. Evolucija podzemnog grada: Ključne tačke</h3>
   <ul>
     <li><strong>1900 – Geneza:</strong> Izgradnja prvog tunela ispod robne kuće Eaton’s, začetak ideje o kretanju bez zime.</li>
     <li><strong>1970-te – Zlatno doba:</strong> Bum nebodera u finansijskom distriktu; PATH postaje standard moderne gradnje.</li>
