@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}Istraži Globus - putujmo!{{ end }}</title>
-    <link rel="canonical" href="{{ .Permalink | absURL | safeHTML }}" />
+    <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
     <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Description | default (.Summary | truncate 150) }}" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="{{ .Permalink | absURL | safeHTML }}" />
+<meta property="og:url" content="{{ strings.TrimSuffix "/" .Permalink }}" />
 <meta property="og:image" content="{{ .Params.image | absURL }}" />
 <meta property="og:site_name" content="Istraži Globus" />
 
