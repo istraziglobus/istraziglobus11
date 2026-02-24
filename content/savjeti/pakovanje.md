@@ -17,7 +17,7 @@ categories:
 
 Da li ste ikada stajali iznad otvorenog kofera noć prije putovanja, pitajući se kako je moguće da vam treba toliko stvari za samo sedam dana? Pakovanje je često najstresniji dio pripreme, ali uz pravu strategiju, ono može postati <span class="highlight-text">**istinska umjetnost**</span>. Putovati lagano ne znači odricati se komfora, već eliminisati suvišno kako biste se fokusirali na iskustvo, a ne na težinu prtljaga.
 
-### Zlatna Pravila Pakovanja: Manje je Više
+## Zlatna Pravila Pakovanja: Manje je Više
 
 Prije nego što uopšte otvorite kofer, ključno je postaviti realna ograničenja. Većina putnika napravi grešku pakujući se za "svaki slučaj", što rezultira teškim torbama i stvarima koje nikada ne izađu iz kofera.
 
@@ -27,7 +27,7 @@ Prije nego što uopšte otvorite kofer, ključno je postaviti realna ograničenj
 
 ---
 
-### Napredne tehnike: Kako pobijediti ograničenja prostora
+## Napredne tehnike: Kako pobijediti ograničenja prostora
 
 Pored osnovnog rolanja, postoje metode koje koriste iskusni svjetski putnici kako bi izvukli maksimum iz svakog kvadratnog centimetra:
 
@@ -38,7 +38,7 @@ Pored osnovnog rolanja, postoje metode koje koriste iskusni svjetski putnici kak
 
 ---
 
-### Obuća: Najteža odluka svakog putnika
+## Obuća: Najteža odluka svakog putnika
 
 Obuća zauzima najviše mjesta i dodaje najviše težine. Da biste ostali u okvirima "premium" putovanja bez bolova u nogama, držite se **pravila dva para**:
 
@@ -51,7 +51,7 @@ Obuća zauzima najviše mjesta i dodaje najviše težine. Da biste ostali u okvi
 
 ---
 
-### Putna apoteka i lična higijena: Minimalizam sa svrhom
+## Putna apoteka i lična higijena: Minimalizam sa svrhom
 
 Umjesto da nosite cijelu kućnu apoteku, fokusirajte se na "prvu pomoć" koja staje u malu neseser torbicu:
 
@@ -60,7 +60,7 @@ Umjesto da nosite cijelu kućnu apoteku, fokusirajte se na "prvu pomoć" koja st
 
 ---
 
-### Tehnologija i Težina
+## Tehnologija i Težina
 
 * **Univerzalni adapter:** Umjesto nošenja više punjača, investirajte u jedan kvalitetan univerzalni adapter sa više USB-C portova.
 * **Power Bank:** Vaš telefon je vaša mapa i karta. Ne dozvolite da vas prazna baterija zaustavi.
@@ -70,7 +70,7 @@ Umjesto da nosite cijelu kućnu apoteku, fokusirajte se na "prvu pomoć" koja st
 
 ---
 
-### Šta Ostaviti Kod Kuće?
+## Šta Ostaviti Kod Kuće?
 
 * **"Za svaki slučaj" odjeća:** Ako niste sigurni da ćete nešto obući, vjerovatno nećete. 
 * **Fen za kosu:** Većina hotela ga već ima.
@@ -78,7 +78,7 @@ Umjesto da nosite cijelu kućnu apoteku, fokusirajte se na "prvu pomoć" koja st
 
 ---
 
-### Zaključak: Putovanje počinje lakoćom
+## Zaključak: Putovanje počinje lakoćom
 
 Prije nego što zatvorite kofer, uradite finalnu provjeru težine. Ako je vaš kofer "na ivici", obucite najtežu jaknu i stavite najteži džemper oko struka dok prolazite check-in. Takođe, držite svu elektroniku i tečnosti na vrhu ili u lako dostupnom džepu. Ništa ne kvari "premium" osjećaj putovanja kao grozničavo preturanje po stvarima pred obezbjeđenjem.
 

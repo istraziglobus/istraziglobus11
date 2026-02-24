@@ -16,7 +16,7 @@ categories:
 ---
 Planiranje putovanja može biti uzbudljivo, ali i izazovno, pogotovo kada je reč o pronalaženju najpovoljnijih letova i idealnog smeštaja. Tržište je preplavljeno opcijama, a cene mogu drastično varirati. Cilj svakog putnika je da maksimizuje svoje iskustvo uz minimalne troškove. Uz prave <span class="highlight-text">strategije i alate</span>, možete značajno smanjiti izdatke i pronaći najbolje ponude koje odgovaraju vašim potrebama. Ovaj vodič će vas provesti kroz ključne savete i trikove za pametnu rezervaciju, osiguravajući da vaše sledeće putovanje počne bez stresa i praznog novčanika.
 
-### Saveti za rezervaciju avio karata: Letite pametno, ne skupo
+## Saveti za rezervaciju avio karata: Letite pametno, ne skupo
 
 Rezervacija letova često predstavlja najveći deo budžeta za putovanje. Međutim, uz malo <span class="highlight-text">fleksibilnosti</span> i poznavanja tržišta, možete pronaći iznenađujuće povoljne opcije.
 
@@ -38,7 +38,7 @@ Rezervacija letova često predstavlja najveći deo budžeta za putovanje. Međut
 
 8.  **Prtljag: Čitajte sitna slova:** Standardna ručna torba je često uključena u cenu, ali dimenzije i težina variraju. Proverite <span class="highlight-text">politiku prtljaga</span> svake avio kompanije pre nego što kupite kartu, posebno ako putujete sa budžetnim prevoznikom. Ponekad je jeftinije doplatiti prtljag online unapred nego na aerodromu.
 
-### Saveti za rezervaciju smeštaja: Pronađite svoj savršeni dom daleko od doma
+## Saveti za rezervaciju smeštaja: Pronađite svoj savršeni dom daleko od doma
 
 Smeštaj je drugi najveći trošak putovanja, ali i tu postoje brojne strategije za uštedu i pronalazak idealnog mesta.
 
@@ -61,7 +61,7 @@ Smeštaj je drugi najveći trošak putovanja, ali i tu postoje brojne strategije
 
 6.  **Programi lojalnosti:** Ako često putujete i preferirate određene lance hotela ili avio kompanije, prijavite se za njihove programe lojalnosti. Možete sakupljati poene i dobiti popuste, besplatna noćenja ili nadogradnje.
 
-### Opšti saveti za putovanje: Izbegnite neprijatna iznenađenja
+## Opšti saveti za putovanje: Izbegnite neprijatna iznenađenja
 
 1.  **Putno osiguranje:** Uvek, ali uvek ugovorite putno osiguranje. Ne radi se samo o medicinskim hitnostima; može pokriti i otkazivanje putovanja, izgubljeni prtljag ili kašnjenja. To je mala cena za veliki mir.
 
@@ -69,6 +69,6 @@ Smeštaj je drugi najveći trošak putovanja, ali i tu postoje brojne strategije
 
 3.  **Budite svesni skrivenih troškova:** Niske cene često dolaze sa <span class="highlight-text">"zacepkanim"</span> dodacima. Pročitajte sve uslove pre rezervacije – doplata za prtljag, takse za odmaralište, naknade za čišćenje, naknade za plaćanje karticom, itd.
 
-### Zaključak: Putovanje počinje pametnom rezervacijom
+## Zaključak: Putovanje počinje pametnom rezervacijom
 
 Pametna rezervacija letova i smeštaja nije samo o <span class="highlight-text">uštedi</span> novca; radi se o tome da se osigurate da vaše putovanje počne glatko i bez nepotrebnog stresa. Ulaganjem vremena u istraživanje, upoređivanje i razumevanje opcija, ne samo da ćete uštedeti novac, već ćete i pronaći ponude koje savršeno odgovaraju vašim potrebama i željama. Srećno planiranje i još srećnije putovanje!

@@ -16,13 +16,13 @@ image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za u
 Imate pitanje, predlog za novu destinaciju, želite da sarađujete ili jednostavno želite da se pozdravite? Istraži Globus tim je uvek rad da čuje od vas! Vaše povratne informacije, ideje i pitanja su nam izuzetno važni jer nam pomažu da kreiramo sadržaj koji vam je zaista koristan.
 </p>
 
-### Kako Nas Možete Kontaktirati?
+## Kako Nas Možete Kontaktirati?
 
 Najlakši način da stupite u kontakt sa nama je putem emaila. Nastojimo da odgovorimo na sve poruke u najkraćem mogućem roku.
 
 * **Opšta pitanja, predlozi, saradnja i partnerstva:**  <b>Email: istraziglobus@gmail.com</b> 
 
-### Povežite se sa Nama na Društvenim Mrežama
+## Povežite se sa Nama na Društvenim Mrežama
 
 Pratite nas na društvenim mrežama da biste bili u toku sa najnovijim člancima, inspirativnim fotografijama i putnim savetima:
 
@@ -30,7 +30,7 @@ Pratite nas na društvenim mrežama da biste bili u toku sa najnovijim člancima
 * [Instagram](https://instagram.com/istraziglobus) 
 * [Twitter](https://twitter.com/istraziglobus) 
 
-### Pošaljite Nam Poruku
+## Pošaljite Nam Poruku
 
 Iako trenutno nemamo direktnu kontakt formu, možete nam poslati email na gore navedene adrese. Radujemo se vašim porukama!
 
