@@ -43,11 +43,11 @@
     <header class="main-header">
         <div class="container">
             <div class="logo-container">
-                <a href="{{ site.BaseURL }}" class="site-logo-link"></a>
-                    <img src="{{ "slike/logo/logo.png.png" | relURL }}" alt="Travel Site Logo" class="site-logo">
-                    <span class="site-title-animated">ISTRAŽI GLOBUS</span>
-                </a>
-            </div>
+                <a href="{{ site.BaseURL | relURL }}" class="site-logo-link">
+        <img src="{{ "slike/logo/logo.png.png" | relURL }}" alt="Travel Site Logo" class="site-logo">
+        <span class="site-title-animated">ISTRAŽI GLOBUS</span>
+    </a>
+</div>
 
             <nav class="main-nav-primary">
                 <ul>
@@ -259,7 +259,7 @@
 
     <button type="button" class="geo-search-close" id="geoSearchClose" aria-label="Zatvori pretragu">×</button>
 
-    <h3 id="geoSearchTitle" class="geo-search-title">Pretraži sve članke</h3>
+    <div id="geoSearchTitle" class="geo-search-title" style="font-weight: bold; font-size: 1.5rem; display: block; margin-bottom: 20px;">Pretraži sve članke</div>
 
     <form id="geoSearchForm" class="geo-search-form">
       <label class="geo-search-label" for="geoCountry">Država</label>
