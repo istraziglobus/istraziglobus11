@@ -48,7 +48,7 @@ most_read: false
         </ul>
     </div>
     <figure class="article-image-box">
-        <img src="/slike/rim/rim1.jpg">
+        <img src="/slike/rim/rim1.jpg" alt="Mapa Rima">
     </figure>
 </div>
 

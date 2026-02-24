@@ -44,3 +44,26 @@ weight = 80
 
 
 # Moguće je dodati konfiguracijiu za RSS feed, sitemap itd.
+
+[permalinks]
+  posts = "/:section/:filename"
+  koracima-balkana = "/koracima-balkana/:filename"
+  gradske-price = "/gradske-price/:filename"
+  destinacije-mjeseca = "/destinacije-mjeseca/:filename"
+  putni-vodici = "/putni-vodici/:filename"
+  gastronomski-put = "/gastronomski-put/:filename"
+  priroda-svijeta = "/priroda-svijeta/:filename"
+  zapisi-vremena = "/zapisi-vremena/:filename"
+  nebeske-rute = "/nebeske-rute/:filename"
+  sampionski-plamen = "/sampionski-plamen/:filename"
+  top-5 = "/top-5/:filename"
+  postanski-tragovi = "/postanski-tragovi/:filename"
+  neobicni-svijet = "/neobicni-svijet/:filename"
+  kulturni-mozaik = "/kulturni-mozaik/:filename"
+  mitski-kult = "/mitski-kult/:filename"
+  geo-kutak = "/geo-kutak/:filename"
+  portreti-moci = "/portreti-moci/:filename"
+  stranice-kadra = "/stranice-kadra/:filename"
+  prirodna-riznica = "/prirodna-riznica/:filename"
+  tihe-megastrukture = "/tihe-megastrukture/:filename"
+  nauticki-dnevnik = "/nauticki-dnevnik/:filename"
