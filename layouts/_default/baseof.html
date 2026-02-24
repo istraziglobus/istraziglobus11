@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}Istraži Globus - putujmo!{{ end }}</title>
-    <link rel="canonical" href="{{ .Permalink }}" />
+    <link rel="canonical" href="{{ .Permalink | absURL | safeHTML }}" />
     <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Description | default (.Summary | truncate 150) }}" />
