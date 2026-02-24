@@ -3,8 +3,10 @@ relativeURLs = false
 canonifyURLs = true
 languageCode = "sr"
 title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
-disablePathToLower = true # Preporučuje se za očuvanje velikih slova u URL-ovima
+disablePathToLower = false # Preporučuje se za očuvanje velikih slova u URL-ovima
 pluralizeListTitles = false
+trailingSlash = false
+uglyURLs = false
 
 [taxonomies]
   country = "countries"
