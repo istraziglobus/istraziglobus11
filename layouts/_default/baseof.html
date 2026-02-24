@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ block "title" . }}Istraži Globus - putujmo!{{ end }}</title>
+    <title>{{ .Title }} | Istraži Globus</title>
+    <meta name="description" content="{{ .Description | default (.Summary | truncate 150) }}">
     <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
     <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="{{ .Title }}" />
