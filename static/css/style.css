@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: background-color 0.3s ease;
 }
 .btn-primary {
-    color: #ffffff; /* Čista bijela za maksimalan kontrast */
+    color: #000000; /* Čista bijela za maksimalan kontrast */
     background-color: #2980b9; /* Malo tamnija plava (umjesto standardne 3498db) */
     border-color: #2980b9;
     font-weight: 700; /* Podebljana slova se lakše čitaju i popravljaju skor */
@@ -137,8 +137,8 @@ h1, h2, h3, h4, h5, h6 {
     transform: scale(1.01) translateY(-2px); /* Lagani skok na hover */
 }
 .btn-secondary {
-    color: var(--light-light);
-    background-color: var(--dark-bg-color);
+    color: #000000;
+    background-color: #006A8E;
     border-color: var(--primary-color);
     box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); /* Suptilna senka */
     transform: scale(1.01); /* Uvek 1% veće */
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 .article-section-tag {
     font-size: 0.85em;
     font-weight: 600;
-    color: #222222; /* Tamno siva/crna umesto svetlo sive */
+    color: #000000; /* Tamno siva/crna umesto svetlo sive */
     background-color: var(--theme-green-color);
     padding: 6px 12px;
     border-radius: 5px;
@@ -640,7 +640,7 @@ a:hover {
 .article-card-latest-content .article-section-tag {
     font-size: 0.85em;
     font-weight: 600;
-    color: #222222; /* Tamno siva/crna umesto svetlo sive */
+    color: #000000; /* Tamno siva/crna umesto svetlo sive */
     background-color: var(--theme-green-color);
     padding: 6px 12px;
     border-radius: 5px;
@@ -1141,7 +1141,7 @@ CSS ZA SEKCIJU - SAVJETI ZA PUTOVANJA (Fino i Moderno)
 .read-more-link {
     display: inline-block;
     background-color: var(--primary-color); /* Boja dugmeta */
-    color: var(--light-text-color); /* Boja teksta dugmeta */
+    color: #000000; /* Boja teksta dugmeta */
     border-radius: var(--border-radius); /* Zaobljuje uglove dugmeta (preuzima vrednost iz promenljive) */
     padding: 12px 28px; /* Veći padding */
     font-size: 1.05rem; /* Malo veći font */
