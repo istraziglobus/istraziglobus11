@@ -743,7 +743,7 @@ a:hover {
 .article-card-horizontal .read-more-btn {
     display: inline-block;
     background-color: var(--primary-color); /* Boja dugmeta */
-    color: var(--light-text-color); /* Boja teksta dugmeta */
+    color: #000000; /* Boja teksta dugmeta */
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
