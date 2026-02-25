@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 .article-section-tag {
     font-size: 0.85em;
     font-weight: 600;
-    color: var(--light-text-color);
+    color: #222222; /* Tamno siva/crna umesto svetlo sive */
     background-color: var(--theme-green-color);
     padding: 6px 12px;
     border-radius: 5px;
@@ -640,7 +640,7 @@ a:hover {
 .article-card-latest-content .article-section-tag {
     font-size: 0.85em;
     font-weight: 600;
-    color: var(--light-text-color);
+    color: #222222; /* Tamno siva/crna umesto svetlo sive */
     background-color: var(--theme-green-color);
     padding: 6px 12px;
     border-radius: 5px;
@@ -1737,17 +1737,21 @@ blockquote p {
 
 /* Tekst unutar slike */
 .most-read-title {
-    font-size: 2.8rem;
+    font-size: 2.8rem; /* Smanjili smo sa 2.8 na 2.2 da bude sigurnije */
     margin: 0 0 8px 0;
     font-weight: bold;
     color: #fff;
     position: relative;
     padding-bottom: 8px;
-    display: inline-block;
+    display: block; /* Promijenjeno sa inline-block na block da lakše kontroliše širinu */
     text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
     z-index: 3;
     transition: all 0.3s ease;
+    max-width: 100%;       /* Ne dozvoljava tekstu da bude širi od kartice */
+    overflow-wrap: break-word; /* Razbija predugačke riječi ako ne mogu da stanu */
+    line-height: 1.2;      /* Smanjuje razmak između redova da naslov izgleda kompaktnije */
 }
+
 
 /* Efekat linija ispod i iznad naslova */
 .most-read-title::before,
@@ -1776,15 +1780,16 @@ blockquote p {
 
 .most-read-description {
     display: block;
-    font-size: 1.25rem; /* sada možeš povećati */
+    font-size: 1.15rem;
     color: #f0f0f0;
     margin: 4px 0 0 0;
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
     z-index: 3;
-    overflow: visible;
-    white-space: normal;
-    text-overflow: unset;
-    font-weight: 900; /* ✅ BOLD cijeli tekst */
+    font-weight: 900;
+    max-width: 90%;           /* Ne dozvoljava tekstu da izađe van kartice */
+    overflow-wrap: break-word;     /* Razbija predugačke riječi */
+    line-height: 1.4;          /* Daje tekstu malo "vazduha" između redova jer je jako debeo (900) */
+    overflow: hidden;          /* Sigurnosna kočnica */
 }
 
 /* RESPONSIVNI DIZAJN ZA MOBILNI */
