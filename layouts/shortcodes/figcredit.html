@@ -5,8 +5,17 @@
 {{ $source := .Get "source" | default "" }}
 {{ $sourceURL := .Get "source_url" | default "" }}
 
+{{/* Hugo trazi sliku u assets folderu da je izmjeri */}}
+{{ $img := resources.Get $src }}
+
 <figure class="article-image-box">
-  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  <img src="{{ $src | relURL }}" 
+       alt="{{ $alt }}" 
+       {{ with $img }}
+         width="{{ .Width }}" 
+         height="{{ .Height }}"
+       {{ end }}
+       loading="lazy">
 
   {{ if or $author $source }}
   <figcaption class="image-credit">

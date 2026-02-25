@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} | Istraži Globus</title>
     <meta name="google-site-verification" content="fD-DEjYF2wP_WRaOrg3pFrUB58TFrxV6qSWbxooneog" />
-    <meta name="description" content="{{ .Description | default (.Summary | truncate 150) }}">
+    <meta name="description" content="{{ .Description | default (.Summary | truncate 300) }}">
     <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
     <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ .Description | default (.Summary | truncate 150) }}" />
+<meta property="og:description" content="{{ .Description | default (.Summary | truncate 300) }}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ strings.TrimSuffix "/" .Permalink }}" />
 <meta property="og:image" content="{{ .Params.image | absURL }}" />
