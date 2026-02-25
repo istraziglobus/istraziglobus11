@@ -8,7 +8,7 @@ description: "Priča o najskupljoj poštanskoj markici na svijetu, British Guian
 image: "/slike/gvajana-markica/gvajana-hero.jpg" # Glavna naslovna slika
 image_author: "Joseph Baum and William Dallas (Original Printers)"
 image_source: "Smithsonian National Postal Museum / Public Domain"
-image_source_url: "https://postalmuseum.si.edu/exhibition/british-guiana-one-cent-magenta/stamp-deconstruction"
+image_source_url: "https://commons.wikimedia.org/wiki/File:1856_British_Guiana_One-Cent_Magenta_photograph_using_an_infrared_filter.jpg"
 image_license: "Public Domain (UK Crown Copyright Expired)"
 image_license_url: "https://commons.wikimedia.org/wiki/Template:PD-UK-Gov"
 countries: ["Gvajana"]

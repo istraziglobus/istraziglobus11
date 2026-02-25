@@ -23,7 +23,8 @@
     {{ if and $author $source }} ({{ end }}
     {{ with $source }}
       {{ if $sourceURL }}
-        <a href="{{ $sourceURL }}" target="_blank" rel="noopener">{{ . }}</a>
+        {{/* DODATO: rel="nofollow" rješava problem sa previše eksternih linkova */}}
+        <a href="{{ $sourceURL }}" target="_blank" rel="nofollow noopener noreferrer">{{ . }}</a>
       {{ else }}
         {{ . }}
       {{ end }}
