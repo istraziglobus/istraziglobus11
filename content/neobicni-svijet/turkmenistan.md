@@ -40,7 +40,7 @@ Iz rupe se počeo oslobađati metan, a strahovalo se da bi otrovni gasovi mogli 
 
 {{< figcredit 
     src="/slike/turkmenistan/vrata pakla1.jpg" 
-    alt="Pogled iz vazduha na masivni, užareni Gasni krater Darvaza usred prostrane pustinje Karakum, Turkmenistan"
+    alt="Pogled iz vazduha na užareni Gasni krater Darvaza"
     author="Kalpak Travel"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:Turkmenistan_gas_crater.jpg"
@@ -113,7 +113,7 @@ Neki turisti kažu da osjećaj gledanja u krater izaziva strahopoštovanje slič
 
 {{< figcredit 
     src="/slike/turkmenistan/vrata pakla3.jpg" 
-    alt="Gorući Gasni krater Darvaza, prirodni fenomen koji neprestano gori decenijama, obasjava noćno nebo u Turkmenistanu"
+    alt="Gorući Gasni krater Darvaza"
     author="flydime"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:The_Door_to_Hell_-_Turkmenistan,_Darvaza_-_panoramio.jpg"

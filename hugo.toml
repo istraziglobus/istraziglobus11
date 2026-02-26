@@ -7,6 +7,8 @@ disablePathToLower = false # Preporučuje se za očuvanje velikih slova u URL-ov
 pluralizeListTitles = false
 trailingSlash = false
 uglyURLs = false
+disablePathExternalEmptyDirs = true
+removePathAccents = true
 
 [taxonomies]
   country = "countries"
