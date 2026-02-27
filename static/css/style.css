@@ -1,3 +1,8 @@
+/* =============================
+   IMPORT FONTOVA
+   ============================= */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 /* ========================================= 
    OSNOVE SAJTA 
    ========================================= */
@@ -7,11 +12,6 @@ body, html { /*Ovo sprečava da se horizontalni scrollbar pojavi na stranici. Vr
 html { /*Postavlja osnovnu veličinu fonta na 16 piksela. To je standardna, pristupačna veličina na kojoj se baziraju sve ostale "rem" jedinice na sajtu (npr. font-size: 1.4em). Bez toga, svi tvoji fontovi bi izgledali preveliki ili premali.*/
     font-size: 16px; /* Postavlja bazni font za rem jedinice */
 }
-
-/* =============================
-   IMPORT FONTOVA
-   ============================= */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 /* -- Root Variables -- */
 :root { /*Ovaj pseudo-selektor definiše CSS varijable. Neophodan je jer omogućava da brzo menjaš boje, radijuse i senke na celom sajtu tako što promeniš vrednost samo na jednom mestu. Bez varijabli, morao bi ručno da menjaš svaku boju na svakom elementu*/
