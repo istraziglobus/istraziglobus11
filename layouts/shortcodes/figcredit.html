@@ -5,7 +5,9 @@
 {{ $source := .Get "source" | default "" }}
 {{ $sourceURL := .Get "source_url" | default "" }}
 
-{{/* Hugo trazi sliku u assets folderu da je izmjeri */}}
+{{/* Provjeravamo da li je link eksterni (počinje sa http) */}}
+{{ $isExternal := or (hasPrefix $sourceURL "http://") (hasPrefix $sourceURL "https://") }}
+
 {{ $img := resources.Get $src }}
 
 <figure class="article-image-box">
@@ -23,8 +25,12 @@
     {{ if and $author $source }} ({{ end }}
     {{ with $source }}
       {{ if $sourceURL }}
-        {{/* DODATO: rel="nofollow" rješava problem sa previše eksternih linkova */}}
-        <a href="{{ $sourceURL }}" target="_blank" rel="nofollow noopener noreferrer">{{ . }}</a>
+        {{/* PAMETNI LINK: Nofollow ide samo ako je link eksterni */}}
+        <a href="{{ $sourceURL }}" 
+           target="_blank" 
+           {{ if $isExternal }} rel="nofollow noopener noreferrer" {{ else }} rel="noopener" {{ end }}>
+           {{ . }}
+        </a>
       {{ else }}
         {{ . }}
       {{ end }}
