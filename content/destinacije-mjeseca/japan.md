@@ -7,11 +7,11 @@ author: "Istraži Globus Tim"
 description: "Japan u oktobru: od hramova Kjota obasjanih crvenim lišćem, do futurističkog Tokija, planinskih pejzaža Hokaida i koralnih plaža Okinave – zemlja koja jesen pretvara u umjetničko djelo."
 image: "/slike/japan/japan-hero.jpg"
 image_alt: "Jesenski pejzaž Kjota sa hramom Kiyomizu-dera u pozadini"
-image_author: "Sean Pavone" 
-image_source: "Shutterstock"
-image_source_url: "https://www.shutterstock.com" 
-image_license: "Standard License"
-image_license_url: "https://www.shutterstock.com/license"
+image_author: "Gemini" 
+image_source: "/"
+image_source_url: "/" 
+image_license: "/"
+image_license_url: "/"
 countries: ["Japan"]
 categories:
   - Destinacija mjeseca
