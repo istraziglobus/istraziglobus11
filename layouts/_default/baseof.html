@@ -6,7 +6,7 @@
     <title>{{ .Title }} | Istraži Globus</title>
     <meta name="google-site-verification" content="fD-DEjYF2wP_WRaOrg3pFrUB58TFrxV6qSWbxooneog" />
     <meta name="description" content="{{ if .IsHome }}Dobrodošli na Istraži Globus - vaš vodič kroz istoriju, inženjering i najzanimljivije destinacije svijeta.{{ else }}{{ .Description | default (.Summary | truncate 300) }}{{ end }}">
-    <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
     <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Description | default (.Summary | truncate 300) }}" />
