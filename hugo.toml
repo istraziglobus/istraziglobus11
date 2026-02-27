@@ -1,6 +1,6 @@
 baseURL = "https://www.istraziglobus.com"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 languageCode = "sr"
 title = "Istraži Globus - Vaša Avantura Počinje Ovdje"
 disablePathToLower = false # Preporučuje se za očuvanje velikih slova u URL-ovima
