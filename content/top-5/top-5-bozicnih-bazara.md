@@ -4,7 +4,7 @@ subtitle: "Svjetla, mirisi i zimske priče koje se pamte"
 author: "Istraži Globus Tim"
 description: "Pet evropskih novogodišnjih bazara koji najbolje spajaju praznična svjetla, lokalne ukuse i zimsku atmosferu."
 date: 2025-12-21T10:00:00+01:00
-image: "/slike/novogodisnji-bazari/bazari-hero.jpg"
+image: "slike/novogodisnji-bazari/bazari-hero.jpg"
 image_alt: "Zimski bazar sa lampicama i kućicama u centru grada"
 image_author: "sontung57"
 image_source: "Pixabay"

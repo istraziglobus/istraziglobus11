@@ -4,7 +4,7 @@ subtitle: "Vječni grad – mozaik prošlosti i sadašnjosti"
 date: 2025-07-03T10:00:00+02:00
 draft: false
 description: "Zakoračite u Rim, grad gdje se istorija ne priča, već živi na svakom koraku. Otkrijte autentični duh Vječnog Grada."
-image: "/slike/rim/rim.jpg"
+image: "slike/rim/rim.jpg"
 image_author: "Julius_Silver" 
 image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/rome-vatican-city-italy-tiber-3021586/" # Link do profila autora (preporučeno)

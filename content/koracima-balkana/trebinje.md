@@ -5,7 +5,7 @@ slug: "trebinje"
 date: 2025-07-06T12:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u Trebinje, grad koji živi u ritmu reke Trebišnjice, okupan suncem i ukrašen vekovnom istorijom. Otkrijte autentični duh Hercegovine i miris Mediterana."
-image: "/slike/balkan/trebinje.jpg"
+image: "slike/balkan/trebinje.jpg"
 image_alt: "Pogled na Trebinje i Perovića most za vreme zalaska sunca"
 image_author: "mirkoni" 
 image_source: "Pixabay"

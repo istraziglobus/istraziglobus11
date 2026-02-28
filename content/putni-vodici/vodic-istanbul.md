@@ -4,7 +4,7 @@ subtitle: "Kompletan vodič za Istanbul – kada putovati, kako doći, atrakcije
 author: "ChatGPT"
 date: "2025-10-01"
 description: " Istanbul: Gde Evropa sreće Aziju – Drevna magija na Bosforu."
-image: "/slike/vodic/istanbul-hero.jpg"
+image: "slike/vodic/istanbul-hero.jpg"
 author: "RidacsA"
 source: "Pixabay"
 source_url: "https://pixabay.com/photos/istanbul-turkey-buildings-city-5809612/"

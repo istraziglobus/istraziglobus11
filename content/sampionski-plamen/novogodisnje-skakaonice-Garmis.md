@@ -5,7 +5,7 @@ slug: "cetiri-novogodisnje-skakaonice-garmisch"
 date: 2025-12-29T10:00:00+01:00
 author: "Redakcija"
 description: "Novogodišnja turneja Četiri skakaonice jedinstven je sportski fenomen, a Garmisch-Partenkirchen njegovo najvidljivije i najzahtjevnije poglavlje."
-image: "/slike/novogodisnje-skakaonice/garmis-hero.jpg"
+image: "slike/novogodisnje-skakaonice/garmis-hero.jpg"
 image_alt: "Ski skakaonica iz ugla navijača"
 image_author: "guidokamm"
 image_source: "Pixabay"

@@ -5,7 +5,7 @@ slug: "meksiko-ukusi-svijeta"
 date: 2025-11-05T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "U Meksiku kukuruz nije samo hrana – to je mit, korijen i simbol života. Od tortilje do tamala, od uličnih pijaca do svečanih gozbi, otkrijte kako jedno zrno priča istoriju čitave nacije."
-image: "/slike/meksicka-kuhinja/meksicka-kuhinja-hero.jpg"
+image: "slike/meksicka-kuhinja/meksicka-kuhinja-hero.jpg"
 image_alt: "Fokus na kukuruz na meksičkoj trpezi"
 image_author: "AI by Google Gemini"
 image_source: "Generisano na zahtev"

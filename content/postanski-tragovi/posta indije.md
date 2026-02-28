@@ -5,7 +5,7 @@ slug: "indija-railway-mail-service"
 date: 2025-12-12T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "U zemlji kontinenata, jezika i beskrajnih udaljenosti, indijska željeznička pošta postala je sistem koji nikada ne spava – i čije vozove prate hiljade sudbina."
-image: "/slike/posta-indije/posta-indije-hero.jpg"
+image: "slike/posta-indije/posta-indije-hero.jpg"
 image_alt: "Željeznički poštanski vagon u Indiji"
 image_author: "AI by Google Gemini"
 image_source: "Generisano na zahtev"

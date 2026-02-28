@@ -5,7 +5,7 @@ slug: "nicolas-maduro-venecuela-portret-moci"
 date: 2026-01-19T10:00:00+01:00
 author: "Redakcija"
 description: "Kako je Venecuela, nekada simbol bogatstva i stabilnosti Latinske Amerike, postala država hiperinflacije i političke izolacije?"
-image: "/slike/maduro/maduro-hero.jpg"
+image: "slike/maduro/maduro-hero.jpg"
 image_alt: "Predsjednik Nicolás Maduro sa suprugom u palati Miraflores u Caracasu"
 image_author: "Iliana Rosales (Prensa Presidencial)" 
 image_source: "Wikimedia Commons / Prensa Presidencial"

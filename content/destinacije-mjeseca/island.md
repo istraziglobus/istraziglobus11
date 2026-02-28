@@ -5,7 +5,7 @@ slug: "island-zemlja-vatre-i-leda"
 date: 2026-02-01T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Jedno od rijetkih mjesta na planeti gdje se sudaraju tektonske ploče, gdje vulkani izranjaju ispod glečera, a ljudi žive na granici između surove prirode i visoke tehnologije."
-image: "/slike/island/island-hero.jpg"
+image: "slike/island/island-hero.jpg"
 image_alt: "Planinski pejzaž Islanda sa vodopadom kao lajt motivom"
 image_author: "Pixabay"
 image_source: "Pixabay"

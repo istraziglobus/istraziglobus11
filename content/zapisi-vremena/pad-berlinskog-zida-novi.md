@@ -3,7 +3,7 @@ title: "Berlin : Rušenje berlinskog zida"
 subtitle: "Noć kada je Zid progovorio"
 author: "Istraži Globus Tim"
 date: 2025-08-01T10:00:00+02:00
-image: "/slike/berlinski-zid/zid-hero.jpg"
+image: "slike/berlinski-zid/zid-hero.jpg"
 image_alt: "Ljudi na vrhu Berlinskog zida mašu zastavama i proslavljaju, simbol slobode"
 image_author: "Lear 21 at English Wikipedia (Reproduction)" 
 image_source: "Wikimedia Commons"

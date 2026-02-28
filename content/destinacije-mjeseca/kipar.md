@@ -5,7 +5,7 @@ slug: "kipar-ostrvo-afrodite" # Prilagodi slug ako želiš drugačiji URL
 date: 2025-08-01T10:00:00+02:00 # Datum kada je članak objavljen (ili za avgust)
 author: "Istraži Globus Tim"
 description: "Otkrijte zašto je Kipar savršena destinacija za avgust: netaknute plaže, drevna istorija, živahni noćni život i ukusna kuhinja čekaju na vas na ostrvu Afrodite."
-image: "/slike/kipar/kipar-hero.jpg" # OBAVEZNO: Podesi putanju do tvoje slike za Kipar!
+image: "slike/kipar/kipar-hero.jpg" # OBAVEZNO: Podesi putanju do tvoje slike za Kipar!
 image_alt: "djevojka gleda ka ostacima antickog amfiteatra i Sredozemno more"
 image_author: "AI by Google Gemini" 
 image_source: "Generisano na zahtev"

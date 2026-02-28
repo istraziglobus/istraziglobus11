@@ -4,7 +4,7 @@ subtitle: "Katalonsko srce koje nikada ne prestaje da kuca"
 author: "Istraži Globus Tim"
 date: 2025-10-09T10:00:00+02:00
 description: "Upoznaj Barselonu – grad Gaudija, sunca i mediteranskog duha."
-image: "/slike/barselona/barselona-hero.jpg"
+image: "slike/barselona/barselona-hero.jpg"
 image_alt: "Pogled na BArselonu i cuvenu katedralu Sagrada falimia"
 image_author: "Archie McNicol" 
 image_source: "Pexels"

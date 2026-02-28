@@ -4,7 +4,7 @@ subtitle: "Putovanje Kroz Spektakularne Pejzaže Oblikovane Ledom i Vremenom"
 author: "Istraži Globus Tim"
 description: "Otkrijte veličanstvene norveške fjordove, od Geirangerfjorda do Sognefjorda. Saznajte kako su nastali ovi geološki rariteti i koji su najbolji načini za njihovo istraživanje."
 date: 2025-07-25T15:00:00+02:00
-image: "/slike/norveska-fjord/fjordovi-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
+image: "slike/norveska-fjord/fjordovi-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
 image_alt: "Panoramski pogled na Geirangerfjord sa strmim liticama i vodopadima"
 image_author: "v.ivash" 
 image_source: "Freepik"

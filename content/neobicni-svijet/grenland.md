@@ -5,7 +5,7 @@ slug: "grenland-ilulissat-icefjord-groblje-santi-leda"
 date: 2026-01-12T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Ilulissat Icefjord je mjesto gdje se osjeća starost planete, gdje ledene mase rađaju planine koje putuju okeanima. Putovanje u srce Arktika."
-image: "/slike/grenland/grenland-hero.jpg"
+image: "slike/grenland/grenland-hero.jpg"
 image_alt: "Veličanstvene sante leda u fjordu Ilulissat"
 image_author: "SarahNic" 
 image_source: "Pixabay"

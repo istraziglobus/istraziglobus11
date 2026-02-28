@@ -4,7 +4,7 @@ subtitle: "Najstariji test izdržljivosti gdje se susreću luksuz Azurne obale i
 author: "Istraži Globus Tim"
 description: "Istražujemo istoriju, inženjering i surovu geografiju najprestižnije reli trke na svijetu – Monte Karlo."
 date: 2026-02-19T10:00:00+01:00
-image: "/slike/reli-monte-carlo/reli-hero.jpg"
+image: "slike/reli-monte-carlo/reli-hero.jpg"
 image_alt: "Reli automobili na predstavljanju u Monte Carlu"
 image_author: "AI Gemini" 
 image_source: "/"

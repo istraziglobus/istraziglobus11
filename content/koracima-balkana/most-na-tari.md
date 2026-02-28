@@ -5,7 +5,7 @@ slug: "most-na-tari"
 date: 2025-07-06T12:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite na most na Đurđevića Tari, monumentalno delo koje premošćuje najdublji kanjon u Evropi. Otkrijte priču o njegovoj gradnji, uništenju i adrenalinskim avanturama koje nudi."
-image: "/slike/balkan/most-na-tari.jpg"
+image: "slike/balkan/most-na-tari.jpg"
 image_alt: "Spektakularan pogled na most na Tari"
 image_author: "czu_czu_PL" 
 image_source: "Pixabay"

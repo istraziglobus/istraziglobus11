@@ -5,7 +5,7 @@ date: 2026-01-18T10:00:00+02:00
 draft: false
 description: "Naučite kako da spakujete sve što vam treba u ručni prtljag, savladate napredne tehnike slaganja i izbjegnete stres na aerodromu."
 icon: "fas fa-suitcase-rolling"
-image: "/slike/pakovanje/kofer-glavna.jpg"
+image: "slike/pakovanje/kofer-glavna.jpg"
 image_author: "Freepik"
 image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/travel-suitcase-preparations-packing_17539228.htm#fromView=search&page=1&position=19&uuid=4b1e99b6-b440-4e95-a0b6-0bc1c76e210a&query=packing+for+the+trip" 

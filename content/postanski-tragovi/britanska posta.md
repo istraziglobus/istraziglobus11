@@ -3,7 +3,7 @@ title: "Velika Britanija: Royal Mail i Penny Black "
 subtitle: "Britanska pošta od kraljevskih kočija do crvenih sandučića"
 author: "Istraži Globus Tim"
 date: 2025-09-09T12:00:00+02:00
-image: "/slike/britanska-posta/penny-black-hero1.jpg"
+image: "slike/britanska-posta/penny-black-hero1.jpg"
 image_alt: "Penny Black – prva poštanska marka i simbol britanske pošte"
 image_author: "JThomas" 
 image_source: "Geograph project"

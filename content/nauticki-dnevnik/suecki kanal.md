@@ -5,7 +5,7 @@ slug: "sueski-kanal-plavi-koridor"
 date: 2025-12-06T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Suecki kanal nije samo vodeni prolaz – to je arterija svjetske trgovine, pozornica istorijskih drama i mjesto gdje se susreću moć, tehnologija i more."
-image: "/slike/suecki-kanal/suec-hero.jpg"
+image: "slike/suecki-kanal/suec-hero.jpg"
 image_alt: "Brod u Sueckom kanalu"
 image_author: "Oliver Clarke"
 image_source: "Flickr / Wikimedia Commons"

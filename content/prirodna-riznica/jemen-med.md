@@ -5,7 +5,7 @@ slug: "jemen-divlji-med-endemske-pcele"
 date: 2026-01-22T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "U planinama Jemena žive pčele koje proizvode jedan od najskupljih medova na svijetu. Ovo je priča o prirodi, ratu, tradiciji i ekosistemu na ivici nestanka."
-image: "/slike/jemen-med/med-hero.jpg"
+image: "slike/jemen-med/med-hero.jpg"
 image_alt: "Tradicionalne košnice u planinama Jemena"
 countries: ["Jemen"]
 categories:

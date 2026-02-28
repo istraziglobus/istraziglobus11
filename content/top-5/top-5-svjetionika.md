@@ -3,7 +3,7 @@ title: "Top 5 svjetionika koji prkose vremenu"
 subtitle: "Simboli mora, svjetlosti i beskrajnog horizonta"
 author: "Istraži Globus Tim"
 date: 2025-10-11T19:00:00+02:00
-image: "/slike/svjetionik/svjetionik-hero.jpg"
+image: "slike/svjetionik/svjetionik-hero.jpg"
 image_alt: "Svjetionik na litici uz more tokom zalaska sunca"
 image_author: "Alex_Agrico" 
 image_source: "Pixabay"

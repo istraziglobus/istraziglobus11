@@ -5,7 +5,7 @@ slug: "la-bombonera-hram-fudbala"
 date: 2025-07-11T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u legendarni stadion La Bombonera, dom kluba Boca Juniors i svedoka nebrojenih fudbalskih drama. Otkrijte istoriju, strast i jedinstvenu atmosferu ovog ikoničnog mesta u Buenos Ajresu."
-image: "/slike/bombonera/bombonera-hero.jpg" # Obavezno proveri da li je ova putanja tačna!
+image: "slike/bombonera/bombonera-hero.jpg" # Obavezno proveri da li je ova putanja tačna!
 image_alt: "Pogled na stadion La Bombonera iz ptičje perspektive"
 image_author: "Prensa TV Pública from Buenos Aires, Argentina" 
 image_source: "Flickr"

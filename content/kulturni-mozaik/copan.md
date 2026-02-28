@@ -5,7 +5,7 @@ slug: "honduras-copan-grad-maja"
 date: 2026-01-12T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Copán je mjesto gdje se iza hramova otkriva živopisna svakodnevica Maja, u dolini koju čuvaju džungla, makao papagaji i tišina kamena."
-image: "/slike/copan/copan-hero.jpg" 
+image: "slike/copan/copan-hero.jpg" 
 image_author: "u_ow29dhemk" 
 image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/cop%c3%a1n-ruin-honduras-mayan-outdoors-8068901/" 

@@ -5,7 +5,7 @@ slug: "sao-paulo-grad-koji-nikad-ne-spava"
 date: 2025-11-11T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Najveći grad Južne Amerike, epicentar kulture, muzike i kontrasta. São Paulo je više od metropole – on je ritam, šarenilo i nemirni duh Brazila koji nikad ne prestaje da diše."
-image: "/slike/sao-paulo/sao-paulo-hero.jpg"
+image: "slike/sao-paulo/sao-paulo-hero.jpg"
 image_alt: "Pogled São Paulo"
 image_author: "AI by chat GPT"
 image_source: "Generisano na zahtev"

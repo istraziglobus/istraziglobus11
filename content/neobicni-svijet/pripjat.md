@@ -4,7 +4,7 @@ subtitle: "Studija o postapokaliptičnoj tišini, atomskoj utopiji i trijumfu pr
 author: "Istraži Globus Tim"
 description: "Duboka analiza Pripjata, najpoznatijeg napuštenog grada na svijetu. Istražujemo istoriju atomske utopije, noć katastrofe i proces u kojem priroda ponovo osvaja civilizaciju."
 date: 2026-02-11T14:00:00+01:00
-image: "/slike/pripjat/pripjat-hero.jpg"
+image: "slike/pripjat/pripjat-hero.jpg"
 image_alt: "Napuštene zgrade Pripjata uokvirene divljim rastinjem pod sivim nebom"
 image_author: "Reznik89" 
 image_source: "Pixabay"

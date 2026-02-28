@@ -5,7 +5,7 @@ slug: "iran-teheran-grad-revolucije-1979"
 date: 2026-01-14T12:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Teheran 1979. nije bio samo prostor protesta, već mjesto duboke društvene promjene"
-image: "/slike/teheran/teheran-hero.jpg"
+image: "slike/teheran/teheran-hero.jpg"
 image_alt: "Masovne demonstracije u Teheranu tokom 1979. godine"
 image_author: "Unknown author (Sajed.ir)" 
 image_source: "Wikimedia Commons / Sajed.ir"

@@ -5,7 +5,7 @@ slug: "ohrid"
 date: 2025-09-06T12:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u magični Ohrid, grad koji je svjedok vijekova, spomenik kulture i duhovnosti, i dom najstarijeg jezera u Evropi." 
-image: "/slike/balkan/ohrid.jpg"
+image: "slike/balkan/ohrid.jpg"
 image_alt: "Spektakularan pogled na stari grad Ohrid i crkvu Svetog Jovana Kanea sa jezera"
 image_author: "dimitrisvetsikas1969" 
 image_source: "Pixabay"

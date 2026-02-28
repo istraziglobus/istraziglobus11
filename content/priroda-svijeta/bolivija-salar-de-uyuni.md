@@ -5,7 +5,7 @@ slug: "bolivija-salar-de-uyuni"
 date: 2025-12-13T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Na visinama Anda, tamo gdje horizont nestaje, Salar de Uyuni prostire se kao bijela tišina planete – prostor soli, vremena i savremenih globalnih interesa."
-image: "/slike/bolivia-salar/salar-hero.jpg"
+image: "slike/bolivia-salar/salar-hero.jpg"
 image_alt: "Salar de Uyuni – beskrajna slana ravnica u Boliviji"
 image_author: "Mario Falcetti"
 image_source: "Wikimedia Commons"

@@ -5,7 +5,7 @@ date: 2025-07-09T00:00:00+00:00
 draft: false
 description: "Saznajte tajne kako da pronađete najpovoljnije avio karte i idealan smeštaj za svoj budžet."
 icon: "fas fa-plane-departure" # Font Awesome ikona - proverite da li je Font Awesome uključen u baseof.html
-image: "/slike/rezervacije/booking.jpg"
+image: "slike/rezervacije/booking.jpg"
 image_author: "rawpixel.com" 
 image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/booking-hotel-reservation-travel-destination-concept_16458886.htm#fromView=keyword&page=1&position=0&uuid=a5ac32d0-6e34-4916-b1d0-eaa6e899e34c&query=Booking+ticket" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!

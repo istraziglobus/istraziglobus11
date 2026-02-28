@@ -5,7 +5,7 @@ slug: "evropski-koridori-putevi-koji-povezuju-kontinent"
 date: 2025-11-18T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Veliki putopisno-praktični vodič kroz evropske putne koridore – kroz drumove, priče i krajolike koji povezuju kontinent."
-image: "/slike/evropski-koridori/evropski-koridori-hero.jpg"
+image: "slike/evropski-koridori/evropski-koridori-hero.jpg"
 image_alt: "Mapa evropskih putnih koridora"
 countries: ["Ostalo"]
 categories:

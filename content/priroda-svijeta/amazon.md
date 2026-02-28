@@ -3,7 +3,7 @@ title: "Brazil: Amazonija – pluća planete"
 subtitle: "Putovanje kroz srce najveće prašume svijeta"
 author: "Istraži Globus Tim"
 date: 2025-10-05T09:00:00+02:00
-image: "/slike/amazon/amazon-hero.jpg"
+image: "slike/amazon/amazon-hero.jpg"
 image_alt: "Pogled iz vazduha na rijeku Amazonu koja vijuga kroz prašumu"
 image_author: "Jorge.kike.medina" 
 image_source: "Wikimedia Commons"

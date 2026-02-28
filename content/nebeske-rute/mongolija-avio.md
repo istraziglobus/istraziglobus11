@@ -5,7 +5,7 @@ slug: "mongolija-ulan-bator-chinggis-khaan-airport-avijacija"
 date: 2026-02-08T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Priča o Chinggis Khaan International Airportu, nebeskim rutama između Rusije i Kine, tranzitnoj geopolitici i simbolici aerodroma kao kapije ka svijetu."
-image: "/slike/mongolija-aerodrom/mongolija-hero.jpg"
+image: "slike/mongolija-aerodrom/mongolija-hero.jpg"
 image_alt: "Chinggis Khaan International Airport kod Ulan Batora"
 image_author: "Chinneeb"
 image_source: "Wikimedia Commons"

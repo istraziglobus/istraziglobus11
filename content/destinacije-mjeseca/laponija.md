@@ -5,7 +5,7 @@ slug: "laponija-decembar"
 date: 2025-12-01T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Laponija u decembru: polarna svjetlost, snježne šume, arktičke avanture i tišina sjevera koja ostavlja bez daha."
-image: "/slike/laponija/laponija-hero.jpg"
+image: "slike/laponija/laponija-hero.jpg"
 image_alt: "Polarna svjetlost iznad zaleđenog pejzaža Laponije"
 image_author: "Marco Brotto"
 image_source: "Generisano na zahtjev"

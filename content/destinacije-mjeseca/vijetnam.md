@@ -5,7 +5,7 @@ slug: "vijetnam-novembar"
 date: 2025-11-01T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Vijetnam u novembru: od maglovitih planina Sa Pa do toplih rijeka Mekonga, živopisnog Hanoja i mirnih plaža Nha Tranga – zemlja koja spaja tradiciju, duh i osmijeh Azije u jednom dahu."
-image: "/slike/vijetnam/vijetnam-hero.jpg"
+image: "slike/vijetnam/vijetnam-hero.jpg"
 image_alt: "zena u vijatnam skoj odjeci stoji na čamcu na jednoj od vodenih pijaca u Vijetnamu"
 image_author: "AI by Google Gemini"
 image_source: "Generisano na zahtev"

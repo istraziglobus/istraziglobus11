@@ -3,7 +3,7 @@ title: "Zašto pomjeramo sat?"
 subtitle: "Kako je počelo, zašto traje i da li će uskoro biti ukinuto"
 author: "Istraži Globus Tim"
 date: 2025-10-26T12:00:00+02:00
-image: "/slike/promjena-sata/sat-hero.jpg"
+image: "slike/promjena-sata/sat-hero.jpg"
 image_alt: "Ručni sat čije se kazaljke pomjeraju unazad"
 image_author: "Gemini"
 source: "Google Gemini (AI Generated)"

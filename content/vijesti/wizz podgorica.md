@@ -3,7 +3,7 @@ title: "Wizz Air otvara bazu u Podgorici"
 subtitle: "Od marta 2026. godine Podgorica postaje 36. baza Wizz Aira sa 14 novih linija"
 author: "Istraži Globus Tim"
 date: 2025-10-14T10:00:00+02:00
-image: "/slike/vijesti/wizz-podgorica.jpg"
+image: "slike/vijesti/wizz-podgorica.jpg"
 image_alt: "Avion Wizz Aira u letu"
 image_author: "MarcelX42" 
 image_source: "Wikimedia Commons"

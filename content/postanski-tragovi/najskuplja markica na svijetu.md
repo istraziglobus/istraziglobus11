@@ -5,7 +5,7 @@ slug: "najskuplja-markica-british-guiana-1c-magenta"
 date: 2025-09-30T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Priča o najskupljoj poštanskoj markici na svijetu, British Guiana 1c Magenta iz 1856. godine – njenom nastanku, istoriji, vlasnicima i rekordnim aukcijama."
-image: "/slike/gvajana-markica/gvajana-hero.jpg" # Glavna naslovna slika
+image: "slike/gvajana-markica/gvajana-hero.jpg" # Glavna naslovna slika
 image_author: "Joseph Baum and William Dallas (Original Printers)"
 image_source: "Smithsonian National Postal Museum / Public Domain"
 image_source_url: "https://commons.wikimedia.org/wiki/File:1856_British_Guiana_One-Cent_Magenta_photograph_using_an_infrared_filter.jpg"

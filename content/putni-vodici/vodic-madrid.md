@@ -4,7 +4,7 @@ subtitle: "Kompletan vodič za Madrid – kada putovati, kako doći, atrakcije, 
 author: "Istraži Globus Tim"
 date: "2026-02-04"
 description: "Detaljan vodič kroz Madrid za 2026. godinu: od logistike dolaska iz regiona Balkana do dubinske analize kulturnih znamenitosti i cijena."
-image: "/slike/vodic/madrid-hero.jpg"
+image: "slike/vodic/madrid-hero.jpg"
 image_alt: "Pogled na Gran Via, cuvenu ulucu u Madridu"
 image_author: "Julius_Silver"
 image_source: "Pixabay"

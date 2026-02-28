@@ -4,7 +4,7 @@ subtitle: "Uspon najmlađeg svjetskog lidera i povratak duha Thomasa Sankare"
 author: "Istraži Globus Tim"
 description: "Dubinska analiza moći, harizme i geopolitičkog zaokreta Ibrahima Traoréa, čovjeka koji je iz vojničkih rovova preuzeo kormilo Burkine Faso."
 date: 2026-02-18T10:00:00+01:00
-image: "/slike/traore-burkina-faso/traore-hero.jpg"
+image: "slike/traore-burkina-faso/traore-hero.jpg"
 image_alt: "Ibrahim Traoré u vojnoj uniformi sa crvenom beretkom"
 image_author: "Stanislav Krasilnikov / RIA Novosti" 
 image_source: "RIA Novosti archive via Wikimedia Commons"

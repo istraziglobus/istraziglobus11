@@ -3,7 +3,7 @@ title: "Turkmenistan: Tajna vrata pakla"
 subtitle: "Vječni plamen pustinje Karakum"
 author: "Istraži Globus Tim"
 date: 2025-09-21T10:00:00+02:00
-image: "/slike/turkmenistan/vrata-pakla-hero.jpg"
+image: "slike/turkmenistan/vrata-pakla-hero.jpg"
 image_alt: "Krater Vrata pakla u plamenu noću"
 image_author: "Stefan Krasowski" 
 image_source: "Flickr: Central Asia 100"

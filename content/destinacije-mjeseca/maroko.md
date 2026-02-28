@@ -5,7 +5,7 @@ slug: "maroko-septembar"
 date: 2025-09-01T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Maroko u septembru: od zlatnih dina Sahare, do planinskih staza Atlasa i primorskih gradova punih historije – zemlja koja mami sva čula i budi maštu."
-image: "/slike/maroko/maroko-hero.jpg"
+image: "slike/maroko/maroko-hero.jpg"
 image_alt: "Panorama Marakeša sa Koutoubia džamijom u zalasku sunca"
 image_author: "tawatchai07" 
 image_source: "Freepik"

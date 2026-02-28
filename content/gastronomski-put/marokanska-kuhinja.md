@@ -3,7 +3,7 @@ title: "Maroko : Miris začina i pijeska"
 subtitle: "Putovanje Kroz Ukuse Sjeverne Afrike"
 author: "Istraži Globus Tim"
 date: 2025-07-24T23:00:00+02:00
-image: "/slike/maroko-kuhinja/maroko-kuhinja-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
+image: "slike/maroko-kuhinja/maroko-kuhinja-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
 image_alt: "Tradicionalna marokanska hrana - Tagine"
 image_author: "BBouchra00" 
 image_source: "Wikimedia Commons"

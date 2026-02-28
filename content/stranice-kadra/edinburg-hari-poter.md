@@ -6,7 +6,7 @@ date: 2025-10-21T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Otkrijte kako su kamene ulice Edinburgha, magloviti dvorci i stare knjižare postali mjesto gdje je rođen jedan od najpoznatijih svjetova književnosti – svijet Harryja Pottera."
 teaser: "U maglovitim ulicama Edinburgha rođen je svijet koji je promijenio djetinjstvo milijuna ljudi. Otkrijte gdje je J.K. Rowling pronašla inspiraciju za Hogwarts i kako je ovaj škotski grad postao stvarni dom čarobnjaka."
-image: "/slike/edinburg-hari-poter/hari-poter-hero.jpg"
+image: "slike/edinburg-hari-poter/hari-poter-hero.jpg"
 image_author: "Ana_Candeias"
 image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/edinburgh-scotland-city-sky-4361491/"

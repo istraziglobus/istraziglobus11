@@ -5,7 +5,7 @@ slug: "toronto-path-podzemni-grad-arhitektura"
 date: 2026-02-15T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Istražujemo Toronto PATH – 30 kilometara podzemnih hodnika koji povezuju nebodere, banke i život metropole, stvarajući paralelni svijet izolovan od kanadske zime."
-image: "/slike/toronto-path/path-hero.jpg"
+image: "slike/toronto-path/path-hero.jpg"
 image_alt: "Podzemni hodnici PATH sistema u Torontu sa modernim osvjetljenjem"
 image_author: "/" 
 image_source: "Pixabay"

@@ -3,7 +3,7 @@ title: "Škotska: Misterija Loh Nesa"
 subtitle: "Više od legende, manje od istine"
 author: "Istraži Globus Tim"
 date: 2025-08-22T01:00:00+00:00
-image: "/slike/lochness/misterija-hero.jpg"
+image: "slike/lochness/misterija-hero.jpg"
 image_alt: "Jezero Loh Nes sa maglom iznad vode"
 image_author: "StaraBlazkova at Czech Wikipedia" 
 image_source: "Wikimedia Commons (via cs.wikipedia)"

@@ -5,7 +5,7 @@ date: 2025-07-10T09:30:00+02:00
 draft: false
 description: "Saznajte kako da osigurate bezbedno i bezbrižno putovanje uz naše savete za sigurnost i pametno planiranje."
 icon: "fas fa-shield-alt"
-image: "/slike/sigurnost/pasos.jpg"
+image: "slike/sigurnost/pasos.jpg"
 image_author: "Freepik" # Koristimo Freepik kao autora kada pojedinac nije naveden
 image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/medium-shot-happy-family-airport_22849847.htm#fromView=keyword&page=1&position=0&uuid=57de5f92-ca53-4484-85cd-8ee7df81fb2b&query=Family+airport" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!

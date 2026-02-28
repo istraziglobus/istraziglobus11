@@ -3,7 +3,7 @@ title: "Glazgov: Fudbalski derbri- Old firm"
 subtitle: "Celtic i Rangers – Najveći gradski derbi Evrope"
 author: "Istraži Globus Tim"
 date: 2025-09-26T19:00:00+02:00
-image: "/slike/old-firm/oldfirm-hero.jpg"
+image: "slike/old-firm/oldfirm-hero.jpg"
 image_alt: "Atmosfera na stadionu tokom Old Firm derbija"
 image_author: "Vincenzo.togni"   # ili korisničko ime sa Wikimedia
 image_source: "Wikimedia Commons"

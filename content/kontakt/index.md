@@ -3,7 +3,7 @@ title: "Kontakt"
 date: 2025-07-01T20:05:00+02:00
 draft: false
 description: "Kontaktirajte Istraži Globus tim za sva pitanja, saradnju ili predloge. Radujemo se vašoj poruci!"
-image: "/slike/kontakt/hero_kontakt.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "KONTAKT" STRANICU
+image: "slike/kontakt/hero_kontakt.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "KONTAKT" STRANICU
 image_alt: "Mapa sveta sa pinovima koji označavaju destinacije"
 image_author: "Freepik" # Ako nije naveden pojedinačni autor, koristi se 'Freepik'
 image_source: "Freepik"

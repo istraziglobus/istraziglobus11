@@ -5,7 +5,7 @@ slug: "patagonija-januar"
 date: 2026-01-01T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Patagonija u januaru otkriva svoje najdostupnije, ali i dalje surovo lice – prostor vjetra, planina, leda i tišine na samom kraju Južne Amerike."
-image: "/slike/patagonija/patagonija-hero.jpg"
+image: "slike/patagonija/patagonija-hero.jpg"
 image_alt: "Planinski pejzaž Patagonije sa glečerima i granitnim vrhovima"
 image_author: "SOFCOR"
 image_source: "Pixabay"

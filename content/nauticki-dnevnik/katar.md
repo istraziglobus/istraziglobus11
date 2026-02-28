@@ -5,7 +5,7 @@ slug: "katar-doha-grand-cruise-terminal-nautika"
 date: 2026-02-04T10:00:00+01:00
 author: "Istraži Globus Tim"
 description: "U Dohi se sudaraju tradicija arapskog pomorstva i futuristička infrastruktura za megakruzere. Ovo je priča o nautičkom usponu Katara, digitalnim granicama, luksuzu i geopolitici Persijskog zaliva."
-image: "/slike/katar-luka/katar-hero.jpg"
+image: "slike/katar-luka/katar-hero.jpg"
 image_alt: "Grand Cruise Terminal u Dohi i panorama grada"
 countries: ["Katar"]
 cities: ["Doha"]

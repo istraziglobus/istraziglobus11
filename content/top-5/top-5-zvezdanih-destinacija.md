@@ -3,7 +3,7 @@ title: "Top 5 destinacija za ljubitelje zvijezda"
 subtitle: "Putovanje kroz najtamnija neba na svijetu"
 author: "Istraži Globus Tim"
 date: 2025-08-22T10:00:00+02:00
-image: "/slike/zvezde/zvezde-hero.jpg"
+image: "slike/zvezde/zvezde-hero.jpg"
 image_alt: "Zvezdano nebo iznad planina"
 image_author: "felix_merler" 
 image_source: "Pixabay"

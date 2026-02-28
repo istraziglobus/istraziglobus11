@@ -5,7 +5,7 @@ slug: "hirosima-grad-koji-je-prezivio"
 date: 2025-10-15T12:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Priča o Hirošimi – gradu koji je u jednom trenutku nestao u vatri, a danas stoji kao globalni simbol mira, oprosta i ljudske otpornosti."
-image: "/slike/hirosima-bomba/hirosima-bomba-hero.jpg"
+image: "slike/hirosima-bomba/hirosima-bomba-hero.jpg"
 image_author: "Maarten Heerlien"
 image_source: "Flickr (via Wikimedia Commons)"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Hiroshima-after-the-bomb_(6018958296).jpg"

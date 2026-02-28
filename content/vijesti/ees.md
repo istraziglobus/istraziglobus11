@@ -5,7 +5,7 @@ slug: "ees-sistem"
 date: 2025-09-16T13:30:00+02:00
 author: "Istraži Globus Tim"
 description: " Saznajte sve o novom EES (Entry/Exit System) sistemu i kako će uticati na vaše putovanje."
-image: "/slike/vijesti/ees-sistem.jpg"
+image: "slike/vijesti/ees-sistem.jpg"
 image_alt: "Granicni prelaz sa tablom EES sistema"
 image_author: "UK Home Office" 
 image_source: "Flickr"

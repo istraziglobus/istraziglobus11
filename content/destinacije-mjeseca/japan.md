@@ -5,7 +5,7 @@ slug: "japan-oktobar"
 date: 2025-10-01T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Japan u oktobru: od hramova Kjota obasjanih crvenim lišćem, do futurističkog Tokija, planinskih pejzaža Hokaida i koralnih plaža Okinave – zemlja koja jesen pretvara u umjetničko djelo."
-image: "/slike/japan/japan-hero.jpg"
+image: "slike/japan/japan-hero.jpg"
 image_alt: "Jesenski pejzaž Kjota sa hramom Kiyomizu-dera u pozadini"
 image_author: "Gemini" 
 image_source: "/"

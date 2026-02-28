@@ -6,7 +6,7 @@ date: 2025-10-24T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Otkrijte bogatu kulturu Nove Zelandije, maorski jezik, tradicionalni ples Haka i istorijske priče koje oblikuju identitet ove zemlje."
 teaser: "Novi Zeland nije samo zemlja spektakularnih krajolika – istražite kako maorski jezik, Haka i legende oblikuju kulturu i identitet ove otočne zemlje."
-image: "/slike/maori-i-haka/maori-hero.jpg"
+image: "slike/maori-i-haka/maori-hero.jpg"
 image_author: "Barni1"
 image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/maori-painted-warrior-new-zealand-2151594/"

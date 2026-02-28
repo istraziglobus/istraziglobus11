@@ -5,7 +5,7 @@ slug: "benin-kolijevka-vudua-mitski-kult"
 date: 2026-01-24T10:00:00+01:00
 author: "Redakcija"
 description: "U Beninu je rođena religija koju je Zapad demonizovao, a narod sačuvao. Priča o vuduu kao živom duhovnom sistemu, mitologiji, kolonijalnoj traumi i modernoj Africi."
-image: "/slike/benin-vudu/vudu-hero.jpg"
+image: "slike/benin-vudu/vudu-hero.jpg"
 image_alt: "Vudu ritual u Beninu"
 image_author: "jbdodane" 
 image_source: "Flickr via Wikimedia Commons"

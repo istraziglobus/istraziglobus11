@@ -3,7 +3,7 @@ title: "O nama"
 date: 2025-07-01T20:00:00+02:00
 draft: false
 description: "Istraži Globus: Vaš partner u avanturama i otkrivanju svijeta. Ko smo, šta nas pokreće i zašto smo ovdje za vas."
-image: "/slike/o-nama/hero_onama.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "O NAMA" STRANICU
+image: "slike/o-nama/hero_onama.jpg" # PUTANJA DO TVOJE HERO SLIKE ZA "O NAMA" STRANICU
 image_alt: "Zadivljujući pogled na planinski vrh obasjan suncem"
 image_author: "mario_luengo" 
 image_source: "Freepik"

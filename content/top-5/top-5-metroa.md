@@ -4,7 +4,7 @@ subtitle: "Od mermernih palata do tehnološkog savršenstva — duboka analiza a
 author: "Istraži Globus Tim"
 description: "Sveobuhvatna studija pet najfascinantnijih metro sistema na svetu. Istražujemo njihovu arhitekturu, inženjerske podvige i kulturni uticaj na moderne metropole."
 date: 2026-02-11T10:00:00+01:00
-image: "/slike/metroi/metro-hero.jpg"
+image: "slike/metroi/metro-hero.jpg"
 image_alt: "Moderna stanica metroa sa futurističkim osvetljenjem i čistim linijama"
 image_author: "Pixabay" 
 image_source: "Pixabay"

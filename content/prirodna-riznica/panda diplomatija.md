@@ -3,7 +3,7 @@ title: "Kina: Panda diplomatija"
 subtitle: "Kako su pande postale simbol prijateljstva i političkog uticaja Kine"
 author: "Istraži Globus Tim"
 date: 2025-10-27T21:00:00+02:00
-image: "/slike/panda-diplomatija/panda-hero.jpg"
+image: "slike/panda-diplomatija/panda-hero.jpg"
 image_alt: "Džinovska panda koja jede bambus u zoološkom vrtu"
 slug: "panda-diplomatija"
 image_author: "maminounou" 

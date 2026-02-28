@@ -3,7 +3,7 @@ title: "Ryanair ukida papirne karte"
 subtitle: "Kraj papirnih boarding karata od 12. novembra 2025."
 author: "Istraži Globus Tim"
 date: 2025-09-27T10:00:00+02:00
-image: "/slike/vijesti/ryanair-digital-hero.jpg"
+image: "slike/vijesti/ryanair-digital-hero.jpg"
 image_alt: "Putnici koriste mobilne boarding karte na Ryanair letu"
 image_author: "tpicture"
 image_source: "Pixabay"

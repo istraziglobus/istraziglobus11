@@ -5,7 +5,7 @@ slug: "bangkok-tajland-kuhinja-gastronomija-street-food"
 date: 2026-01-16T09:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Od kraljevskih palata do vrelih trotoara: Detaljna analiza kako je Bangkok postao globalni epicentar kulinarstva i zašto tajlandska hrana vlada svijetom."
-image: "/slike/bankok-hrana/bankok-hero.jpg"
+image: "slike/bankok-hrana/bankok-hero.jpg"
 image_alt: "Ulična hrana u Bangkoku pod neonskim svjetlima"
 image_author: "Radek Kucharski" 
 image_source: "Flickr via Wikimedia Commons"

@@ -4,7 +4,7 @@ subtitle: "Studija o mutaciji, infrastrukturi i gradu koji stvara svoje čuvare"
 author: "Istraži Globus Tim"
 description: "Dubinska analiza porijekla nindža kornjača, njihove simbolike i neraskidive veze sa urbanim organizmom Njujorka."
 date: 2026-02-12T09:00:00+01:00
-image: "/slike/njujork-kornjace/kornjace-hero.jpg"
+image: "slike/njujork-kornjace/kornjace-hero.jpg"
 image_alt: "Pogled na ulicu Njujorka"
 image_author: "ahundt" 
 image_source: "Pixabay"

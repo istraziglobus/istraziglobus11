@@ -3,7 +3,7 @@ title: "Linije koje dijele vrijeme"
 subtitle: "Međunarodna linija datuma i njeni apsurdi"
 author: "Istraži Globus Tim"
 date: 2025-09-09T12:00:00+02:00
-image: "/slike/vremenske-zone/dateline-hero.jpg"
+image: "slike/vremenske-zone/dateline-hero.jpg"
 image_alt: "Mapa Pacifika sa međunarodnom linijom datuma"
 image_author: "Goran tek-en" 
 image_source: "Wikimedia Commons"

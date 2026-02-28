@@ -5,7 +5,7 @@ slug: "nepal-yeti-mitovi-legende"
 date: 2025-11-10T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Legenda o Yeti-ju, tajanstvenom biću koje navodno luta Himalajima. Priča između stvarnosti i mita, straha i poštovanja prema planini koja gleda svijet odozgo."
-image: "/slike/jeti/jeti-hero.jpg"
+image: "slike/jeti/jeti-hero.jpg"
 image_alt: "Ilustracija Jetija u ledenim tajnama planina"
 image_author: "DangrafArt"
 image_source: "Pixabay"

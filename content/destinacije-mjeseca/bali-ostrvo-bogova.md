@@ -5,7 +5,7 @@ slug: "bali-ostrvo-bogova"
 date: 2025-07-09T22:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u magični svet Balija, ostrva gde se drevne tradicije susreću sa modernom relaksacijom. Otkrijte bujne pirinčane terase, mirne hramove, surferske talase i autentičnu gostoprimljivost. Bali je više od destinacije – to je iskustvo koje transformiše!"
-image: "/slike/bali/bali-hero.jpg"
+image: "slike/bali/bali-hero.jpg"
 image_author: "tawatchai07" 
 image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/young-woman-standing-temple-gates-lempuyang-luhur-temple-bali-indonesia-vintage-tone_11306521.htm#fromView=keyword&page=1&position=5&uuid=b1bd9371-6845-455a-80e0-45afc759ab66&query=Bali+attractions" # KRITIČNO: OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!

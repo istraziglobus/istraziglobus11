@@ -5,7 +5,7 @@ slug: "cu-chi-tuneli-vijetnam-zapis-vremena"
 date: 2026-02-22T11:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Analiziramo Cu Chi tunele – 250 kilometara podzemnih hodnika koji su porazili tehnološku supersilu, stvarajući paralelni svijet u utrobi zemlje."
-image: "/slike/vijetnam-tuneli/tuneli-hero.jpg"
+image: "slike/vijetnam-tuneli/tuneli-hero.jpg"
 image_alt: "Ulaz u skriveni podzemni tunel u vijetnamskoj džungli"
 image_author: "Thomas Schoch" 
 image_source: "Wikimedia Commons"
