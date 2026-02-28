@@ -10,7 +10,7 @@
         {{ $related := $sameCategory.Related $current | first 4 }}
 
         {{ range $related }}
-        <a href="{{ .RelPermalink }}" class="related-card">
+        <a href="{{ .RelPermalink | strings.TrimSuffix "/" }}" class="related-card">
             <div class="related-image-wrapper">
                 <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
             </div>
