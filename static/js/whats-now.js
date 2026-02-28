@@ -204,11 +204,19 @@ if (city.currency === "EUR") {
           airQualityElement.innerHTML = "💨 Kvalitet vazduha: Nema podataka";
       }
 
-      // Dodajemo "/" na sam početak putanje
+    // Kreiramo ime fajla (malo slova, bez razmaka)
 const cityFileName = data.weather.name.toLowerCase().replace(/\s/g,'');
-document.getElementById("location-image").src = `/slike/city/${cityFileName}.jpg`;
-  }
 
+// Spajamo punu adresu sajta sa putanjom do slike
+// Ovo osigurava da slika radi i na početnoj i u bilo kom članku
+const fullImagePath = window.location.origin + "/slike/city/" + cityFileName + ".jpg";
+
+// Dodeljujemo tu punu putanju slici
+document.getElementById("location-image").src = fullImagePath;
+
+// TEST: Ispisaće ti u konzoli (F12) tačnu putanju koju pokušava da učita
+console.log("Pokušavam učitati sliku sa: " + fullImagePath);
+}
   fetchAllData();
   setInterval(fetchAllData, 10000);
 });
