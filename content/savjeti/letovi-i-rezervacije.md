@@ -26,7 +26,14 @@ Rezervacija letova često predstavlja najveći deo budžeta za putovanje. Međut
 
 3.  **Koristite agregate za pretragu letova:** Platforme poput <span class="highlight-text">**Skyscanner**, **Kayak**, **Google Flights** i **Momondo**</span> su odlične za početnu pretragu, jer pretražuju stotine avio kompanija i online agencija. Međutim, uvek proverite i direktno na sajtu avio kompanije kada pronađete dobru ponudu, jer ponekad mogu imati još bolje cene ili opcije.
 
-![Online platforma za rezervacije putovanja](slike/rezervacije/booking1.jpg "Brza i jednostavna online rezervacija")
+{{< figcredit 
+    src="slike/rezervacije/booking1.jpg" 
+    alt="/"
+    author="rawpixel.com" 
+    source="Freepik"
+    source_url="https://www.freepik.com"
+>}}
+
 
 4.  **Uključite "inkognito" režim ili brišite kolačiće:** Mnogi veruju da sajtovi prate vaše pretrage i podižu cene. Iako ovo nije uvek dokazano, korišćenje "inkognito" (privatnog) režima pregledača ili brisanje kolačića pre svake nove pretrage ne može da škodi i potencijalno može pomoći.
 
@@ -57,7 +64,14 @@ Smeštaj je drugi najveći trošak putovanja, ali i tu postoje brojne strategije
 
 5.  **Razmislite o direktnoj rezervaciji:** Nakon što pronađete smeštaj koji vam se sviđa na platformi, proverite i veb sajt samog objekta. Ponekad hoteli ili apartmani nude bolje cene, dodatne pogodnosti (besplatan doručak, raniji check-in) ili veću fleksibilnost kod direktne rezervacije.
 
-![Online platforma za rezervacije putovanja](slike/rezervacije/booking2.jpg "Brza i jednostavna online rezervacija")
+{{< figcredit 
+    src="slike/rezervacije/booking2.jpg" 
+    alt="/"
+    author="rawpixel.com" 
+    source="Freepik"
+    source_url="https://www.freepik.com"
+>}}
+
 
 6.  **Programi lojalnosti:** Ako često putujete i preferirate određene lance hotela ili avio kompanije, prijavite se za njihove programe lojalnosti. Možete sakupljati poene i dobiti popuste, besplatna noćenja ili nadogradnje.
 
