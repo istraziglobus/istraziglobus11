@@ -23,7 +23,7 @@ Putovanje je uzbudljiva avantura, prilika za istraživanje i stvaranje nezaborav
 * **Dokumenta na sigurnom:** Napravite kopije svih važnih dokumenata (pasoš, viza, avionske karte, rezervacije) i čuvajte ih odvojeno od originala. Jednu kopiju ostavite kod kuće, a jednu digitalnu (npr. na cloud servisu).
 * **Putno osiguranje:** Nikada ne putujte bez <span class="highlight-text">putnog zdravstvenog osiguranja</span>. Ono vam može uštedeti ogromne troškove u slučaju nezgode ili bolesti. Razmislite i o osiguranju od otkaza putovanja ili gubitka prtljaga.
 
-![Pasoš i putna dokumenta](/slike/sigurnost/pasos1.jpg "Važna dokumenta za putovanje")
+![Pasoš i putna dokumenta](slike/sigurnost/pasos1.jpg "Važna dokumenta za putovanje")
 
 * **Finansije:** Obavestite banku o svojim putnim planovima kako bi izbegli blokiranje kartica zbog sumnjivih transakcija. Nosite sa sobom kombinaciju gotovine i kartica, i ne držite sav novac na jednom mestu.
 * **Zdravlje:** Posetite lekara pre putovanja radi saveta o vakcinaciji i eventualnim lekovima koje treba da ponesete, posebno ako putujete u egzotične krajeve.
@@ -33,7 +33,7 @@ Putovanje je uzbudljiva avantura, prilika za istraživanje i stvaranje nezaborav
 * **Pazite na lične stvari:** Novčanike, telefone i dokumenta držite na <span class="highlight-text">sigurnom mestu</span> (npr. unutrašnji džep jakne, torbica preko ramena). Izbegavajte nošenje ranca na leđima u gužvi.
 * **Budite oprezni sa strancima:** Budite ljubazni, ali oprezni. Izbegavajte deljenje previše ličnih informacija i budite sumnjičavi prema ponudama koje zvuče previše dobro da bi bile istinite.
 
-![Pasoš i putna dokumenta](/slike/sigurnost/pasos2.jpg "Važna dokumenta za putovanje")
+![Pasoš i putna dokumenta](slike/sigurnost/pasos2.jpg "Važna dokumenta za putovanje")
 
 * **Saobraćaj:** Upoznajte se sa lokalnim saobraćajnim pravilima. Ako iznajmljujete vozilo, budite posebno oprezni. Koristite pouzdan taksi prevoz ili javni transport.
 * **Hrana i voda:** Pijte samo flaširanu vodu. Budite oprezni sa sirovom hranom i uličnom hranom, posebno u zemljama sa slabijim higijenskim standardima.

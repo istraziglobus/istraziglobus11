@@ -47,7 +47,7 @@ Obuća zauzima najviše mjesta i dodaje najviše težine. Da biste ostali u okvi
 
 *Savjet plus:* Uvijek ponesite par laganih japanki ili tankih sobnih papuča. One zauzimaju nula prostora, a neprocjenjive su u hotelskim sobama ili na dugim letovima.
 
-![Online platforma za rezervacije putovanja](/slike/pakovanje/kofer1.jpg "/")
+![Online platforma za rezervacije putovanja](slike/pakovanje/kofer1.jpg "/")
 
 ---
 
@@ -66,7 +66,7 @@ Umjesto da nosite cijelu kućnu apoteku, fokusirajte se na "prvu pomoć" koja st
 * **Power Bank:** Vaš telefon je vaša mapa i karta. Ne dozvolite da vas prazna baterija zaustavi.
 * **Balansiranje težine:** Teške stvari (obuću i elektroniku) uvijek stavite uz točkove kofera. To će osigurati stabilnost i spriječiti da se lakše stvari zgnječe.
 
-![Online platforma za rezervacije putovanja](/slike/pakovanje/kofer2.jpg "/")
+![Online platforma za rezervacije putovanja](slike/pakovanje/kofer2.jpg "/")
 
 ---
 
