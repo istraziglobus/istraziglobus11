@@ -53,7 +53,7 @@ Za Brazilce, São Paulo nije samo grad – to je **puls nacije**, mjesto gdje se
         </ul>
     </div>
     <figure class="article-image-box">
-        <img src="slike/sao-paulo/sao-paulo4.jpg" alt="pozicija Sao Poula na mapi">
+        {{< figcredit src="slike/sao-paulo/sao-paulo4.jpg" alt="Mapa Sao Paola" >}}
     </figure>
 </div>
 

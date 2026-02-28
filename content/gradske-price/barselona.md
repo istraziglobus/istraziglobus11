@@ -50,7 +50,7 @@ Barselona nije samo grad – to je osjećaj, ritam, priča ispisana između mora
         </ul>
     </div>
     <figure class="article-image-box">
-        <img src="slike/barselona/barselona4.jpg" alt="Mapa Barselone">
+        {{< figcredit src="slike/barselona/barselona4.jpg" alt="Mapa Barselone" >}}
     </figure>
 </div>
 
