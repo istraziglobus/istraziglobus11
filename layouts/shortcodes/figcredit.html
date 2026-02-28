@@ -5,19 +5,26 @@
 {{ $source := .Get "source" | default "" }}
 {{ $sourceURL := .Get "source_url" | default "" }}
 
-{{/* Provjeravamo da li je link eksterni (počinje sa http) */}}
+{{/* Očistimo putanju od kose crte i dohvatimo resurs */}}
+{{ $path := $src | relURL | strings.TrimPrefix "/" }}
+{{ $img := resources.Get $path }}
+
 {{ $isExternal := or (hasPrefix $sourceURL "http://") (hasPrefix $sourceURL "https://") }}
 
-{{ $img := resources.Get $src }}
-
 <figure class="article-image-box">
-  <img src="{{ $src | relURL }}" 
-       alt="{{ $alt }}" 
-       {{ with $img }}
-         width="{{ .Width }}" 
-         height="{{ .Height }}"
-       {{ end }}
-       loading="lazy">
+  {{ if $img }}
+    {{/* Ako Hugo vidi sliku u assets, koristi RelPermalink (radi svuda!) */}}
+    <img src="{{ $img.RelPermalink }}" 
+         alt="{{ $alt }}" 
+         width="{{ $img.Width }}" 
+         height="{{ $img.Height }}"
+         loading="lazy">
+  {{ else }}
+    {{/* Ako je nema u assets, koristi absURL da je nađe u static folderu */}}
+    <img src="{{ $src | absURL }}" 
+         alt="{{ $alt }}" 
+         loading="lazy">
+  {{ end }}
 
   {{ if or $author $source }}
   <figcaption class="image-credit">
@@ -25,11 +32,10 @@
     {{ if and $author $source }} ({{ end }}
     {{ with $source }}
       {{ if $sourceURL }}
-        {{/* PAMETNI LINK: Nofollow ide samo ako je link eksterni */}}
         <a href="{{ $sourceURL }}" 
-           target="_blank" 
-           {{ if $isExternal }} rel="nofollow noopener noreferrer" {{ else }} rel="noopener" {{ end }}>
-           {{ . }}
+            target="_blank" 
+            {{ if $isExternal }} rel="nofollow noopener noreferrer" {{ else }} rel="noopener" {{ end }}>
+            {{ . }}
         </a>
       {{ else }}
         {{ . }}
