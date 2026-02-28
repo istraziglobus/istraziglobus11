@@ -1,7 +1,8 @@
 {{ define "main" }}
 <section class="hero" id="pocetna">
     <video autoplay muted loop class="hero-video-background">
-        <source src="{{ "/slike/hero/hero_video.mp4" | absURL }}" type="video/mp4">
+        {{/* Uklonjena kosa crta ispred slike unutar absURL */}}
+        <source src="{{ "slike/hero/hero_video.mp4" | absURL }}" type="video/mp4">
         Vaš pregledač ne podržava video tag.
     </video>
     <div class="hero-content">
@@ -30,9 +31,15 @@
             <a href="{{ .Permalink }}" class="featured-main-article">
                 <div class="featured-image-container">
                     {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                        {{/* Hugo Assets procesiranje za glavnu sliku */}}
+                        {{ $img := resources.Get . }}
+                        {{ if $img }}
+                            <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Title }}" loading="lazy">
+                        {{ else }}
+                            <img src="{{ . | absURL }}" alt="{{ $.Title }}" loading="lazy">
+                        {{ end }}
                     {{ else }}
-                    <img src="https://via.placeholder.com/1200x800?text=Velika+Slika" alt="No Image" loading="lazy">
+                        <img src="https://via.placeholder.com/1200x800?text=Nema+Slike" alt="No Image" loading="lazy">
                     {{ end }}
                 </div>
                 <div class="featured-article-content">
@@ -53,9 +60,15 @@
                 {{ range after 1 (first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "ne" "dnevni-globus")) }}
                 <a href="{{ .Permalink }}" class="article-card-latest">
                     {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                        {{/* Hugo Assets procesiranje za male slike */}}
+                        {{ $img := resources.Get . }}
+                        {{ if $img }}
+                            <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Title }}" loading="lazy">
+                        {{ else }}
+                            <img src="{{ . | absURL }}" alt="{{ $.Title }}" loading="lazy">
+                        {{ end }}
                     {{ else }}
-                    <img src="https://via.placeholder.com/400x200?text=No+Image" alt="No Image" loading="lazy">
+                        <img src="https://via.placeholder.com/400x200?text=No+Image" alt="No Image" loading="lazy">
                     {{ end }}
                     <div class="article-card-latest-content">
                         <h3>{{ .Title }}</h3>
@@ -83,7 +96,8 @@
 
     <div class="balkan-cards-container">
         {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "koracima-balkana") }}
-        <a href="{{ .RelPermalink }}" class="balkan-card" style="background-image: url('{{ .Params.image }}');">
+        {{/* Ovdje za pozadinsku sliku koristimo absURL direktno */}}
+        <a href="{{ .RelPermalink }}" class="balkan-card" style="background-image: url('{{ .Params.image | absURL }}');">
             <div class="card-overlay">
                 <h3 class="card-title">{{ .Title }}</h3>
                 {{ with .Params.subtitle }}
@@ -102,18 +116,12 @@
 <section class="home-specials">
   <div class="container">
     <div class="two-column-grid">
-
       {{ partial "destination-of-month-home.html" . }}
       {{ partial "on-this-day.html" . }}
-
     </div>
   </div>
 </section>
 
-{{/* {{ partial "destination-of-month.html" . }} */}}
 {{ partial "travel-tips.html" . }}
 
 {{ end }}
-
-
-
