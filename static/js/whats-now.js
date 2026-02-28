@@ -204,7 +204,7 @@ if (city.currency === "EUR") {
           airQualityElement.innerHTML = "💨 Kvalitet vazduha: Nema podataka";
       }
 
-      document.getElementById("location-image").src = `/slike/city/${data.weather.name.toLowerCase().replace(/\s/g,'')}.jpg`;
+      document.getElementById("location-image").src = `slike/city/${data.weather.name.toLowerCase().replace(/\s/g,'')}.jpg`;
   }
 
   fetchAllData();
