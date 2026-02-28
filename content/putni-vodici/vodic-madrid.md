@@ -30,7 +30,7 @@ Madrid nije samo administrativni centar Španije; on je njena kulturna i društv
 Za razliku od primorskih gradova koji se primarno oslanjaju na sezonsku privlačnost plaža, Madrid osvaja svojom neiscrpnom životnom energijom <span class="highlight-text">**(la alegría de vivir)**</span> koja traje 365 dana u godini. To je grad u kojem <span class="highlight-text">**„Zlatni trougao umjetnosti“**</span> čuva neprocjenjiva djela koja su oblikovala zapadnu civilizaciju, dok se istovremeno na njegovim ulicama odvija najintenzivniji društveni život na kontinentu. Madrid posjeduje rijetku **autentičnost** koju su mnoge druge evropske prijestonice izgubile pod naletom uniformnog masovnog turizma; ovdje se i dalje insistira na ritualima – živi se polako, uz tradicionalne duge ručkove koji se pretvaraju u sobremesu, i kasne večere koje se stapaju sa izlaskom sunca. Posjetiti Madrid znači osjetiti privilegiju boravka u carskom okruženju širokih bulevara i baroknih fasada, dok vas istovremeno grije toplina grada koji vas, bez obzira na to odakle dolazite, već prve večeri prihvata kao svog građanina.
 
 {{< figcredit 
-  src="/slike/vodic/madrid1.jpg"
+  src="slike/vodic/madrid1.jpg"
   alt="Pogled na Madrid sa zalaskom sunca"
   author="SuryaNamaste"
   source="Pixabay"
@@ -82,7 +82,7 @@ Iako kraljevska porodica više ne boravi ovdje, <span class="highlight-text">**P
 - **Savjet za 2026:** Ulaznicu kupite putem zvaničnog portala *Patrimonio Nacional* tačno 14 dana unaprijed.
 
 {{< figcredit 
-  src="/slike/vodic/madrid2.jpg"
+  src="slike/vodic/madrid2.jpg"
   alt="Kraljevska palata u Madridu"
   author="ddzphoto"
   source="Pixabay"
@@ -103,7 +103,7 @@ U 2026. godini, dom Real Madrida je arhitektonsko čudo sa pokretnim krovom i te
 - **Ulaznice:** Od <span class="highlight-text">**25 € do 35 €**</span> zavisno od dana.
 
 {{< figcredit 
-  src="/slike/vodic/madrid3.jpg"
+  src="slike/vodic/madrid3.jpg"
   alt="Stadion Bernabeu, kuća Real Madrida"
   author="alessandra1barbieri"
   source="Pixabay"

@@ -50,7 +50,7 @@ Barselona nije samo grad – to je osjećaj, ritam, priča ispisana između mora
         </ul>
     </div>
     <figure class="article-image-box">
-        <img src="/slike/barselona/barselona4.jpg" alt="Mapa Barselone">
+        <img src="slike/barselona/barselona4.jpg" alt="Mapa Barselone">
     </figure>
 </div>
 
@@ -63,7 +63,7 @@ Prošetate li se starim gradom, osjetićete miris prošlosti u svakom kamenu, do
 Katalonci su ponosni na svoj identitet i jezik, a taj osjećaj pripadnosti osjetićete i u svakodnevnim razgovorima, u umjetnosti, kuhinji i muzici. Barselona nije samo španska – ona je prije svega <strong>katalonska</strong>, a taj duh slobode i stvaralaštva čini je posebnim mjestom na karti Evrope.
 
 {{< figcredit 
-    src="/slike/barselona/barselona1.jpg" 
+    src="slike/barselona/barselona1.jpg" 
     alt="trg u BArseloni, cuvena Plaza de Espanja"
     author="dominickvietor"
     source="Pixabay"
@@ -82,7 +82,7 @@ Najpoznatiji simbol je bez sumnje <span class="highlight-text">Sagrada Familia</
 Osim Sagrade, Gaudijeve ruke ostavile su trag u čuvenom <strong>Parku Güell</strong>, bajkovitom prostoru punom mozaika, boja i organskih oblika koji se stapaju sa prirodom. Zatim <strong>Casa Batlló</strong> – zgrada koja izgleda kao da diše, čiji talasasti zidovi i šareni krov podsjećaju na zmajeve iz katalonskih legendi. Tu je i <strong>La Pedrera</strong> (Casa Milà), simbol modernizma i arhitektonske slobode.  
 
 {{< figcredit 
-    src="/slike/barselona/barselona2.jpg" 
+    src="slike/barselona/barselona2.jpg" 
     alt="Casa Batiljo čuvena zgrada u Barseloni koju je projektovao Gaudi"
     author="Nan Palmero"
     source="Flickr"
@@ -132,7 +132,7 @@ Camp Nou je više od stadiona – to je mjesto gdje se emocije pretaču u himne,
 
 
 {{< figcredit 
-    src="/slike/barselona/barselona3.jpg" 
+    src="slike/barselona/barselona3.jpg" 
     alt="Camp Nou, najveci evropski stadion, pogled iz helikoptera"
     author="Nan Palmero"
     source="Flickr"

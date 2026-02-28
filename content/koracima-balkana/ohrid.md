@@ -33,7 +33,7 @@ Ohridsko jezero, staro više od tri miliona godina, jedno je od najstarijih i na
 ---
 
 {{< figcredit 
-    src="/slike/balkan/ohrid1.jpg" 
+    src="slike/balkan/ohrid1.jpg" 
     alt="Drveno šetalište po ivici ohridskog jezera"
     author="dimitrisvetsikas1969"
     source="Pixabay"
@@ -51,7 +51,7 @@ Srce Ohrida je njegov **Stari grad**, utvrđen zidinama iz srednjeg vijeka, čij
 ---
 
 {{< figcredit 
-    src="/slike/balkan/ohrid2.jpg" 
+    src="slike/balkan/ohrid2.jpg" 
     alt="Samuilova tvrđava jedan od simbola Ohrida"
     author="Petar Milošević"
     source="Wikimedia Commons"
@@ -77,7 +77,7 @@ Nezaobilazna je i posjeta **manastiru Svetog Nauma**, udaljenom 30-ak kilometara
 ---
 
 {{< figcredit 
-    src="/slike/balkan/ohrid3.jpg" 
+    src="slike/balkan/ohrid3.jpg" 
     alt="Manastir Svetog Nauma nedaleko od Ohrida"
     author="Petar Milošević"
     source="Wikimedia Commons"

@@ -53,7 +53,7 @@ Za Brazilce, São Paulo nije samo grad – to je **puls nacije**, mjesto gdje se
         </ul>
     </div>
     <figure class="article-image-box">
-        <img src="/slike/sao-paulo/sao-paulo4.jpg" alt="pozicija Sao Poula na mapi">
+        <img src="slike/sao-paulo/sao-paulo4.jpg" alt="pozicija Sao Poula na mapi">
     </figure>
 </div>
 
@@ -78,7 +78,7 @@ Kreni od <span class="highlight-text">**Avenida Paulista**</span>, najpoznatije 
 Ali ritam grada ne prestaje ni u favelama ni u bogatim kvartovima. U <span class="highlight-text">**Vila Madaleni**</span> svira jazz, u **Liberdade** miriše sushi i sojin sos, a u **Bixigi** zvuči italijanski akcenat iz prošlog vijeka. Svaka četvrt ima svoj ton, svoju boju, svoj akord. U tome je čudo São Paula – što svaka njegova ulica ima dušu.
 
 {{< figcredit 
-    src="/slike/sao-paulo/sao-paulo1.jpg" 
+    src="slike/sao-paulo/sao-paulo1.jpg" 
     alt="posled na čuvenu aveniju Paulista, žila kucavica grada Sao Paula"
     author="Rodrigo.Argenton"
     source="Wikimedia Commons"
@@ -96,7 +96,7 @@ Od modernističkih zgrada Oscara Niemeyera do kolonijalnih crkava, od staklenih 
 Posjeti **MASP** (Museu de Arte de São Paulo), jedno od najvažnijih umjetničkih zdanja Latinske Amerike. Zgrada lebdi na stubovima iznad tla, kao da prkosi gravitaciji. Unutra – Van Gogh, Rembrandt, Modigliani, ali i brazilski majstori modernizma. Grad diše kroz svoje muzeje: **Pinacoteca**, **Muzej portugalskog jezika**, **Muzej nogometa**, koji se nalazi na stadionu Pacaembu. Ipak, prava umjetnost São Paula nije samo u muzejima – ona je na zidovima. Grad je svjetska prijestonica <span class="highlight-text">**ulične umjetnosti**</span>. Na zgradama, mostovima i stubovima niču djela svjetskih grafitera, a muralista poput Kobrasa, čije slike pokrivaju čitave fasade, pretvaraju beton u poeziju boja. Ovdje, zid ne razdvaja – on govori.
 
 {{< figcredit 
-    src="/slike/sao-paulo/sao-paulo2.jpg" 
+    src="slike/sao-paulo/sao-paulo2.jpg" 
     alt="zgrada muzeja umjestonosti u Sao Paulu"
     author="Francisco Anzola"
     source="Wikimedia Commons"
@@ -142,7 +142,7 @@ Kada padne noć, grad se ne smiruje – on tek tada počinje da živi punim plu�
 Grad ima više od <span class="highlight-text">**15.000 barova**</span>, i svaki od njih ima svoju priču. Neki su stari više od vijeka, sa stolovima od tamnog drveta i zidovima punim slika fudbalskih legendi; drugi su moderni, s pogledom na svjetla grada. Ali svuda vrijedi isto pravilo – **u São Paulu se pije polako, ali živi brzo.**
 
 {{< figcredit 
-    src="/slike/sao-paulo/sao-paulo3.jpg" 
+    src="slike/sao-paulo/sao-paulo3.jpg" 
     alt="Detalja sa jedne od ulica Sao Paula noću"
     author="Wilfredor"
     source="Wikimedia Commons"

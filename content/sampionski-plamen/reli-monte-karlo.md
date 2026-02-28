@@ -40,7 +40,7 @@ Na samom početku, vozači su kretali iz različitih evropskih gradova – <span
 Danas je Monte Karlo sinonim za Svjetsko prvenstvo u reliju (WRC), ali je zadržao taj aristokratski dah koji ga izdvaja od blatnjavih staza Velsa ili prašnjavih puteva Grčke. On je ostao <span class="highlight-text">**istorijski instrument moći**</span> kojim Monako svake godine podsjeća svijet na svoju neprikosnovenu poziciju u svijetu brzine. Trka više nije samo sport, već nasljeđe koje povezuje eru pionira automobilizma sa futurističkim hibridnim pogonima današnjice.
 
 {{< figcredit 
-    src="/slike/reli-monte-carlo/reli1.jpg" 
+    src="slike/reli-monte-carlo/reli1.jpg" 
     alt="Morna Vaughan pored svog automila na reli Monte Carlo 1932."
     author="Nepoznati autor (Narodowe Archiwum Cyfrowe)"
     source="Wikimedia Commons"
@@ -69,7 +69,7 @@ Vožnja kroz Turini u gluvo doba noći zahtijeva nadljudska čula, jer se sjenke
 Ovaj prevoj je srušio nade mnogih šampiona, jer su putevi toliko uski da nema mjesta za grešku; jedan dodir sa kamenom ivicom znači kraj trke. Col de Turini je arhitektonski spomenik riziku, put koji nije građen za brzinu već za oprez, a koji reli vozači pretvaraju u <span class="highlight-text">**zonu ekstremnog performansa**</span>. Pobjednik ove dionice nosi titulu kralja planine, status koji se u reliju poštuje više od bilo kojeg drugog trofeja.
 
 {{< figcredit 
-    src="/slike/reli-monte-carlo/reli2.jpg" 
+    src="slike/reli-monte-carlo/reli2.jpg" 
     alt="Sebastijan Ožije u svom WV Polu na Reliju Monte Carlo"
     author="Richard Balint / Bildagentur Kräling"
     source="Wikimedia Commons"
@@ -99,7 +99,7 @@ Struktura automobila je ojačana kavezima koji nisu samo sigurnosni elementi, ve
 Ono što ove mašine čini posebnim je njihova sposobnost da se transformišu iz ultra-brzih trkača na ravnici u robusne penjače na planinskim serpetinama. Amortizeri moraju biti dovoljno mekani da upiju neravnine starih planinskih puteva, a opet dovoljno čvrsti da zadrže stabilnost pri brzini od 180 km/h. Monte Karlo je ultimativna laboratorija za automobilsku industriju, mjesto gdje se <span class="highlight-text">**inženjerska savršenost**</span> testira do granice pucanja.
 
 {{< figcredit 
-    src="/slike/reli-monte-carlo/reli3.jpg" 
+    src="slike/reli-monte-carlo/reli3.jpg" 
     alt="Popravka automobila jednog od takmicara na reliju Monte Carlo "
     author="Aurélien JEANNE"
     source="Flickr via Wikimedia Commons"

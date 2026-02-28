@@ -30,7 +30,7 @@ To je organizam koji ne spava. Dok sela tonu u mrak, dok monsun udara u prozore 
 </p>
 
 {{< figcredit 
-    src="/slike/posta-indije/posta-indije1.jpg" 
+    src="slike/posta-indije/posta-indije1.jpg" 
     alt="Unutrašnjost RMS vagona sa sortirnim policama"
     author="Press Information Bureau, Government of India"
     source="PIB India"
@@ -81,7 +81,7 @@ Neke od najprometnijih RMS linija su:
 - <span class="highlight-text">**Guwahati – Silchar**</span> (jedna od najtežih zbog planina i klizišta).
 
 {{< figcredit 
-    src="/slike/posta-indije/posta-indije2.jpg" 
+    src="slike/posta-indije/posta-indije2.jpg" 
     alt="Vagon voza RMS koji se sprema da krene"
     author="Superfast1111"
     source="Wikimedia Commons"
@@ -136,7 +136,7 @@ Ipak, jedan element ostao je isti - Pošta u Indiji i dalje se sortira ručno �
 
 
 {{< figcredit 
-    src="/slike/posta-indije/posta-indije3.jpg" 
+    src="slike/posta-indije/posta-indije3.jpg" 
     alt="Jedna od mnogobrojnih zgrada pošte Indije"
     author="sarangib"
     source="Pixabay"

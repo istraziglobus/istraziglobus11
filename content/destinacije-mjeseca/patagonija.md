@@ -44,7 +44,7 @@ Patagonija je kroz istoriju bila prostor granica, kako geografskih tako i ljudsk
 Ta izolacija se osjeća i danas. Gradovi su mali, udaljenosti ogromne, a osjećaj periferije prisutan u svakodnevnom životu. Patagonija nikada nije bila centar, već uvijek ivica. Upravo zbog toga, ona je sačuvala autentičnost koju su mnoge druge regije izgubile. Ovdje istorija nije monumentalna, već tiha. Ona se čita u pejzažu, a ne u spomenicima. Kulture koje su opstale na ovom tlu naučile su da poštuju tišinu kao jedini adekvatan odgovor na beskrajnu stepu. <span class="highlight-text">Identitet lokalnog stanovništva neraskidivo je vezan za konje, vunu i vatru</span> — tri elementa koja znače opstanak. Ovdje se vrijeme ne mjeri satima, već kilometrima koje treba preći do prvog komšije ili izvora vode. Biti Patagonac znači prihvatiti samoću kao privilegiju, a ne kao kaznu.
 
 {{< figcredit 
-  src="/slike/patagonija/patagonija1.jpg"
+  src="slike/patagonija/patagonija1.jpg"
   alt="Pogled na jahtu koja krstari Patagonijom"
   author="XeniaChinaski"
   source="Pixabay"
@@ -70,7 +70,7 @@ Torres del Paine predstavlja simbol čileanske Patagonije i jednu od <span class
 Na argentinskoj strani, masiv <span class="highlight-text">Fitz Roy</span> dominira horizontom oko malog mjesta El Chaltén. Ovaj planinski vrh poznat je po svojoj nepristupačnosti i stalnim promjenama vremena. Oblaci često skrivaju vrh, podsjećajući da priroda ovdje diktira pravila. Januar nudi najbolje šanse za stabilno vrijeme, ali nikada ne garantuje pogled. Fitz Roy nagrađuje strpljenje, a ne očekivanja. Penjači iz cijelog svijeta dolaze ovdje kako bi testirali svoje granice na vertikalnim granitnim zidovima koji se čine neosvojivim. Za obične planinare, staza do Lagune de los Tres nudi najljepši susret sa ovim kolosom, uz napor koji se zaboravlja onog trena kada vrh izroni iz oblaka. <span class="highlight-text">El Chaltén</span>, kao baza, odiše specifičnom energijom zajedništva onih koji su cijeli dan proveli u borbi sa vjetrom. Ovdje se uveče u lokalnim barovima razmjenjuju priče o onome što je planina tog dana dopustila.
 
 {{< figcredit 
-  src="/slike/patagonija/patagonija2.jpg"
+  src="slike/patagonija/patagonija2.jpg"
   alt="Pogled na mali gradić u Patagoniji"
   author="azorko"
   source="Pixabay"
@@ -102,7 +102,7 @@ Naselja u Patagoniji su rijetka i mala, ali izuzetno funkcionalna. Ljudi koji ov
 Uprkos izolaciji, zajednice su povezane snažnim osjećajem solidarnosti. Patagonija ne privlači ljude koji <span class="highlight-text">traže komfor</span>. Ona privlači one koji prihvataju prostor i njegove uslove. Ovdje se ne ostaje slučajno. Ostaje se svjesno. Lokalni praznici i okupljanja oko vatre su ključni za održavanje socijalnih veza u surovom okruženju. Gostoprimstvo u Patagoniji ima specifičnu težinu; ono je iskreno jer se temelji na spoznaji da smo u ovakvoj prirodi svi upućeni jedni na druge. Razgovor sa stanovnikom Punta Arenasa ili Puerto Natalesa otkriće vam ljude koji su <span class="highlight-text">ponosni na svoju otpornost</span>. Njihove priče nisu o lagodnom životu, već o pobjedama nad hladnoćom i daljinom.
 
 {{< figcredit 
-  src="/slike/patagonija/patagonija3.jpg"
+  src="slike/patagonija/patagonija3.jpg"
   alt="Malo ostrvce i mostić u srcu Patagonije"
   author="MonicaVolpin"
   source="Pixabay"

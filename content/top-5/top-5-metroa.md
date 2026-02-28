@@ -45,7 +45,7 @@ Londonski metro danas obuhvata mrežu od ukupno 402 kilometra šina i opslužuje
 ---
 
 {{< figcredit 
-    src="/slike/metroi/metro1.jpg" 
+    src="slike/metroi/metro1.jpg" 
     alt="Simetričan prikaz uskog perona stanice Clapham Common u londonskom metrou sa vozovima na obe strane."
     author="DAVID ILIFF"
     source="Wikimedia Commons (Featured Picture)"
@@ -67,7 +67,7 @@ Ovaj sistem se prostire na 226 kilometara i ima <span class="highlight-text">**3
 ---
 
 {{< figcredit 
-    src="/slike/metroi/metro2.jpg" 
+    src="slike/metroi/metro2.jpg" 
     alt="Moderna stanica Mairie d'Aubervilliers na liniji 12 pariskog metroa, snimljena ubrzo nakon otvaranja."
     author="Idris2000"
     source="Wikimedia Commons"
@@ -96,7 +96,7 @@ Mreža obuhvata više od 460 kilometara pruge i broji <span class="highlight-tex
 ---
 
 {{< figcredit 
-    src="/slike/metroi/metro3.jpg" 
+    src="slike/metroi/metro3.jpg" 
     alt="Unutrašnjost moskovske metro stanice sa raskošnim lusterima i mermernim lukovima."
     author="Sergey A. Demidov"
     source="Wikimedia Commons"
@@ -118,7 +118,7 @@ Sa ukupno <span class="highlight-text">**472 stanice**</span>, Njujork ima najvi
 ---
 
 {{< figcredit 
-    src="/slike/metroi/metro4.jpg" 
+    src="slike/metroi/metro4.jpg" 
     alt="Voz njujorškog metroa ulazi u stanicu, prikazujući ikonični izgled podzemne železnice."
     author="Gryffindor & Justass"
     source="Wikimedia Commons"
@@ -140,7 +140,7 @@ Tokijski metro sistem (uključujući Toei i Tokyo Metro) pokriva 304 kilometra i
 ---
 
 {{< figcredit 
-    src="/slike/metroi/metro5.jpg" 
+    src="slike/metroi/metro5.jpg" 
     alt="Futuristički voz tokijskog metroa i besprekorno čista platforma."
     author="ERIC SALARD"
     source="Flickr via Wikimedia Commons"

@@ -43,7 +43,7 @@ Finca Vigía danas je muzej, ali i vremenska kapsula. U dnevnoj sobi stoji njego
 ---
 
 {{< figcredit 
-    src="/slike/havana-starac-i-more/havana-starac-i-more1.jpg" 
+    src="slike/havana-starac-i-more/havana-starac-i-more1.jpg" 
     alt="Soba Ernesta Hemingveja na Kubi"
     author="Enrico Strocchi"
     source="Flickr"
@@ -71,7 +71,7 @@ Cojímar je tih dana bio mjesto bez turističkih brodova i velikih hotela. Danas
 ---
 
 {{< figcredit 
-    src="/slike/havana-starac-i-more/havana-starac-i-more2.jpg" 
+    src="slike/havana-starac-i-more/havana-starac-i-more2.jpg" 
     alt="Malo ribarsko selo Cojimar, gdje je Hemingvej crpio inspiraciju"
     author="Hedel.nb"
     source="Wikimedia Commons"
@@ -104,7 +104,7 @@ U staroj Havani, kolonijalne palače i crkve pričaju priču o španskoj prošlo
 ---
 
 {{< figcredit 
-    src="/slike/havana-starac-i-more/havana-starac-i-more3.jpg" 
+    src="slike/havana-starac-i-more/havana-starac-i-more3.jpg" 
     alt="Ulični svirači koji naljepše oslikavju duh Havane"
     author="hoeldino"
     source="Pixabay"

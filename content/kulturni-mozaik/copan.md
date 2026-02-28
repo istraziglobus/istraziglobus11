@@ -29,7 +29,7 @@ Copán je mjesto na kojem se prošlost ne zamišlja, nego vidi u svom najčistij
 Dolazak u Copán nije samo obična posjeta arheološkom nalazištu; to je direktan ulazak u prostor u kojem se spojilo vrhunsko poznavanje astronomije, kompleksna politika, duboka religioznost i najfinija umjetnost. Ono što veći centri poput Tikala u Gvatemali ili Palenquea u Meksiku predstavljaju po svojoj monumentalnoj veličini i visini piramida, Copán predstavlja po <span class="highlight-text">neprevaziđenoj finoći zanatske obrade</span>. Svaki kvadratni centimetar obrađenog kamena nosi određeno značenje, simbol ili kalendarski zapis koji stručnjaci i danas pokušavaju u potpunosti dešifrovati. To je grad koji se ne nadvikuje svojom masivnošću, nego posjetiocu govori tiho, kroz simbole i reljefe, i upravo zbog te specifične intime on ostavlja snažniji utisak od mnogih prostranijih ruševina koje djeluju hladno i distancirano.
 
 {{< figcredit 
-    src="/slike/copan/copan1.jpg" 
+    src="slike/copan/copan1.jpg" 
     alt="Arheolosko nalaziste Copan u Hondurasu"
     author="Nosferattus"
     source="Wikimedia Commons"
@@ -59,7 +59,7 @@ Ti tekstovi su bili mnogo više od puke dekoracije; <span class="highlight-text"
 Dok su se u drugim civilizacijama istorijski podaci zapisivali na trošnim materijalima poput pergamenta ili kore drveta, u Copánu je svaki važan datum bio duboko <span class="highlight-text">uklesan u vulkanski kamen</span>. Danas, dok posjetilac šeta između ovih figura koje kao da izranjaju iz stijena, ima neopisiv osjećaj da prolazi kroz hodnike živog arhiva koji je nekim čudom preživio sve prirodne i ljudske nepogode.
 
 {{< figcredit 
-    src="/slike/copan/copan2.jpg" 
+    src="slike/copan/copan2.jpg" 
     alt="Jena od stela koja se nalaze u samom kompleksu u Copanu"
     author="Gerd Eichmann"
     source="Wikimedia Commons"
@@ -79,7 +79,7 @@ Originalno su stepenice sadržale više od <span class="highlight-text">dvije hi
 Na ovim stepenicama je zapisana detaljna hronika gradskih vladara, njihovi usponi, vjerski rituali, te kalendarske ceremonije koje su bile ključne za opstanak cijele zajednice. Dok se fizički penjete uz piramidu, vi <span class="highlight-text">metaforički koračate kroz vijekove majanske slave i trijumfa</span>.
 
 {{< figcredit 
-    src="/slike/copan/copan3.jpg" 
+    src="slike/copan/copan3.jpg" 
     alt="Cuvene hijeroglifske stepenice u Copanu"
     author="Gerd Eichmann"
     source="Wikimedia Commons"

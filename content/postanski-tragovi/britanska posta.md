@@ -38,7 +38,7 @@ U XVIII vijeku, kako je rastao britanski imperijalni i trgovački uticaj, pojavi
 ---
 
 {{< figcredit 
-    src="/slike/britanska-posta/penny-black1.jpg" 
+    src="slike/britanska-posta/penny-black1.jpg" 
     alt="Prve poštanske kočije koje su služile za dostavu pošte"
     author="British Postal Museum & Archive"
     source="Wikimedia commons"
@@ -60,7 +60,7 @@ Prva poštanska marka na svijetu izdata je **1. maja 1840. godine** (a u opticaj
 ---
 
 {{< figcredit 
-    src="/slike/britanska-posta/penny-black2.jpg" 
+    src="slike/britanska-posta/penny-black2.jpg" 
     alt="Black penny prva poštanska markica na svijetu zaljepljena na pismu"
     author="General Post Office (UK Government)"
     source="Wikimedia Commons"
@@ -101,7 +101,7 @@ Njihov dizajn se tokom decenija mijenjao, ali prepoznatljiva <span class="highli
 ---
 
 {{< figcredit 
-    src="/slike/britanska-posta/penny-black3.jpg" 
+    src="slike/britanska-posta/penny-black3.jpg" 
     alt="Prepoznatljiva britanska crvena poštanska sandučad"
     author="Alan Murray-Rust"
     source="Wikimedia commons"

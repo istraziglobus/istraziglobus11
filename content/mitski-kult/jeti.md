@@ -35,7 +35,7 @@ Himalaji su više od planinskog lanca. Za narod Nepala oni su živo biće, dah b
 Legenda kaže da Yeti ne živi samo u planinama, već <span class="highlight-text">**u samom srcu vjetra**</span>. Kažu da ga planina šalje kada je uznemirena, kada čovjek postane previše radoznao, previše drzak. Za monahe iz manastira Tengboche, koji svako jutro mole pred bijelim vrhovima, Yeti nije čudovište – on je kazna, ali i zaštitnik. “On se ne pokazuje onima koji vjeruju”, govore, “već onima koji zaborave da planinu pozdrave prije nego je dotaknu.”
 
 {{< figcredit 
-  src="/slike/jeti/jeti1.jpg"
+  src="slike/jeti/jeti1.jpg"
   alt="pogled na jezero Dolni Cola na Himalajima"
   author="Vyacheslav Argenberg"
   source="Wikimedia Commons"
@@ -54,7 +54,7 @@ Britanska ekspedicija pod vođstvom <span class="highlight-text">**Charlesa Howa
 Od tog dana, priča o Yeti-ju sišla je s planine i ušla u svjetske novine. Uslijedile su decenije izvještaja: lovci, planinari, putnici, svi su tvrdili da su čuli urlik, vidjeli sjenku, pronašli trag. Na zidovima tibetanskih manastira počeli su se pojavljivati crteži – <span class="highlight-text">figura nalik čovjeku</span>, sa dugim rukama, pokrivena gustim krznom, s licem bez emocije. Ali možda je najvažnije to što se svaka priča završavala isto: niko ga nije uhvatio, niko ga nije jasno vidio, ali svi su bili sigurni da **nisu bili sami**.
 
 {{< figcredit 
-  src="/slike/jeti/jeti2.jpg"
+  src="slike/jeti/jeti2.jpg"
   alt="otisak u snijegu koji je podgrijao price o Jetiju"
   author="Nguyen_Khac"
   source="Pixabay"
@@ -97,7 +97,7 @@ Za narod Nepala, Yeti nije stvorenje koje treba uhvatiti, već duh koji treba po
 Za <span class="highlight-text">šerpe</span>, on je simbol ravnoteže. Ako ga planina pošalje, to znači da je čovjek otišao predaleko. I zato svaki vodič, prije nego što krene u planinu, donosi mali dar – rižu, tamjan ili kamen s molitvom – jer zna da se na svetom tlu ne hoda praznih ruku.
 
 {{< figcredit 
-  src="/slike/jeti/jeti3.jpg"
+  src="slike/jeti/jeti3.jpg"
   alt="tradicionalni pripadnik Šerpa naroda sa Himalaja"
   author="Rüdiger Wenzel"
   source="Wikimedia Commons"

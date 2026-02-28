@@ -42,7 +42,7 @@ Inženjerski gledano, ovi tuneli su mnogo više od običnih hodnika; oni su dio 
 Ovaj sistem izolacije stvorio je specifičan način života u Torontu, gdje stanovnici mogu provesti čitav dan – od jutarnjeg treninga, preko posla, do večernjeg odlaska u bioskop – a da nijednom ne obuku kaput. To je prostor u kojem je <span class="highlight-text">**geografija poražena dizajnom**</span>, pretvarajući neprijateljsko okruženje u prostor za nesmetanu socijalnu i ekonomsku interakciju. PATH je tako postao simbol otpornosti grada i njegove sposobnosti da se prilagodi najtežim prirodnim uslovima.
 
 {{< figcredit 
-    src="/slike/toronto-path/path1.jpg" 
+    src="slike/toronto-path/path1.jpg" 
     alt="Stakleni pjesacki most"
     author="Stu's Images"
     source="Wikimedia Commons"
@@ -82,7 +82,7 @@ Digitalizacija se ne odnosi samo na kamere, već i na pametne sisteme upravljanj
 Sigurnost u PATH-u je prioritet jer on povezuje ključne finansijske institucije zemlje, što ga čini strateškim objektom prvog reda. Privatne zaštitarske službe sarađuju sa gradskom policijom kako bi osigurale da prostor ostane bezbjedan za pješake u svako doba dana. Ova kontrola doprinosi imidžu PATH-a kao <span class="highlight-text">**sterilne i sigurne oaze**</span>, što je drastičan kontrast u odnosu na često haotične i nepredvidive ulice iznad njega.
 
 {{< figcredit 
-    src="/slike/toronto-path/path2.jpg" 
+    src="slike/toronto-path/path2.jpg" 
     alt="Ulaz u PATH sistem"
     author="Joseph Morris"
     source="Flickr via Wikimedia Commons"
@@ -131,7 +131,7 @@ Glavna željeznička stanica, Union Station, služi kao centralno čvorište gdj
 Ova integracija je ključna za održivi razvoj Toronta, jer smanjuje potrebu za automobilima u samom centru grada. Bez PATH-a, metro stanice ne bi mogle podnijeti ovoliki volumen ljudi, jer bi trotoari bili preuski za milione pješačkih koraka dnevno. Sistem tako djeluje kao <span class="highlight-text">**regulator urbanog pritiska**</span>, omogućavajući gradu da raste u visinu uz održavanje efikasnog nivoa kretanja na tlu i ispod njega.
 
 {{< figcredit 
-    src="/slike/toronto-path/path3.jpg" 
+    src="slike/toronto-path/path3.jpg" 
     alt="Metro stanica u Torontu"
     author="42-BRT"
     source="Wikimedia Commons"

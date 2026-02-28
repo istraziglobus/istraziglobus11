@@ -41,7 +41,7 @@ Pre izgradnje La Bombonere, Club Atlético Boca Juniors igrao je na drvenom stad
 ---
 
 {{< figcredit 
-    src="/slike/bombonera/bombonera-tribine.jpg" 
+    src="slike/bombonera/bombonera-tribine.jpg" 
     alt="Navijači Boke na tribinama"
     author="Steven Newton"
     source="Wikimedia Commons"
@@ -64,7 +64,7 @@ Kroz decenije, La Bombonera je bila svedok nebrojenih istorijskih utakmica, osvo
 ---
 
 {{< figcredit 
-    src="/slike/bombonera/maradona-boca.jpg" 
+    src="slike/bombonera/maradona-boca.jpg" 
     alt="Navijači slave Dijega Armanda Maradonu"
     author="El Gráfico"
     source="El Gráfico (Wikimedia Commons)"
@@ -105,7 +105,7 @@ La Bombonera nije samo sportska arena; ona je srce i duša kvarta <span class="h
 ---
 
 {{< figcredit 
-    src="/slike/bombonera/boca.jpg" 
+    src="slike/bombonera/boca.jpg" 
     alt="Dio grada Buenos Aeresa gdje je smješten stadion"
     author="Matthias Bethke"
     source="Wikimedia Commons"

@@ -49,7 +49,7 @@ Vijetnam je zemlja <span class="highlight-text">hiljadugodišnje istorije</span>
 **Delta Mekonga**, jug zemlje, pulsira životom. Rijeka je ovdje sve – put, izvor hrane, dom. U novembru, voda se smiruje i sela dišu u ritmu tropske jeseni.
 
 {{< figcredit 
-  src="/slike/vijetnam/vijetnam1.jpg"
+  src="slike/vijetnam/vijetnam1.jpg"
   alt="Sajgon (ho si min) u kasnim večernjim satima"
   author="dronepicr"
   source="Flickr (via Wikimedia Commons)"
@@ -72,7 +72,7 @@ Priroda Vijetnama izgleda kao da je iz snova. U novembru, kada je klima mirna i 
 **Južni Vijetnam**, od Sajgona do Phu Quoca, nudi toplo more i sunčane dane – bijeg od evropske zime.
 
 {{< figcredit 
-  src="/slike/vijetnam/vijetnam2.jpg"
+  src="slike/vijetnam/vijetnam2.jpg"
   alt="Terasata pirinčana polja u dolini Sa Pa u Vijetnamu"
   author="Konstantin Krismer"
   source="Wikimedia Commons"
@@ -124,7 +124,7 @@ Vijetnam u novembru je poziv na istraživanje.
 * **Kulinarski časovi i čajna ceremonija** – spoj kulture i ukusa.  
 
 {{< figcredit 
-  src="/slike/vijetnam/vijetnam3.jpg"
+  src="slike/vijetnam/vijetnam3.jpg"
   alt="Pećina Phong Nha jedna od navećih pećina na svijetu"
   author="Andre Hospers"
   source="Wikimedia Commons"  

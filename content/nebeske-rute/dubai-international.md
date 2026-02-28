@@ -50,7 +50,7 @@ DXB se ponosi najširim spektrom sadržaja koji putovanje čine prijatnijim, bez
 ---
 
 {{< figcredit 
-    src="/slike/dubai/dubai_interior1.jpg" 
+    src="slike/dubai/dubai_interior1.jpg" 
     alt="Luksuzna unutrašnjost aerodorma Dubai International"
     author="Ввласенко"
     source="Wikimedia Commons"
@@ -82,7 +82,7 @@ Kao dom avio-kompanije Emirates i jedna od <span class="highlight-text">**najpro
 ---
 
 {{< figcredit 
-    src="/slike/dubai/dubai_interior2.jpg" 
+    src="slike/dubai/dubai_interior2.jpg" 
     alt="Avion Emirates čeka na polijetanje na aerodromu u Dubaiju"
     author="Alireza Akhlaghi"
     source="Unsplash"
@@ -104,7 +104,7 @@ Dubai International nije fokusiran samo na sadašnjost, već i na ambicioznu bud
 ---
 
 {{< figcredit 
-    src="/slike/dubai/dubai_interior3.jpg" 
+    src="slike/dubai/dubai_interior3.jpg" 
     alt="Putnici idu ka svom gate-u na aerodomu Dubai International"
     author="Freepik"
     source="Freepik"

@@ -38,7 +38,7 @@ Prva zemlja koja je ideju sprovela u djelo bila je <span class="highlight-text">
 U Sjedinjenim Državama, ljetnje računanje vremena uvedeno je 1918. godine, a u Evropi je nakon Drugog svjetskog rata postalo uobičajena praksa.
 
 {{< figcredit 
-    src="/slike/promjena-sata/sat1.jpg" 
+    src="slike/promjena-sata/sat1.jpg" 
     alt="slika iz 1971 gdje žena pomjera kazaljke na satu"
     author="Unknow"
     source="Showa History Vol.13 (via Wikimedia Commons)"
@@ -77,7 +77,7 @@ Evropski parlament je još <span class="highlight-text">**2019. godine**</span> 
 U Crnoj Gori i regionu, praksa se zadržava u skladu sa evropskim propisima, iako je sve više glasova stručnjaka i građana koji smatraju da bi **jedinstveno vrijeme tokom cijele godine** bilo jednostavnije i zdravije rješenje.
 
 {{< figcredit 
-    src="/slike/promjena-sata/sat2.jpg" 
+    src="slike/promjena-sata/sat2.jpg" 
     alt="mapa koja pokazuje koje zemlje koriste ljetnje računanje vremena"
     author="UnaitxuGV"
     source="Wikimedia Commons"
@@ -100,7 +100,7 @@ Trajno Ljetnje Vrijeme (Daylight Saving Time - DST): Zagovornici ističu duže, 
 Trajno Zimsko/Standardno Vrijeme (Standard Time - ST): Ovo vrijeme je bliže solarnom vremenu (vremenu koje je prirodno usklađeno sa položajem Sunca). Zagovornici kažu da je ovo zdravije zbog boljeg usklađivanja sa cirkadijalnim ritmovima tijela, dok je veći kompromis manja količina dnevnog svjetla poslije radnog vremena ljeti.
 
 {{< figcredit 
-    src="/slike/promjena-sata/sat3.jpg" 
+    src="slike/promjena-sata/sat3.jpg" 
     alt="mapa koja pokazuje koje zemlje koriste ljetnje računanje vremena"
     author="Gemini"
     source="Google Gemini (AI Generated)"

@@ -31,7 +31,7 @@ Od prve jutarnje kafe koja se ispija u hladovini platanima na glavnom trgu, pa s
 ---
 
 {{< figcredit 
-    src="/slike/balkan/trebinje1.jpg" 
+    src="slike/balkan/trebinje1.jpg" 
     alt="Hotel Platani u centru Trebinja"
     author="Pajomm"
     source="Wikimedia Commons"
@@ -49,7 +49,7 @@ Srce grada kuca unutar zidina **Starog grada**, poznatijeg kao Kastel. Njegove k
 ---
 
 {{< figcredit 
-    src="/slike/balkan/trebinje2.jpg" 
+    src="slike/balkan/trebinje2.jpg" 
     alt="Prelijepi Perovića most, jedna od simbola Trebinja"
     author="Svjetlopis, Vladimir Tadić"
     source="Wikimedia Commons"
@@ -69,7 +69,7 @@ Kultura i duhovnost su duboko ukorenjeni u Trebinju, a grad je postao poznat kao
 ---
 
 {{< figcredit 
-    src="/slike/balkan/trebinje3.jpg"
+    src="slike/balkan/trebinje3.jpg"
     alt="Manastri Tvrdoš, duhovno središte Trebinja i cijele Hercegovine"
     author="Ognjen Borovina"
     source="Wikimedia Commons"

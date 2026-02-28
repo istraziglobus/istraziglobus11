@@ -39,7 +39,7 @@ Pripjat nije nastao slučajno; on je bio pažljivo planiran kao <span class="hig
 Ovaj demografski profil diktirao je čitavu infrastrukturu, pa je grad bio preplavljen igralištima i sportskim terenima. Energija napretka osjećala se na svakom koraku, dok su se stanovnici smatrali privilegovanim dijelom društva koji će krotiti moć atoma za dobrobit čovječanstva. Ta vjera u tehnologiju bila je gotovo religiozna, oslonjena na narativ o neograničenom razvoju. Grad je živio u ritmu smjena elektrane, povezujući svakodnevni život sa ritmom <span class="highlight-text">**nuklearnog reaktora**</span>. U toj simbiozi rada i identiteta, Pripjat je bio više od grada – bio je ideološki projekat. Njegove ulice nosile su simboliku kolektivnog napretka, a stanovi su bili nagrada za lojalnost sistemu.
 
 {{< figcredit 
-    src="/slike/pripjat/pripjat1.jpg" 
+    src="slike/pripjat/pripjat1.jpg" 
     alt="Spomenik na ulazak u grad"
     author="chriswanders"
     source="Pixabay"
@@ -65,7 +65,7 @@ Danas je Pripjat raj za istraživače <span class="highlight-text">**urbane entr
 Svaka prostorija priča priču o naglom prekidu; klaviri u muzičkim školama su raštimovani od vlage, a pozorišne scene prekrivene su prašinom decenija. Ovi objekti više ne služe ljudima, već postaju monumentalne skulpture koje svjedoče o prolaznosti ideologija i materijala. U toj tišini, svaki škrgut lima pod vjetrom zvuči kao eho prošlih života. Predmeti ostavljeni u žurbi – knjige, igračke, kalendari – djeluju kao <span class="highlight-text">**intimni tragovi**</span> ljudi koji se nikada nisu vratili. Arhitektura je izgubila svrhu, ali je dobila simboličku težinu. Ruševine sada govore glasnije nego što su ikada govorili živi trgovi.
 
 {{< figcredit 
-    src="/slike/pripjat/pripjat2.jpg" 
+    src="slike/pripjat/pripjat2.jpg" 
     alt="Jedna u nizu unistenih i napustenih zgrada"
     author="Reznik89"
     source="Pixabay"
@@ -96,7 +96,7 @@ Ovaj fenomen pokazuje da planeta ne poznaje trajne ožiljke na način na koji ih
 Njegova <span class="highlight-text">**žuta konstrukcija**</span> postala je najprepoznatljiviji motiv postapokaliptične umjetnosti. Točak podsjeća posjetioce da se vrijeme ne može popraviti niti vratiti unazad, ostajući vječno zaglavljen između onoga što je moglo biti i onoga što jeste. Fotografije ovog motiva kruže svijetom kao vizuelni dokaz kolektivnog poraza nad sopstvenom tehnologijom. Točak je postao kulisa za filmove, dokumentarce i video-igre, čime je Pripjat ušao u globalnu pop-kulturu. Simbol je prešao granice geografije i postao univerzalna metafora izgubljene nevinosti moderniteta. U tom smislu, jedan komad zabavne infrastrukture prerastao je u filozofski znak epohe.
 
 {{< figcredit 
-    src="/slike/pripjat/pripjat3.jpg" 
+    src="slike/pripjat/pripjat3.jpg" 
     alt="FAmozni žuti panoramni točak"
     author="Jorge Franganillo"
     source="Flickr via Wikimedia Commons"

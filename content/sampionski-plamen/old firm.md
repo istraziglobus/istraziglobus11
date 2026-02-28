@@ -42,7 +42,7 @@ Prvi susret Celtica i Rangersa odigran je **28. maja 1888. godine**, a Celtic, k
 ---
 
 {{< figcredit 
-    src="/slike/old-firm/oldfirm1.jpg" 
+    src="slike/old-firm/oldfirm1.jpg" 
     alt="Ekipa Seltika u sezoni 1917/1918"
     author="Nepoznat autor (Unknown Author)"
     source="(Wikimedia Commons)"
@@ -89,7 +89,7 @@ Atmosfera na stadionima, bilo na **Celtic Parku** sa svojih 60.000 mjesta ili na
 ---
 
 {{< figcredit 
-    src="/slike/old-firm/oldfirm2.jpg" 
+    src="slike/old-firm/oldfirm2.jpg" 
     alt="Navijači oba kluba na tribinama"
     author="stevelynch"
     source="Flickr"
@@ -136,7 +136,7 @@ Za današnje generacije, Old Firm je dokaz da fudbal nije samo igra, već i emoc
 ---
 
 {{< figcredit 
-    src="/slike/old-firm/oldfirm3.jpg" 
+    src="slike/old-firm/oldfirm3.jpg" 
     alt="Detalj sa utakmice Seltik - Rendžers"
     author="Excalibur1953"
     source="Wikimedia Commons"

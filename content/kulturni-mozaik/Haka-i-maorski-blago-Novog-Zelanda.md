@@ -40,7 +40,7 @@ U urbanim centrima poput <span class="highlight-text">Wellingtona i Aucklanda</s
 Maori imaju poseban pozdrav, <span class="highlight-text">**"Kia ora"**</span>, što znači "budi zdrav", a koji se danas koristi kao svakodnevni pozdrav širom države. Ovaj jezik pripada istočnoj polinezijskoj porodici, što ga povezuje sa kulturama Havaja i Tahitija. Učenje osnovnih reči, poput "Aotearoa" (Zemlja dugog belog oblaka – ime za Novi Zeland), otvara vrata za dublje razumevanje maorskog pogleda na svet. Posvećenost vlade oživljavanju jezika uključuje i obavezno učenje osnova za državne službenike. Učenje nekoliko fraza pokazuje poštovanje prema domorocima i često otvara osmeh i spremnost lokalaca da podijele više o svojoj kulturi.
 
 {{< figcredit
-    src="/slike/maori-i-haka/maori1.jpg"
+    src="slike/maori-i-haka/maori1.jpg"
     alt="Maorski jezik – natpis na jeziku Maori"
     author="Te Reo Club"
     source="Te Reo Club"
@@ -65,7 +65,7 @@ Za posjetioce, učešće u izvođenju Hake u Rotorui ili na kulturnim centrima p
 Izraz lica, ili "pūkana", je ključan deo Hake, gde borci koriste hrabre grimase da bi zastrašili protivnika ili izrazili intenzitet emocije. Takođe, Haka se koristi i za ispraćaje cijenjenih članova zajednice, slaveći njihov život i nasleđe. Svaki pokret ruku i nogu predstavlja deo priče ili poruke, čineći ples gotovo univerzalnim jezikom. Iako je Haka danas globalno poznata kroz ragbi tim <span class="highlight-text">**All Blacks**</span>, važno je znati da su njeni koreni dublji od sporta i vezani su za ratne i ceremonijalne obrede.
 
 {{< figcredit
-    src="/slike/maori-i-haka/maori2.jpg"
+    src="slike/maori-i-haka/maori2.jpg"
     alt="Maorski ples Haka"
     author="Erin A. Kirk-Cuomo (DoD photo)"
     source="Wikimedia Commons"
@@ -92,7 +92,7 @@ Pravi doživljaj maorske kulture bio bi nepotpun bez degustacije Hāngi – trad
 Za razliku od klasičnog kuvanja, Hāngi jela se pripremaju u <span class="highlight-text">**zemljanim pećima**</span>. Koriste se zagrejani vulkanski kamenovi koji se spuštaju u jamu iskopanu u zemlji. Preko kamenja se stavlja meso (piletina, svinjetina, jagnjetina) i povrće (krompir, slatki krompir kūmara, bundeva) umotano u prirodne materijale ili foliju. Hrana se zatim prekriva platnom i zemljom, ostavljajući je da se polako peče i pari satima. Ovaj spori proces kuvanja čini meso izuzetno sočnim i mekanim, a dim i para daju jedinstveni zemljani ukus koji se ne može imitirati. Posetioci često imaju priliku da učestvuju u samom procesu pripreme i otkopavanja Hāngi jame, što predstavlja izuzetno autentično i vizuelno iskustvo. Konzumacija Hāngi obroka obično se dešava u kontekstu Marae ceremonije, naglašavajući važnost manaakitanga (gostoprimstva) i deljenja.
 
 {{< figcredit
-    src="/slike/maori-i-haka/maori3.jpg"
+    src="slike/maori-i-haka/maori3.jpg"
     alt="Maorski ples Haka"
     author="Sarah Stewart"
     source="Flickr (via Wikimedia Commons)"

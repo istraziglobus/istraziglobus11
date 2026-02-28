@@ -41,7 +41,7 @@ Ovdje nije poenta u jednoj atrakciji, već u tempu: šetnja kroz mirise (vanila,
 ---
 
 {{< figcredit 
-    src="/slike/novogodisnji-bazari/bazar1.jpg" 
+    src="slike/novogodisnji-bazari/bazar1.jpg" 
     alt="Praznična atmosfera na bečkom bazaru ispred gradske vijećnice (Rathausplatz), sa lampicama i kućicama."
     author="Geolina163"
     source="Wikimedia Commons"
@@ -68,7 +68,7 @@ Bazar je raspoređen na više lokacija, što je zapravo prednost: svaka zona ima
 ---
 
 {{< figcredit 
-    src="/slike/novogodisnji-bazari/bazar2.jpg" 
+    src="slike/novogodisnji-bazari/bazar2.jpg" 
     alt="Noćni bazar u Strazburu, sa osvijetljenim kućicama i starim alzaškim fasadama."
     author="Tangopaso"
     source="Wikimedia Commons / Wikipedia"
@@ -88,7 +88,7 @@ Nirnberg posebno prija putnicima koji vole direktan, praktičan doživljaj: zna�
 ---
 
 {{< figcredit 
-    src="/slike/novogodisnji-bazari/bazar3.jpg" 
+    src="slike/novogodisnji-bazari/bazar3.jpg" 
     alt="Praznični bazar u Nirnbergu sa kućicama i toplom rasvjetom na trgu."
     author="DALIBRI"
     source="Wikimedia Commons"
@@ -115,7 +115,7 @@ Ovo je idealna destinacija ako želiš da uz bazar dobiješ i “mini putovanje�
 ---
 
 {{< figcredit 
-    src="/slike/novogodisnji-bazari/bazar4.jpg" 
+    src="slike/novogodisnji-bazari/bazar4.jpg" 
     alt="Praznična scena na Starom gradskom trgu u Pragu, sa kućicama, svjetlima i istorijskim kulisama."
     author="Anaj7"
     source="Wikimedia Commons"
@@ -135,7 +135,7 @@ Bazar (najčešće oko centralnih zona) je dobar miks: dovoljno autentičan da o
 ---
 
 {{< figcredit 
-    src="/slike/novogodisnji-bazari/bazar5.jpg" 
+    src="slike/novogodisnji-bazari/bazar5.jpg" 
     alt="Zimska praznična atmosfera u centru Budimpešte, sa kućicama i svjetlima na trgu."
     author="Elekes Andor"
     source="Wikimedia Commons"

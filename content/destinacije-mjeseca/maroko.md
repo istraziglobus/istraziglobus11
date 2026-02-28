@@ -49,7 +49,7 @@ Maroko je mozaik civilizacija – od Berbera, Feničana i Rimljana, do arapskih 
 ---
 
 {{< figcredit 
-    src="/slike/maroko/maroko1.jpg" 
+    src="slike/maroko/maroko1.jpg" 
     alt="Pogled na noćni pijačni market u Marakešu"
     author="A_Different_Perspective"
     source="Pixabay"
@@ -74,7 +74,7 @@ Marokanski pejzaži su prizori iz sna – pustinje koje se prelivaju u planine, 
 ---
 
 {{< figcredit 
-    src="/slike/maroko/maroko2.jpg" 
+    src="slike/maroko/maroko2.jpg" 
     alt="Utvrđeno selo Ait Benhaddou u podnožju planine Atlas"
     author="gavilla"
     source="Pixabay"
@@ -106,7 +106,7 @@ Marokanska kuhinja je spoj berberske, arapske, mediteranske i afričke tradicije
 ---
 
 {{< figcredit 
-    src="/slike/maroko/maroko3.jpg" 
+    src="slike/maroko/maroko3.jpg" 
     alt="Lampioni na jednom od markonskih pijaca"
    author="Oleksandr Ryzhkov"
     source="Freepik"

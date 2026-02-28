@@ -31,7 +31,7 @@ Njegov uspon na vlast u septembru 2022. godine nije bio samo vojni puč, već ku
 Ovaj portret moći istražuje kako je anonimni kapetan iz artiljerijske jedinice postao figura koja prkosi zapadnim centrima moći, dok istovremeno gradi kult ličnosti zasnovan na nasljeđu legendarnog Thomasa Sankare. Traoréova moć nije samo u oružju kojim komanduje, već u <span class="highlight-text">**simboličkom kapitalu**</span> koji crpi iz pustinjskog pijeska i gnjeva mladih. On je lider koji ne nudi stabilnost starog kova, već viziju slobode koja se plaća krvlju, znojem i potpunim zaokretom ka novim globalnim saveznicima.
 
 {{< figcredit 
-    src="/slike/traore-burkina-faso/traore1.jpg" 
+    src="slike/traore-burkina-faso/traore1.jpg" 
     alt="Ibrahim Traore na jednom od sastanaka"
     author="VOA (Voice of America)"
     source="Wikimedia Commons"
@@ -61,7 +61,7 @@ Njegovi govori o samoodrživosti i odbijanju strane pomoći direktni su citati i
 Kult ličnosti koji se gradi oko njega nije zasnovan na luksuzu, već na askezi. Poput Sankare, on se prikazuje kao čovjek iz naroda koji spava na poljskim krevetima i ne dopušta svojim saradnicima bogaćenje. Ta <span class="highlight-text">**simbolička askeza**</span> je moćan alat u zemlji gdje je siromaštvo svakodnevica; ona briše distancu između vladara i naroda. Ibrahim Traoré ne vlada nad narodom, on se predstavlja kao prvi među jednakima u borbi za nacionalnu čast.
 
 {{< figcredit 
-    src="/slike/traore-burkina-faso/traore2.jpg" 
+    src="slike/traore-burkina-faso/traore2.jpg" 
     alt="Tomas Sankara drzi govor"
     author="Ernest Harsch / The Militant"
     source="Wikimedia Commons"
@@ -132,7 +132,7 @@ Kroz istoriju, Burkina Faso je bila epicentar socijalnih eksperimenata i revoluc
 Danas, Burkina Faso stoji na istorijskoj prekretnici, pokušavajući da redefiniše svoj položaj u svijetu kroz prizmu potpunog suvereniteta. Država koja je nekada bila poznata kao Gornja Volta, sada pod novim vođstvom nastoji da postane <span class="highlight-text">ekonomski i vojni bastion</span> Sahela. Njena sudbina direktno utiče na stabilnost čitavog regiona, čineći je ključnom tačkom na mapi novog afričkog buđenja, gdje svaki grad, od Ouagadougoua do Bobo-Dioulassoa, pulsira ritmom promjene koja odbija da bude zaustavljena.
 
 {{< figcredit 
-    src="/slike/traore-burkina-faso/traore3.jpg" 
+    src="slike/traore-burkina-faso/traore3.jpg" 
     alt="Doček Traore u Burkini Faso"
     author="Burkina Faso President's office"
     source="Presidency of Burkina Faso via Wikimedia Commons"

@@ -49,7 +49,7 @@ Putnici mogu šetati visećim mostovima, uživati u aromama tropskih cvjetova, i
 Zahvaljujući ovakvim detaljima, Changi ne doživljavate kao prostor za čekanje – već kao prostor za disanje i otkrivanje.  
 
 {{< figcredit 
-    src="/slike/changi-aerodrom/changi1.jpg" 
+    src="slike/changi-aerodrom/changi1.jpg" 
     alt="vodopad Jewel koji se nalazi na aerodromu Changi"
     author="VacacionesPagodasBlog"
     source="Pixabay"
@@ -74,7 +74,7 @@ Svaki terminal ima **svoju temu i karakter**:
 Ono što sve spaja jeste besprijekorna organizacija i osjećaj mira, čak i kada kroz aerodrom dnevno prođe više od **180.000 ljudi**.  
 
 {{< figcredit 
-    src="/slike/changi-aerodrom/changi2.jpg" 
+    src="slike/changi-aerodrom/changi2.jpg" 
     alt="Botanicka basta koja se nalazi u samom aerodromu u Singapuru"
     author="LN9267"
     source="Wikimedia Commons"
@@ -129,7 +129,7 @@ Zanimljivo, dok mnoge zemlje tek razmišljaju o <span class="highlight-text">„
 Terminal 5 bi trebalo da otvori svoja vrata krajem **2030-ih**, i prema prvim renderima, izgleda kao da je projektovan za putovanja između planeta, a ne samo između kontinenata.  
 
 {{< figcredit 
-    src="/slike/changi-aerodrom/changi3.jpg" 
+    src="slike/changi-aerodrom/changi3.jpg" 
     alt="Avion Singapur eirlansa čeka na polijetanje sa aerodorma Changi"
     author="Bahnfrend"
     source="Wikimedia Commons"

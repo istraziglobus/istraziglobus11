@@ -34,7 +34,7 @@ Iako su naučnici pokušavali da objasne viđenja optičkim iluzijama, morskim l
 ---
 
 {{< figcredit 
-    src="/slike/lochness/misterija1.jpg" 
+    src="slike/lochness/misterija1.jpg" 
     alt="slika čudovišta iz Loh Nesa"
     author="Hugo Heikenwaelder"
     source="Wikimedia commons"
@@ -78,7 +78,7 @@ Bez obzira na to da li je Nesi stvarna ili ne, ona je postala neizostavni deo lo
 ---
 
 {{< figcredit 
-    src="/slike/lochness/misterija3.jpg" 
+    src="slike/lochness/misterija3.jpg" 
     alt="Ulaz u Loh Nes centar u obližnjem selu Drumnadrok"
     author="B.ciggaar"
     source="Wikimedia Commons"
@@ -102,7 +102,7 @@ Na kraju, misterija Loh Nesa nudi više od samo neuhvatljivog stvorenja. Ona pre
 ---
 
 {{< figcredit 
-    src="/slike/lochness/misterija2.jpg" 
+    src="slike/lochness/misterija2.jpg" 
     alt="Pogled na jezero Loh Nes"
     author="David Dixon"
     source="Wikimedia commons"

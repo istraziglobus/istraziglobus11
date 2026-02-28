@@ -43,7 +43,7 @@ Laponija je dom <span class="highlight-text">**naroda Saami**</span>, jednog od 
 **Inari** je kulturni epicentar Saami naroda. Ovdje se može vidjeti tradicionalna nošnja, čuti jezik koji zvuči kao šapat vjetra i osjetiti život u skladu sa zimom.
 
 {{< figcredit 
-  src="/slike/laponija/laponija1.jpg"
+  src="slike/laponija/laponija1.jpg"
   alt="Pogled na mali gradić u Laponiji"
   author="jackmac34"
     source="Pixabay"
@@ -100,7 +100,7 @@ U Laponiji decembar nije mjesec odmora — to je mjesec avanture.
 * I naravno, **sauna + snijeg** — finski način da se preživi zima. Prava Finska tradicija: zagrijte tijelo do maksimuma, a zatim uronite u snijeg ili ledenu vodu za snažno podsticanje cirkulacije.
 
 {{< figcredit 
-  src="/slike/laponija/laponija2.jpg"
+  src="slike/laponija/laponija2.jpg"
   alt="Voznaja motornim ski sankama po prostranstvima Laponije"
   author="dMz"
   source="Pixabay"
@@ -147,7 +147,7 @@ Rovaniemi je posebno očaravajući jer je i <span class="highlight-text">**služ
 No, najveća čarolija je uvijek u prirodi: u vatri koja pucketa napolju, u zvijezdama koje se vide kao iglice svjetla i u aurori koja pleše iznad svega toga.
 
 {{< figcredit 
-  src="/slike/laponija/laponija3.jpg"
+  src="slike/laponija/laponija3.jpg"
   alt="Selo Deda Mraza u Laponiji"
   author="Floppyjb"
   source="Wikimedia Commons"

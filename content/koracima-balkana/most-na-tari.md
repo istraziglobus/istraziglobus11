@@ -30,7 +30,7 @@ Most na Đurđevića Tari nije samo građevina, to je monumentalni simbol ljudsk
 ---
 
 {{< figcredit 
-    src="/slike/balkan/most1.jpg" 
+    src="slike/balkan/most1.jpg" 
     alt="Impresivni most na Djurdjevića Tari"
     author="Julian Nyča"
     source="Wikimedia Commons"
@@ -63,7 +63,7 @@ Most nije samo lep prizor, već i kapija u svet adrenalina i avanture. Sa njega 
 ---
 
 {{< figcredit 
-    src="/slike/balkan/most2.jpg" 
+    src="slike/balkan/most2.jpg" 
     alt="Detalj sa splavarenja na rijeci Tari u blizini mosta"
     author="Jasmine Halki"
     source="Flickr"
@@ -83,7 +83,7 @@ Most na Đurđevića Tari je samo početak. On je ulazna kapija u **Nacionalni p
 ---
 
 {{< figcredit 
-    src="/slike/balkan/most3.jpg" 
+    src="slike/balkan/most3.jpg" 
     alt="Crno jezero na Žabljaku nedaleko od mosta"
     author="Nick Savchenko"
     source="Wikimedia commons"

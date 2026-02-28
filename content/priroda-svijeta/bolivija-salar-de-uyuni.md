@@ -42,7 +42,7 @@ Taj proces nije bio nagao. Nastajao je sporo, gotovo neprimjetno, sloj po sloj, 
 Geolozi Salar de Uyuni opisuju kao savršeno „zatvoren sistem“. Sve što uđe u ovaj prostor – voda, minerali, metali – ostaje tu. Upravo zbog toga Salar nije samo površina, već i arhiva vremena, pejzaž koji pamti klimatske cikluse planete.
 
 {{< figcredit 
-    src="/slike/bolivia-salar/salar1.jpg" 
+    src="slike/bolivia-salar/salar1.jpg" 
     alt="Unutrašnjost RMS vagona sa sortirnim policama"
     author="ngtycoelectronics"
     source="Pixabay"
@@ -90,7 +90,7 @@ Jedna od najposjećenijih tačaka na Salaru je <span class="highlight-text">**Is
 Takođe, u obližnjim lagunama koje se nalaze na ruti, poput **Laguna Colorada**, žive tri endemske vrste <span class="highlight-text">**andskih flamingosa**</span>, čiji ružičasti odsjaj stvara zadivljujući kontrast bijeloj, plavoj i crvenoj boji pejzaža.
 
 {{< figcredit 
-    src="/slike/bolivia-salar/salar2.jpg" 
+    src="slike/bolivia-salar/salar2.jpg" 
     alt="Flamingo na pustinji od soli u Boliviji"
     author="Indranil Roy"
     source="Unsplash / Wikimedia Commons / Public Domain"
@@ -120,7 +120,7 @@ Bolivija je, za razliku od nekih susjeda, oprezna u otvaranju svojih resursa str
 Zbog toga se Salar de Uyuni danas ne nalazi samo u turističkim brošurama, već i u diplomatskim analizama, ekonomskim strategijama i energetskim planovima 21. vijeka. Ovo više nije samo pitanje prirode, već pitanje <span class="highlight-text">moći, izbora i budućnosti</span>.
 
 {{< figcredit 
-    src="/slike/bolivia-salar/salar3.jpg" 
+    src="slike/bolivia-salar/salar3.jpg" 
     alt="Hotel od soli u Salar de Uyuni"
     author="PsamatheM"
     source="Wikimedia Commons"

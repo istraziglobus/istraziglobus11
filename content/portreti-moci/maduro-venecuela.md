@@ -32,7 +32,7 @@ Sedamdesetih godina Caracas je bio grad nebodera, autoputeva i luksuznih četvrt
 Ali ispod te blještave fasade krila se opasna slabost. Privreda gotovo u potpunosti zavisna od jednog resursa ostala je bez otpornosti. Država se navikla da sve probleme rješava prihodima iz zemlje, umjesto reformama i jačanjem institucija. Nafta je finansirala sistem, ali ga je istovremeno <span class="highlight-text">**učinila krhkim**</span>. Kada je došlo do prvih ozbiljnih potresa, temelji su se pokazali kao pijesak.
 
 {{< figcredit 
-    src="/slike/maduro/maduro1.jpg" 
+    src="slike/maduro/maduro1.jpg" 
     alt="Pogled na Karakas noću"
     author="Wilfredor"
     source="Wikimedia Commons"
@@ -65,7 +65,7 @@ Naftna industrija, stub ekonomije, proizvodi tek dio nekadašnjih količina. Raf
 Egzodus je prerastao u demografski slom. Milioni ljudi napustili su Venecuelu, često <span class="highlight-text">**pješke prelazeći granice**</span>. Kolumbija, Peru i Brazil primali su stotine hiljada izbjeglica, dok su cijeli kvartovi u **Caracasu** ostajali napušteni.
 
 {{< figcredit 
-    src="/slike/maduro/maduro2.jpg" 
+    src="slike/maduro/maduro2.jpg" 
     alt="Rafinerija Amuay na poluostrvu Paraguaná"
     author="Luisovalles"
     source="Wikimedia Commons"
@@ -99,7 +99,7 @@ Istovremeno, Maduro je vješto koristio regionalne podjele. Savezništva sa <spa
 Sudbina Venecuele tako je postala ogledalo **političke nestabilnosti** cijelog kontinenta.
 
 {{< figcredit 
-    src="/slike/maduro/maduro3.jpg" 
+    src="slike/maduro/maduro3.jpg" 
     alt="Rafinerija Amuay na poluostrvu Paraguaná"
     author="Proveaong"
     source="Flickr via Wikimedia Commons"

@@ -38,7 +38,7 @@ Rijeka ne samo da povezuje narode i naselja duž svog toka, već oblikuje cijeli
 >Rijeka Amazon ima više od 1.100 pritoka, a u kišnoj sezoni toliko naraste da se širina njenog korita proširi i do <strong>50 kilometara</strong>! U to vrijeme, pojedina sela postaju ostrva usred beskrajnog zelenog mora.
 
 {{< figcredit 
-    src="/slike/amazon/amazon1.jpg" 
+    src="slike/amazon/amazon1.jpg" 
     alt="Rijeka Amazon voznja brodom"
     author="Anton Tri Sutrisno"
     source="Wikimedia Commons"
@@ -68,7 +68,7 @@ Amazonija je dom nevjerovatne <span class="highlight-text">**biološke raznoliko
 Sve u Amazoniji ima svoju svrhu: čak i najmanji organizam učestvuje u održavanju ravnoteže ovog ogromnog prirodnog sistema.
 
 {{< figcredit 
-    src="/slike/amazon/amazon2.jpg" 
+    src="slike/amazon/amazon2.jpg" 
     alt="Tirkiznočela amazona jedna od napoznatih vrsta papagaja u ovoj oblasti"
     author="Charles J. Sharp"
     source="Wikimedia Commons"
@@ -94,7 +94,7 @@ Amazonija danas gubi **nekoliko hiljada hektara šume dnevno**. Krčenje zbog st
 U posljednjim godinama pokrenuti su brojni međunarodni programi za zaštitu Amazona, a Brazil, Peru i Kolumbija ulažu u obnovljive modele upravljanja šumama. Međutim, borba je neravnopravna – protiv interesa krupnih kompanija i brzog ekonomskog rasta, priroda često gubi.  
 
 {{< figcredit 
-    src="/slike/amazon/amazon3.jpg" 
+    src="slike/amazon/amazon3.jpg" 
     alt="Satelitski prikaz rijeke Amazon i prašume"
     author="Alexander Gerst (Astro_Alex)"
     source="Flickr (via Wikimedia Commons)"

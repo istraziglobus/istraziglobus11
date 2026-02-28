@@ -134,7 +134,7 @@ Moguće je doći autoputem, ali treba uračunati putarinu i gorivo. Putarina Srb
 - Vrijeme obilaska: 1–2h  
 
 {{< figcredit 
-    src="/slike/vodic/istanbul1.jpg" 
+    src="slike/vodic/istanbul1.jpg" 
     alt="Aja Sofija, nekad pravoslavna crkva danas dzamija"
     author="vedatzorluer"
     source="Pixabay"
@@ -175,7 +175,7 @@ Moguće je doći autoputem, ali treba uračunati putarinu i gorivo. Putarina Srb
 - Vrijeme obilaska: 1h  
 
 {{< figcredit 
-    src="/slike/vodic/istanbul2.jpg" 
+    src="slike/vodic/istanbul2.jpg" 
     alt="Pogled na Galata kulu"
     author="OkanKeskin"
     source="Wikimedia Commons"
@@ -268,7 +268,7 @@ Sa svojim džamijama, palatama, bazarima i živopisnim kvartovima, svaki putnik 
 Bilo da ste ljubitelj istorije, gastronomije ili želite uživati u vibrantnoj atmosferi metropole na dva kontinenta – Istanbul će vas osvojiti.  
 
 {{< figcredit 
-    src="/slike/vodic/istanbul3.jpg" 
+    src="slike/vodic/istanbul3.jpg" 
     alt="Brod krstari Bosforom"
     author="eren545"
     source="Pixabay"

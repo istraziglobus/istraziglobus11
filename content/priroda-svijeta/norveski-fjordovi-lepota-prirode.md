@@ -36,7 +36,7 @@ Fjordovi su dugački, uski zalivi mora koji se duboko usecaju u kopno, okruženi
 ---
 
 {{< figcredit 
-    src="/slike/norveska-fjord/fjordovi1.jpg" 
+    src="slike/norveska-fjord/fjordovi1.jpg" 
     alt="Atlanski put koji prolazi preko ostrvacdi i povezuje fjordove"
     author="Clementp.fr"
     source="Wikimedia Commons"
@@ -62,7 +62,7 @@ Na zapadnoj obali Norveške leži i **Lysefjord**, poznat po svojim ikoničnim s
 ---
 
 {{< figcredit 
-    src="/slike/norveska-fjord/fjordovi2.jpg" 
+    src="slike/norveska-fjord/fjordovi2.jpg" 
     alt="Girangerfjord dragulj norveskih fjordova"
     author="jeaneeem"
     source="Wikimedia commons"
@@ -103,7 +103,7 @@ Norveška vlada i lokalne zajednice posvećene su očuvanju netaknute lepote fjo
 ---
 
 {{< figcredit 
-    src="/slike/norveska-fjord/fjordovi3.jpg" 
+    src="slike/norveska-fjord/fjordovi3.jpg" 
     alt="Kućica i brodić u jednom od norveskih fjordova"
     author="Matthias Bethke"
     author="Aqwis"

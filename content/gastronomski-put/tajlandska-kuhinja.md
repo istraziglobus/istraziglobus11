@@ -32,7 +32,7 @@ Bangkok se ne posmatra samo očima, on se proživljava svim čulima, a najviše 
 Svaki bulevar, svaka uska uličica (soi) i svaki prilaz rijeci pulsira ritmom sjeckanja, prženja i miješanja sastojaka u velikim vrelim vatrostalnim posudama. U Bangkoku hrana nije statična; ona putuje na biciklima, kolicima, pa čak i na malim čamcima koji sijeku mutne vode kanala. Ovaj grad je <span class="highlight-text">**živi organizam**</span> koji se hrani 24 sata dnevno, odbijajući da ugasi svoje gorionike čak i u najdubljoj noći. Od ranih jutarnjih sati kada monasi u narandžastim odorama sakupljaju milostinju u obliku hrane, pa sve do ponoćnih sati kada mladi preplavljuju Kinesku četvrt, Bangkok ostaje najdinamičnija kuhinja na otvorenom koju je čovječanstvo ikada stvorilo.
 
 {{< figcredit 
-    src="/slike/bankok-hrana/bankok1.jpg" 
+    src="slike/bankok-hrana/bankok1.jpg" 
     alt="Pogled na jedanu od čuvenih pijaca u Bankoku"
     author="viarami"
     source="Pixabay"
@@ -58,7 +58,7 @@ Srce Bangkoka ne kuca u njegovim sterilnim tržnim centrima, već na vrelim, bu�
 Ulice poput <span class="highlight-text">**Yaowarata (Kineska četvrt) ili Sukhumvita**</span> su živi muzeji gastronomije gdje se mirisi roštilja, morskih plodova i kokosovog mlijeka miješaju sa izduvnim gasovima tuk-tukova, stvarajući mirisnu mapu grada. Ovdje ćete redovno vidjeti nadrealne prizore: direktora banke u odijelu od nekoliko hiljada dolara kako sjedi na **niskoj plastičnoj stolici** pored građevinskog radnika, obojica znojni i podjednako fokusirani na istu zdjelu ljute supe. To je vrhunska demokratija Bangkoka – pred savršenim tanjirom nestaju sve socijalne klase i ekonomske razlike. Čak je i konzervativni Michelin počeo da dodjeljuje zvjezdice uličnim tezgama poput legendarne <span class="highlight-text">**Jay Fai**</span>, čime je cijeli svijet konačno priznao da vrhunska kuhinja ne zahtijeva bijele stolnjake i srebrni pribor, već strast, vještinu i svježe sastojke.
 
 {{< figcredit 
-    src="/slike/bankok-hrana/bankok2.jpg" 
+    src="slike/bankok-hrana/bankok2.jpg" 
     alt="Tipična tezga sa hranom na ulicama Bangkoka"
     author="viarami"
     source="Pixabay"
@@ -92,7 +92,7 @@ Da biste zaista razumjeli kuhinju Bangkoka, morate se vratiti na rijeku <span cl
 Iako je većina kanala danas betonirana kako bi se napravilo mjesta za saobraćaj, duh riječne kuhinje i dalje živi u specijalitetima kao što su "Boat Noodles" (kuaitiao ruea). Ovi rezanci se tradicionalno služe u malim zdjelicama – običaj koji potiče iz vremena kada je prodavac morao jednom rukom da drži čamac, a drugom da pruži zdjelu kupcu na obali, pazeći da se supa ne prolije. Svaka ta mala zdjelica je koncentrat istorije, sa intenzivnim bujonom obogaćenim začinima koji su nekada dolazili <span class="highlight-text">direktno sa brodova iz dalekih zemalja</span>. Rijeka Chao Phraya ostaje tihi svjedok transformacije Bangkoka, podsjećajući nas da je ovaj grad, prije nego što je postao džungla od čelika, bio simbioza vode i plodne zemlje.
 
 {{< figcredit 
-    src="/slike/bankok-hrana/bankok3.jpg" 
+    src="slike/bankok-hrana/bankok3.jpg" 
     alt="Svakodnavna scena na kanalima rijeke u Bankoku"
     author="cegoh"
     source="Pixabay"

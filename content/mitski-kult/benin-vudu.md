@@ -33,7 +33,7 @@ U gradovima poput **Ouidaha, Porto-Nova i Abomeya**, mit nije odvojen od stvarno
 Ironično, upravo sa ove obale, kroz lance ropstva i kolonijalne traume, vudu je otišao u svijet — i tamo bio <span class="highlight-text">**izobličen u karikaturu**</span>. Ono što je u Beninu bilo složen kosmološki sistem, u Novom svijetu je, pod pritiskom ropstva, katolicizma i rasizma, svedeno na stereotipe, strahove i horor mitologiju.
 
 {{< figcredit 
-    src="/slike/benin-vudu/vudu1.jpg" 
+    src="slike/benin-vudu/vudu1.jpg" 
     alt="Svestenik u Grand Popo prilikom festivala vudu"
     author="Paul5263"
     source="Wikimedia Commons"
@@ -67,7 +67,7 @@ Kada osoba uđe u stanje <span class="highlight-text">**transa**</span>, to se n
 U društvu gdje zapadna psihijatrija nikada nije imala monopol nad tumačenjem svijesti, <span class="highlight-text">**trans nije patologija**</span>. On je sveta komunikacija. U tom trenutku, pojedinac prestaje biti privatna osoba i postaje kanal zajedničke simbolike.
 
 {{< figcredit 
-    src="/slike/benin-vudu/vudu2.jpg" 
+    src="slike/benin-vudu/vudu2.jpg" 
     alt="Tipična tezga iz Benina tokom vudu festivala"
     author="jbdodane"
     source="Flickr via Wikimedia Commons"
@@ -90,7 +90,7 @@ U tom kontekstu, rehabilitacija vudua postala je čin simboličkog otpora. <span
 Benin se time svjesno <span class="highlight-text">**suprotstavio zapadnom modelu**</span> sekularne države. Poruka je bila jasna: modernost ne mora značiti odbacivanje vlastite duhovne matrice.
 
 {{< figcredit 
-    src="/slike/benin-vudu/vudu3.jpg" 
+    src="slike/benin-vudu/vudu3.jpg" 
     alt="Trenutak pada u trans jedne od ucesnica vudu festivala"
     author="Sostoli"
     source="Wikimedia Commons"

@@ -29,7 +29,7 @@ TEN-T mreža, veliki evropski sistem puteva, pruga, luka i aerodroma, nastala je
 Evropski koridori predstavljaju linije koje spajaju sve te tačke – ne samo fizički, nego i kulturno.
 
 {{< figcredit 
-  src="/slike/evropski-koridori/evropski-koridori1.jpg"
+  src="slike/evropski-koridori/evropski-koridori1.jpg"
   alt="fotografija iz vazduha na jednan segment auto puta kroz Poljsku"
   author="marcinjozwiak"
   source="Pixabay"
@@ -59,7 +59,7 @@ Na sjeveru, između Baltika i Sjevernog mora, prostire se <span class="highlight
 Svi ovi koridori djeluju kao razgranata mreža koja obavija kontinent, ali putnik tek na Balkanu uviđa koliko je ta mreža živa i koliko joj je važno srce ovdje, na jugu Evrope.
 
 {{< figcredit 
-  src="/slike/evropski-koridori/evropski-koridori2.jpg"
+  src="slike/evropski-koridori/evropski-koridori2.jpg"
   alt="Brodovi na rijecnom koridoru RAjna-Dunav"
   author="Slyronit"
   source="Wikimedia Commons"
@@ -85,7 +85,7 @@ Nad svim tim leži <span class="highlight-text">**Koridor VII**</span> – Dunav
 Tu su i drugi pravci koji dotiču ili prelaze Balkan, poput Jadransko–jonskog koridora, zamišljene obalne rute koja bi jednom povezala <span class="highlight-text">Italiju, Sloveniju, Hrvatsku, Bosnu i Hercegovinu, Crnu Goru, Albaniju i Grčku</span> u jednu jedinstvenu jadransku putnu liniju. Kada bi bio završen, ovaj pravac bi imao potencijal da postane jedan od najljepših autoputeva u Evropi, uz obalu koja je među najraznolikijima na svijetu.
 
 {{< figcredit 
-  src="/slike/evropski-koridori/evropski-koridori3.jpg"
+  src="slike/evropski-koridori/evropski-koridori3.jpg"
   alt="Petlja na autoputu kroz Beograd"
   author="12345danNL"
   source="Wikimedia Commons"  

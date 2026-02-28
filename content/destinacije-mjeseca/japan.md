@@ -49,7 +49,7 @@ Japan je zemlja kontrasta – tamo gdje se pagoda iz 8. vijeka nadvija nad <span
 **Okinava** nudi kontrast: dok ostatak Japana uranja u jesen, ovdje more još uvijek mami, a plaže su mirne i tihe. Jugo i sjever Japana u oktobru su kao dvije različite zemlje, spojene u jednoj.  
 
 {{< figcredit 
-    src="/slike/japan/japan1.jpg" 
+    src="slike/japan/japan1.jpg" 
     alt="Tokio, najveći grad na svijetu"
     author="Ian G Shingler"
     source="Wikimedia Commons"
@@ -72,7 +72,7 @@ Jesen u Japanu ima svoje ime: <span class="highlight-text">*momijigari*</span>, 
 **Kanazava i vrt Kenroku-en** u oktobru su primjer japanske umjetnosti vrtova. Ribnjaci i bonsai drveće ogledaju se u <span class="highlight-text">jesenjim bojama</span>, a svaka staza otkriva novi prizor.  
 
 {{< figcredit 
-    src="/slike/japan/japan2.jpg" 
+    src="slike/japan/japan2.jpg" 
     alt="JApanska sveta planina Fudzi"
     author="bewkaman"
     source="Pixabay"
@@ -127,7 +127,7 @@ Japan u oktobru je zemlja u <span class="highlight-text">pokretu</span>. Svaki g
 * **Pijace:** Nishiki u Kjotu, Kuromon u Osaki, Tsukiji u Tokiju – pune jesenskih ukusa i mirisa.  
 
 {{< figcredit 
-    src="/slike/japan/japan3.jpg" 
+    src="slike/japan/japan3.jpg" 
     alt="Japanski dvorac Shrine u blizini grada Kjoto"
     author="GPoulsen"
     source="Pixabay"

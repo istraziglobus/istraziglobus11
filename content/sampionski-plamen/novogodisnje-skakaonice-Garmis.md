@@ -39,7 +39,7 @@ Takmičenje u Garmisch-Partenkirchenu tradicionalno se održava <span class="hig
 Garmisch često stvara privid stabilnosti i sigurnosti. Profil skakaonice ne djeluje zastrašujuće, a ambijent može djelovati ohrabrujuće. Međutim, istorija pokazuje da je upravo ovdje izgubljeno najviše prednosti. Skakači koji pokušaju da iskoriste euforiju često gube tehničku preciznost. Zato se Garmisch rijetko opisuje kao skakaonica pobjede, a mnogo češće kao skakaonica kontrole. <span class="highlight-text">Ko ovdje ostane miran, obično ostaje u borbi</span>. Ova "varka jednostavnosti" je ono što najviše pogađa favorite koji potcijene konfiguraciju terena ili uticaj publike. Fokus mora biti unutrašnji, gotovo meditativan, kako bi se neutralisala buka sa tribina i vlastita očekivanja. Garmisch kažnjava agresivnost, a nagrađuje fluidnost i strpljenje u vazduhu. Oni koji previše "napadaju" skok obično završe sa skraćenom putanjom i izgubljenim bodovima koji se više ne mogu nadoknaditi.
 
 {{< figcredit 
-    src="/slike/novogodisnje-skakaonice/garmis1.jpg" 
+    src="slike/novogodisnje-skakaonice/garmis1.jpg" 
     alt="Ski skakač u letu"
     author="Wladyslaw Sojka (www.sojka.photo)"
     source="Wikimedia Commons"
@@ -57,7 +57,7 @@ Skakaonica u Garmisch-Partenkirchenu, poznata kao <span class="highlight-text">G
 Nakon Drugog svjetskog rata, skakaonica je postala stalna tačka međunarodnih takmičenja. Tokom decenija je više puta obnavljana i prilagođavana savremenim zahtjevima. Najveća <span class="highlight-text">rekonstrukcija izvršena je 2007. godine, kada je stari objekat u potpunosti uklonjen</span>. Nova skakaonica zadržala je istorijsku lokaciju, ali je dobila moderan oblik i infrastrukturu. Time je Garmisch spojio tradiciju i savremeni sport. Danas se smatra jednim od najprepoznatljivijih objekata u skijaškim skokovima. Njena nova, futuristička silueta od čelika i stakla postala je moderan klasik, savršeno uklopljen u alpski pejzaž. Arhitekte su uspjele zadržati duh starog Garmischa, dok su istovremeno stvorili <span class="highlight-text">"leteću" konstrukciju koja djeluje lagano uprkos svojoj masivnosti</span>. Unutrašnjost tornja krije najmoderniju opremu za pripremu zaletišta, osiguravajući vrhunske uslove bez obzira na ćudi vremena. Ovakva transformacija osigurala je da Garmisch ostane relevantan i u 21. vijeku, kao most između herojske prošlosti i visokotehnološke budućnosti.
 
  {{< figcredit 
-    src="/slike/novogodisnje-skakaonice/garmis2.jpg" 
+    src="slike/novogodisnje-skakaonice/garmis2.jpg" 
     alt="Slika sa otvaranja OI 1936 u Garmišu ispod skakaonice"
     author="Unknown author (National Digital Archive of Poland)"
     source="Wikimedia Commons / NAC"
@@ -84,7 +84,7 @@ Kroz istoriju Novogodišnje turneje, Garmisch-Partenkirchen bio je mjesto brojni
 Statistika pokazuje da su ukupni pobjednici turneje u Garmischu često birali oprezniju strategiju. Umjesto rizika, fokusirali su se na sigurnost i bodovni balans. Takav pristup se pokazao efikasnijim na duge staze. Garmisch zato razdvaja taktički zrele skakače od onih koji se oslanjaju isključivo na formu. Ovdje se ne traži spektakl, već kontrola. Upravo u tome leži njegova specifična težina. Mudrost iskusnih skakača ogleda se u njihovoj spremnosti da prihvate trenutne uslove bez frustracije. <span class="highlight-text">Oni znaju da se turneja ne dobija u jednom skoku</span>, ali se može izgubiti u jednoj sekundi neodlučnosti. Stabilnost u doskoku i elegancija u zraku često donose više bodova od pukih metara koji nose preveliki rizik. Garmisch je, u suštini, <span class="highlight-text">velika partija sportskog šaha</span> na snijegu gdje svaki potez mora biti proračunat.
 
 {{< figcredit 
-    src="/slike/novogodisnje-skakaonice/garmis3.jpg" 
+    src="slike/novogodisnje-skakaonice/garmis3.jpg" 
     alt="Pogled na skakaonicu ljeti, bez snijega"
     author="Muns"
     source="Wikimedia Commons"

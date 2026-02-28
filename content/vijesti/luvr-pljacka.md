@@ -45,7 +45,7 @@ Odnijeli su osam dragocjenih predmeta, uključujući <span class="highlight-text
 Prema izvorima bliskim istrazi, lopovi su pobjegli na dva motocikla, a jedna od ukradenih kruna pronađena je nekoliko sati kasnije u predgrađu Sen-Deni. Potraga za ostalim predmetima nastavlja se intenzivno, a tužilaštvo je najavilo mogućnost međunarodne koordinacije ukoliko predmeti budu pokušani da se prebace preko granica.
 
 {{< figcredit 
-    src="/slike/luvr-pljacka/luvr2.jpg" 
+    src="slike/luvr-pljacka/luvr2.jpg" 
     alt="Galerija Apolon gdje su lopovi usli u sam muzej"
     author="Thomas Roessler"
     source="500px (via Wikimedia Commons)"
@@ -82,7 +82,7 @@ Osim toga, s obzirom na prirodu ukradenih predmeta – kraljevski nakit koji je 
 Finansijski dio ove operacije je takođe značajan: stručnjaci procjenjuju da će troškovi revizije i implementacije potpuno novog, višeslojnog sigurnosnog sistema, koji bi uključivao biometrijsku verifikaciju i napredne sisteme za detekciju elektromagnetnih smetnji, dostići cifru od preko 25 miliona evra. Ova suma, zajedno sa izgubljenom vrijednošću predmeta, stavlja pljačku u sam vrh najskupljih umjetničkih zločina ikada zabilježenih, naglašavajući koliko je cijena mira i sigurnosti u hramovima kulture visoka.
 
 {{< figcredit 
-    src="/slike/luvr-pljacka/luvr3.jpg" 
+    src="slike/luvr-pljacka/luvr3.jpg" 
     alt="Dijadema kraljice Marije Amalije i kraljice Hortense."
     author="Shonagon"
     source="Wikimedia Commons / Public Domain"
@@ -108,7 +108,7 @@ Muzej Luvr nije samo simbol Francuske već i čitave <span class="highlight-text
 Isto tako, Luvr je i kompleks sa sopstvenom logistikom — dugačke galerije, servisni prolazi, dvorišta i podzemne komunikacije koje povezuju depoe i izložbene sale. Ta mreža prolaza, iako neophodna za funkcionisanje tako ogromne institucije, predstavlja i operativni izazov u pogledu kontrole pristupa: svaki dodatni ulaz ili servisni prozor je potencijalno mjesto slabosti. <span class="highlight-text">Uprava muzeja</span> godinama radi na balansiranju dostupnosti javnosti i bezbjednosti eksponata; javne izložbe moraju biti pristupačne, ali i zaštićene — zadatak koji, kako je pokazao posljednji incident, nikada nije konačno riješen.
 
 {{< figcredit 
-    src="/slike/luvr-pljacka/luvr1.jpg" 
+    src="slike/luvr-pljacka/luvr1.jpg" 
     alt="Mona Liza u Luvru u Parizu"
     author="Foundry"
     source="Pixabay"

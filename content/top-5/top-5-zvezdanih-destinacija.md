@@ -37,7 +37,7 @@ Za putnike, posjeta Atakami znači šetnja kroz pejzaže koji podsjećaju na pov
 ---
 
 {{< figcredit 
-    src="/slike/zvezde/atakama.jpg" 
+    src="slike/zvezde/atakama.jpg" 
     alt="Zapanjujuće tamno nebo i sjaj Mlečnog puta iznad suvog pustinjskog pejzaža Atakame u Čileu."
     author="Carlos A. Durán / ESO"
     source="European Southern Observatory (ESO)"
@@ -64,7 +64,7 @@ Ovdje turisti mogu uživati u kombinaciji aktivnosti: dnevno planinarenje kroz l
 ---
 
 {{< figcredit 
-    src="/slike/zvezde/novi-zeland.jpg" 
+    src="slike/zvezde/novi-zeland.jpg" 
     alt="Fotografija Mlečnog puta (Milky Way) koji se reflektuje u Jezeru Tekapo, sa siluetom planine Aoraki/Mount Cook u regiji Mackenzie Dark Sky Reserve."
     author="Bernard Spragg. NZ"
     source="Flickr (Javno Domen)"
@@ -86,7 +86,7 @@ Turisti često biraju luksuzne lože sa otvorenim krovovima, gdje je moguće zas
 ---
 
 {{< figcredit 
-    src="/slike/zvezde/namibija.jpg" 
+    src="slike/zvezde/namibija.jpg" 
     alt="Spektakularni Mlečni put (Milky Way) sija iznad masivnih crvenih dina Sossusvleija u pustinji Namib"
     author="Matthias Bethke"
     source="Wikimedia Commons"
@@ -113,7 +113,7 @@ Za turiste, uspon na sam vrh zahtijeva dobru fizičku spremu i aklimatizaciju, a
 ---
 
 {{< figcredit 
-    src="/slike/zvezde/havaji.jpg" 
+    src="slike/zvezde/havaji.jpg" 
     alt="Intenzivno zvezdano nebo i Mlečni put iznad opservatorija na vrhu vulkana Mauna Kea na Havajima."
     author="builtbymath"
     source="Pixabay"
@@ -135,7 +135,7 @@ Osim same opservatorije, Tenerife je i mjesto gdje astronomija postaje dio kultu
 ---
 
 {{< figcredit 
-    src="/slike/zvezde/tenerife.jpg" 
+    src="slike/zvezde/tenerife.jpg" 
     alt="Jasan noćni snimak Mlečnog puta iznad vulkanskih formacija Nacionalnog parka Teide na Tenerifima."
     author="AstroAnthony"
     source="Wikimedia Commons"

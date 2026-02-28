@@ -42,7 +42,7 @@ Njegova konstrukcija zahtijevala je masovni međunarodni inženjerski napor i vi
 Sam projekat se smatra trijumfom francuskog inženjera Ferdinanda de Lessepsa, čija je kompanija nadgledala izgradnju. Kanal je postao <span class="highlight-text">**plava pista**</span> globalizacije.
 
 {{< figcredit 
-    src="/slike/suecki-kanal/suec1.jpg" 
+    src="slike/suecki-kanal/suec1.jpg" 
     alt="Istorijska slika brodova u Suetskom kanalu nakon otvaranja"
     author="Anonimno (KITLV kolekcija)"
     source="Leiden University Libraries"
@@ -79,7 +79,7 @@ Piloti su majstori plovidbe: <span class="highlight-text">poznaju svaki zavoj, s
 
 
 {{< figcredit 
-    src="/slike/suecki-kanal/suec2.jpg" 
+    src="slike/suecki-kanal/suec2.jpg" 
     alt="Brod u lici koji čeka utovar"
     author="JAXPORT"
     source="Flickr / Wikimedia Commons"
@@ -109,7 +109,7 @@ U martu 2021. godine desilo se nešto što je zvučalo nemoguće: ogromni brod <
 Slika zaglavljenog broda postala je simbol krhkosti moderne ekonomije. Cijene goriva su skočile, tržišta su se uzdrmala, a memovi preplavili internet. Samo napori spasilačkih timova, tegljača i bagera, koji su radili pod izuzetnim pritiskom, uspjeli su nakon šest dana osloboditi plovilo i ponovo pokrenuti protok roba. Taj događaj pokazao je koliko je Suecki kanal važan – i koliko je <span class="highlight-text">osjetljiv</span>.
 
 {{< figcredit 
-    src="/slike/suecki-kanal/suec3.jpg" 
+    src="slike/suecki-kanal/suec3.jpg" 
     alt="Brod Ever Given koji se 2021 zaglavio u Sueckom kanalu "
     author="NASA JSC ISS image library"
     source="Wikimedia Commons / Public Domain"

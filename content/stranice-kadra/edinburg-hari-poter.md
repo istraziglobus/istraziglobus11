@@ -44,7 +44,7 @@ Na fasadi kafića <em>The Elephant House</em> danas se nalazi ploča koja označ
 Nakon požara 2021., lokalna zajednica i fanovi širom svijeta pokrenuli su akciju prikupljanja sredstava za obnovu, želeći očuvati ovo simbolično mjesto književne magije.
 
 {{< figcredit 
-    src="/slike/edinburg-hari-poter/hari-poter1.jpg" 
+    src="slike/edinburg-hari-poter/hari-poter1.jpg" 
     alt="Kafić koji se često pominje kao rodno mjesto HArija Potera"
     author="Bohao Zhao"
     source="Wikimedia Commons"
@@ -78,7 +78,7 @@ U blizini škole nalazi se i nekoliko uličica koje, kad magla padne, izgledaju 
 Nije teško zamisliti Harryja, Rona i Hermionu kako prolaze tim ulicama noseći knjige o napicima i čarolijama.  
 
 {{< figcredit 
-    src="/slike/edinburg-hari-poter/hari-poter2.jpg" 
+    src="slike/edinburg-hari-poter/hari-poter2.jpg" 
     alt="Škola George Heriot’s koja je poslužila kao uzor za Hogwarts"
     author="Peulle"
     source="Wikimedia Commons"
@@ -117,7 +117,7 @@ Kada se tomu doda Rowlingina mašta, grad je postao pravi epicentar književne �
 Njegove kamene zidine i uske aleje nisu samo inspirirale Hogwarts – one su *postale* Hogwarts.  
 
 {{< figcredit 
-    src="/slike/edinburg-hari-poter/hari-poter3.jpg" 
+    src="slike/edinburg-hari-poter/hari-poter3.jpg" 
     alt="Silueta grada iz filma Čarobni svijet Harija Potera - ministarstvo magije"
     author="Gfgbeach"
     source="Wikimedia Commons"

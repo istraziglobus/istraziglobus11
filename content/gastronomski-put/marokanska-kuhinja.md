@@ -37,7 +37,7 @@ Srž marokanske kuhinje leži u savršenoj harmoniji slatkog i slanog, kiselog i
 ---
 
 {{< figcredit 
-    src="/slike/maroko-kuhinja/maroko-kuhinja1.jpg" 
+    src="slike/maroko-kuhinja/maroko-kuhinja1.jpg" 
     alt="Začini raznih ukusa i boja na pijaci u Maroku"
     author="wirestock"
     source="Freepik"
@@ -61,7 +61,7 @@ Iako su `tagine` i `kus-kus` centralni, marokansko kulinarsko bogatstvo nudi mno
 ---
 
 {{< figcredit 
-    src="/slike/maroko-kuhinja/maroko-kuhinja2.jpg" 
+    src="slike/maroko-kuhinja/maroko-kuhinja2.jpg" 
     alt="Tajine - jedno od specijaliteta Maroka"
     author="Marco Almbauer"
     source="Wikimedia Commons"
@@ -93,7 +93,7 @@ Poseta Maroku ne bi bila potpuna bez istraživanja živahne ulične scene, poseb
 
 
 {{< figcredit 
-    src="/slike/maroko-kuhinja/maroko-kuhinja3.jpg" 
+    src="slike/maroko-kuhinja/maroko-kuhinja3.jpg" 
     alt="Ulična hrana u Maraku"
     author="Grand Parc - Bordeaux, France"
     source="Wikimedia Commons"

@@ -31,7 +31,7 @@ Holivud nije samo geografska tačka na mapi Los Anđelesa. On je ideja, simbol i
 U srcu južne Kalifornije, između okeana i pustinje, nastala je industrija koja je pretvorila priče u robu, emocije u kapital i iluziju u najprofitabilniji izvozni proizvod Amerike. Ova mašinerija je uspjela da standardizuje <span class="highlight-text">**ljudsku maštu**</span>, dajući joj konkretne oblike i lica koja prepoznajemo kao sopstvene heroje i zlikovce. Ali Holivud nije nastao kao planirani centar moći. On je proizvod slučaja, bjekstva, tehnologije i surove tržišne borbe u kojoj su opstajali samo najsmjeliji sanjari i najbrutalniji biznismeni.
 
 {{< figcredit 
-    src="/slike/holivud/holivud1.jpg" 
+    src="slike/holivud/holivud1.jpg" 
     alt="Pogled na Los Andjeles sa brda dje se nalazi Holivud"
     author="manniguttenberger"
     source="Pixabay"
@@ -57,7 +57,7 @@ Između 1920-ih i 1950-ih godina, Holivud ulazi u svoje <span class="highlight-t
 U ovom periodu, glumci više nisu samo izvođači – oni postaju <span class="highlight-text">**mitološke figure**</span>, nedodirljiva božanstva sa srebrnog ekrana. Marilyn Monroe, Humphrey Bogart, Clark Gable i Audrey Hepburn nisu prodavali samo filmove, već su bili ambasadori novog načina života. Holivud je pažljivo kreirao idealizovanu sliku Amerike: gradove pune glamura, heroje bez mrlje i romanse koje su završavale savršenim poljupcima, ignorišući tadašnju surovu realnost Velike depresije ili rasne segregacije. Bioskop je postao <span class="highlight-text">sekularni hram</span>, a Holivud njegov apsolutni centar, fabrika koja je svake sedmice isporučivala novu dozu nade i zaborava milionskoj publici.
 
 {{< figcredit 
-    src="/slike/holivud/holivud2.jpg" 
+    src="slike/holivud/holivud2.jpg" 
     alt="Cuvena zvjezda na Holivudu Merlin Monro"
     author="RJA1988"
     source="Pixabay"
@@ -85,7 +85,7 @@ Za razliku od evropskih gradova sa hiljadugodišnjom istorijom, <span class="hig
 Holivud je stvorio paradoks: grad bez jasnog centra, decentralizovanu masu betona i palmi, ali sa najsnažnijim globalnim identitetom. Dok su gradovi poput Detroita izvozili automobile, Los Anđeles je <span class="highlight-text">izvozio slike, želje i životne stilove</span> – i time redefinisao pojam moći u modernom svijetu. Meka moć (soft power) nije bila u vojsci, već u sposobnosti da natjeraš ljude u Tokiju, Parizu ili Beogradu da žele da izgledaju kao tvoji glavni junaci.
 
 {{< figcredit 
-    src="/slike/holivud/holivud3.jpg" 
+    src="slike/holivud/holivud3.jpg" 
     alt="Fotografija sa jednog od autoputeva kroz Los Andjeles"
     author="Jsig9"
     source="Pixabay"

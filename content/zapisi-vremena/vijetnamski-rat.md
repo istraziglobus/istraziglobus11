@@ -42,7 +42,7 @@ Sjedinjene Američke Države su u ovaj sukob ušle vođene "Domino teorijom", st
 Sukob je trajao punih 20 godina, ostavljajući iza sebe milione žrtava i pejzaž trajno uništen hemijskim agensima koji su trebali da razotkriju <span class="highlight-text">**gerilce**</span>. Za narod Vijetnama, rat nije bio samo pitanje ideologije, već borba za nacionalno oslobođenje od svakog stranog uticaja, bez obzira na cijenu. Upravo u tom kontekstu, Cu Chi tuneli su evoluirali od prostih rupa u kompleksne sisteme koji su postali srce otpora i dokaz da se duh naroda ne može ugušiti bombama.
 
 {{< figcredit 
-    src="/slike/vijetnam-tuneli/tuneli1.jpg" 
+    src="slike/vijetnam-tuneli/tuneli1.jpg" 
     alt="Vijetnamski vojnik koji se predaje u ratu u Vijetnamu"
     author="LCPL S.M. Leighty / USMC"
     source="National Archives via Wikimedia Commons"
@@ -72,7 +72,7 @@ Psihološki efekat tunela bio je razoran za moral neprijatelja, jer je svaki kor
 Ovaj dizajn nije služio samo za odbranu, već i za efikasnu <span class="highlight-text">**komunikaciju**</span> i kretanje trupa bez znanja neprijatelja koji je patrolirao na površini džungle. Čitavi bataljoni su mogli da se prebace s jedne tačke na drugu, izvrše iznenadni napad i bukvalno ispare u zemlju pred očima zatečenih vojnika. Ta sposobnost da se prostor koristi kao oružje definisala je Cu Chi kao vrhunski primjer psihološkog ratovanja kroz inteligentnu upotrebu prirodnog terena.
 
 {{< figcredit 
-    src="/slike/vijetnam-tuneli/tuneli2.jpg" 
+    src="slike/vijetnam-tuneli/tuneli2.jpg" 
     alt="Unutrašnjost originalnog Cu Chi tunela u Vijetnamu"
     author="Matthew Blissett"
     source="Wikimedia Commons"
@@ -112,7 +112,7 @@ Pored vojnih potreba, tuneli su bili dom za porodice, dok su djeca pohađala <sp
 Međutim, život u mraku nosio je i strašne zdravstvene <span class="highlight-text">**izazove**</span>, od nedostatka vitamina do problema sa raznim parazitima. Ljudi su provodili dane u čučnju, što je ostavljalo trajne fizičke posljedice na tijela generacija koje su tu odrasle. Cu Chi nije bio samo vojni podvig, već epski test ljudske biologije, dokazujući da je želja za životom u slobodi moćnija od potrebe za svjetlošću i normalnim prostorom.
 
 {{< figcredit 
-    src="/slike/vijetnam-tuneli/tuneli3.jpg" 
+    src="slike/vijetnam-tuneli/tuneli3.jpg" 
     alt="Pogled na memorijalni kompleks Cu Chi tunela u Vijetnamu"
     author="Isabell Schulz"
     source="Flickr via Wikimedia Commons"

@@ -31,7 +31,7 @@ Grenland je mjesto koje ruši geografske navike i sve ono što obično podrazumi
 Grenland nosi svoje autohtono ime <span class="highlight-text">Kalaallit Nunaat – Zemlja ljudi</span>. To je ime naroda Inuita, koji ovdje žive hiljadama godina i koji su uspjeli da se prilagode uslovima u kojima bi većina civilizacija jednostavno nestala. U ovom svijetu polarnog dana i polarne noći vrijeme teče drugačije, a horizont se često gubi u neprekidnom moru bijeline. Ipak, upravo u toj jednostavnosti i surovosti nalazi se posebna ljepota Grenlanda – osjećaj da se nalazite na granici <span class="highlight-text">poznatog svijeta</span>. Ovdje opstanak nije borba protiv prirode, već duboko razumijevanje njenih hirova, gdje svaki izlazak sunca ili promjena vjetra nosi težinu odluke o životu i smrti.
 
 {{< figcredit 
-    src="/slike/grenland/grenland1.jpg" 
+    src="slike/grenland/grenland1.jpg" 
     alt="Kruzer koji krstari kroz glečere"
     author="Gordon Leggett / Wikimedia Commons"
     source="Wikimedia Commons"
@@ -57,7 +57,7 @@ Nuuk, glavni grad Grenlanda, mali je po broju stanovnika, ali velik po simbolici
 Nuuk je grad u kojem se na ulici može čuti grenlandski, danski i engleski jezik, <span class="highlight-text">gdje harpun i laptop žive u istoj kući</span>, a more je uvijek na dometu pogleda. On simbolizuje prelaz između dva svijeta – drevnog, koji se oslanja na lov i led, i modernog, koji se suočava sa globalnim zagrijavanjem i klimatskim promjenama koje direktno mijenjaju svakodnevni život stanovnika. Fjordovi koji okružuju grad čine jedan od najvećih sistema kanala na svijetu, pružajući utočište kitovima i brojnim morskim vrstama koje su vijekovima hranile lokalno stanovništvo. U Nuuku se ne živi uprkos Arktiku, već sa <span class="highlight-text">Arktikom, prihvatajući njegove izazove kao dio nacionalnog ponosa</span>.
 
 {{< figcredit 
-    src="/slike/grenland/grenland2.jpg" 
+    src="slike/grenland/grenland2.jpg" 
     alt="Pogled na glavni grad Nuuk sa obližnje planine Ukkusissat"
     author="Quintin Soloviev"
     source="Wikimedia Commons"
@@ -77,7 +77,7 @@ Pejzaž Ilulissata izgleda kao <span class="highlight-text">**groblje santi leda
 <span class="highlight-text">UNESCO je stavio Ilulissat Icefjord pod zaštitu kao svjetsku baštinu</span>, jer se ovdje jasno vidi dinamika ledenog štita Grenlanda i snaga prirodnih procesa koji oblikuju Zemlju. To je mjesto gdje se geologija ne čita u knjigama, već posmatra u realnom vremenu. Hodajući drvenim stazama koje vode uz obalu fjorda, posjetilac se suočava sa razmjerima koji su gotovo nepojmlivi ljudskom umu, gdje sante visoke kao soliteri plutaju u apsolutnom miru.
 
 {{< figcredit 
-    src="/slike/grenland/grenland3.jpg" 
+    src="slike/grenland/grenland3.jpg" 
     alt="Panoramski pogled na grad Ilulissat"
     author="Buiobuione"
     source="Wikimedia Commons"

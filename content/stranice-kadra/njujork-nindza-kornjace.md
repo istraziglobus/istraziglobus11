@@ -42,7 +42,7 @@ Ova kontradikcija savršeno odražava prirodu modernih gradova poput Njujorka, k
 Njihova mutacija može se posmatrati kao najčišća metafora urbanog života u dvadeset prvom vijeku. Grad, kao ogroman i nezaustavljiv reaktor, transformiše sve što dotakne, mijenjajući ljude na načine koje oni često ne primjećuju. Ljudi koji dolaze u Njujork rijetko ostaju isti; oni se prilagođavaju, lome i ponovo grade u skladu sa potrebama metropole. Kornjače su ekstremna, fizička manifestacija tog procesa – one su direktan rezultat <span class="highlight-text">**hemije grada**</span>, bića koja su doslovno i metaforički oblikovana od strane svog okruženja.
 
 {{< figcredit 
-    src="/slike/njujork-kornjace/kornjace1.jpg" 
+    src="slike/njujork-kornjace/kornjace1.jpg" 
     alt="Nindza kornjace u mjesecini nad Njujorkom"
     author="Grmini"
     source="/"
@@ -87,7 +87,7 @@ One posmatraju grad bez učestvovanja u njegovim svakodnevnim iluzijama, trkama 
 Ali ova sloboda, koliko god bila privlačna, dolazi sa veoma visokom cijenom vječite izolacije. Njihova anonimnost je istovremeno njihova najjača zaštita, ali i zid koji ih dijeli od čovječanstva koje pokušavaju da spase. Postojati između svjetova znači nikada ne biti potpuno prihvaćen ni u jednom, što stvara <span class="highlight-text">**melanholični ton**</span> njihove herojske egzistencije. Oni su vječiti autsajderi koji najbolje poznaju grad koji ih se, u svojoj suštini, najviše plaši.
 
 {{< figcredit 
-    src="/slike/njujork-kornjace/kornjace2.jpg" 
+    src="slike/njujork-kornjace/kornjace2.jpg" 
     alt="Pogled na panoramu Njujorka"
     author="Witizia"
     source="Pixabay"
@@ -117,7 +117,7 @@ Ova anonimnost transformiše njihovo herojstvo iz performansa u čist čin odgov
 Ovaj koncept predstavlja radikalnu suprotnost modernom društvu, koje često vrednuje vidljivost i broj pratilaca više od same suštine djela. Kornjače nas uče da je <span class="highlight-text">**prava moć nevidljiva**</span> i da najvažnije bitke za jedan grad često vode oni čija imena nikada nećemo saznati. Njihovo postojanje je lekcija o skromnosti i snazi koja dolazi iz sjene, podsjećajući nas da se svijet ne vrti samo oko onoga što je osvijetljeno reflektorima.
 
 {{< figcredit 
-    src="/slike/njujork-kornjace/kornjace3.jpg" 
+    src="slike/njujork-kornjace/kornjace3.jpg" 
     alt="Podzemlje Njujorka"
     author="ChatGPT"
     source="/"

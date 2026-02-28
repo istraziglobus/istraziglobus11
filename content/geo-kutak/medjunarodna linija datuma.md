@@ -36,7 +36,7 @@ Međunarodna linija datuma proteže se duž 180. meridijana, ali nikada nije pot
 ---
 
 {{< figcredit 
-    src="/slike/vremenske-zone/dateline1.jpg" 
+    src="slike/vremenske-zone/dateline1.jpg" 
     alt="Medjunardona linija datuma prikazana na mapi"
     author="Amitchell125"
     source="Wikimedia Commons"
@@ -60,7 +60,7 @@ Najpoznatiji apsurd dogodio se 2011. godine, kada je <span class="highlight-text
 ---
 
 {{< figcredit 
-    src="/slike/vremenske-zone/dateline2.jpg" 
+    src="slike/vremenske-zone/dateline2.jpg" 
     alt="Pogled na ostvra koja pripadaju Pacifickom regionu"
     author="David Broad"
     source="Panoramio (via Wikimedia Commons)"
@@ -101,7 +101,7 @@ Međunarodna linija datuma podsjeća nas da je vrijeme ljudska tvorevina. Prirod
 ---
 
 {{< figcredit 
-    src="/slike/vremenske-zone/dateline3.jpg" 
+    src="slike/vremenske-zone/dateline3.jpg" 
     alt="Zalazak sunca sa broda"
     author="ImagePerson"
     source="Wikimedia Commons"

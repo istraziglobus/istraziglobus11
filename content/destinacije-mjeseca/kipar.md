@@ -49,7 +49,7 @@ Kiparska zemlja je krunisana tragovima bezbrojnih osvajača, svedočeći o njego
 ---
 
 {{< figcredit 
-    src="/slike/kipar/kipar1.jpg" 
+    src="slike/kipar/kipar1.jpg" 
     alt="Pogled sa vidikovca na džamiju Selimiju u Nikoziji"
     author="A.Savin"
     source="Wikimedia Commons"
@@ -75,7 +75,7 @@ Kiparski pejzaž je iznenađujuće raznolik, pružajući spektakularne kontraste
 ---
 
 {{< figcredit 
-    src="/slike/kipar/kipar2.jpg" 
+    src="slike/kipar/kipar2.jpg" 
     alt="Pogled na jednu od marina na Kipru"
     author="dimitrisvetsikas1969"
     source="Pixabay"
@@ -108,7 +108,7 @@ Vinogradarska tradicija Kipra seže hiljadama godina unazad, a <span class="high
 ---
 
 {{< figcredit 
-    src="/slike/kipar/kipar3.jpg" 
+    src="slike/kipar/kipar3.jpg" 
     alt="Vinogradi vinarije Zenon na Kipru"
     author="Serhio Magpie"
     source="Wikimedia Commons"

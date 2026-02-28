@@ -41,7 +41,7 @@ Festival San Fermín ima dugu i bogatu istoriju, datirajući još iz srednjeg ve
 ---
 
 {{< figcredit 
-    src="/slike/san-fermin/san-fermin1.jpg" 
+    src="slike/san-fermin/san-fermin1.jpg" 
     alt="Vjerske procesije povodoma dana San Fermina"
     author="JLVwiki"
     source="Wikimedia Commons"
@@ -61,7 +61,7 @@ Nijedan pisani opis, pa čak ni televizijski prenos, ne može u potpunosti prene
 ---
 
 {{< figcredit 
-    src="/slike/san-fermin/san-fermin2.jpg" 
+    src="slike/san-fermin/san-fermin2.jpg" 
     alt="Narod okupljen na trgu čeka borbu sa bikovima"
     author="San Fermin Pamplona Navarra"
     source="Flickr"
@@ -92,7 +92,7 @@ San Fermín nije samo niz događaja; to je duboko ukorenjen kulturni fenomen koj
 ---
 
 {{< figcredit 
-    src="/slike/san-fermin/san-fermin3.jpg" 
+    src="slike/san-fermin/san-fermin3.jpg" 
     alt="Tradicionalni ples povodom dana San Fermina"
    author="SanFermin"
     source="Pixabay"

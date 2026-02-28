@@ -39,7 +39,7 @@ Iz rupe se počeo oslobađati metan, a strahovalo se da bi otrovni gasovi mogli 
 ---
 
 {{< figcredit 
-    src="/slike/turkmenistan/vrata pakla1.jpg" 
+    src="slike/turkmenistan/vrata pakla1.jpg" 
     alt="Pogled iz vazduha na užareni Gasni krater Darvaza"
     author="Kalpak Travel"
     source="Wikimedia Commons"
@@ -69,7 +69,7 @@ Na rubu se osjeća toplota koja izbija iz zemlje, vatra pucketa i blješti, a mi
 ---
 
 {{< figcredit 
-    src="/slike/turkmenistan/vrata pakla2.jpg" 
+    src="slike/turkmenistan/vrata pakla2.jpg" 
     alt="Turisti posmatraju užareni Gasni krater Darvaza, poznat kao Vrata pakla"
     author="miketnorton"
     source="Flickr"
@@ -112,7 +112,7 @@ Neki turisti kažu da osjećaj gledanja u krater izaziva strahopoštovanje slič
 ---
 
 {{< figcredit 
-    src="/slike/turkmenistan/vrata pakla3.jpg" 
+    src="slike/turkmenistan/vrata pakla3.jpg" 
     alt="Gorući Gasni krater Darvaza"
     author="flydime"
     source="Wikimedia Commons"

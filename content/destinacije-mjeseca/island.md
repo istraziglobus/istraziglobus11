@@ -54,7 +54,7 @@ Island je **geografski paradoks**. Na jednom mjestu imate masivne glečere koji 
 Crne plaže juga Islanda, nastale od vulkanskog pijeska, djeluju kao pejzaži sa druge planete. Talasi Atlantika udaraju o obalu s brutalnom snagom, podsjećajući da je ovo ostrvo stalno **izloženo moći okeana**. Unutrašnjost Islanda je gotovo nenaseljiva: pustinje od lave, planinski masivi bez vegetacije, rijeke koje presijecaju surovi teren. To je prostor koji se ne osvaja lako. Čak i danas, veliki dijelovi unutrašnjosti dostupni su samo terenskim vozilima i tokom kratkog ljetnjeg perioda, što dodatno naglašava <span class="highlight-text">**kontrast**</span> između naseljenih obala i praznine u srcu ostrva.
 
 {{< figcredit 
-  src="/slike/island/island1.jpg"
+  src="slike/island/island1.jpg"
   alt="Svijetionik na kraju svijeta na Islandu"
   author="susnpics"
   source="Pixabay"
@@ -82,7 +82,7 @@ Reykjavik je jedan od najmanjih glavnih gradova na svijetu, ali njegova uloga u 
 Grad je specifičan po svojoj skromnosti. Nema monumentalnih nebodera, nema grandioznih bulevara. Umjesto toga, Reykjavik je niz niskih zgrada, obojenih kuća, malih kafića i kulturnih prostora. U tom naizgled <span class="highlight-text">**skromnom urbanom tkivu**</span> krije se snažna kreativna scena. Muzička industrija, književnost, vizuelne umjetnosti – Island je iznjedrio globalno prepoznatljive autore i umjetnike koji često crpe inspiraciju iz pejzaža koji ih okružuje. Reykjavik je mali grad sa velikim kulturnim odjekom daleko izvan svojih geografskih granica.
 
 {{< figcredit 
-  src="/slike/island/island2.jpg"
+  src="slike/island/island2.jpg"
   alt="Rejkjavik glavni grad Islanda"
   author="nextvoyage"
   source="Pixabay"
@@ -121,7 +121,7 @@ Tokom posljednje dvije decenije, Island je postao globalni turistički fenomen. 
 Island se suočava sa dilemom koja pogađa mnoge “ikonične” destinacije: kako sačuvati autentičnost i prirodu, a istovremeno omogućiti ekonomski razvoj? Odgovor još nije jasan. Ono što je sigurno jeste da će odnos između turizma i očuvanja prirode oblikovati budućnost ostrva. <span class="highlight-text">**Debata o ograničavanju broja posjetilaca**</span>, uvođenju strožih ekoloških pravila i redefinisanju turističkog modela već je dio javnog diskursa na Islandu.
 
 {{< figcredit 
-  src="/slike/island/island3.jpg"
+  src="slike/island/island3.jpg"
   alt="Famozna crna plaza na Islandu"
   author="IdaT"
   source="Pixabay"

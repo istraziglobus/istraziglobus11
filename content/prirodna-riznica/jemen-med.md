@@ -34,7 +34,7 @@ Jemen nije samo politička tačka na karti Bliskog istoka. On je jedna od najsta
 Planinski masivi Jemena stvaraju mikroklime koje omogućavaju rast biljaka koje ne postoje <span class="highlight-text">**nigdje drugdje**</span> u Arabiji. U tim mikroklimama, izolovanim od ostatka svijeta, razvile su se i posebne vrste pčela. Ovdje se pčelarstvo nikada nije industrijalizovalo. Umjesto plastičnih košnica i selektivnog uzgoja, ljudi su zadržali metode <span class="highlight-text">**stare stotinama godina**</span>, oslanjajući se na znanje prenošeno usmeno s generacije na generaciju.
 
 {{< figcredit 
-    src="/slike/jemen-med/med1.jpg" 
+    src="slike/jemen-med/med1.jpg" 
     alt="Dolina Kat u Jermeniji"
     author="Rod Waddington"
     source="Flickr via Wikimedia Commons"
@@ -64,7 +64,7 @@ Berba ovog meda nema ništa zajedničko sa modernim pčelarstvom. Pčelari se pe
 Na tržištima <span class="highlight-text">**Dubaija, Rijada i Tokija**</span>, cijena kilograma pravog jemenskog sidr meda može preći i <span class="highlight-text">**tristo dolara**</span>. Ironično, upravo oni koji proizvode najskuplji med na svijetu često žive u ekstremnom siromaštvu.
 
 {{< figcredit 
-    src="/slike/jemen-med/med2.jpg" 
+    src="slike/jemen-med/med2.jpg" 
     alt="Cijenjeno drvo Sidr"
     author="Philipp Weigell"
     source="Wikimedia Commons"
@@ -94,7 +94,7 @@ Mnogi pčelari su poginuli ili su napustili svoja sela, ostavljajući iza sebe k
 Tradicionalno znanje se prekida. Mladi odlaze u gradove ili u vojsku, tražeći bilo kakav izvor prihoda i sigurnosti. Košnice ostaju **prazne**</span>, a zajedno s njima nestaju i vještine koje su se prenosile generacijama. Ovo nije samo humanitarna kriza. Ovo je <span class="highlight-text">**ekološka katastrofa**</span> u tišini, koja se odvija daleko od očiju svijeta.
 
 {{< figcredit 
-    src="/slike/jemen-med/med3.jpg" 
+    src="slike/jemen-med/med3.jpg" 
     alt="Pogled an grad Sanu"
     author="Hamza Shiban"
     source="500px via Wikimedia Commons"

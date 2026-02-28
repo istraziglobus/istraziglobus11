@@ -37,7 +37,7 @@ Mnogi preživjeli, poznati kao *hibakusha*, nosili su fizičke i emocionalne ož
 Njihova svjedočanstva, zabilježena u knjigama i filmovima, i danas odzvanjaju svijetom.
 
 {{< figcredit 
-    src="/slike/hirosima-bomba/hirosima1.jpg" 
+    src="slike/hirosima-bomba/hirosima1.jpg" 
     alt="trenutak pada atomske bombe na Hirosimu"
     author="US Military (Author Not Revealed)"
     source="Wikimedia Commons / US Public Domain"
@@ -61,7 +61,7 @@ Posjetioci, turisti i lokalci, često zaplaču dok slušaju zvona koja označava
 Tada, Hirošima nije samo mjesto — ona je živo sjećanje, srce svijeta koje kuca za sve izgubljene.
 
 {{< figcredit 
-    src="/slike/hirosima-bomba/hirosima2.jpg" 
+    src="slike/hirosima-bomba/hirosima2.jpg" 
     alt="Peace memorijalni park u Hirosimi"
     author="ChiemSeherin"
     source="Pixabay"
@@ -105,7 +105,7 @@ Njeni stanovnici, potomci onih koji su preživjeli, sa ponosom govore o gradu ka
 Za njih, svaka nova generacija je dokaz da se svjetlost može roditi i iz najdubljeg mraka.
 
 {{< figcredit 
-    src="/slike/hirosima-bomba/hirosima3.jpg" 
+    src="slike/hirosima-bomba/hirosima3.jpg" 
     alt="Panorama Hirošiem noću"
     author="Nryate"
     source="Wikimedia Commons"

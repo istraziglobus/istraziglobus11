@@ -34,7 +34,7 @@ U prostranstvima Centralne Azije, između Rusije i Kine, prostire se jedna od <s
 U tom smislu, vazdušna infrastruktura Mongolije dobija ulogu sličnu onoj koju imaju luke u pomorskim državama ili megaterminali u globalnim avio-čvorištima. Aerodrom nije samo mjesto dolaska i odlaska, već prostor u kojem se susreću <span class="highlight-text">**identitet zemlje**</span>, njene geopolitičke ambicije i predstava o modernosti. Chinggis Khaan International Airport postaje ogledalo državne strategije: pokušaj da se iz izolovanog kontinentalnog prostora pređe u fazu vidljive povezanosti sa <span class="highlight-text">**globalnim nebom**</span>.
 
 {{< figcredit 
-    src="/slike/mongolija-aerodrom/mongolija1.jpg" 
+    src="slike/mongolija-aerodrom/mongolija1.jpg" 
     alt="Prelijepi pejzazi Mongolije"
     author="Alexandr frolov"
     source="Wikimedia Commons (Featured Picture)"
@@ -64,7 +64,7 @@ Aerodrom je zamišljen kao “prvi dodir” putnika sa Mongolijom. Prostor dolas
 Chinggis Khaan International Airport time dobija ulogu reprezentativnog prostora države. On nije samo logistički čvor, već simbol ambicije da se Mongolija percipira kao <span class="highlight-text">**moderna i otvorena**</span> destinacija. Aerodrom postaje svojevrsna vizuelna deklaracija: poruka da zemlja želi biti viđena, posjećena i uključena u globalne tokove kretanja.
 
 {{< figcredit 
-    src="/slike/mongolija-aerodrom/mongolija2.jpg" 
+    src="slike/mongolija-aerodrom/mongolija2.jpg" 
     alt="spomenik u zgradi aerodroma u Mongoliji"
     author="Fred Cherrygarden"
     source="Wikimedia Commons"
@@ -102,7 +102,7 @@ Chinggis Khaan International Airport može se čitati i kao politička izjava. I
 Aerodrom kao kapija ka svijetu tako dobija dvostruku funkciju. On je ekonomski alat za razvoj turizma i trgovine, ali i simbolički instrument <span class="highlight-text">**geopolitičkog pozicioniranja**</span>. Kroz njega se artikuliše poruka o samostalnosti, otvorenosti i želji da Mongolija bude više od tampon-zone između velikih sila.
 
 {{< figcredit 
-    src="/slike/mongolija-aerodrom/mongolija3.jpg" 
+    src="slike/mongolija-aerodrom/mongolija3.jpg" 
     alt="Blue Sky Lounge aerodroma u Ulan Batoru"
     author="Chinneeb"
     source="Wikimedia Commons"

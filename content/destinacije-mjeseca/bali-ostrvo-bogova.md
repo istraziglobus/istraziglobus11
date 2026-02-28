@@ -49,7 +49,7 @@ Ono što Bali izdvaja od mnogih tropskih destinacija jeste njegova duboko ukoren
 ---
 
 {{< figcredit 
-    src="/slike/bali/bali1.jpg" 
+    src="slike/bali/bali1.jpg" 
     alt="Pura Ulun Danu Beratan, jedan od naljepših hramova Balija"
     author="jcomp"
     source="Freepik"
@@ -76,7 +76,7 @@ Pejzaži Balija su neverovatno raznoliki, nudeći sve od bujnih džungli do vulk
 ---
 
 {{< figcredit 
-    src="/slike/bali/bali2.jpg" 
+    src="slike/bali/bali2.jpg" 
     alt="prostrana polja pirinčanih terasa"
     author="tawatchai07"
     source="Freepik"
@@ -107,7 +107,7 @@ Bali nudi pregršt aktivnosti za svakoga, od ljubitelja adrenalina do onih koji 
 ---
 
 {{< figcredit 
-    src="/slike/bali/bali3.jpg" 
+    src="slike/bali/bali3.jpg" 
     alt="Žena koja gleda u ljepote i prostranstva Balija"
     author="tawatchai07"
     source="Freepik"

@@ -40,7 +40,7 @@ Kada bi suša zaprijetila, narod bi prinosio žrtve bogovima da spasu žetvu; ka
 Danas, kada se u Meksiku zapali vatra pod kamenim pločama i zamiriše prva tortilja, to nije samo obrok – to je <span class="highlight-text">čin sjećanja</span>. Zrno koje je preživjelo carstva, ratove i vrijeme, još uvijek hrani čitavu zemlju i podsjeća da bez zemlje i sunca nema ni čovjeka.
 
 {{< figcredit 
-  src="/slike/meksicka-kuhinja/meksicka-kuhinja2.jpg"
+  src="slike/meksicka-kuhinja/meksicka-kuhinja2.jpg"
   alt="tradicionalno sušenje i priprema kukuruza u Meksiku"
   author="Nguyen_Khac"
   source="Pixabay"
@@ -64,7 +64,7 @@ U tom trenutku Meksiko nije država, već dom.
 Tajna moći kukuruza krije se u drevnom procesu zvanom <span class="highlight-text">nixtamalizacija</span>. Ona podrazumijeva kuvanje zrna s krečom (kalcijum-hidroksidom). Ovaj korak, koji Maje i Asteci znaju hiljadama godina, ne samo da omekšava zrno za mljevenje, već i oslobađa ključni vitamin B3 (niacin) i čini protein lakše probavljivim. Bez nixtamalizacije, kukuruz nije kompletan. Ovaj naučno dokazani ritual je pravi most između drevne mudrosti i današnjeg obroka.
 
 {{< figcredit 
-  src="/slike/meksicka-kuhinja/meksicka-kuhinja1.jpg"
+  src="slike/meksicka-kuhinja/meksicka-kuhinja1.jpg"
   alt="Svježe tortilje na tradicionalnom kamenom tiganju"
   author="AlejandroLinaresGarcia"
   source="Wikimedia Commons"
@@ -107,7 +107,7 @@ Ulični prodavci poznaju svoje mušterije po imenu, znaju ko voli više limete, 
 U Meksiku se ne jede samo stomakom – <span class="highlight-text">jede se srcem</span>. I svaki ukus, svaka boja, nosi uspomenu na porodicu, djetinjstvo i dom.
 
 {{< figcredit 
-  src="/slike/meksicka-kuhinja/meksicka-kuhinja3.jpg"
+  src="slike/meksicka-kuhinja/meksicka-kuhinja3.jpg"
   alt="Žene pripremaju uličnu hranu u Meksiku"
   author="Tomas Castelazo"
   source="Wikimedia Commons"

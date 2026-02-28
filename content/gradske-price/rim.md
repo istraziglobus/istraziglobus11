@@ -48,7 +48,7 @@ most_read: false
         </ul>
     </div>
     <figure class="article-image-box">
-        <img src="/slike/rim/rim1.jpg" alt="Mapa Rima">
+        <img src="slike/rim/rim1.jpg" alt="Mapa Rima">
     </figure>
 </div>
 
@@ -59,7 +59,7 @@ U srcu Rima, pulsira ritam davno prošlih vremena, opipljiv na svakom koraku. Ko
 ---
 
 {{< figcredit 
-    src="/slike/rim/koloseum.jpg" 
+    src="slike/rim/koloseum.jpg" 
     alt="koloseum, impozantni dragulj Rima"
    author="MARTINOPHUC"
     source="Pixabay"
@@ -81,7 +81,7 @@ Unutar samog Rima, kao država unutar države, leži <span class="highlight-text
 ---
 
 {{< figcredit 
-    src="/slike/rim/vatikan.jpg" 
+    src="slike/rim/vatikan.jpg" 
     alt="Bazilika Svetog Petra u Vatikanu"
     author="Romain Pontida"
     source="Flickr"
@@ -117,7 +117,7 @@ Rim je i grad raskoši, gde se umetnost i arhitektura stapaju u dramatične, bar
 ---
 
 {{< figcredit 
-    src="/slike/rim/trevi.jpg" 
+    src="slike/rim/trevi.jpg" 
     alt="Fontana di Trevi, barokna fontana u Rimu"
     author="Juan Sáez"
     source="Flickr"

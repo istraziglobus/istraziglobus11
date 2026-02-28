@@ -43,7 +43,7 @@ Zbog svoje kolonijalne prošlosti, upravo ovdje je 1856. nastala markica koja ć
 ---
 
 {{< figcredit 
-    src="/slike/gvajana-markica/gvajana1.jpg" 
+    src="slike/gvajana-markica/gvajana1.jpg" 
     alt="Mapa Juzne Amerike sa pozicijom Gvajane"
     author="SurinameCentral"
     source="Wikimedia Commons"
@@ -74,7 +74,7 @@ Kako bi spriječili falsifikate, poštanski službenici su ručno potpisivali ma
 ---
 
 {{< figcredit 
-    src="/slike/gvajana-markica/gvajana2.jpg" 
+    src="slike/gvajana-markica/gvajana2.jpg" 
     alt="Izgled najskuplje poštanske markice na svijetu"
     author="Joseph Baum and William Dallas (Original Printers)"
     source="Smithsonian Magazine / Public Domain"
@@ -126,7 +126,7 @@ Na taj način, „British Guiana 1c Magenta“ je postala **ne samo najskuplja m
 ---
 
 {{< figcredit 
-    src="/slike/gvajana-markica/gvajana3.jpg" 
+    src="slike/gvajana-markica/gvajana3.jpg" 
     alt="Digitalni sertifikat o vlasništvu nad djelom markice"
     author="Mikepascoe"
     source="Wikimedia Commons"

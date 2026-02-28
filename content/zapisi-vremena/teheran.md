@@ -38,7 +38,7 @@ Uoči 1979. godine Teheran je već bio ogroman, brz i duboko podijeljen **megapo
 Socijalne razlike postale su toliko upadljive da su se mogle mjeriti u metrima nadmorske visine – što ste se više penjali uz padine Alborza, život je bio luksuzniji, dok je jug grada grcao u prašini i prenaseljenosti. Dok su <span class="highlight-text">**elite**</span> uživale u uvoznoj robi i zapadnoj modi, bazari su osjećali da gube kontrolu nad ekonomijom, a kler da gubi kontrolu nad moralnim kompasom nacije. Taj unutrašnji pritisak godinama se akumulirao u mračnim uličicama i prepunim džamijama, čekajući iskru koja će ga pretvoriti u erupciju. Kada je ta iskra stigla, ujedinila je marksiste, liberalne intelektualce i religiozne konzervativce u jedan front koji dvor više nije mogao kontrolisati. Teheran je bio grad u kojem su se <span class="highlight-text">suprotstavljali svjetovi</span>, a taj sudar je bio toliko silovit da je srušio samu srž države.
 
 {{< figcredit 
-    src="/slike/teheran/teheran1.jpg" 
+    src="slike/teheran/teheran1.jpg" 
     alt="Gorišnjica iranske revolucije"
     author="Mostafameraji"
     source="Wikimedia Commons"
@@ -69,7 +69,7 @@ Simbolični trenutak koji je označio kraj jedne ere i početak druge bio je pov
 Ljudi su sjedili na krovovima autobusa, peli se na ulične svjetiljke i drveće, stvarajući nepregledni tepih od ljudskih tijela koji se protezao kilometrima. U tim trenucima, vojska, koja je do tada važila za <span class="highlight-text">**petu najmoćniju silu svijeta**</span>, počela je da puca po šavovima pod pritiskom sopstvenog naroda. Vojnici su u mnogim slučajevima odbijali naređenja da pucaju, bratimeći se sa masom i primajući cvijeće koje su im demonstranti stavljali u cijevi pušaka. Teheran je bio grad koji je doslovno disao kao <span class="highlight-text">**jedan organizam**</span>, osjećajući miris pobjede nad sistemom koji je decenijama izgledao neuništivo. Slom monarhije nije bio samo pad jednog vladara, već urušavanje čitavog kulturološkog i političkog okvira koji je Teheran decenijama pokušavao da predstavi kao modernu, zapadno-orijentisanu prijestonicu.
 
 {{< figcredit 
-    src="/slike/teheran/teheran2.jpg" 
+    src="slike/teheran/teheran2.jpg" 
     alt="Govor Ajatolaha Homeinija, dan nakon povratka u zemlju 02.februara 1979."
     author="Unknown photographer (IICHS.ir)"
     source="Wikimedia Commons / IICHS"
@@ -87,7 +87,7 @@ Danas, decenijama nakon tih događaja, revolucija 1979. nije samo istorijska či
 Istorija se ovdje ne čuva u tišini arhiva, već je ona dio svakodnevnog saobraćaja, dio pogleda kroz prozor autobusa i dio vizuelnog identiteta trgova. Svaki prolazak pored bivše palate <span class="highlight-text">**Niavaran**</span> ili kroz kapije Teheranskog univerziteta budi sjećanja na studentske nemire i dane kada su se ovdje krojile sudbine miliona. Grad se stalno transformiše, ali <span class="highlight-text">**ožiljci**</span> i simboli 1979. godine ostaju kao stalna opomena i podsjetnik na snagu narodnog bunta. Teheran je postao grad koji neprestano preispituje sopstvenu prošlost kroz umjetnost i memorijalizaciju, stvarajući specifičnu atmosferu u kojoj se istorija osjeća kao opipljiva prisutnost u zraku.
 
 {{< figcredit 
-    src="/slike/teheran/teheran3.jpg" 
+    src="slike/teheran/teheran3.jpg" 
     alt="Zalazak sunca i panorama Teherana"
     author="wirestock"
     source="Freepik"

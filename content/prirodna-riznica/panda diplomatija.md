@@ -44,7 +44,7 @@ Od tog trenutka, pande su postale **ambasadori dobre volje**, a svaki njihov dol
 U periodu između 1958. i 1982. godine, Kina je poklonila ukupno 18 pandi raznim zemljama kao gest dobre volje. Ova praksa se često poklapala sa periodima poboljšanja bilateralnih odnosa ili potpisivanja važnih trgovinskih sporazuma. Popularnost pandi je dramatično porasla nakon što su se pojavile u Disneyjevom filmu <span class="highlight-text">'Kung Fu Panda'</span>, mada su one iz tog filma bile fikcija. Javnost, posebno djeca, su imala ogroman emocionalni odziv na dolazak pandi, što je pretvaralo politički potez u narodni praznik. Ova "meho" moć je efikasna jer pande nemaju negativne političke konotacije, za razliku od drugih simbola.
 
 {{< figcredit 
-    src="/slike/panda-diplomatija/panda1.jpg" 
+    src="slike/panda-diplomatija/panda1.jpg" 
     alt="Pande Ling-Ling i Hsing-Hsing uručene američkom predjsedniku Nixonu"
     author="Associated Press (AP Photo)"
     source="Wikimedia Commons"
@@ -66,7 +66,7 @@ Sav prihod navodno ide u programe za <span class="highlight-text">**očuvanje pa
 Ova finansijska transakcija stvara održivi prihod za kineske centre za razmnožavanje, koji su ključni u spašavanju ove ranjive vrste. Osim finansijskog aspekta, najam obezbjeđuje i saradnju u istraživanju i veterinarstvu, što dodatno jača naučne veze. Postoje i slučajevi kada je povratak pandi bio spor, što je dovelo do <span class="highlight-text">diplomatskih nesuglasica</span>. Pande su tako postala izvozni proizvod, ali sa visokom emocionalnom i diplomatskom cijenom.
 
 {{< figcredit 
-    src="/slike/panda-diplomatija/panda2.jpg" 
+    src="slike/panda-diplomatija/panda2.jpg" 
     alt="panda u zoloskom vrtu u Madridu"
     author="Alex Lecea"
     source="Flickr (via Wikimedia Commons)"
@@ -97,7 +97,7 @@ Panda diplomatija ne bi bila tako moćna da nije propraćena nezapamćenom medij
 Ova medijska pokrivenost služi kao direktan i besplatan PR za Kinu. Svaki rođeni mladunac – <span class="highlight-text">što je retkost u zatočeništvu</span> – predstavlja diplomatski trijumf i pokreće globalno slavlje. Imena mladunaca, koja se često biraju kroz javne ankete, postaju globalni trendovi, dodatno uvlačeći publiku u priču. Ova javna opsesija ne samo da donosi zoološkim vrtovima rekordne posete, već stvara i ogroman ekonomski efekat kroz prodaju suvenira i licenci. Televizijski prilozi i dokumentarni filmovi o pandama su izuzetno popularni, prenoseći pozitivne poruke o Kini i njenim naporima u očuvanju prirode. Upravo ta globalna zaljubljenost u pande omogućava Pekingu da koristi ove životinje kao pouzdan i mekan instrument spoljne politike.
 
 {{< figcredit 
-    src="/slike/panda-diplomatija/panda3.jpg" 
+    src="slike/panda-diplomatija/panda3.jpg" 
     alt="beba pande u Kini"
     author="Alan_Aldridge"
     source="Pixabay"

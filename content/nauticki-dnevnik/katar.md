@@ -43,7 +43,7 @@ Grad izgrađen od stakla i betona sada koristi more kao pozornicu za <span class
 Pomorska infrastruktura više nije pitanje preživljavanja, već strateškog pozicioniranja u globalnoj ekonomiji turizma i logistike. Luke i terminali postaju tačke ulaska u međunarodne tokove kapitala, ljudi i simboličkog prestiža.
 
 {{< figcredit 
-    src="/slike/katar-luka/katar1.jpg" 
+    src="slike/katar-luka/katar1.jpg" 
     alt="Pogled na Dohu sa mora"
     author="walsarabi"
     source="Pixabay"
@@ -75,7 +75,7 @@ Dhow brodovi danas više ne služe primarno za <span class="highlight-text">**ri
 U toj simbiozi, more postaje scena na kojoj Katar istovremeno njeguje sliku čuvara tradicije i promotera **hiper-moderne vizije** sebe.
 
 {{< figcredit 
-    src="/slike/katar-luka/katar2.jpg" 
+    src="slike/katar-luka/katar2.jpg" 
     alt="Dhow brod u silueti Dohe iza njega"
     author="Alex Sergeev"
     source="Alex Sergeev Collection via Wikimedia Commons"
@@ -105,7 +105,7 @@ Ova povezanost omogućava da se putnici sa kruzera brzo uključe u urbani život
 Katar želi da luka bude reprezentativni ulaz u grad, a ne njegova periferija. Putnik koji se iskrca na obali odmah ulazi u **pažljivo osmišljen urbani** narativ Dohe kao moderne metropole. Prvi kontakt sa gradom oblikovan je infrastrukturom koja šalje poruku <span class="highlight-text">**efikasnosti**</span>, urednosti i globalne uključenosti. Luka tako funkcioniše kao “predvorje” grada, produžetak njegovog urbanog identiteta.
 
 {{< figcredit 
-    src="/slike/katar-luka/katar3.jpg" 
+    src="slike/katar-luka/katar3.jpg" 
     alt="Unutrasnjost prve klase metroa u Dohi"
     author="Zairon"
     source="Wikimedia Commons"

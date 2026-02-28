@@ -52,7 +52,7 @@ Bilo je veče, pomalo prohladno, sasvim obično za kasnu jesen u Berlinu. Ali, t
 ---
 
 {{< figcredit 
-    src="/slike/berlinski-zid/zid1.jpg" 
+    src="slike/berlinski-zid/zid1.jpg" 
     alt="Čuveni mural bratski poljuba Brežnjeva i Honekera na berlinskom zidu"
     author="Timothy Vollmer"
     source="Wikimedia Commons"
@@ -76,7 +76,7 @@ Na graničnim prelazima, prizori su bili nadrealni. Graničari su stajali zbunje
 ---
 
 {{< figcredit 
-    src="/slike/berlinski-zid/zid2.jpg" 
+    src="slike/berlinski-zid/zid2.jpg" 
     alt="Vojska čuva neki od puntkova na berlinskom zidu 80tih godina"
     author="Yann Forget"
     source="Wikimedia Commons"
@@ -98,7 +98,7 @@ Noć 9. novembra nije bila samo politički događaj; to je bila, pre svega, pros
 ---
 
 {{< figcredit 
-    src="/slike/berlinski-zid/zid3.jpg" 
+    src="slike/berlinski-zid/zid3.jpg" 
     alt="Ostatak berlinskog zida danas u modernom Berlinu"
     author="Arild Vågen"
     source="Wikimedia Commons"
