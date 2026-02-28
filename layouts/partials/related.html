@@ -12,7 +12,7 @@
         {{ range $related }}
         <a href="{{ .RelPermalink | strings.TrimSuffix "/" }}" class="related-card">
             <div class="related-image-wrapper">
-                <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+                  <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" loading="lazy">
             </div>
 
             <div class="related-card-content">
