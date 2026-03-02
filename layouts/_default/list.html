@@ -1,7 +1,6 @@
 {{ define "main" }}
 <div class="container main-content-area section-{{ .Section }}">
 
-    {{/* HERO HEADER za sekciju */}}
     {{ if eq .Kind "section" }}
         {{ partial "section-hero.html" . }}
     {{ end }}
@@ -16,7 +15,7 @@
             <a href="{{ .Permalink }}" class="article-card-horizontal">
                 {{ with .Params.image }}
                     <div class="image-container">
-                        <img src="{{ . | relURL }}"
+                        <img src="{{ . | absURL }}"
                              alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
                              loading="lazy">
                     </div>
@@ -28,6 +27,11 @@
 
                     <div class="horizontal-card-footer">
                         <span class="read-more-btn">Pročitaj Više</span>
+
+                        {{/* OVAJ DEO JE SADA UNIVERZALAN */}}
+                        {{ if .Params.mesec_destinacije }}
+                            <span class="article-date-mid">{{ .Params.mesec_destinacije }}</span>
+                         {{ end }}
 
                         {{ with .Params.categories }}
                             <span class="article-section-tag">

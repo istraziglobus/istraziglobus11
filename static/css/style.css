@@ -2424,6 +2424,39 @@ blockquote p {
    backdrop-filter: blur(6px);
 }
 
+/* Kontejner koji drži sva tri elementa */
+.horizontal-card-footer {
+    display: flex;
+    justify-content: space-between; /* Ključno: jedno lijevo, jedno desno, datum u sredini */
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+}
+
+/* Stil za datum da izgleda kao dugme */
+.btn-date {
+    display: inline-block;
+    padding: 6px 15px;             /* Isti padding kao kod dugmadi */
+    border: 1px solid #ffffff;        /* Tanki okvir */
+    border-radius: 4px;            /* Zaobljeni uglovi kao kod tvojih dugmadi */
+    font-size: 0.99rem;
+    font-weight: 700;
+    color: #444;
+    background-color: #4fc9cd;   /* Svijetla pozadina da se razlikuje od glavnih dugmadi */
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    cursor: default;               /* Pokazuje da nije klikabilno */
+}
+
+/* Osiguraj da su lijevo i desno dugme fiksirani na krajevima */
+.read-more-btn {
+    margin-right: auto;            /* Gura ostale od sebe */
+}
+
+.article-section-tag {
+    margin-left: auto;             /* Gura ostale od sebe */
+}
+
 
 @media (max-width: 900px) {
   .destination-full {
