@@ -12,7 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/torres-del-paine-lake-mountains-6356782/"
 image_license: "Pixabay Content License (Free for commercial use, no attribution required)"
 license_url: "https://pixabay.com/service/license/"
-countries: ["Čile", "Argentina"]
+countries: ["Cile", "Argentina"]
 categories:
   - Destinacija mjeseca
 tags:

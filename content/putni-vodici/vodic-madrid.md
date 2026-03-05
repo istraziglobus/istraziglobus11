@@ -11,7 +11,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/madrid-spain-road-plaza-del-callao-3021998/"
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/" 
-countries: ["Španija"]
+countries: ["Spanija"]
 cities: ["Madrid"]
 categories:
   - Putni Vodiči

@@ -410,28 +410,22 @@
         });
     </script>
     <script src="/js/whats-now.js"></script>
- <script id="geoSearchData" type="application/json">
+<script id="geoSearchData" type="application/json">
 {
   "countries": [
     {{- $first := true -}}
     {{- range site.Taxonomies.countries.ByCount -}}
-      {{- $pages := where .Pages "Section" "ne" "dnevni-globus" -}}
-      {{- if gt (len $pages) 0 -}}
-        {{- if not $first }},{{ end -}}
-        {{- $first = false -}}
-        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
-      {{- end -}}
+      {{- if not $first }},{{ end -}}
+      {{- $first = false -}}
+      { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
     {{- end -}}
   ],
   "cities": [
     {{- $first2 := true -}}
     {{- range site.Taxonomies.cities.ByCount -}}
-      {{- $pages := where .Pages "Section" "ne" "dnevni-globus" -}}
-      {{- if gt (len $pages) 0 -}}
-        {{- if not $first2 }},{{ end -}}
-        {{- $first2 = false -}}
-        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
-      {{- end -}}
+      {{- if not $first2 }},{{ end -}}
+      {{- $first2 = false -}}
+      { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
     {{- end -}}
   ]
 }

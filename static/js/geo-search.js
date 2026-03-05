@@ -12,19 +12,14 @@ document.addEventListener('DOMContentLoaded', function () {
   function norm(s) {
     s = (s || "").toString();
     if (s.normalize) s = s.normalize('NFD');
-    return s
-      .toLowerCase()
-      .replace(/[\u0300-\u036f]/g, '')
-      .trim();
+    return s.toLowerCase().replace(/[\u0300-\u036f]/g, '').trim();
   }
 
   function slugify(s) {
-    return norm(s)
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/-+/g, '-')
-      .replace(/^-|-$/g, '');
+    return norm(s).replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
   }
 
+  // MODAL LOGIKA
   function showModal() {
     overlay.classList.add('active');
     overlay.setAttribute('aria-hidden', 'false');
@@ -37,24 +32,20 @@ document.addEventListener('DOMContentLoaded', function () {
     overlay.setAttribute('aria-hidden', 'true');
   }
 
-  if (openBtn) {
-    openBtn.addEventListener('click', function (e) {
-      e.preventDefault();
-      showModal();
-    });
-  }
-
+  if (openBtn) openBtn.addEventListener('click', (e) => { e.preventDefault(); showModal(); });
   if (closeBtn) closeBtn.addEventListener('click', hideModal);
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) hideModal(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && overlay.classList.contains('active')) hideModal(); });
 
-  overlay.addEventListener('click', function (e) {
-    if (e.target === overlay) hideModal();
+  // BRISANJE NA KLIK (Ono što si tražio na početku)
+  [countryInput, cityInput].forEach(input => {
+    if (input) {
+      input.addEventListener('focus', function() {
+        this.value = ''; 
+      });
+    }
   });
 
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && overlay.classList.contains('active')) hideModal();
-  });
-
-  // Pokušaj učitati mapu iz geoSearchData (ako si je dodao u baseof.html)
   const countryMap = new Map();
   const cityMap = new Map();
 
@@ -62,54 +53,26 @@ document.addEventListener('DOMContentLoaded', function () {
   if (dataEl) {
     try {
       const data = JSON.parse(dataEl.textContent || "{}");
-      if (Array.isArray(data.countries)) {
-        data.countries.forEach(item => {
-          if (item && item.name && item.url) countryMap.set(norm(item.name), item.url);
-        });
-      }
-      if (Array.isArray(data.cities)) {
-        data.cities.forEach(item => {
-          if (item && item.name && item.url) cityMap.set(norm(item.name), item.url);
-        });
-      }
-    } catch (_) {
-      // ignorisi, radiće fallback preko slugify
-    }
+      data.countries?.forEach(item => countryMap.set(norm(item.name), item.url));
+      data.cities?.forEach(item => cityMap.set(norm(item.name), item.url));
+    } catch (_) {}
   }
 
- form.addEventListener('submit', function (e) {
+  form.addEventListener('submit', function (e) {
     e.preventDefault();
+    const cVal = norm(countryInput.value);
+    const ctVal = norm(cityInput.value);
 
-    const cRaw = countryInput ? countryInput.value.trim() : "";
-    const ctRaw = cityInput ? cityInput.value.trim() : "";
+    const cityUrl = cityMap.get(ctVal);
+    const countryUrl = countryMap.get(cVal);
 
-    const cNorm = norm(cRaw);
-    const ctNorm = norm(ctRaw);
+    if (cityUrl) { window.location.href = cityUrl; return; }
+    if (countryUrl) { window.location.href = countryUrl; return; }
 
-    // 1) Pokušaj naći tačan URL iz JSON mape (ovo je najsigurnije)
-    const cityUrlExact = ctNorm ? cityMap.get(ctNorm) : null;
-    const countryUrlExact = cNorm ? countryMap.get(cNorm) : null;
-
-    if (cityUrlExact) { window.location.href = cityUrlExact; return; }
-    if (countryUrlExact) { window.location.href = countryUrlExact; return; }
-
-    // 2) Pametniji FALLBACK (ako korisnik ukuca nešto što nije u listi)
-    // Koristimo slugify funkciju koju već imaš definisanu u kodu iznad
-    const citySlug = ctRaw ? slugify(ctRaw) : "";
-    const countrySlug = cRaw ? slugify(cRaw) : "";
-
-    if (citySlug) { 
-        window.location.href = `/cities/${citySlug}/`; 
-        return; 
-    }
-    if (countrySlug) { 
-        window.location.href = `/countries/${countrySlug}/`; 
-        return; 
-    }
-
-    if (err) {
-      err.textContent = "Izaberi državu ili grad iz liste.";
-      err.style.display = "block";
-    }
+    // Fallback ako nije iz liste
+    const ctSlug = slugify(cityInput.value);
+    const cSlug = slugify(countryInput.value);
+    if (ctSlug) window.location.href = `/cities/${ctSlug}/`;
+    else if (cSlug) window.location.href = `/countries/${cSlug}/`;
   });
-  });
+});
