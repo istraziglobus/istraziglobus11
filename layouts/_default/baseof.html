@@ -410,7 +410,7 @@
         });
     </script>
     <script src="/js/whats-now.js"></script>
-    <script id="geoSearchData" type="application/json">
+ <script id="geoSearchData" type="application/json">
 {
   "countries": [
     {{- $first := true -}}
@@ -419,10 +419,7 @@
       {{- if gt (len $pages) 0 -}}
         {{- if not $first }},{{ end -}}
         {{- $first = false -}}
-        { 
-          { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} } 
-          "url": {{ .Page.RelPermalink | strings.TrimSuffix "/" | jsonify }} 
-        }
+        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
       {{- end -}}
     {{- end -}}
   ],
@@ -433,10 +430,7 @@
       {{- if gt (len $pages) 0 -}}
         {{- if not $first2 }},{{ end -}}
         {{- $first2 = false -}}
-        { 
-          { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} } 
-          "url": {{ .Page.RelPermalink | strings.TrimSuffix "/" | jsonify }} 
-        }
+        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
       {{- end -}}
     {{- end -}}
   ]
