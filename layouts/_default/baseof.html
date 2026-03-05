@@ -419,7 +419,10 @@
       {{- if gt (len $pages) 0 -}}
         {{- if not $first }},{{ end -}}
         {{- $first = false -}}
-        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
+        { 
+          { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} } 
+          "url": {{ .Page.RelPermalink | strings.TrimSuffix "/" | jsonify }} 
+        }
       {{- end -}}
     {{- end -}}
   ],
@@ -430,7 +433,10 @@
       {{- if gt (len $pages) 0 -}}
         {{- if not $first2 }},{{ end -}}
         {{- $first2 = false -}}
-        { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} }
+        { 
+          { "name": {{ .Page.Title | jsonify }}, "url": {{ .Page.RelPermalink | jsonify }} } 
+          "url": {{ .Page.RelPermalink | strings.TrimSuffix "/" | jsonify }} 
+        }
       {{- end -}}
     {{- end -}}
   ]

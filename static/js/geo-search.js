@@ -77,39 +77,39 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  form.addEventListener('submit', function (e) {
+ form.addEventListener('submit', function (e) {
     e.preventDefault();
 
-    const cRaw = countryInput ? countryInput.value : "";
-    const ctRaw = cityInput ? cityInput.value : "";
+    const cRaw = countryInput ? countryInput.value.trim() : "";
+    const ctRaw = cityInput ? cityInput.value.trim() : "";
 
-    const c = norm(cRaw);
-    const ct = norm(ctRaw);
+    const cNorm = norm(cRaw);
+    const ctNorm = norm(ctRaw);
 
-    // 1) tačan URL iz mape
-    const cityUrlExact = ct ? cityMap.get(ct) : null;
-    const countryUrlExact = c ? countryMap.get(c) : null;
+    // 1) Pokušaj naći tačan URL iz JSON mape (ovo je najsigurnije)
+    const cityUrlExact = ctNorm ? cityMap.get(ctNorm) : null;
+    const countryUrlExact = cNorm ? countryMap.get(cNorm) : null;
 
     if (cityUrlExact) { window.location.href = cityUrlExact; return; }
     if (countryUrlExact) { window.location.href = countryUrlExact; return; }
 
-    // 2) fallback URL (čuva velika slova kao što Hugo pravi)
-function termToPath(s) {
-  return encodeURIComponent(
-    (s || "")
-      .trim()
-      .replace(/\s+/g, "-")   // razmake u crtu
-  );
-}
+    // 2) Pametniji FALLBACK (ako korisnik ukuca nešto što nije u listi)
+    // Koristimo slugify funkciju koju već imaš definisanu u kodu iznad
+    const citySlug = ctRaw ? slugify(ctRaw) : "";
+    const countrySlug = cRaw ? slugify(cRaw) : "";
 
-const cityPath = termToPath(ctRaw);
-const countryPath = termToPath(cRaw);
+    if (citySlug) { 
+        window.location.href = `/cities/${citySlug}/`; 
+        return; 
+    }
+    if (countrySlug) { 
+        window.location.href = `/countries/${countrySlug}/`; 
+        return; 
+    }
 
-if (cityPath) { window.location.href = `/cities/${cityPath}/`; return; }
-if (countryPath) { window.location.href = `/countries/${countryPath}/`; return; }
     if (err) {
       err.textContent = "Izaberi državu ili grad iz liste.";
       err.style.display = "block";
     }
   });
-});
+  });
