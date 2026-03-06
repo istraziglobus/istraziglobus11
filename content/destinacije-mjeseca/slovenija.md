@@ -25,7 +25,7 @@ tags:
   - ekologija
 featured_monthly_theme: true
 mesec_destinacije: "MART 2026"
-most_read: false
+most_read: true
 ---
 
 Postoje države koje osvajaju svojom veličinom, i postoje one koje vas očaraju svojom **preciznošću**. Slovenija spada u ove druge. Zamislite prostor toliko kompaktan da se u njegovim granicama sudaraju tri potpuno različita svijeta: oštri vrhovi Alpa, mistični kraški podzemni lavirinti i blaga toplota Jadrana. Slovenija nije samo tranzitna tačka na putu ka zapadu; ona je <span class="highlight-text">**zelena laboratorija Evrope**</span>, mjesto gdje je ekološka svijest postala dio nacionalnog genoma, a priroda se čuva s religioznim žarom.

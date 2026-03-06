@@ -20,7 +20,7 @@ tags:
   - Luka Doha
   - Nautika
   - Bliski istok
-most_read: true
+most_read: false
 ---
 
 Na obali Persijskog zaliva, u zemlji koja je prije svega nekoliko decenija bila niz <span class="highlight-text">**ribarskih sela**</span> i naselja lovaca na bisere, danas se uzdiže jedna od najspektakularnijih <span class="highlight-text">**nautičkih kapija**</span> savremenog svijeta. Doha više nije samo finansijski i politički centar Katara, već i simbol nove faze arapskog izlaska na svjetske morske rute. Grad se svjesno okreće moru kao prostoru reprezentacije moći, modernosti i globalne povezanosti, koristeći obalu kao produžetak svog urbanog i političkog identiteta.
