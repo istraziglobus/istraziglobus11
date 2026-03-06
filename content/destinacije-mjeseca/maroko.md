@@ -1,5 +1,5 @@
 ---
-title: "Maroko"
+title: "Maroko: Pustinjske dine Sahare i vrhovi planine Atlas"
 subtitle: "Zemlja Boja, Mirisa i Bezvremenskih Priča"
 slug: "maroko-septembar"
 date: 2025-09-01T10:00:00+02:00

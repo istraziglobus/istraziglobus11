@@ -1,5 +1,5 @@
 ---
-title: "Bali"
+title: "Bali: Tropski raj i kultura bogova"
 subtitle: "Ostrvo Bogova"
 slug: "bali-ostrvo-bogova"
 date: 2025-07-09T22:00:00+02:00

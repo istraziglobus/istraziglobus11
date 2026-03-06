@@ -1,5 +1,5 @@
 ---
-title: "Kipar"
+title: "Kipar: Sunčana ostrvska magija"
 subtitle: "Ostrvo Afrodite i Mediteranskih Čari"
 slug: "kipar-ostrvo-afrodite" # Prilagodi slug ako želiš drugačiji URL
 date: 2025-08-01T10:00:00+02:00 # Datum kada je članak objavljen (ili za avgust)

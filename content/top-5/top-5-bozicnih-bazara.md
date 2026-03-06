@@ -42,7 +42,7 @@ Ovdje nije poenta u jednoj atrakciji, već u tempu: šetnja kroz mirise (vanila,
 
 {{< figcredit 
     src="slike/novogodisnji-bazari/bazar1.jpg" 
-    alt="Praznična atmosfera na bečkom bazaru ispred gradske vijećnice (Rathausplatz), sa lampicama i kućicama."
+    alt="Praznična atmosfera na bečkom bazaru ispred gradske vijećnice."
     author="Geolina163"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:Rathausplatz_Christkindlmarkt_10.jpg"

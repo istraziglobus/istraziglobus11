@@ -1,5 +1,5 @@
 ---
-title: "Laponija"
+title: "Laponija: Magična zimska bajka na sjeveru"
 subtitle: "Arktička bajka pod polarnom svjetlošću"
 slug: "laponija-decembar"
 date: 2025-12-01T10:00:00+02:00

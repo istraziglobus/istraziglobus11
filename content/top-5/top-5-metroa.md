@@ -68,7 +68,7 @@ Ovaj sistem se prostire na 226 kilometara i ima <span class="highlight-text">**3
 
 {{< figcredit 
     src="slike/metroi/metro2.jpg" 
-    alt="Moderna stanica Mairie d'Aubervilliers na liniji 12 pariskog metroa, snimljena ubrzo nakon otvaranja."
+    alt="Moderna stanica Mairie d'Aubervilliers na liniji 12 pariskog metroa."
     author="Idris2000"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:Mairie_d%27Aubervilliers_M%C3%A9tro_12_2022_56.jpg"

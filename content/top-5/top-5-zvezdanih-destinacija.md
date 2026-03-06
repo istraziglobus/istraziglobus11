@@ -65,7 +65,7 @@ Ovdje turisti mogu uživati u kombinaciji aktivnosti: dnevno planinarenje kroz l
 
 {{< figcredit 
     src="slike/zvezde/novi-zeland.jpg" 
-    alt="Fotografija Mlečnog puta (Milky Way) koji se reflektuje u Jezeru Tekapo, sa siluetom planine Aoraki/Mount Cook u regiji Mackenzie Dark Sky Reserve."
+    alt="Mlečni puta (Milky Way) koji se reflektuje u Jezeru Tekapo."
     author="Bernard Spragg. NZ"
     source="Flickr (Javno Domen)"
     source_url="https://www.flickr.com/photos/88123769@N02/52960741604"

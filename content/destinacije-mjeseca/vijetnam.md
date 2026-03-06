@@ -1,5 +1,5 @@
 ---
-title: "Vijetnam"
+title: "Vijetnam: Putovanje od smaragdnih zaliva do rižinih polja"
 subtitle: "Zemlja Mirisa, Rijeka i Vječnog Osmijeha"
 slug: "vijetnam-novembar"
 date: 2025-11-01T10:00:00+02:00

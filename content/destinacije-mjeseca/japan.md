@@ -1,5 +1,5 @@
 ---
-title: "Japan"
+title: "Japan: Između drevnih tradicija i futurističkih gradova"
 subtitle: "Zemlja Jesenjih Boja, Harmonije i Vjekovnih Priča"
 slug: "japan-oktobar"
 date: 2025-10-01T10:00:00+02:00
