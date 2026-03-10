@@ -1,169 +1,260 @@
 ---
 title: "Madrid 2026: Detaljan putni vodič"
 subtitle: "Kompletan vodič za Madrid – kada putovati, kako doći, atrakcije, cijene, smještaj, suveniri i savjeti."
-author: "Istraži Globus Tim"
-date: "2026-02-04"
-description: "Detaljan vodič kroz Madrid za 2026. godinu: od logistike dolaska iz regiona Balkana do dubinske analize kulturnih znamenitosti i cijena."
+date: "2026-03-10"
+description: "Planirate put u Madrid? Otkrijte najbolje savjete za prevoz, hranu i znamenitosti koje ne smijete propustiti. Doživite kraljevski duh Španije uz naš detaljni vodič."
 image: "slike/vodic/madrid-hero.jpg"
-image_alt: "Pogled na Gran Via, cuvenu ulucu u Madridu"
-image_author: "Julius_Silver"
-image_source: "Pixabay"
-image_source_url: "https://pixabay.com/photos/madrid-spain-road-plaza-del-callao-3021998/"
-image_license: "Pixabay License"
-image_license_url: "https://pixabay.com/service/license/" 
-countries: ["Spanija"]
+author: "RidacsA"
+source: "Pixabay"
+source_url: "https://pixabay.com/photos/madrid-city-spain-architecture-2713751/"
+license: "Pixabay License"
+license_url: "https://pixabay.com/service/license/" 
+countries: ["Španija"]
 cities: ["Madrid"]
 categories:
   - Putni Vodiči
-  - Premium Izdanja
 tags:
-  - Madrid
   - Španija
-  - Putovanja 2026
-  - Evropa
+  - Madrid
+  - Vodič 
+draft: false
 ---
 
-Madrid nije samo administrativni centar Španije; on je njena kulturna i društvena osovina, srce koje pulsira ritmom <span class="highlight-text">**čitavog Iberijskog poluostrva**</span>. Smješten na visoravni Kastilje, na 667 metara nadmorske visine, ovaj grad nudi specifičnu mikroklimu i energiju koja je jedinstvena u Evropi – mješavinu planinske svježine i neprekidnog mediteranskog sunca. U 2026. godini, Madrid se pozicionira kao globalni lider <span class="highlight-text">**modernog turizma**</span>, uspješno balansirajući između svoje imperijalne prošlosti, vidljive u svakom kamenom portalu, i futurističkih infrastrukturnih projekata poput „Madrid Nuevo Norte“ i potpuno digitalizovanog saobraćajnog prstena. To je metropola koja ne bježi od svoje istorije, već je koristi kao scenografiju za jednu od najdinamičnijih urbanih transformacija današnjice.
+Madrid je srce Španije i jedna od najživljih metropola Evrope. Smješten na centralnom platou Iberijskog poluostrva, ovaj grad spaja kraljevsku grandioznost sa nezaustavljivim modernim životom koji pulsira njegovim avenijama. Od remek-djela u muzeju Prado do uzavrele atmosfere na stadionu Santiago Bernabéu, Madrid je mjesto gdje se aristokratska istorija i savremeni ritmovi spajaju u neodoljivu, pulsirajuću cjelinu. Ovo je jedinstvena metropola u kojoj miris svježe prženih ćurosa prati žamor užurbanih trgova, pozivajući vas na putovanje kroz umjetnost i kulturu koje ćete pamtiti zauvijek.
 
-## Zašto posjetiti Madrid?
-
-Za razliku od primorskih gradova koji se primarno oslanjaju na sezonsku privlačnost plaža, Madrid osvaja svojom neiscrpnom životnom energijom <span class="highlight-text">**(la alegría de vivir)**</span> koja traje 365 dana u godini. To je grad u kojem <span class="highlight-text">**„Zlatni trougao umjetnosti“**</span> čuva neprocjenjiva djela koja su oblikovala zapadnu civilizaciju, dok se istovremeno na njegovim ulicama odvija najintenzivniji društveni život na kontinentu. Madrid posjeduje rijetku **autentičnost** koju su mnoge druge evropske prijestonice izgubile pod naletom uniformnog masovnog turizma; ovdje se i dalje insistira na ritualima – živi se polako, uz tradicionalne duge ručkove koji se pretvaraju u sobremesu, i kasne večere koje se stapaju sa izlaskom sunca. Posjetiti Madrid znači osjetiti privilegiju boravka u carskom okruženju širokih bulevara i baroknih fasada, dok vas istovremeno grije toplina grada koji vas, bez obzira na to odakle dolazite, već prve večeri prihvata kao svog građanina.
-
-{{< figcredit 
-  src="slike/vodic/madrid1.jpg"
-  alt="Pogled na Madrid sa zalaskom sunca"
-  author="SuryaNamaste"
-  source="Pixabay"
-  source_url="https://pixabay.com/photos/madrid-sunset-rush-city-2137365/"
-  license="Pixabay Content License (Free for commercial use, no attribution required)" 
-  license_url="https://pixabay.com/service/license/"
->}}
-
-## Najbolje vrijeme za posjetu
-
-Madrid ima kontinentalnu klimu – zime mogu biti oštre i suve, dok su ljeta ekstremno vrela.
-
-- **Proljeće (April – Jun):** Apsolutno najbolje vrijeme. Temperature su između <span class="highlight-text">**18°C i 25°C**</span>, parkovi su u punom cvatu, a grad je pun festivala (poput San Isidra u maju).
-- **Jesen (Septembar – Oktobar):** Idealan period za one koji žele izbjeći gužve. Svjetlost u Madridu u oktobru je fascinantna za fotografiju.
-- **Zima (Novembar – Mart):** Hladno (prosek 5-10°C), ali gotovo uvijek sunčano. Najjeftiniji period za putovanje.
-- **Ljeto (Jul – Avgust):** Temperature često prelaze 40°C. Grad postaje pust jer lokalci odlaze na more, što može biti prednost za obilazak muzeja bez čekanja, ali fizički naporno.
-
-## Logistika putovanja iz regiona Balkana
-
-### Letovi i konekcije
-- **Beograd (BEG):** Direktna linija Air Serbia (let traje 3h 20min). Cijene povratnih karata u 2026. su od 180 € do 400 €.
-- **Podgorica (TGD) i Tirana (TIA):** Iz Tirane lete niskobudžetne kompanije (Wizz Air, Ryanair) ka Madridu ili Barceloni <span class="highlight-text">**(često ispod 100 €)**</span>. Iz Podgorice su najbrže konekcije preko Beča ili Istanbula.
-
-### Transfer sa aerodroma Barajas (MAD)
-- **Taxi:** Fiksna tarifa **33 €** do centra (unutar M-30 prstena).
-- **Voz Cercanías (Linija C1):** Povezuje T4 sa stanicama <span class="highlight-text">**Atocha i Sol**</span> (2,60 €).
-- **Metro (Linija 8):** Povezuje sve terminale sa stanicom Nuevos Ministerios (cca 5 €).
-- **Airport Express Bus:** Žuti autobus, radi 24h (5 €).
-
-## Gdje odsjesti: Cijene i četvrti
-
-Cijene smještaja u 2026. godini variraju zavisno od dijela grada:
-
-1. **Sol i Huertas (Centar):** Srce grada, sve je na pješačkoj udaljenosti.
-   - *Cijene:* 150 € – 250 € po noćenju (Hoteli 4*).
-2. **Malasaña i Chueca:** Alternativne i moderne četvrti, prepune kafića i butika.
-   - *Cijene:* 100 € – 180 € po noćenju.
-3. **Salamanca:** Luksuzna zona, visoka moda i vrhunski restorani.
-   - *Cijene:* 250 € – 600 €+ po noćenju.
-4. **La Latina i Lavapiés:** Autentičan Madrid, uske ulice i multikulturalnost.
-   - *Cijene:* 80 € – 140 € po noćenju.
-
-## Detaljna analiza ključnih atrakcija: Srce španske imperije
-
-### 1. Kraljevska palata (Palacio Real de Madrid)
-Iako kraljevska porodica više ne boravi ovdje, <span class="highlight-text">**Palacio Real**</span> ostaje simbol španske moći. Izgrađena na uzvišenju iznad rijeke Manzanares, ova palata je remek-djelo baroka i klasicizma sa preko 3.400 soba.
-- **Šta vidjeti:** Ne propustite **Prijestolnu dvoranu (Salón del Trono)** sa tavanicom koju je oslikao Tiepolo i <span class="highlight-text">**Kraljevsku apoteku**</span>. Poseban akcenat stavite na **Real Armería** (Kraljevsku oružarnicu) – ona čuva oklope koje su nosili Karlo V i Filip II, a smatra se jednom od najvrednijih kolekcija te vrste na svijetu.
-- **Ulaznice:** Osnovna karta košta **14 €**. Doplata za Kraljevsku kuhinju je 4 €.
-- **Savjet za 2026:** Ulaznicu kupite putem zvaničnog portala *Patrimonio Nacional* tačno 14 dana unaprijed.
-
-{{< figcredit 
-  src="slike/vodic/madrid2.jpg"
-  alt="Kraljevska palata u Madridu"
-  author="ddzphoto"
-  source="Pixabay"
-  source_url="https://pixabay.com/photos/royal-palace-spain-madrid-3462249/"
-  license="Pixabay Content License (Free for commercial use, no attribution required)" 
-  license_url="https://pixabay.com/service/license/"
->}}
-
-### 2. Muzej Prado (Museo Nacional del Prado)
-Prado je hram evropskog slikarstva i jedan od najznačajnijih muzeja na planeti.
-- **Ključna djela:** Fokusirajte se na Velázquezove <span class="highlight-text">**"Las Meninas"**</span>, Goyine **"Crne slike"** i Boschov **"Vrt uživanja"** (El jardín de las delicias).
-- **Ulaznice:** Redovna cijena je <span class="highlight-text">**15 €**. Audio vodič je dodatnih 5 €.
-- **Besplatan ulaz:** Svakog dana u posljednja dva radna sata (očekujte duge redove).
-
-### 3. Stadion Santiago Bernabéu: Digitalni koloseum
-U 2026. godini, dom Real Madrida je arhitektonsko čudo sa pokretnim krovom i terenom koji se hidrauličnim sistemima povlači pod zemlju.
-- **Iskustvo:** Tour obuhvata interaktivni muzej sa 15 trofeja Lige šampiona, šetnju pored terena i panoramski pogled sa krova od 360 stepeni.
-- **Ulaznice:** Od <span class="highlight-text">**25 € do 35 €**</span> zavisno od dana.
-
-{{< figcredit 
-  src="slike/vodic/madrid3.jpg"
-  alt="Stadion Bernabeu, kuća Real Madrida"
-  author="alessandra1barbieri"
-  source="Pixabay"
-  source_url="https://pixabay.com/photos/stadium-bleachers-seats-4760441/"
-  license="Pixabay Content License (Free for commercial use, no attribution required)" 
-  license_url="https://pixabay.com/service/license/"
->}}
-
-### 4. Galerija kraljevskih kolekcija (Galería de las Colecciones Reales)
-Najnoviji muzejski biser Madrida, smješten pored katedrale Almudena.
-- **Šta vidjeti:** Tri sprata luksuza – od flamanskih tapiserija do <span class="highlight-text">**Caravaggiovih remek-djela**</span>. Zgrada je ukopana u stijenu i nudi pogled na zidine Madrida iz 9. vijeka.
-- **Ulaznica:** **14 €**.
-
-### 5. Park Retiro i Kristalna palata
-Nekadašnji kraljevski vrtovi, danas pod zaštitom UNESCO-a.
-- **Iskustvo:** Iznajmljivanje čamca na jezeru (**6-8 €**) i posjeta <span class="highlight-text">**Kristalnoj palati**</span> (besplatan ulaz), staklenoj konstrukciji iz 1887. godine.
-- **Zanimljivost:** Statua "Pali anđeo" nalazi se na tačno 666 metara nadmorske visine.
-
-### 6. Muzej Reina Sofía
-Epicentar moderne umjetnosti 20. vijeka.
-- **Glavni adut:** **Picassova "Guernica"**. Vidjeti ovo monumentalno platno uživo je katarzično iskustvo koje definiše posjetu Madridu.
-- **Ulaznica:** **12 €**.
-
-## Urbani transport: Navigacija gradom
-
-- **Tarjeta Multi:** Plastična kartica (2,50 €) na koju dopunjujete vožnje.
-- **Metrobús (10 vožnji):** 12,20 €. Važi za metro i plave gradske autobuse (EMT).
-- **Linija 1 (Plava):** Najvažnija za turiste, spaja sjever i jug preko stanica Sol i Atocha.
-
-## Gastronomija: Autentični ukusi
-
-- **Sobrino de Botín:** Najstariji restoran na svijetu (pečen odojak).
-- **Mercado de San Miguel:** Gourmet tržnica.
-- **Menú del día:** Ručak od 3 slijeda sa vinom (13 € – 18 €).
-
-## Praktični savjeti i eSIM
-
-- **Povezivanje (eSIM):** Umjesto traženja lokalnih prodavnica, preporučuje se instalacija **eSIM** kartice (npr. *Airalo* ili *Holafly*) prije puta. Za Madrid 2026, paket od 10GB za Španiju košta oko **15–20 €**. Omogućava vam 5G brzinu čim sletite bez mijenjanja fizičke kartice.
-- **Voda:** Voda iz česme je vrhunskog kvaliteta.
-- **Sigurnost:** Oprez na trgu Puerta del Sol i oko muzeja zbog džeparoša.
-- **Bakšiš:** Ostavite 5–10% za dobru uslugu u restoranima, ali nije obavezno.
-
-## Budžetski okvir za 2026. godinu (po osobi)
-
-| Kategorija | Ekonomična | Srednja | Luksuzna |
-| :--- | :--- | :--- | :--- |
-| **Smještaj (5 noći)** | 300 € | 750 € | 1.800 €+ |
-| **Hrana i piće** | 150 € | 350 € | 800 €+ |
-| **Atrakcije i prevoz** | 80 € | 160 € | 350 €+ |
-| **Ukupno (bez leta)** | **530 €** | **1.260 €** | **2.950 €+** |
+## 1. Zašto Madrid?
+Ovdje se susreću kraljevska raskoš dinastije Bourbon, burna španska istorija i moderna evropska svakodnevica. Grad je pun kontrasta: monumentalne palate naspram uskih boemskih ulica, svjetski muzeji pored tradicionalnih taverni, opušteno ispijanje vina u četvrti La Latina dok na Gran Vía pratite najnovije modne trendove. Upravo ta neponovljiva mješavina elegancije i ulične energije čini Madrid magnetom za svakog putnika koji traži autentičan duh Španije.
 
 ---
 
-## Zaključak: Grad koji nikada ne spava, ali uvijek sanja
+## 2. Najbolje vrijeme za posjetu
 
-Madrid nije destinacija koju ćete jednostavno „odraditi“ za jedan vikend i precrtati sa liste. To je grad koji zahtijeva vaše prisustvo, vašu pažnju i, iznad svega, vašu energiju. Dok će vas drugi evropski centri možda impresionirati svojom hladnom savršenošću, <span class="highlight-text">**Madrid će vas zavesti svojim nesavršenim**</span>, ali neodoljivim duhom.
+- **Proljeće (april–jun)** 🌸  
+  Najugodnije vrijeme, temperature 20–25°C, grad je pun cvijeća i idealan za šetnju parkovima.  
+- **Ljeto (jul–avgust)** ☀️  
+  Veoma vruće i suvo (35–40°C), grad je manje gužvovit jer mještani bježe na more, a cijene smještaja mogu biti niže.  
+- **Jesen (septembar–oktobar)** 🍂  
+  Prijatne temperature (20–22°C), kulturna sezona je u punom jeku. Jedan od najboljih perioda za posjetu.  
+- **Zima (novembar–mart)** ❄️  
+  Temperature 5–12°C, ali sa puno sunčanih dana. Hoteli su najjeftiniji, a grad je prelijepo ukrašen tokom praznika.  
 
-U 2026. godini, španska prijestonica stoji na vrhuncu svoje moći – kao <span class="highlight-text">**tehnološki napredna metropola**</span> koja je uspjela da sačuva miris starog drveta u svojim konobama i sjaj zlata u svojim palatama. Bilo da ste došli zbog tišine ispred Picassove „Guernice“, adrenalina na novom Bernabéu stadionu ili čaše vrhunskog vina u nekoj od skrivenih ulica kvarta Chamberí, Madrid će vam pružiti osjećaj pripadnosti. 
+**Preporuka:** Najbolje vrijeme je **maj–jun** ili **septembar**.  
 
-To je grad koji vas uči da je život najljepši onda kada se dijeli sa drugima, uz dugačke razgovore pod vedrim <span class="highlight-text">**kastiljskim nebom**</span>. Iz Madrida se ne vraćate samo sa fotografijama; vraćate se sa novom definicijom onoga što znači istinski uživati u svakom trenutku.
+---
 
+## 3. Kako doći do Madrida
 
-*Ovaj vodič pruža objektivne i precizne informacije za putnike koji žele doživjeti Madrid na najvišem nivou.*
+### Avion ✈️
+Najčešći način dolaska u prijestonicu.  
+- **Madrid-Barajas (MAD)** – glavni aerodrom, odlično povezan sa četiri terminala.  
+
+**Cijene povratnih letova (2026):** - Low-cost kompanije (Ryanair, WizzAir, Vueling): **80–180 €** - Iberia / Lufthansa / Air Serbia: **180–300 €** - Sezona ili last-minute: **300 €+**
+
+### Voz 🚄  
+Španija ima vrhunsku mrežu brzih vozova (AVE). Iz Barselone se stiže za samo 2.5h. Cijena: **30–90 €**.  
+
+### Autobus 🚌  
+Dobro povezan sa Portugalom i ostatkom Španije. Cijena iz Lisabona ili Sevilje: **25–45 €**.  
+
+---
+
+## 4. Transfer od aerodroma do centra
+
+### Madrid-Barajas (MAD)
+- **Express Bus (Línea Express):** 5 € (do stanice Atocha/Cibeles 30–40 min)  
+- **Metro Linija 8:** 5 € (uključuje aerodromsku doplatu)  
+- **Taksi:** Fiksna cijena **30 €** (do bilo koje lokacije u centru)  
+- **Cercanías voz (T4):** 2,60 €  
+
+---
+
+## 5. Prevoz u gradu
+
+- **Multi Card** – dopunjiva kartica za metro i plave gradske autobuse. Cijena kartice 2,5 €, dopuna za 10 vožnji oko 12 €.  
+- **Jedna vožnja metro:** 1,5–2 €  
+- **Rent-a-bike (BiciMAD):** Odličan način za obilazak parkova.  
+- **Taksi start:** 3,5 € + kilometraža (prosječna vožnja kroz centar 8–15 €).  
+- Uber i Cabify su dostupni i vrlo popularni.  
+
+---
+
+## 6. Smještaj
+
+### Preporučene zone
+- **Sol & Gran Vía** – srce grada, sve je na pješačkoj udaljenosti.  
+- **La Latina** – najstariji dio, raj za ljubitelje tapasa i istorije.  
+- **Malasaña & Chueca** – alternativne i moderne četvrti, odličan noćni život.  
+- **Retiro & Salamanca** – mirnije, luksuznije i blizu muzeja.  
+
+### Raspon cijena
+- Hosteli: **30–50 €/noć** 
+- 3★ hoteli: **80–130 €/noć** 
+- 4★ hoteli: **130–220 €/noć** 
+- 5★ hoteli: **250 €+ /noć** 
+
+---
+
+## 7. Hrana i piće
+
+### Ulična hrana i tapasi 🍢
+- **Bocadillo de Calamares (sendvič s lignjama):** 4–6 €  
+- **Churros con Chocolate:** 4–7 €  
+- **Tapa (uz piće):** 2–5 €  
+
+### Restorani 🍽️
+- Menu del Día (ručak od 3 slijeda): **12–18 €** 
+- Večera u taverni: **20–35 €** po osobi  
+- Fini dining: **60 €+** ### Piće 🍷
+- Caña (malo pivo): 1,5–3 €  
+- Čaša vina (Rioja): 3–5 €  
+- Sangria / Tinto de Verano: 4–6 €  
+- Vermut: 3 €  
+
+---
+
+## 8. Najpoznatije atrakcije - obavezno posjetiti!
+
+### 🏛️ Trg Plaza Mayor
+- Monumentalni trg iz 17. vijeka okružen crvenim zgradama.  
+- Centar svih dešavanja i najbolje mjesto za kafu (uprkos cijenama).  
+- Ulaznica: **Besplatno**.  
+- Vrijeme obilaska: 30 min  
+
+{{< figcredit 
+    src="slike/vodic/madrid2.jpg" 
+    alt="Plaza Mayor u Madridu"
+    author="Moraes"
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/plaza-mayor-madrid-spain-city-1181273/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
+>}}
+
+### 🏰 Kraljevska palata (Palacio Real)
+- Zvanična rezidencija, ali se koristi samo za ceremonije.  
+- Jedna od najvećih palata u Evropi sa preko 3.000 soba.  
+- Ulaznica: **14 €**.  
+- Vrijeme obilaska: 2–3h  
+
+---
+
+### 🖼️ Muzej Prado
+- Jedna od najvažnijih umjetničkih galerija na svijetu.  
+- Djela Velázqueza, Goye i El Greca koja oduzimaju dah.  
+- Ulaznica: **15 €** (Besplatno poslednja dva sata rada).  
+- Vrijeme obilaska: 3–4h  
+
+---
+
+### 🌳 Park Retiro
+- Nekada kraljevski vrt, danas glavna zelena pluća grada.  
+- Poznat po Kristalnoj palati i velikom jezeru sa čamcima.  
+- Ulaznica: **Besplatno**.  
+- Vrijeme obilaska: 2h  
+
+---
+
+### 🏟️ Stadion Santiago Bernabéu
+- Kultno zdanje Real Madrida, nedavno potpuno renovirano.  
+- Obilazak muzeja kluba i izlazak na tribine.  
+- Ulaznica: **25–35 €**.  
+- Vrijeme obilaska: 1.5h  
+
+{{< figcredit 
+    src="slike/vodic/madrid3.jpg" 
+    alt="Panorama Madrida noću"
+    author="Julius_Silver" 
+    source="Pixabay"
+    source_url="https://pixabay.com/photos/madrid-spain-city-night-buildings-2609065/"
+    license="Pixabay License"
+    license_url="https://pixabay.com/service/license/" 
+>}}
+
+---
+
+### 🛍️ Gran Vía & Puerta del Sol
+- Glavne arterije grada za shopping i ulične performere.  
+- Ovdje se nalazi nulta tačka (Km 0) svih puteva u Španiji.  
+- Ulaz: besplatan, ali ponesite novčanik za shopping!  
+
+---
+
+### 🌅 Hram Debod
+- Autentični egipatski hram poklonjen Španiji.  
+- Najbolje mjesto u gradu za posmatranje zalaska sunca.  
+- Ulaznica: **Besplatno**.  
+
+---
+
+## 9. Suveniri i shopping
+
+- **Kožna galanterija:** Španska koža je vrhunskog kvaliteta.  
+- **Lepeze (Abanicos):** Ručno oslikane, od 10 € naviše.  
+- **Jamón Ibérico:** Vakumirana šunka spremna za put.  
+- **Saffron i maslinovo ulje:** Nezaobilazni začini.  
+- **Dres Real Madrida:** Najpopularniji suvenir za ljubitelje sporta.  
+
+👉 Najbolje mjesto: **El Rastro** (nedjeljni buvljak) ili **Gran Vía** za brendove.  
+
+---
+
+## 10. Plan putovanja – 5 dana u Madridu
+
+### Dan 1 – Centar i kraljevska istorija
+- Transfer i smještaj kod Sol-a.  
+- Kraljevska palata (14 €) i katedrala Almudena.  
+
+### Dan 2 – Umjetnost i parkovi
+- Muzej Prado (15 €).  
+- Piknik i vožnja čamcem u parku Retiro.  
+
+### Dan 3 – Tapasi i zalazak sunca
+- Pijaca San Miguel i ručak u La Latini.  
+- Zalazak sunca kod Hrama Debod.  
+
+### Dan 4 – Sport ili izlet u Toledo
+- Stadion Santiago Bernabéu (30 €).  
+- Popodnevni šoping na Gran Vía.  
+
+### Dan 5 – Pijaca i povratak
+- Kupovina suvenira i lokalnih delicija.  
+- Ručak (Menu del Día) prije povratka na aerodrom.  
+
+---
+
+## 11. Praktični savjeti
+
+- **Vrijeme obroka:** Ručak je oko 14:30h, a večera rijetko počinje prije 21:00h.  
+- **Voda:** Voda iz česme u Madridu je jedna od najčistijih u Evropi – pijte je slobodno.  
+- **Bakšiš:** Nije obavezan, ali je 5% sasvim dovoljno za dobru uslugu.  
+- **Sigurnost:** Čuvajte se džeparoša na Sol-u i Gran Vía ulici.  
+- **Siesta:** Mnoge manje radnje se zatvaraju između 14:00h i 17:00h.  
+
+---
+
+## 12. Troškovi (5 dana / 1 osoba)
+
+- Smještaj (3★ hotel): **400–600 €** 
+- Hrana & piće: **150–250 €** 
+- Prevoz & transferi: **40–60 €** 
+- Atrakcije: **80–120 €** 
+- Suveniri: **40–100 €** 
+- **Ukupno:** **710–1.130 €** 
+
+---
+
+## 13. Zaključak
+
+Madrid nije samo grad – to je način života (estilo de vida).  
+Sa svojim kraljevskim palatama, nepreglednim muzejima i energijom koja ne jenjava ni u 3 sata ujutro, svaki putnik ovdje pronađe svoju strast.  
+Bilo da ste zaljubljenik u umjetnost, gurman ili prosto želite osjetiti čuvenu "la movida" atmosferu – Madrid će vas osvojiti svojom toplinom i neposrednošću.  
+
+{{< figcredit 
+    src="slike/vodic/madrid1.jpg" 
+    alt="Kraljevska palata u Madridu"
+    author="Catarina Belova" 
+    source="Pexels"
+    source_url="https://www.pexels.com/photo/aerial-view-of-city-buildings-under-white-clouds-and-blue-sky-during-daytime-210158/"
+    license="Pexels License"
+    license_url="https://www.pexels.com/license/" 
+>}}

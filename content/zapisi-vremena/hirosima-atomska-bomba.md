@@ -28,7 +28,7 @@ tags:
 
 
 
-6. avgust 1945 - 8:15 ujutro, nebo iznad japanskog grada Hirošime postalo je svjetlije od hiljadu sunca. Američki bombarder **Enola Gay** ispustio je atomsku bombu kodnog imena **„Little Boy“**, prvu nuklearnu bombu upotrijebljenu u ratu. Za manje od jedne sekunde, <span class="highlight-text">**temperatura u središtu eksplozije dostigla je 4.000°C**</span>, a grad sa 350.000 stanovnika pretvoren je u more vatre i prašine.  
+Dan 6. avgust 1945 - 8:15 ujutro, nebo iznad japanskog grada Hirošime postalo je svjetlije od hiljadu sunca. Američki bombarder **Enola Gay** ispustio je atomsku bombu kodnog imena **„Little Boy“**, prvu nuklearnu bombu upotrijebljenu u ratu. Za manje od jedne sekunde, <span class="highlight-text">**temperatura u središtu eksplozije dostigla je 4.000°C**</span>, a grad sa 350.000 stanovnika pretvoren je u more vatre i prašine.  
 
 Više od <span class="highlight-text">**70.000 ljudi poginulo je odmah**</span>, a još toliko umrlo u mjesecima koji su slijedili od posljedica zračenja.  
 U trenutku, Hirošima je postala simbol ljudske destrukcije — ali i, paradoksalno, početak nove ere svjetske istorije.  

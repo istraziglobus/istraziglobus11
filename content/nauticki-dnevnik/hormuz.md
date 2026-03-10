@@ -1,5 +1,5 @@
 ---
-title: "Hormuz: Moreuz koji drži dah planete"
+title: "Hormuz: Najvažniji pomorski prolaz između Irana i Omana"
 subtitle: "Geopolitičko srce svijeta između Irana i Omana"
 author: "Istraži Globus Tim"
 description: "Sve o moreuzu Hormuz: od strateške važnosti za svjetsku ekonomiju do nevjerovatnih fjordova Omana i crvene zemlje Irana."
@@ -22,7 +22,7 @@ tags:
 - Geografija
 ---
 
-Na mapi svijeta, moreuz Hormuz izgleda kao uska, zakrivljena arterija koja spaja Persijski zaliv sa otvorenim <span class="highlight-text">**okeanom**</span>. Njegova najuža tačka iznosi svega tridesetak kilometara, što ga čini jednim od najkritičnijih pomorskih prolaza na cijeloj planeti. Između surovih planina Omana i obala Irana, ovdje se lome interesi najmoćnijih sila <span class="highlight-text">**današnjice**</span>.
+Na mapi svijeta, Hormuški moreuz izgleda kao uska, zakrivljena arterija koja povezuje Persijski zaliv sa Omanskim zalivom i dalje sa Indijskim okeanom. Ovaj tjesnac između Irana i Omana smatra se najvažnijim energetskim pomorskim prolazom na planeti. Njegova najuža tačka iznosi svega tridesetak kilometara, što ga čini jednim od najkritičnijih pomorskih prolaza na cijeloj planeti. Između surovih planina Omana i obala Irana, ovdje se lome interesi najmoćnijih sila <span class="highlight-text">**današnjice**</span>.
 
 Ovaj moreuz nije samo linija na karti, već živi organizam kroz koji pulsira globalna <span class="highlight-text">**ekonomija**</span>. Svaki dan ovuda prođe petina ukupne svjetske nafte, pretvarajući ovu usku traku vode u energetsku kičmu savremenog svijeta. Istražiti Hormuz znači razumjeti kako geografija direktno diktira sudbinu modernog čovječanstva i globalnu <span class="highlight-text">**stabilnost**</span>.
 
@@ -88,13 +88,15 @@ Odnosi ove dvije zemlje direktno diktiraju temperaturu globalne <span class="hig
 
 ---
 
-### Tankeri: Čelični divovi na horizontu
+### Zašto je Hormuz najvažniji moreuz na svijetu?
 
-Sa obala Omana pogled često puca na beskrajnu kolonu džinovskih tankera koji kroz moreuz klize kao spori čelični gradovi na horizontu. Ovi brodovi, prvenstveno klase VLCC (Very Large Crude Carriers), nose i do dva miliona barela nafte pojedinačno, što znači da samo jedan brod transportuje energiju dovoljnu za višemjesečne potrebe osrednje evropske države. Prizor ovih titana, koji se smjenjuju u razmacima od svega <span class="highlight-text">**desetak minuta**</span> tokom najprometnijih sati, podsjeća na nevjerovatnu zavisnost savremenog svijeta od ovog uskog prolaza.
+Svaki dan kroz Hormuški moreuz prolazi približno <span class="highlight-text">**20 do 21 milion barela nafte**</span>, što predstavlja gotovo petinu ukupne svjetske potrošnje energije iz nafte. Ovaj uski prolaz između Irana i Omana funkcioniše kao pravi energetski ventil planete, jer je glavni izlaz za naftu koja dolazi iz država Persijskog zaliva. Tankeri koji ovuda prolaze nose energiju prema najvećim industrijskim ekonomijama svijeta, poput Kina, Japan i Indija.
 
-Kapetani ovih grdosija nalaze se pod stalnim nadzorom ratnih mornarica dok manevrišu kroz plovne <span class="highlight-text">**koridore**</span> koji su, uprkos širini moreuza, svedeni na svega 3,7 kilometara širine za svaki smjer. Ovako skučen prostor, uz "tampon zonu" od dvije nautičke milje koja razdvaja brodove koji ulaze od onih koji izlaze, ne ostavlja apsolutno nikakav prostor za tehnički kvar ili ljudsku grešku. Svaki pokret kormila prati se radarima sa kopna i satelitima iz svemira, jer bi bilo kakav zastoj u ovom "grliću boce" izazvao trenutni kolaps u lancu snabdijevanja.
+Ogromni tankeri klase VLCC (Very Large Crude Carrier) mogu prevoziti i do <span class="highlight-text">**dva miliona barela**</span> nafte u jednom putovanju, pretvarajući svaki brod u pokretni rezervoar energije. Tokom najprometnijih sati kroz moreuz prolaze gotovo neprekidne kolone ovih čeličnih divova, često u razmacima od svega nekoliko minuta. Sa obala Omana prizor podsjeća na spor i gotovo hipnotičan tok plutajućih gradova koji nose gorivo za fabrike, elektrane i transport širom planete.
 
-Svaki siguran prolazak kroz moreuz je mala pobjeda za svjetsku industriju, posebno ako se zna da preko <span class="highlight-text">**80% ovog tereta**</span> odlazi direktno na žedna tržišta Azije, poput Kine, Japana i Indije. Bez ovog neprekidnog tranzita, globalna ekonomija bi se suočila sa kolapsom u svega nekoliko dana, jer kroz Hormuz prođe trećina ukupne svjetske nafte koja se transportuje morem. Utroba ovih brodova krije civilizaciju u tečnom stanju – energiju koja održava gradove osvijetljenim i fabrike u pogonu na drugom kraju planete.
+Iako je sam moreuz širok nekoliko desetina kilometara, brodovi se kreću kroz strogo definisane plovne koridore široke svega oko <span class="highlight-text">**3 kilometra**</span> po smjeru, razdvojene tampon zonom. Upravo zbog toga svaki prolazak zahtijeva savršenu navigaciju i stalni nadzor radara, satelita i vojnih patrola. Svaki zastoj u ovom "grliću boce" mogao bi izazvati ozbiljan poremećaj u globalnom lancu snabdijevanja energijom.
+
+>Zbog ove ogromne koncentracije energetskog prometa, Hormuški moreuz se u strateškim analizama često naziva najvažnijim pomorskim <span class="highlight-text">**"choke pointom"**</span> na svijetu. Dok god tankeri nesmetano prolaze između planina Irana i fjordova poluostrva Musandam u Omanu, svjetska ekonomija nastavlja da funkcioniše bez većih potresa.
 
 ---
 
