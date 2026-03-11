@@ -25,7 +25,7 @@ draft: false
 Istanbul je grad na dva kontinenta – Evropa i Azija, podijeljen Bosforom. Sa više od 15 miliona stanovnika, to je jedan od najživljih i kulturno najbogatijih gradova svijeta. Od veličanstvenih vizantijskih mozaika u Aja Sofiji do užurbane atmosfere Kapali Čaršije, Istanbul je mesto gde se drevna istorija i moderni ritmovi spajaju u neodoljivu, pulsirajuću celinu. Ovo je jedinstvena metropola u kojoj miris začina s Istoka prati zvonjavu tramvaja sa Zapada, pozivajući vas na putovanje kroz vreme i kulturu koje ćete pamtiti zauvek.
 
 ## 1. Zašto Istanbul?
-Ovdje se susreću osmanska raskoš, vizantijska historija i moderna turska svakodnevica. Grad je pun kontrasta: džamije naspram crkava, bazari pored tržnih centara, tradicionalni čaj u naselju Üsküdar dok u Beyoğlu ispijate koktel na rooftop baru. Upravo ta neponovljiva mešavina Istoka i Zapada, haosa i elegancije, čini Istanbul jedinstvenim magnetom za svakog putnika koji traži priču izvan uobičajene turističke staze. 
+Ovdje se susreću osmanska raskoš, vizantijska istorija i moderna turska svakodnevica. Grad je pun kontrasta: džamije naspram crkava, bazari pored tržnih centara, tradicionalni čaj u naselju Üsküdar dok u Beyoğlu ispijate koktel na rooftop baru. Upravo ta neponovljiva mešavina Istoka i Zapada, haosa i elegancije, čini Istanbul jedinstvenim magnetom za svakog putnika koji traži priču izvan uobičajene turističke staze. 
 
 ---
 

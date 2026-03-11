@@ -1,7 +1,7 @@
 ---
 title: "Madrid 2026: Detaljan putni vodič"
 subtitle: "Kompletan vodič za Madrid – kada putovati, kako doći, atrakcije, cijene, smještaj, suveniri i savjeti."
-date: "2026-03-10"
+date: "2026-01-08"
 description: "Planirate put u Madrid? Otkrijte najbolje savjete za prevoz, hranu i znamenitosti koje ne smijete propustiti. Doživite kraljevski duh Španije uz naš detaljni vodič."
 image: "slike/vodic/madrid-hero.jpg"
 author: "RidacsA"
@@ -48,7 +48,10 @@ Ovdje se susreću kraljevska raskoš dinastije Bourbon, burna španska istorija 
 Najčešći način dolaska u prijestonicu.  
 - **Madrid-Barajas (MAD)** – glavni aerodrom, odlično povezan sa četiri terminala.  
 
-**Cijene povratnih letova (2026):** - Low-cost kompanije (Ryanair, WizzAir, Vueling): **80–180 €** - Iberia / Lufthansa / Air Serbia: **180–300 €** - Sezona ili last-minute: **300 €+**
+**Cijene povratnih letova (2026):** 
+- Low-cost kompanije (Ryanair, WizzAir, Vueling): **80–180 €** 
+- Iberia / Lufthansa / Air Serbia: **180–300 €** 
+- Sezona ili last-minute: **300 €+**
 
 ### Voz 🚄  
 Španija ima vrhunsku mrežu brzih vozova (AVE). Iz Barselone se stiže za samo 2.5h. Cijena: **30–90 €**.  
