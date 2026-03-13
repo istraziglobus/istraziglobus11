@@ -26,7 +26,7 @@ Novi Zeland je zemlja koja očarava od prvog trenutka svojim visokim planinama, 
 
 Za putnika koji želi autentično iskustvo, Novi Zeland ne počinje i ne završava se samo na vidikovcima, jer je potrebno osjetiti energiju <span class="highlight-text">Hake</span> i slušati priče koje odjekuju u svakoj dolini. Jezik i rituali su živi most koji povezuje <span class="highlight-text">prošlost</span> sa savremenim životom modernog društva.
 
-### Maorski jezik – glas prošlih generacija
+## Maorski jezik – glas prošlih generacija
 
 Maorski jezik, stoljećima prenošen kroz usmenu tradiciju, pjesme i pripovijedanje, nosi sa sobom duboku <span class="highlight-text">**istoriju i identitet**</span> ovog ponosnog naroda. Svaka izgovorena riječ ima svoju težinu i specifično značenje, povezujući tako današnje generacije sa njihovim dalekim precima kroz neraskidivu nit govora. Iako je kolonijalni period doveo te reo Māori na samu ivicu zaborava, u posljednjim decenijama on proživljava istinsku i snažnu kulturnu renesansu.
 
@@ -46,7 +46,7 @@ U urbanim centrima poput Wellingtona i Aucklanda, dvojezični natpisi su postali
 
 ---
 
-### Kia Ora i filozofija pozdrava
+## Kia Ora i filozofija pozdrava
 
 Maori imaju jedan poseban i globalno prepoznatljiv pozdrav, <span class="highlight-text">**"Kia ora"**</span>, što u bukvalnom prevodu znači "budi zdrav" ili "neka ti je život". Ovaj izraz se danas koristi kao univerzalni pozdrav širom države, simbolišući toplinu i otvorenost novozelandskog društva prema svakome ko kroči na njihovo tlo. Jezik Maora pripada polinezijskoj porodici, što ga direktno povezuje sa egzotičnim kulturama <span class="highlight-text">Havaja</span> i dalekog Tahitija.
 
@@ -56,7 +56,7 @@ Mnogi lokalci će sa velikim osmijehom podijeliti još više o svojoj kulturi ak
 
 ---
 
-### Haka – ples koji odjekuje kroz vrijeme
+## Haka – ples koji odjekuje kroz vrijeme
 
 Haka je mnogo više od običnog plesa; ona predstavlja najsnažniji izraz unutrašnje moći, identiteta i kolektivne pripadnosti <span class="highlight-text">zajednici</span>. Tradicionalno se koristila u razne svrhe, od motivisanja ratnika prije bitke do slanja jasnih poruka rivalskim plemenima u okruženju. Ceremonijalne Hake su, s druge strane, služile za izražavanje <span class="highlight-text">zahvalnosti</span> i srdačne dobrodošlice važnim gostima koji posjećuju njihova sela.
 
@@ -76,7 +76,7 @@ Postoje različite vrste ovog plesa, a svaka od njih ima specifičnu namjenu u d
 
 ---
 
-### Istorija i putovanje sa pacifičkih ostrva
+## Istorija i putovanje sa pacifičkih ostrva
 
 Maori su autohtono stanovništvo Novog Zelanda koje je stiglo sa polinezijskih ostrva prije više od hiljadu <span class="highlight-text">godina</span> u velikim kanuima. Njihova kultura je nevjerovatno bogata mitologijom, legendama i složenim ritualima koji su oblikovali njihovu svakodnevnu egzistenciju. Društvena struktura je uvijek bila strogo definisana, sa jasnim hijerarhijama koje su čuvale <span class="highlight-text">mir</span> i poredak unutar velikih porodičnih klanova.
 
@@ -86,7 +86,7 @@ Uprkos teškim periodima asimilacije i zabrane jezika, maorska tradicija je uspj
 
 ---
 
-### Tradicionalna Hāngi gozba iz zemlje
+## Tradicionalna Hāngi gozba iz zemlje
 
 Pravi doživljaj maorske kulture bio bi potpuno nepotpun bez degustacije Hāngi gozbe, koja predstavlja tradicionalni način pripreme <span class="highlight-text">hrane</span> star vjekovima. To nije samo običan obrok, već drevni ritual koji simbolizuje zajedništvo, gostoprimstvo i najdublju moguću povezanost sa majkom zemljom. Hāngi se priprema u posebnim <span class="highlight-text">**zemljanim pećima**</span>, gdje se koristi isključivo toplota vulkanskog kamenja.
 
@@ -106,7 +106,7 @@ Zajedničko objedovanje nakon ceremonije otvaranja jame predstavlja vrhunac gost
 
 ---
 
-### Koncept Mana i duhovna snaga
+## Koncept Mana i duhovna snaga
 
 Koncept "Mana", koji označava lični ugled i duhovnu moć pojedinca, predstavlja apsolutni <span class="highlight-text">**temelj maorskog društva**</span> i svih međuljudskih odnosa. Vjerovanja ovog naroda su neraskidivo povezana sa elementima prirode, gdje more i zemlja imaju ulogu roditelja kojima se duguje vječno poštovanje. Slikanje lica, poznato kao Tā moko, predstavlja trajni zapis nečijeg porodičnog stabla i postignutih <span class="highlight-text">uspjeha</span> tokom života.
 
@@ -116,7 +116,7 @@ Tradicija izrade rezbarija na sastajalištima Marae služi kao svojevrsna vizuel
 
 ---
 
-### Simbolika pokreta i pūkana
+## Simbolika pokreta i pūkana
 
 Izraz lica, poznat u njihovoj tradiciji kao "pūkana", predstavlja ključni dio svakog izvođenja Hake na <span class="highlight-text">sceni</span> ili u borbi. Borci koriste širom otvorene oči i isplažen jezik kako bi zastrašili protivnika ili pokazali vrhunac unutrašnje duhovne vatre. Takođe, ovaj ples se koristi i u tužnim prilikama, poput ispraćaja cijenjenih članova zajednice, slaveći njihovo veliko <span class="highlight-text">nasljeđe</span>.
 
@@ -137,7 +137,7 @@ Učenje simbolike Hake u kulturnim centrima Rotorue pruža putnicima priliku da 
 
 ---
 
-### Marae – srce maorske zajednice
+## Marae – srce maorske zajednice
 
 Putnici koji posjete tradicionalno maorsko zborno mjesto, poznato kao Marae, doživljavaju najautentičniji oblik <span class="highlight-text">prijema</span> koji se može zamisliti. Ceremonija dobrodošlice, pōwhiri, uključuje govore, pjesmu i formalno upoznavanje koje briše granice između domaćina i potpunog <span class="highlight-text">stranca</span>. Upravo ovdje se uče najbitnija pravila etike i ponašanja koja definišu maorski način života u savremenom svijetu.
 
@@ -152,7 +152,7 @@ Maorski jezik je 1987. godine postao zvanični jezik Novog Zelanda, ali je najfa
 
 ---
 
-### Zaključak: Živa duša Aotearoe
+## Zaključak: Živa duša Aotearoe
 
 Posjeta Novom Zelandu definitivno nije samo vizuelna avantura kroz filmske pejzaže, već duboko emocionalno i kulturno putovanje koje mijenja pogled na svijet. Maorski jezik i Haka jasno pokazuju da tradicija ovdje nije mrtvo slovo na papiru, već <span class="highlight-text">**živi dio svakodnevnog života**</span> koji pulsira u svakom stanovniku. To je sinergija prošlosti i budućnosti koja osigurava da vitalne priče naroda ostanu žive u <span class="highlight-text">modernom</span> dobu.
 

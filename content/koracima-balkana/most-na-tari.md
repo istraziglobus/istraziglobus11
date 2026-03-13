@@ -29,7 +29,7 @@ Dok prelazite preko betonskih lukova, osjetićete kako vjetar nosi miris planins
 
 ---
 
-### Inženjerski podvig podno Durmitora
+## Inženjerski podvig podno Durmitora
 
 Izgradnja mosta krajem tridesetih godina prošlog vijeka bila je pravi <span class="highlight-text">**podvig**</span>. Inženjer Mijat Trojanović projektovao je strukturu koja je tada bila najviša u Evropi. Hiljade radnika borilo se sa surovim terenom i nepristupačnim stijenama kanjona. Svaki luk je građen sa nevjerovatnom preciznošću u ekstremnim uslovima.
 
@@ -49,7 +49,7 @@ Kada je završen, most je predstavljao tehnološki vrhunac Kraljevine Jugoslavij
 
 ---
 
-### Žrtva inženjera Jaukovića
+## Žrtva inženjera Jaukovića
 
 Ratna drama na Tari počela je u proljeće 1942. godine. Italijanska vojska je planirala prelazak preko mosta kako bi nastavila <span class="highlight-text">**ofanzivu**</span>. Partizanske jedinice su morale spriječiti ovaj prodor po svaku cijenu. Zadatak uništenja mosta povjeren je inženjeru Lazaru Jaukoviću. On je morao srušiti sopstveno remek-djelo kako bi spasio narod.
 
@@ -59,7 +59,7 @@ Ova tragična priča inspirisala je i svjetsku kinematografiju. Film "Most" pros
 
 ---
 
-### Rafting: Susret sa divljim brzacima
+## Rafting: Susret sa divljim brzacima
 
 Ispod lukova mosta počinje prava vodena avantura na rijeci Tari. Rafting ovom rijekom smatra se jednim od najboljih na cijelom <span class="highlight-text">**svijetu**</span>. Voda je toliko čista da se može piti tokom cijelog spusta. Čuveni brzaci nude mješavinu uzbuđenja i potpunog mira u srcu kanjona. Iskusni skiperi vode čamce kroz uske prolaze i visoke talase sa velikom <span class="highlight-text">**vještinom**</span>.
 
@@ -79,7 +79,7 @@ Ova avantura nudi i priliku za posmatranje rijetkih biljnih i životinjskih vrst
 
 ---
 
-### Let iznad "Suze Evrope"
+## Let iznad "Suze Evrope"
 
 Danas je most na Tari centar ekstremnih sportova i vrhunske <span class="highlight-text">**zabave**</span>. Jedna od najtraženijih atrakcija je zip-line, jedan od najdužih u Evropi. Posjetioci imaju priliku da bukvalno prelete sa jedne na drugu stranu kanjona. Osjećaj slobode dok letite iznad ponora je potpuno neopisiv. Brzina i adrenalin čine ovo iskustvo nezaboravnim za svakog <span class="highlight-text">**avanturistu**</span>.
 
@@ -89,7 +89,7 @@ Ova aktivnost privlači turiste svih generacija iz cijelog svijeta. Čak i oni k
 
 ---
 
-### Kapija Nacionalnog parka Durmitor
+## Kapija Nacionalnog parka Durmitor
 
 Most služi kao veličanstveni ulaz u carstvo planine Durmitor. Ovaj nacionalni park je pod zaštitom UNESCO-a zbog svoje <span class="highlight-text">**ljepote**</span>. Od mosta putevi vode ka Žabljaku i čuvenim "Gorskim očima". Crno jezero je prva stanica koju niko ne bi smio da zaobiđe. Ono nudi mirne šetnje kroz guste šume crnog <span class="highlight-text">**bora**</span>.
 
@@ -110,7 +110,7 @@ Region oko mosta je savršen za biciklizam i duge pješačke rute. Priroda se ov
 
 ---
 
-### Magla i svjetlost: Igra prirode
+## Magla i svjetlost: Igra prirode
 
 Najmagičniji trenuci na mostu dešavaju se u ranim jutarnjim satima. Često se iz kanjona podižu gusti oblaci bijele <span class="highlight-text">**magle**</span>. Tada se čini kao da most lebdi iznad oblaka, odvojen od zemlje. Svjetlost jutarnjeg sunca polako probija sivilo i osvjetljava betonske lukove. To je prizor koji fotografi čekaju satima kako bi napravili savršen <span class="highlight-text">**snimak**</span>.
 
@@ -134,7 +134,7 @@ Svako godišnje doba donosi novu atmosferu na Đurđevića Taru. Proljeće donos
 
 ---
 
-### Gostoprimstvo i ukusi sjevera
+## Gostoprimstvo i ukusi sjevera
 
 Nakon adrenalinskih podviga, najbolje je uživati u domaćoj hrani. Okolni restorani nude specijalitete koji su specifični za sjever Crne <span class="highlight-text">**Gore**</span>. Obavezno probajte durmitorski skorup i domaći hljeb pečen pod sačem. Jagnjetina pripremljena u mlijeku je jelo koje oduševljava i najzahtjevnije gurmane. Ovi ukusi nose u sebi svu snagu i tradiciju durmitorskog <span class="highlight-text">**kraja**</span>.
 
@@ -149,7 +149,7 @@ Ljubazni domaćini će vam rado ispričati lokalne legende i predanja. Gostoprim
 
 ---
 
-### Zaključak: Simfonija kamena i vode
+## Zaključak: Simfonija kamena i vode
 
 Most na Đurđevića Tari je mjesto gdje se istorija susreće sa vječnom ljepotom <span class="highlight-text">**prirode**</span>. On nije samo tačka prelaza, već destinacija koja nudi odgovore na mnoga pitanja o ljudskoj snazi. Posjeta ovom mjestu ostavlja trajan pečat na duši svakog putnika. To je prostor gdje se strah pretvara u divljenje, a tišina u najljepšu <span class="highlight-text">**muziku**</span>.
 

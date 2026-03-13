@@ -54,7 +54,7 @@ Ono što je čini posebnom jeste njena sposobnost da svakog posjetioca natjera d
     </figure>
 </div>
 
-### Najpoznatije znamenitosti Barselone koje morate posjetiti
+## Najpoznatije znamenitosti Barselone koje morate posjetiti
 
 Kada planirate obilazak, ove tačke su apsolutni prioriteti za svakog putnika:
 
@@ -64,7 +64,7 @@ Kada planirate obilazak, ove tačke su apsolutni prioriteti za svakog putnika:
 * **La Pedrera (Casa Milà):** Simbol arhitektonske revolucije sa krovom punim neobičnih skulptura.
 * **La Rambla:** Centralna gradska ulica, epicentar zabave, mirisa i uličnih performansa.
 
-### Grad sa dubokom dušom i istorijom
+## Grad sa dubokom dušom i istorijom
 
 Barselona je osnovana još u rimskom periodu pod imenom Barcino, a tokom vijekova se razvila u najvažniji trgovački i kulturni centar Katalonije. Svaki ugao starog jezgra odiše istorijom – od ostataka srednjovjekovnih zidina do raskošnih renesansnih palata koje kriju tajne plemstva. Šetnja ovim prostorima nudi osjećaj <span class="highlight-text">**vremenske mašine**</span> koja vas vodi kroz vijekove španske i katalonske moći.
 
@@ -84,7 +84,7 @@ Katalonci su izuzetno ponosni na svoj jedinstveni identitet i jezik, a taj osje�
 
 ---
 
-### Mijesto svjetlosti, muzike i ulica koje žive
+## Mijesto svjetlosti, muzike i ulica koje žive
 
 Barselona pulsira u ritmu svojih ulica koje nikada nisu potpuno tihe, čak ni u najdubljoj noći. Uveče, dok sunce polako tone iza brda Tibidabo, grad se pretvara u veliku pozornicu na kojoj svako ima svoju ulogu. Gitare i glasovi odjekuju sa Ramble, dok se iz barova u <span class="highlight-text">**El Bornu**</span> čuje žamor mještana koji uživaju u druženju.
 
@@ -94,7 +94,7 @@ Grad vas ne osvaja agresivno, već polako, kroz slučajne poglede prolaznika i m
 
 ---
 
-### Gaudijeva vizija: Arhitektura koja diše
+## Gaudijeva vizija: Arhitektura koja diše
 
 Nijedan grad u svijetu nije toliko neraskidivo povezan s jednim čovjekom kao Barselona s genijalnim Antoni Gaudijem. Njegova vizionarska arhitektura oblikovala je lice grada i pretvorila ga u fascinantan <span class="highlight-text">**muzej na otvorenom**</span> koji prkosi standardnim pravilima gradnje. Njegove linije su organske, inspirisane prirodom i oblicima koje nalazimo u biljnom i životinjskom svijetu.
 
@@ -114,7 +114,7 @@ Osim bazilike, Gaudijeve ruke ostavile su neizbrisiv trag u bajkovitom Parku Gü
 
 ---
 
-### Barselona sa visine: Montjuïc i panorame
+## Barselona sa visine: Montjuïc i panorame
 
 Ako želite da sagledate Barselonu u njenoj punoj, veličanstvenoj veličini, neophodno je da se uputite na brdo Montjuïc. Ovo uzvišenje koje ponosno gleda na gradsku luku nudi najljepše <span class="highlight-text">**panoramske poglede**</span> koji sežu sve do horizonta i plavetnila mora. Ovdje se nalaze mirne botaničke bašte, Nacionalna palata i utvrđenja koja su vijekovima čuvala grad od napada.
 
@@ -124,7 +124,7 @@ Magična fontana smještena podno palate nudi spektakl svjetlosti i vode koji sv
 
 ---
 
-### Camp Nou – srce katalonskog ponosa
+## Camp Nou – srce katalonskog ponosa
 
 Za milione ljudi širom planete, Barselona znači samo jedno – fudbalski klub koji je postao simbol nacionalnog identiteta. Klub FC Barcelona nosi slogan „više od kluba“ jer predstavlja srce <span class="highlight-text">**katalonskog otpora**</span> i ponosa kroz teška istorijska vremena. Camp Nou, njihov dom, nije samo običan sportski stadion, već pravi hram politike, kulture i neopisive strasti.
 
@@ -144,7 +144,7 @@ Kada se zastave podignu i desetine hiljada glasova se stope u jedan, čitav grad
 
 ---
 
-### Duh i ljudi koji čine Barselonu živom
+## Duh i ljudi koji čine Barselonu živom
 
 Barselonu u suštini čine njeni ljudi – otvoreni, strastveni i izuzetno ponosni na tlo sa kojeg potiču. Na lokalnim pijacama se i dalje trguje sa širokim osmijehom, dok se u kafićima satima debatuje o politici i budućnosti. U njihovom karakteru ima nečeg <span class="highlight-text">**prkosnog i ponosnog**</span>, što vas podsjeća da je za njih sloboda način postojanja, a ne samo riječ.
 
@@ -153,7 +153,7 @@ Katalonci vole svoj grad duboko i iskreno, pokazujući to kroz svakodnevne male 
 >U kvartovima poput Gràcije osjetićete atmosferu sela usred metropole, gdje svako svakoga poznaje i pozdravlja. Taj osjećaj <span class="highlight-text">**ljudskosti i topline**</span> je ono što Barselonu izdvaja od drugih hladnih evropskih turističkih centara. Upravo ti ljudi daju boju kamenim fasadama i čine da se svaki putnik, makar na kratko, osjeća kao da pripada ovom magičnom kutku svijeta.
 
 ---
-### Grad vrhunske umjetnosti i kreativne slobode
+## Grad vrhunske umjetnosti i kreativne slobode
 
 Barselona nije samo Gaudi i fudbal; ona je dom u kojem su svoje vizije razvijali velikani poput Dalíja i Picassa. Muzeji posvećeni ovim genijalnim umovima nude dubok uvid u stvaralačke procese koji su zauvijek promijenili modernu umjetnost. <span class="highlight-text">**Kreativna energija**</span> grada osjeća se na svakom koraku, od uličnih instalacija do prestižnih galerija u centru.
 
@@ -173,7 +173,7 @@ Muzej Picassa u srcu Gotičke četvrti čuva preko 4.000 radova iz umjetnikovog 
 
 ---
 
-### Život na obali – more, sunce i tapas kultura
+## Život na obali – more, sunce i tapas kultura
 
 Nakon duge šetnje avenijama i muzejima, Barselona vas poziva da osjetite pijesak pod nogama na jednoj od svojih plaža. Barceloneta je srce obalnog života, mjesto gdje se surferi, muzičari i porodice miješaju u jedinstvenom ritmu <span class="highlight-text">**opuštenosti**</span>. Grad se cijelim svojim bićem okreće moru, a more mu zauzvrat daruje svježinu i beskrajnu inspiraciju.
 
@@ -188,7 +188,7 @@ Plaže poput Bogatelle nude nešto mirniju atmosferu za one koji žele da pobjeg
 
 ---
 
-### Zaključak: Grad koji se uvijek iznova stvara
+## Zaključak: Grad koji se uvijek iznova stvara
 
 Danas je Barselona jedan od najposjećenijih gradova Evrope, ali uprkos masovnom turizmu, ona uspijeva da sačuva svoj jedinstveni šarm. Iza poznatih atrakcija krije se grad koji istinski živi za svoje stanovnike, sa lokalnim tržnicama i skrivenim vrtovima. Ona je savršen spoj <span class="highlight-text">**tradicije i progresa**</span>, mjesto gdje se stare zgrade pretvaraju u moderne prostore za kreativni rad.
 

@@ -28,7 +28,7 @@ Postoje gradovi koji se samo posjećuju, i oni koji se doživljavaju svim čulim
 
 Dok koračate preko starih mostova, osjetićete blagi povjetarac koji stalno donosi svježinu sa okolnih hercegovačkih <span class="highlight-text">brda</span>. Svaki kutak ovog grada poziva vas da usporite i prepustite se istinskom uživanju u trenutku. To je mjesto gdje se gostoprimstvo mjeri osmijehom, a uspomene mirišu na vino i pečene <span class="highlight-text">smokve</span>. Trebinje nije samo destinacija, to je osjećaj vječnog ljeta koji zauvijek nosite u <span class="highlight-text">srcu</span>.
 
-### Kastel: Srce starog Trebinja
+## Kastel: Srce starog Trebinja
 
 Unutar kamenih zidina kuca srce najstarijeg dijela grada, poznatijeg kao <span class="highlight-text">**Kastel**</span>. Njegove kaldrmisane ulice i uski prolazi svjedoče o bogatoj osmanskoj prošlosti. Dok šetate kroz kamene kapije, osjetićete duh starih zanata i tihih kafića. Svaki prozor na starim kućama nosi neku priču iz davnih vremena. To je mjesto gdje se istorija ne čita, već opipava pod prstima.
 
@@ -48,7 +48,7 @@ Arhitektura Kastela odiše jednostavnošću i funkcionalnošću hercegovačkog <
 
 ---
 
-### Hercegovačka Gračanica: Pogled sa Crkvine
+## Hercegovačka Gračanica: Pogled sa Crkvine
 
 Na brdu Crkvina, visoko iznad grada, dominira manastir prelijepe <span class="highlight-text">**arhitekture**</span>. Hercegovačka Gračanica je vjerna replika čuvenog manastira sa Kosova i Metohije. Ovdje počivaju posmrtni ostaci velikog pjesnika Jovana Dučića, koji je želio vječno gledati svoje Trebinje. Čitav kompleks odiše mirom i duhovnošću koja se osjeća čim kročite na brdo. To je najposjećenija tačka sa koje se vidi cijela kotlina.
 
@@ -58,7 +58,7 @@ Unutar hrama možete vidjeti predivne freske koje pričaju priče o vjeri i <spa
 
 ---
 
-### Perovića most: Arhitektonski dragulj
+## Perovića most: Arhitektonski dragulj
 
 Izvan gradskih zidina uzdiže se prelijepi most koji graciozno premošćuje smaragdnu <span class="highlight-text">**Trebišnjicu**</span>. Perovića most je remek-djelo osmanske gradnje i jedan od najljepših prelaza na Balkanu. Njegovi elegantni lukovi prave savršen odraz u mirnoj vodi rijeke. On spaja obale i vijekove, stojeći ponosno kao simbol ljudske istrajnosti. To je najprepoznatljiviji motiv sa svih trebinjskih razglednica.
 
@@ -78,7 +78,7 @@ Oko mosta se nalaze uređene staze za šetnju i brojni vidikovci za najbolje <sp
 
 ---
 
-### Manastir Tvrdoš i vinska tradicija
+## Manastir Tvrdoš i vinska tradicija
 
 Malo dalje od grada nalazi se duhovno središte sa tradicijom dugom više <span class="highlight-text">**vijekova**</span>. Manastir Tvrdoš je izgrađen na temeljima stare crkve iz četvrtog vijeka. On čuva mošti svetih otaca i svjedoči o burnoj prošlosti Hercegovine. Poznat je širom svijeta po svojim vrhunskim vinima koja se proizvode u manastirskim podrumima. Monasi ovdje čuvaju tajne vinogradarstva koje se prenose s koljena na koljeno.
 
@@ -98,7 +98,7 @@ Legenda kaže da je upravo ovdje monaški put započeo i Sveti Vasilije <span cl
 
 ---
 
-### Gastronomija: Ukusi suncem obasjane zemlje
+## Gastronomija: Ukusi suncem obasjane zemlje
 
 Trebinjska kuhinja je savršen spoj mediteranskih uticaja i balkanske <span class="highlight-text">**tradicije**</span>. Neizostavan dio svakog obroka je sir iz ulja, koji sazrijeva mjesecima. Njegova jaka aroma savršeno se slaže sa domaćim pršutom i maslinama. Hrana se ovdje priprema polako, koristeći samo najsvježije lokalne namirnice. To je prava gozba za nepca koja se pamti cijelog života.
 
@@ -108,7 +108,7 @@ Domaći med i ljekovito bilje sa Leotara su prirodni <span class="highlight-text
 
 ---
 
-### Pod sjenkom stogodišnjih platana
+## Pod sjenkom stogodišnjih platana
 
 Glavni gradski trg je srce društvenog života i simbol cijelog <span class="highlight-text">**Trebinja**</span>. Šesnaest ogromnih platana pruža duboku hladovinu tokom vrelih ljetnih dana. Ispod njih se ispijaju hiljade kafa i vode najvažniji gradski razgovori. To je omiljeno sastajalište svih generacija, od najmlađih do najstarijih sugrađana. Osjećaj mira dok sjedite u toj debeloj hladovini je neprocjenjiv.
 
@@ -132,7 +132,7 @@ U večernjim satima trg postaje pozornica za razne kulturne <span class="highlig
 
 ---  
 
-### Mir i harmonija hercegovačkog juga
+## Mir i harmonija hercegovačkog juga
 
 Trebinje je destinacija koja nudi savršen spoj odmora i kulturnog <span class="highlight-text">**uzdizanja**</span>. Njegove ulice su čiste, a ljudi su srdačni i uvijek spremni za razgovor. Grad nudi harmoniju koja se rijetko pronalazi u većim turističkim centrima. Ovdje ćete se osjećati sigurno i dobrodošlo u svakom trenutku vašeg boravka. To je mjesto gdje se duša odmara od modernog tempa života.
 
@@ -148,7 +148,7 @@ U večernjim satima, uz čašu vina, shvatićete zašto se ljudi stalno <span cl
 
 ---
 
-### Zaključak: Oaza sunca i vječnog spokoja
+## Zaključak: Oaza sunca i vječnog spokoja
 
 Trebinje je mnogo više od samo jedne stanice na putu ka moru. Ono je destinacija koja zahtijeva pažnju i nudi nevjerovatno bogatstvo <span class="highlight-text">**iskustva**</span>. Od zidina Kastela do vrhova Leotara, svaki korak je susret sa istinskom ljepotom. Grad vas uči kako da uživate u malim stvarima i cijenite mirne trenutke. Njegova energija je iscjeljujuća, a istorija inspirativna za svakog <span class="highlight-text">**putnika**</span>.
 

@@ -29,7 +29,7 @@ Dolazak u Copán nije samo obična posjeta arheološkom nalazištu; to je direkt
 
 ---
 
-### Istorija i uspon Copána
+## Istorija i uspon Copána
 
 Copán se razvio kao ključni politički i religijski centar u periodu između <span class="highlight-text">5. i 9. vijeka</span>, kontrolišući važne trgovačke puteve na samoj južnoj periferiji majanskog carstva. Njegova dinastija, koju je prema predanjima osnovao K'inich Yax K'uk' Mo', protezala se kroz <span class="highlight-text">**šesnaest uzastopnih vladara**</span>, a svaki od njih je nastojao ostaviti neizbrisiv trag u arhitekturi i skulpturi grada. Grad je bio prepoznatljiv po svojoj umjetničkoj hrabrosti; dok su druge Maje uglavnom radile plitke reljefe, umjetnici Copána su klesali skulpture koje su gotovo u potpunosti trodimenzionalne i dinamične.
 
@@ -49,7 +49,7 @@ Upravo pod njegovom komandom izgrađeni su najveličanstveniji hramovi, prostran
 
 ---
 
-### Kolaps i ponovno otkriće
+## Kolaps i ponovno otkriće
 
 Blistava era Copána nije trajala vječno, jer već u 9. vijeku grad počinje proživljavati postepeni, ali neumoljivi pad. Razlozi za ovaj kolaps nisu potpuno razjašnjeni, ali naučnici se slažu da je u pitanju bila kobna kombinacija prenapučenosti, ekološke katastrofe izazvane iscrpljivanjem obradive zemlje i dugotrajnih suša koje su poljuljale vjeru u božansku moć kraljeva. <span class="highlight-text">**Politički sukobi i unutrašnji nemiri**</span> dodatno su ubrzali proces dezintegracije nekada čvrstog društvenog poretka u dolini.
 
@@ -59,7 +59,7 @@ Tek su istraživači u 19. vijeku, vođeni pričama lokalnog stanovništva i ran
 
 ---
 
-### Stele – kamene biografije vladara
+## Stele – kamene biografije vladara
 
 Copán je u svijetu arheologije posebno prepoznatljiv po svojim <span class="highlight-text">stelama – masivnim kamenim pločama</span> koje su postavljene na Velikom trgu poput nijemih stražara vremena. Na ovim monolitima su prikazani <span class="highlight-text">kraljevi u punoj ceremonialnoj opremi</span>, sa složenim ukrasima na glavi, simbolima moći u rukama i okruženi likovima božanstava koji potvrđuju njihov legitimitet. Ovi spomenici su služili kao javni dokumenti, postavljeni tako da budu vidljivi svakom građaninu, trajni u svojoj poruci.
 
@@ -79,7 +79,7 @@ Dok su se u drugim civilizacijama istorijski podaci zapisivali na trošnim mater
 
 ---
 
-### Grad svakodnevice – život iza hramova
+## Grad svakodnevice – život iza hramova
 
 Važno je razumjeti da Copán u svom zlatnom dobu nije bio samo <span class="highlight-text">izolovani ceremonijalni centar namijenjen isključivo eliti</span>, već živopisan i gusto naseljen grad sa veoma složenom strukturom. Arheološka istraživanja su potvrdila da su se oko centralnih hramova i trgova prostirala prostrana naselja u kojima su živjeli pisari, zanatlije i trgovci. Dalje od centra nalazile su se radioničke zone i nepregledna polja kukuruza koja su hranila hiljade stanovnika tokom cijele godine. 
 
@@ -89,7 +89,7 @@ Ulice su prekrivene autentičnom kaldrmom, a niske, šarene kuće sa unutrašnji
 
 ---
 
-### Hijeroglifske stepenice – najduži tekst Maja
+## Hijeroglifske stepenice – najduži tekst Maja
 
 Jedno od najfascinantnijih obilježja Copána, koje ostavlja bez daha čak i iskusne istraživače, jesu <span class="highlight-text">hijeroglifske stepenice smještene na zapadnoj strani jedne od glavnih piramida</span>. To je dugačak i strm niz od preko šezdeset stepenika gdje je svaki pojedinačni blok ispisan majanskim znakovima, čineći cjelinu koja oduševljava preciznošću. Originalno su stepenice sadržale više od <span class="highlight-text">dvije hiljade hijeroglifa</span> koji su formirali koherentnu naraciju o istoriji cijele dinastije.
 
@@ -109,7 +109,7 @@ Svaki korak na ovoj strukturi predstavljao je simbolički uspon ka božanskom zn
 
 ---
 
-### Priroda oko Copána: Raj makao papagaja
+## Priroda oko Copána: Raj makao papagaja
 
 Copán je smješten u plodnoj zelenoj dolini koja pruža savršenu kulisu za njegove kamene spomenike i drevne trgove. Regija je prirodno zaštićena okolnim brežuljcima i bujnom tropskom vegetacijom koja mu daje specifičan mikroklimat tokom cijele godine. Stoljećima je džungla svojom gustom mrežom korijenja i grana <span class="highlight-text">skrivala kamene blokove od ljudskih očiju</span>, štiteći ih od propadanja, ali istovremeno postajući neraskidivi dio samih građevina. 
 
@@ -119,7 +119,7 @@ Drveće poput svete ceibe, koju su Maje smatrale drvetom života koje povezuje s
 
 ---
 
-### Muzeji i iskustvo obilaska kroz tunele
+## Muzeji i iskustvo obilaska kroz tunele
 
 Potpuni doživljaj Copána podrazumijeva sistematičan obilazak koji spaja šetnju kroz arheološki park sa posjetom specijalizovanim institucijama. Posebno uzbudljiv dio obilaska je ulazak u <span class="highlight-text">**tunele koji su prokopani ispod akropole**</span>, a koji otkrivaju tajne gradnje. Ovi tuneli omogućavaju putnicima da vide kako su Maje gradile nove hramove direktno preko starih, čuvajući unutrašnje strukture gotovo netaknutim vijekovima. 
 
@@ -140,7 +140,7 @@ Najpoznatiji primjer je hram Rosalila, koji je pronađen savršeno očuvan unuta
 
 ---
 
-### Gastronomija doline Copána
+## Gastronomija doline Copána
 
 Hrana u ovom dijelu Hondurasa odražava duh same regije: ona je jednostavna, zasitna i duboko povezana sa zemljom. Osnovu svakog obroka čine <span class="highlight-text">kukuruzne tortilje</span> koje se pripremaju na tradicionalan način, uz crni grah koji se polako krčka satima na ognjištu. Na meniju su nezaobilazna jela od <span class="highlight-text">**banana i platana**</span>, kao i svježi sirevi koji se svakodnevno donose sa okolnih planinskih farmi direktno na gradsku tržnicu. 
 
@@ -155,7 +155,7 @@ Kada su arheolozi prokopali tunele ispod Akropole u Kopanu, otkrili su nevjerova
 
 ---
 
-### Zaključak: Razgovor s kamenom
+## Zaključak: Razgovor s kamenom
 
 Copán je grad koji ne traži pažnju glasnim povicima niti ogromnim, hladnim piramidama koje dominiraju nebom, već <span class="highlight-text">govori tiho i ostavlja dubok trag</span> u svakome ko odluči da zastane i sasluša šta mu kameni reljefi šapuću kroz vijekove. Njegove stele, hijeroglifske stepenice i tihe sjenke hramova podsjećaju nas na civilizaciju znanja, rituala i preciznosti koja je cijenila pisanu riječ iznad svega, pretvarajući običan vulkanski kamen u vječni arhiv ljudskog duha. Ovo nije destinacija za brzu fotografiju u prolazu, već mjesto koje zahtijeva duboku kontemplaciju i mir, prostor koji traži spor hod i istinsko poštovanje prema majstorstvu onih koji su ga gradili, nudeći zauzvrat <span class="highlight-text">osjećaj neposrednog razgovora sa prošlošću</span> koja je i dalje živa u svakom kutku ove zelene doline.
 

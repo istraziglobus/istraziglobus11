@@ -30,7 +30,7 @@ Vazduh je ovdje oštar i pročišćen mirisom borove <span class="highlight-text
 
 ---
 
-### Kapija bosanskog kraljevstva
+## Kapija bosanskog kraljevstva
 
 Jajce nije samo tačka na mapi, već čuvar <span class="highlight-text">**srednjovjekovnog**</span> identiteta. Smješten na ušću Plive u Vrbas, ovaj grad vijekovima prkosi osvajačima i vremenu. Njegove zidine kriju priču o usponu i padu bosanske države. Ovdje se osjeća težina istorije u svakom položenom kamenu i svakoj uskoj ulici starog grada.
 
@@ -50,7 +50,7 @@ Danas je stara gradska jezgra pod strogom <span class="highlight-text">**zaštit
 
 ---
 
-### Vodopad: Snaga neukrotive prirode
+## Vodopad: Snaga neukrotive prirode
 
 Glavni simbol grada je veličanstveni <span class="highlight-text">**vodopad**</span> rijeke Plive. Visok preko dvadeset metara, on predstavlja jedan od rijetkih prirodnih fenomena u samom centru urbanog naselja. Huk vode koja se obrušava u Vrbas stvara neprekidnu melodiju grada. Ovaj prizor ubraja se među najljepše vodopade na svijetu, ostavljajući posjetioce bez daha svojom snagom.
 
@@ -60,7 +60,7 @@ Tokom ljetnih mjeseci, vodopad postaje centar kulturnih dešavanja i <span class
 
 ---
 
-### Tvrđava: Posljednje utočište kraljeva
+## Tvrđava: Posljednje utočište kraljeva
 
 Na najvišoj tački grada ponosno uzdiže se srednjovjekovna <span class="highlight-text">**tvrđava**</span>. Ona je bila dom posljednjeg bosanskog kralja, Stjepana Tomaševića. Zidine tvrđave građene su da izdrže najteže opsade i čuvaju slobodu kraljevstva. Danas, sa njenih bedema, pruža se najljepši pogled na dolinu Vrbasa i okolne planine.
 
@@ -80,7 +80,7 @@ Arheološka istraživanja na ovom brdu stalno otkrivaju nove <span class="highli
 
 ---
 
-### Mistika podzemnog svijeta
+## Mistika podzemnog svijeta
 
 Ispod površine grada krije se fascinantna tajna – <span class="highlight-text">**Katakombe**</span>. Ova podzemna crkva isklesana je u živoj stijeni krajem 14. vijeka. Mračni hodnici i tišina unutrašnjosti stvaraju atmosferu duboke duhovnosti i misterije. To je prostor namijenjen vječnom počivalištu plemićke porodice Hrvatinić, osnivača grada.
 
@@ -90,7 +90,7 @@ Legende kažu da su katakombe nekada bile povezane tajnim <span class="highlight
 
 ---
 
-### Plivski mlinčići: Simbol narodnog genija
+## Plivski mlinčići: Simbol narodnog genija
 
 Nekoliko kilometara uzvodno nalaze se čuveni drveni <span class="highlight-text">**mlinčići**</span> na Plivi. Ovi mali objekti, građeni na drvenim stubovima, predstavljaju vrhunac narodne graditeljske vještine. Grupisani između Velikog i Malog jezera, mlinčići izgledaju kao dio bajkovitog pejzaža. Oni su vijekovima služili lokalnom stanovništvu za mljevenje žita koristeći snagu vode.
 
@@ -110,7 +110,7 @@ Lokalne vlasti su nedavno <span class="highlight-text">**obnovile**</span> ove d
 
 ---
 
-### Savjeti za putnike
+## Savjeti za putnike
 
 > Planirajte cijeli dan za obilazak Jajca. Počnite jutro uz vodopad, a zatim se popnite na tvrđavu dok sunce nije previše jako. Popodne rezervišite za opuštanje na Plivskim jezerima. Ako volite adrenalin, rijeka Vrbas nudi odlične uslove za rafting u blizini.
 
@@ -121,7 +121,7 @@ Lokalne vlasti su nedavno <span class="highlight-text">**obnovile**</span> ove d
 
 ---
 
-### AVNOJ i kovanje nove budućnosti
+## AVNOJ i kovanje nove budućnosti
 
 Jajce zauzima ključno mjesto i u modernoj <span class="highlight-text">**istoriji**</span> 20. vijeka. U novembru 1943. godine, grad je postao centar antifašističke borbe. U zgradi današnjeg muzeja održano je Drugo zasjedanje AVNOJ-a, gdje su udareni temelji nove države. Taj događaj je Jajce trajno upisao u udžbenike istorije kao grad u kojem je stvorena Jugoslavija.
 
@@ -143,7 +143,9 @@ Svake godine hiljade ljudi posjećuju ovaj muzej tokom <span class="highlight-te
   </ul>
 </div>
 
-### Gastronomija i mediteranski uticaj
+---
+
+## Gastronomija i mediteranski uticaj
 
 Ukus Jajca je spoj planinske snage i mediteranske <span class="highlight-text">**svježine**</span>. Gastronomija ovog kraja oslanja se na plodove rijeka i okolnih pašnjaka. Svježa pastrmka iz Plive i tradicionalna bosanska pita su nezaobilazni specijaliteti. Svaki obrok ovdje je prilika za razgovor i uživanje u autentičnim aromama Balkana.
 

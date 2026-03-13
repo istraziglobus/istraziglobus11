@@ -32,7 +32,7 @@ Atmosfera grada se mijenja iz korijena, brišući granice između lokalnog stano
 
 ---
 
-### Drevni korijeni i legende Navare
+## Drevni korijeni i legende Navare
 
 Festival San Fermín ima dugu i bogatu istoriju koja datira još iz srednjeg vijeka, kada su se vjerske procesije i trgovački sajmovi spojili u jednu veliku proslavu. Prvobitno zamišljen isključivo kao duhovni događaj u čast <span class="highlight-text">**Svetog Fermína**</span>, zaštitnika Navare, festival je tokom vijekova evoluirao prihvatajući svjetovne običaje lokalnih stočara. Ta sinergija religioznog žara i praktične potrebe stvorila je temelj onoga što danas poznajemo kao najpoznatiju fiestu na svijetu, gdje se granice između svetog i svjetovnog brišu svakog jula.
 
@@ -52,7 +52,7 @@ Danas se istorija festivala ne može posmatrati bez dubokog poštovanja prema ko
 
 ---
 
-### Hemingvejevo nasljeđe i svjetska slava
+## Hemingvejevo nasljeđe i svjetska slava
 
 Svjetska slava San Fermína neodvojiva je od lika i djela Ernesta Hemingwaya, koji je Pamplonu prvi put posjetio dvadesetih godina prošlog vijeka i u nju se momentalno zaljubio. Njegov kultni roman "Sunce se ponovo rađa" bacio je potpuno novo svjetlo na ovaj festival, opisujući ga kao mjesto gdje se sudaraju život, smrt i strast u jednom neraskidivom krugu. Zahvaljujući njegovom daru da opiše suštinu borbe, Pamplona je postala magnet za avanturiste iz cijelog <span class="highlight-text">**svijeta**</span> koji su željeli osetiti taj fatalizam na sopstvenoj koži.
 
@@ -62,7 +62,7 @@ Danas, skoro vijek kasnije, njegov duh i dalje lebdi nad gradom dok putnici sa n
 
 ---
 
-### Chupinazo: Eksplozija radosti i euforije
+## Chupinazo: Eksplozija radosti i euforije
 
 Sve počinje 6. jula tačno u podne, kada se hiljade ljudi tiska na glavnom trgu ispred Gradske vijećnice čekajući onaj magični trenutak. Ispaljivanje rakete sa balkona nije samo protokolarni čin, već znak da je <span class="highlight-text">**euforije**</span> zavladala gradom i da su naredni dani posvećeni isključivo slavlju. U tom trenutku, more ljudi podiže svoje crvene marame u vazduh, pretvarajući trg u pulsirajući organizam koji najavljuje početak devetodnevne slobode.
 
@@ -82,7 +82,7 @@ Nakon što raketa obasja nebo, gradski orkestri počinju da sviraju, a proslava 
 
 ---
 
-### Encierro: Psihologija i dinamika trke
+## Encierro: Psihologija i dinamika trke
 
 <span class="highlight-text">**Encierro**</span> je srce festivala, trenutak kada se vrijeme zaustavlja, a adrenalin preuzima kontrolu nad hiljadama tijela okupljenih u ranu zoru. Svakog jutra u 8:00 časova, ispaljivanje prve rakete označava da su kapije otvorene i da šest masivnih borbenih bikova kreće u potragu za ciljem kroz ljudski zid. Tišina koja vlada sekund prije toga je gotovo opipljiva, dok trkači posljednji put popravljaju svoje marame prije nego što započne najopasniji <span class="highlight-text">**sport**</span> na otvorenom.
 
@@ -92,7 +92,7 @@ Gledaoci koji posmatraju trku sa balkona često svjedoče scenama nevjerovatne h
 
 ---
 
-### Život na ulicama: Muzika, ples i tradicija
+## Život na ulicama: Muzika, ples i tradicija
 
 Iako je Encierro najpoznatiji, pravi duh San Fermína krije se u pauzama između trka, kada gradom vladaju muzika i narodni običaji. Ulice su ispunjene zvukovima "txistulari" flautista i bubnjeva koji prate povorke džinova, masivnih figura koje oduševljavaju najmlađe stanovnike <span class="highlight-text">**Pamplone**</span>. Ove procesije su podsjetnik da je festival, uprkos svom adrenalinu, duboko porodični događaj koji spaja sve generacije mještana u zajedničkoj radosti.
 
@@ -112,7 +112,7 @@ Poseban šarm daju improvizovane zabave u uskim prolazima gdje se mještani okup
 
 ---
 
-### Gastronomija Navare: Ukusi koji prate fiestu
+## Gastronomija Navare: Ukusi koji prate fiestu
 
 Posjeta Pamploni tokom festivala je nepotpuna bez potpunog prepuštanja čarima navarske kuhinje, koja je tih dana u svom punom sjaju. Restorani i barovi rade bez prestanka, služeći legendarne "pintxos" – male kulinarske majstorije koje se savršeno slažu uz čašu lokalnog vina, čineći svaki segment <span class="highlight-text">**festivala**</span> ukusnijim. Hrana ovdje nije samo gorivo za trkače, već centralni dio društvenog rituala koji okuplja prijatelje i porodice oko zajedničkog stola.
 
@@ -122,7 +122,7 @@ Specijaliteti poput "chistorre", tanke začinjene kobasice, i ovčjeg sira Idiaz
 
 ---
 
-### Rizici i odgovornost: Tamna strana uzbuđenja
+## Rizici i odgovornost: Tamna strana uzbuđenja
 
 Važno je razumjeti da San Fermín nije samo bezazlena zabava; on nosi stvarne i opasne rizike koji se svake godine iznova potvrđuju. Trčanje sa bikovima zahtijeva vrhunsku fizičku spremnost, ali i hladnu glavu u trenucima kada panika zavlada uskim grlima ulice Estafeta, primoravajući trkače da se <span class="highlight-text">**suočiti**</span> sa sopstvenim granicama. Svake godine medicinske službe imaju stotine intervencija, a povrede od udaraca rogovima ili nagnječenja su surova realnost festivala.
 
@@ -143,7 +143,7 @@ I pored svih mjera opreza, istorija festivala bilježi i tragične slučajeve, �
 
 ---
 
-### Budućnost i novi vidici tradicije
+## Budućnost i novi vidici tradicije
 
 Moderno doba donosi nove izazove za San Fermín, stavljajući pod znak pitanja određene aspekte festivala, posebno one koji uključuju dobrobit životinja kroz vijekovima stare <span class="highlight-text">**običaja**</span>. Diskusije o budućnosti borbi bikova i samog Enkiera sve su glasnije u španskom društvu, stvarajući tenziju između ljubitelja tradicije i zagovornika modernih etičkih standarda. Grad Pamplona se trudi da pronađe balans, uvodeći strože regulative i edukativne programe koji objašnjavaju istorijski kontekst ovih rituala.
 
@@ -158,7 +158,7 @@ Ernest Hemingvej je toliko proslavio Pamplonu da mu je grad 1968. godine podigao
 
 ---
 
-### Zaključak: San Fermín – Izazov i slavlje života
+## Zaključak: San Fermín – Izazov i slavlje života
 
 Na kraju, Festival San Fermín u Pamploni je jedinstven događaj koji ostavlja dubok utisak na svakoga ko ga doživi, podsjećajući nas na krhkost ljudske <span class="highlight-text">**stvarnosti**</span> i snagu tradicije. To je proslava hrabrosti i zajedništva, gdje se drevni rituali prepliću sa modernom potrebom za uzbuđenjem i katarzom unutar jednog neraskidivog <span class="highlight-text">**mjesto**</span> na mapi. Kroz ovaj devetodnevni vrtlog energija, vidimo lice jedne ponosne kulture koja odbija da se preda zaboravu, slaveći svaki trenutak kao da je posljednji.
 

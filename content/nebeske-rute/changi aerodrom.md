@@ -34,7 +34,7 @@ Kada se govori o savršenstvu u vazdušnom saobraćaju, ime Singapore Changi Air
 Dizajn, besprekorna organizacija i nevjerovatna pažnja prema detaljima čine ga globalnim primjerom kako napredna tehnologija i bujna priroda mogu savršeno <span class="highlight-text">**koegzistirati**</span>. Sve na ovom aerodromu ima svoju jasnu svrhu, od umirujućih mirisa u holovima do pažljivo biranih tonova muzike koji su tu da u potpunosti eliminišu stres putnika.
 
 
-### Istorija uspjeha i globalna dominacija
+## Istorija uspjeha i globalna dominacija
 
 Aerodrom Changi je zvanično otvoren 1981. godine i od tada je nevjerovatnih dvanaest puta proglašen najboljim na svijetu prema najstrožim globalnim anketama. Dok većina putnika u drugim zemljama jedva čeka da što prije napusti aerodromsku zgradu, u Singapuru ljudi <span class="highlight-text">**rado dolaze**</span> znatno ranije. Oni to čine isključivo da bi uživali u nevjerovatnim sadržajima koje ovo mjesto nudi, pretvarajući čekanje u čisto zadovoljstvo.
 
@@ -44,7 +44,7 @@ Kroz godine, Changi je uspio da izgradi reputaciju mjesta koje nikada ne zakazuj
 
 ---
 
-### Jewel – Srce aerodroma i arhitektonsko čudo
+## Jewel – Srce aerodroma i arhitektonsko čudo
 
 Centralna i najprepoznatljivija tačka aerodroma danas je svakako **Jewel Changi**, futuristički kompleks spojen sa terminalima koji izgleda kao vizija iz daleke budućnosti. U njegovom samom središtu nalazi se <span class="highlight-text">**Rain Vortex**</span>, najveći zatvoreni vodopad na svijetu, visok impresivnih 40 metara. Okružen je raskošnom tropskom baštom sa više od 60.000 biljaka, stvarajući nadrealan prizor usred aerodromske vreve.
 
@@ -65,7 +65,7 @@ Zahvaljujući ovom prostoru, Changi prestajete da doživljavate kao sterilni pro
 
 ---
 
-### Specifičnost terminala i futurističko iskustvo
+## Specifičnost terminala i futurističko iskustvo
 
 Svaki od četiri terminala na Changiju ima svoju posebnu temu i karakter koji ga čini jedinstvenim u očima posjetilaca iz cijelog svijeta. **Terminal 1** je najelegantniji, nedavno obnovljen modernim skulpturama poput <span class="highlight-text">**"Kinetic Rain"**</span> koja se kreće u ritmu muzike. **Terminal 2** je duboko inspirisan prirodom, sa dizajnom koji spaja vodu, svjetlost i nevjerovatne tropske pejzaže u zatvorenom prostoru.
 
@@ -75,7 +75,7 @@ Ono što sve ove terminale spaja u jednu cjelinu jeste besprekorna organizacija 
 
 ---
 
-### Nevjerovatni sadržaji: Bioskop, bazen i leptiri
+## Nevjerovatni sadržaji: Bioskop, bazen i leptiri
 
 Da li ste ikada zamišljali da na aerodromu možete otići u bioskop potpuno besplatno ili plivati u bazenu dok posmatrate avione kako polijeću? Na Changiju je to svakodnevica, jer aerodrom nudi sopstvene <span class="highlight-text">**besplatne bioskopske sale**</span> koje rade 24 sata dnevno za sve putnike u tranzitu. Tu je i otvoreni krovni bazen s pogledom na pistu, koji nudi jedinstveno osvježenje tokom vrelih singapurskih dana.
 
@@ -95,7 +95,7 @@ Pored ovih atrakcija, Changi nudi i besplatne dvočasovne ture gradom za sve one
 
 ---
 
-### Aerodrom kao ogledalo singapurske države
+## Aerodrom kao ogledalo singapurske države
 
 Changi nije samo tranzitna tačka, on je pravi **izlog Singapura cijelom svijetu** i simbol svega što ova država predstavlja. Čim kročite unutra, odmah osjetite ono po čemu je Singapur globalno poznat: nevjerovatnu preciznost, <span class="highlight-text">**eleganciju**</span>, disciplinu i toplinu gostoprimstva. Svaki kutak je pažljivo promišljen, od digitalnih skulptura koje reaguju na pokrete putnika do mirisnih nota koje se šire terminalima.
 
@@ -105,7 +105,7 @@ Singapur kroz Changi ponosno pokazuje ono što je njegov temeljni nacionalni mot
 
 ---
 
-### Globalno čvorište koje povezuje kontinente
+## Globalno čvorište koje povezuje kontinente
 
 Changi je decenijama neprikosnoveno glavno čvorište azijskog neba, iz kojeg svakodnevno polijeće više od 100 svjetskih aviokompanija. One povezuju Singapur sa **preko 400 gradova** u 100 zemalja, čineći ga jednom od najpovezanijih tačaka na našoj planeti. Putnici odavde mogu direktno stići do Londona, Njujorka, Sidneja ili Tokija, uživajući u vrhunskoj <span class="highlight-text">**usluzi**</span> singapurskih prevoznika.
 
@@ -125,7 +125,7 @@ Posebno su impresivne rute ultra dugog dometa, poput leta do Njujorka koji traje
 
 ---
 
-### Skriveni svijet ispod površine aerodroma
+## Skriveni svijet ispod površine aerodroma
 
 Malo putnika zna da se ispod blještavih terminala i zelenih vrtova Changija krije čitava fascinantna mreža podzemnih tunela i skladišta. Tu operišu stotine automatizovanih vozila koja prevoze prtljag brzinama do 25 kilometara na čas, osiguravajući da ništa ne <span class="highlight-text">**kasni**</span>. Ovaj sistem je toliko efikasan da je prosječno vrijeme čekanja prtljaga na traci nakon slijetanja često manje od desetak minuta.
 
@@ -146,7 +146,7 @@ Ovaj podzemni sistem je razlog zašto Changi može da podnese ogroman pritisak m
 
 ---
 
-### Terminal 5 – Budućnost koja je već stigla
+## Terminal 5 – Budućnost koja je već stigla
 
 Singapur nikada ne prestaje sa razvojem, a trenutno je u toku izgradnja grandioznog **Terminala 5**, koji će biti veći od svih trenutnih terminala zajedno. Ovaj projekat će povećati kapacitet aerodroma na više od 100 miliona putnika godišnje, učvršćujući njegovu poziciju globalnog <span class="highlight-text">**lidera**</span>. Dizajn je fokusiran na održive tehnologije, robotiku i pametne sisteme koji će u potpunosti transformisati način na koji letimo.
 
@@ -161,7 +161,7 @@ Dok se mnogi svjetski gradovi bore sa osnovnom infrastrukturom, Singapur već gr
 
 ---
 
-### Zaključak: Tamo gdje putovanje počinje
+## Zaključak: Tamo gdje putovanje počinje
 
 U svijetu gdje su aerodromi često sinonim za stres, redove i umor, Changi stoji kao blistavi dokaz da tranzit može biti iskustvo koje istinski <span class="highlight-text">**inspiriše**</span>. On nije samo mjesto gdje se jedno putovanje završava, već ono gdje ono zaista u svom punom sjaju počinje, nudeći putnicima mir i fascinaciju. Ovdje se luksuz ne mjeri visokom cijenom, već neprocjenjivim osjećajem spokoja i pažnje koja se posvećuje svakom pojedincu.
 

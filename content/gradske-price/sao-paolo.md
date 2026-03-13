@@ -57,7 +57,7 @@ Sao Paulo je grad koji se ne može opisati jednom riječju, jer on predstavlja k
     </figure>
 </div>
 
-### Najpoznatije znamenitosti Sao Paula koje morate posjetiti
+## Najpoznatije znamenitosti Sao Paula koje morate posjetiti
 
 Kada se nađete u ovoj južnoameričkoj metropoli, ove lokacije su nezaobilazne za potpuno iskustvo grada:
 
@@ -68,7 +68,7 @@ Kada se nađete u ovoj južnoameričkoj metropoli, ove lokacije su nezaobilazne 
 * **Beco do Batman:** Najpoznatija uličica u četvrti Vila Madalena, potpuno prekrivena vrhunskim grafitima.
 ---
 
-### Avenija Paulista – Puls metropole
+## Avenija Paulista – Puls metropole
 
 Avenija Paulista predstavlja kičmu grada i mjesto gdje se najbolje osjeća njegova nezaustavljiva ekonomska i kulturna <span class="highlight-text">**snaga**</span>. Nekada dom bogatih kafenih barona, danas je ova ulica šuma nebodera u kojima se donose najvažnije poslovne odluke Južne Amerike. Nedjeljom se avenija zatvara za saobraćaj, pretvarajući se u džinovski park gdje ulični muzičari i umjetnici stvaraju atmosferu <span class="highlight-text">**slobode**</span> i zajedništva.
 
@@ -88,7 +88,7 @@ Avenija Paulista predstavlja kičmu grada i mjesto gdje se najbolje osjeća njeg
 
 ---
 
-### Gastronomski raj: Ukusi cijelog svijeta
+## Gastronomski raj: Ukusi cijelog svijeta
 
 Sao Paulo se s pravom smatra jednom od svjetskih prijestonica hrane, gdje se miješaju uticaji imigranata iz svih krajeva <span class="highlight-text">**planete**</span>. Od čuvenih italijanskih picerija u kvartu Bixiga do japanskih suši barova u Liberdadeu, grad nudi nevjerovatno bogatstvo ukusa. Restorani ovdje nisu samo mjesta za jelo, već hramovi u kojima se slavi <span class="highlight-text">**tradicija**</span> i inovacija kroz vrhunske kulinarske tehnike.
 
@@ -98,7 +98,7 @@ Posjeta čuvenoj pijaci Mercado Municipal je obavezna tačka za svakog gurmana k
 
 ---
 
-### Umjetnost na ulicama: Beco do Batman
+## Umjetnost na ulicama: Beco do Batman
 
 Za ljubitelje urbane kulture, uska uličica Beco do Batman predstavlja vrhunac kreativnog izražavanja i jedan od najljepših <span class="highlight-text">**murala**</span> na svijetu. Smještena u boemskom kvartu Vila Madalena, ova ulica je galerija na otvorenom gdje se radovi stalno mijenjaju i dopunjuju. Ulična umjetnost je ovdje postala legitiman način <span class="highlight-text">**dijaloga**</span> između umjetnika i društva, pretvarajući sivi beton u eksploziju boja.
 
@@ -119,7 +119,7 @@ Vila Madalena, koja okružuje ovu uličicu, poznata je po svojim barovima, galer
 
 ---
 
-### Liberdade – Najveći Japan izvan Japana
+## Liberdade – Najveći Japan izvan Japana
 
 Četvrt Liberdade je fascinantan primjer kako su se različite kulture integrisale u brazilsko društvo, stvarajući jedinstven <span class="highlight-text">**mikrokozmos**</span> usred grada. Ulaskom u ovaj kvart, putnik se osjeća kao da je prešao na drugi kontinent, zahvaljujući crvenim lampionima i japanskim natpisima. Liberdade čuva nasljeđe japanskih doseljenika koji su početkom prošlog vijeka donijeli svoju <span class="highlight-text">**vještinu**</span> i kulturu na tlo Južne Amerike.
 
@@ -129,7 +129,7 @@ Međutim, Liberdade nije samo turistička atrakcija, već živa zajednica koja l
 
 ---
 
-### Noćni život i ritam sambe
+## Noćni život i ritam sambe
 
 Kada sunce zađe, Sao Paulo se transformiše u jedno od najuzbudljivijih mjesta za izlazak na cijelom svijetu, nudeći nepresušan <span class="highlight-text">**izvor**</span> zabave. Od underground klubova u centru do sofisticiranih džez barova u kvartu Itaim Bibi, grad nudi muziku za svaki ukus i raspoloženje. Noćni život je ovdje <span class="highlight-text">**institucija**</span>, a žurke često traju do izlaska sunca uz zvuke sambe, bosa nove i moderne elektronike.
 
@@ -149,7 +149,7 @@ Za one koji traže nešto mirnije, grad nudi brojna pozorišta i koncertne dvora
 
 ---
 
-### Arhitektonska čuda i kontrasti
+## Arhitektonska čuda i kontrasti
 
 Sao Paulo je pravi poligon za ljubitelje arhitekture, gdje se futuristički neboderi nalaze tik uz barokne crkve i kolonijalne zgrade. Grad je dom nekih od najznačajnijih djela Oscara Niemeyera, čije su fluidne linije donijele revoluciju u <span class="highlight-text">**estetiku**</span> modernog doba. Park Ibirapuera je savršen primjer te vizije, spajajući prirodu i monumentalne betonske strukture u savršenu <span class="highlight-text">**cjelinu**</span>.
 
@@ -159,7 +159,7 @@ Kontrast između ekstremnog bogatstva i siromaštva vidljiv je u arhitekturi fav
 
 ---
 
-### Park Ibirapuera – Zelena pluća grada
+## Park Ibirapuera – Zelena pluća grada
 
 Kada buka i vreva velegrada postanu previše intenzivni, mještani i turisti bježe u Park Ibirapuera, koji se smatra <span class="highlight-text">**oazom**</span> mira i rekreacije. Dizajniran po uzoru na čuveni Central Park, on nudi staze za trčanje, jezera i prostrane travnjake za porodične piknike. Park je mjesto gdje se <span class="highlight-text">**balans**</span> između urbanog života i prirode uspostavlja na najljepši mogući način, pružajući prijeko potreban odmor duši.
 
@@ -180,7 +180,7 @@ U rano jutro, park je ispunjen ljudima koji praktikuju jogu ili voze bicikle, st
 
 ---
 
-### Centar grada: Istorija i revitalizacija
+## Centar grada: Istorija i revitalizacija
 
 Stari centar Sao Paula je mjesto gdje se susreću prošlost i sadašnjost u pomalo haotičnom, ali izuzetno fascinantnom <span class="highlight-text">**okruženju**</span> kamenih ulica. Ovdje se nalazi katedrala Sé, veličanstvena građevina koja dominira trgom i svjedoči o dubokoj religioznosti i istoriji čitavog brazilskog naroda. Iako je centar godinama bio zanemaren, danas prolazi kroz proces <span class="highlight-text">**obnove**</span> koji privlači mlade umjetnike i investitore.
 
@@ -195,7 +195,7 @@ Revitalizacija centra donijela je novu energiju starim zdanjima, pretvarajući i
 
 ---
 
-### Zaključak: Grad koji se voli na drugi pogled
+## Zaključak: Grad koji se voli na drugi pogled
 
 Sao Paulo možda nema plaže Rio de Janeira, ali posjeduje dušu i karakter koji putnike osvaja polako, ali <span class="highlight-text">**bespovratno**</span> kroz iskustva. To je grad koji traži da ga istražite duboko, da se izgubite u njegovim kvartovima i probate hranu na mjestima koja niste planirali posjetiti. Njegova prava snaga leži u ljudima, toj nevjerovatnoj <span class="highlight-text">**energiji**</span> koja čini da se uprkos betonu osjećate živim i dobrodošlim.
 

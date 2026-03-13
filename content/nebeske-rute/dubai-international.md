@@ -30,7 +30,7 @@ Dobrodošli na Dubai International Airport (DXB) – epicentar globalnog vazduš
 
 Kroz njegove kapije milioni ljudi svakodnevno otkrivaju duh Dubaija – grada koji nikada ne spava i koji u svakom segmentu teži nemogućem. DXB je dinamičan ekosistem dizajniran da fascinira, opusti i poveže sve <span class="highlight-text">**krajeve svijeta**</span>, pretvarajući čekanje na let u nezaboravnu avanturu ispunjenu komforom.
 
-### Impresivna arhitektura i futuristički dizajn
+## Impresivna arhitektura i futuristički dizajn
 
 Od trenutka kada kročite na DXB, bićete zadivljeni njegovom veličinom, <span class="highlight-text">**futurističkim dizajnom**</span> i nevjerovatnom pažnjom posvećenom svakom detalju. Prostrani terminali, osvijetljeni atrijumi ispunjeni tropskim zelenilom i sofisticirana umjetnička djela čine ga pravom galerijom moderne umjetnosti. Svaki element kompleksa dizajniran je sa jasnom misijom da putnicima pruži vrhunsku udobnost, uz nepokolebljiv fokus na efikasnost i besprekorno korisničko iskustvo.
 
@@ -50,7 +50,7 @@ Prvi putnički terminal otvoren je još 1960. godine, čime je postavljen temelj
 
 ---
 
-### Više od čekaonice: Udobnost i sadržaji
+## Više od čekaonice: Udobnost i sadržaji
 
 DXB se s pravom ponosi najširim spektrom sadržaja koji svako putovanje čine prijatnijim, bez obzira na to koliko traje vaš boravak. Od ekskluzivnih <span class="highlight-text">**luksuznih salona**</span> opremljenih za poslovne ljude, do vrhunskih spa centara koji nude relaksaciju, aerodrom nudi apsolutno sve. Ovdje možete provesti sate istražujući gastronomske užitke ili kupovati u buticima najpoznatijih svjetskih brendova koji pariraju onima u Parizu ili Milanu.
 
@@ -60,7 +60,7 @@ Sve je podređeno putniku, pa tako možete pronaći i bazene, teretane, pa čak 
 
 ---
 
-### Tehnologija u službi modernog putnika
+## Tehnologija u službi modernog putnika
 
 Dubai International je sinonim za inovaciju, implementirajući najsavremenija tehnološka rješenja kako bi optimizovao svaki sekund vašeg boravka. Od naprednih sistema za automatsku obradu prtljaga do besplatnog i stabilnog <span class="highlight-text">**Wi-Fi interneta**</span>, tehnologija je integrisana u svaki kutak. Sofisticirane mobilne aplikacije pružaju informacije o letovima u realnom vremenu i preciznu navigaciju kroz terminale, štedeći dragocjeno vrijeme putnika.
 
@@ -80,7 +80,7 @@ Implementacija biometrijske kontrole i čuvenih <span class="highlight-text">**p
 
 ---
 
-### Doživljaj putnika i osjećaj posebnosti
+## Doživljaj putnika i osjećaj posebnosti
 
 Iako brojke o prometu fasciniraju, istinska vrijednost ovog aerodroma leži u <span class="highlight-text">**subjektivnom iskustvu**</span> svakog pojedinca koji prođe kroz njegove kapije. Za nekoga je to trenutak kada bez čekanja prođe kroz futurističke sisteme, dok je za drugoga to miris prve jutarnje kafe u salonu. DXB se trudi da svaki boravak, ma koliko kratak, bude obojen osjećajem komfora i diskretnog luksuza koji se rijetko srijeće.
 
@@ -90,7 +90,7 @@ Sjedjeti pored ogromnih staklenih zidova i posmatrati polijetanja dok sunce zala
 
 ---
 
-### Povezanost sa svijetom i globalni uticaj
+## Povezanost sa svijetom i globalni uticaj
 
 Kao dom čuvene avio-kompanije Emirates, Dubai International služi kao vitalno čvorište koje povezuje <span class="highlight-text">**Evropu, Aziju, Afriku i Ameriku**</span> na najbrži način. Njegova strateška lokacija čini ga idealnom tačkom za duge letove, dok efikasnost usluga osigurava da i najkraća presedanja prođu bezbrižno. Aerodrom je ključni igrač u globalnoj ekonomiji, omogućavajući neometan protok ljudi, robe i kapitala svakog dana.
 
@@ -110,7 +110,7 @@ Kao jedan od najdinamičnijih aerodroma na svijetu, Dubai International (DXB) op
 
 ---
 
-### Multikulturalni mozaik i energija svijeta
+## Multikulturalni mozaik i energija svijeta
 
 DXB nije samo čvorište aviona, već i nevjerovatan susret različitih naroda koji ga pretvaraju u svojevrsni mikrokozmos globalizacije. Hodajući kroz terminale, možete čuti desetine svjetskih jezika i osjetiti energiju grada koji je dom za ljude iz preko dvije stotine država. Ovdje se <span class="highlight-text">**brišu granice**</span>, a svijet zaista postaje "globalno selo" u kojem se susreću poslovni ljudi, turisti i avanturisti.
 
@@ -120,7 +120,7 @@ Upravo zbog te raznolikosti, mnogi DXB nazivaju <span class="highlight-text">"gr
 
 ---
 
-### Održivost i ambiciozni planovi za budućnost
+## Održivost i ambiciozni planovi za budućnost
 
 Dubai International nije fokusiran samo na trenutni uspjeh, već i na odgovornu i ambicioznu budućnost koja uključuje ekološku osviješćenost. Kroz brojne inicijative za smanjenje <span class="highlight-text">**ugljeničnog otiska**</span> i aktivno recikliranje otpada, aerodrom teži da postane lider u održivoj avijaciji. Implementacija zelene tehnologije, poput solarnih panela na krovovima terminala, smanjuje zavisnost od tradicionalnih izvora energije.
 
@@ -141,7 +141,7 @@ Fokus na održivost ne umanjuje luksuz, već ga redefiniše kroz pametnu upotreb
 
 ---
 
-### Simbol prestiža i nacionalni ponos
+## Simbol prestiža i nacionalni ponos
 
 Za same Ujedinjene Arapske Emirate, DXB je mnogo više od transportne infrastrukture – on je snažan <span class="highlight-text">**simbol prestiža**</span> i napretka. Baš kao što Burj Khalifa pokazuje arhitektonsku moć, Dubai International demonstrira globalnu dominaciju u avijaciji i logistici. On odražava osnovnu filozofiju emirata: uvijek težiti ka nečem većem, luksuznijem i inovativnijem od onoga što već postoji.
 
@@ -156,7 +156,7 @@ Prestiž koji aerodrom nosi sa sobom privlači investicije i najbolje kadrove iz
 
 ---
 
-### Zaključak: Kapija koja spaja svjetove
+## Zaključak: Kapija koja spaja svjetove
 
 Dubai International (DXB) ostaje neosporni lider koji redefiniše način na koji doživljavamo putovanja u modernom dobu. Svojim spojem arhitektonske grandioznosti, tehnološke savršenosti i multikulturalne energije, on je postao kapija kroz koju prolazi <span class="highlight-text">**budućnost svjetske avijacije**</span> i globalnog povezivanja naroda.
 

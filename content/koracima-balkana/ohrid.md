@@ -29,7 +29,7 @@ Postoje gradovi koji vas obore s nogu na prvi pogled, ali ima i onih koji vas po
 
 Dok koračate drvenim šetalištima iznad same vode, osjetićete kako se drevna energija Balkana miješa sa blagim jezerskim <span class="highlight-text">povjetarcem</span>. Svaka vizura na crkve sa crvenim krovovima i smaragdnu dubinu podsjeća vas zašto je ovo mjesto proglašeno svetilištem <span class="highlight-text">čovječanstva</span>. Ohrid nije samo grad, to je živa ikona koja vjekovima čuva tajne pismenosti i neprolazne duhovne <span class="highlight-text">ljepote</span>.
 
-### Stari grad: Lavirint istorije podno zidina
+## Stari grad: Lavirint istorije podno zidina
 
 Srce Ohrida kuca unutar zidina Starog grada koje se ponosno spuštaju niz strme <span class="highlight-text">**litice**</span>. Uske i kaldrmisane ulice čuvaju autentični duh prošlosti u svakom svom uglu. Ovdje su kuće građene sa drvenim verandama, svjedočeći o bogatoj arhitektonskoj <span class="highlight-text">**tradiciji**</span>. Šetnja ovim dijelom grada je kao prolazak kroz živi muzej na otvorenom nebu. Svaki prozor nudi novi pogled na plavetnilo koje se spaja sa horizontom.
 
@@ -49,7 +49,7 @@ Nedaleko od zidina nalazi se Antički teatar, izgrađen prije više od dvije hil
 
 ---
 
-### Balkanski Jerusalim i njegova svetilišta
+## Balkanski Jerusalim i njegova svetilišta
 
 Ohrid se s pravom naziva "Balkanskim Jerusalimom" zbog nevjerovatnog broja crkava i <span class="highlight-text">**manastira**</span>. Vjeruje se da je grad nekada imao 365 hramova, po jedan za svaki dan u godini. Najpoznatija među njima je svakako crkva Svetog Jovana Kanea, smještena na visokoj litici. Njena silueta iznad jezera postala je najprepoznatljiviji simbol cijele Sjeverne <span class="highlight-text">**Makedonije**</span>. Ovdje se tišina miješa sa šumom talasa, stvarajući prostor za istinsku meditaciju.
 
@@ -69,7 +69,7 @@ Na samoj granici sa Albanijom čeka vas Manastir Svetog Nauma, prava duhovna <sp
 
 ---
 
-### Priroda koja oduzima dah: Jezero i planine
+## Priroda koja oduzima dah: Jezero i planine
 
 Ohridsko jezero je staro više od tri miliona godina i krije nevjerovatne geološke <span class="highlight-text">**tajne**</span>. Njegova oligotrofna voda je toliko prozirna da možete vidjeti dno na velikim dubinama. Jezero ima specifičan efekat na klimu, čineći ljetne dane svježim i veoma <span class="highlight-text">**prijatnim**</span>. Biodiverzitet ovog područja je jedinstven u cijelom svijetu, sa vrstama koje nigdje drugdje ne postoje. To je pravo prirodno blago koje ponosno nosi zaštitu organizacije UNESCO.
 
@@ -89,7 +89,7 @@ Jezero noću dobija poseban sjaj pod svjetlima Starog grada i lampiona sa <span 
 
 ---
 
-### Gastronomija: Ukusi jezera i makedonske zemlje
+## Gastronomija: Ukusi jezera i makedonske zemlje
 
 Ohridska kuhinja nudi jedinstven spoj balkanskih, mediteranskih i turskih gastronomskih <span class="highlight-text">**uticaja**</span>. Glavna zvijezda svakog menija je čuvena ohridska pastrmka, pripremljena po tradicionalnoj recepturi. Ukus ove ribe je neponovljiv jer živi u najčistijim vodama koje se mogu zamisliti. Uz ribu se obavezno služi domaće vino iz lokalnih ohridskih <span class="highlight-text">**vinograda**</span>. Svaki obrok ovdje počinje polako, uz mezu i čašicu domaće makedonske rakije.
 
@@ -99,7 +99,7 @@ Zanatstvo je u Ohridu podjednako važno kao i dobra hrana i staro <span class="h
 
 ---
 
-### Ohridsko ljeto: Festival svjetla i muzike
+## Ohridsko ljeto: Festival svjetla i muzike
 
 Tokom jula i avgusta, grad postaje pozornica za jedan od najstarijih festivala na <span class="highlight-text">**Balkanu**</span>. Ohridsko ljeto okuplja vrhunske umjetnike, muzičare i glumce iz svih dijelova svijeta. Glavni program se odvija pod otvorenim nebom u veličanstvenom ambijentu Antičkog <span class="highlight-text">**teatra**</span>. Svjetlost fenjera i miris jezera daju svakoj predstavi mitsku i neponovljivu dimenziju. To je vrijeme kada kultura doslovno preplavi ulice i trgove Starog grada.
 
@@ -109,7 +109,7 @@ Pored festivala, noćni život nudi zabavu za sve ukuse u barovima duž obale <s
 
 ---
 
-### Savjeti za putnike: Kako doživjeti Ohrid
+## Savjeti za putnike: Kako doživjeti Ohrid
 
 Ako planirate prvu posjetu, preporučujemo boravak od barem tri ili četiri <span class="highlight-text">**dana**</span>. Prvi dan rezervišite za Stari grad, tvrđavu i najpoznatije crkve poput Svetog Jovana Kanea. Drugi dan je idealan za izlet do Svetog Nauma brodom, što je avantura za cijelu <span class="highlight-text">**porodicu**</span>. Treći dan ostavite za planinarenje Galičicom ili opuštanje na nekoj od skrivenih plaža. Domaćini u Ohridu su izuzetno ljubazni i rado će vam otkriti tajne svog <span class="highlight-text">**grada**</span>.
 
@@ -133,7 +133,7 @@ Najbolje vrijeme za posjetu je kasno proljeće ili rana jesen kada nema velikih 
 
 ---
 
-### Mir i harmonija na svakom koraku
+## Mir i harmonija na svakom koraku
 
 Ohrid je grad koji se ne posmatra samo očima, već se istinski doživljava <span class="highlight-text">**dušom**</span>. Mirna jutra uz obalu jezera stvaraju osjećaj pripadnosti ovom drevnom i svetom mjestu. Harmonija između ljudi, istorije i prirode ovdje je postignuta na najvišem <span class="highlight-text">**nivou**</span>. Svaki posjetilac sa sobom ponese djelić te ohridske magije koja traje vijekovima. To je sinonim za ljepotu koja ne blijedi sa prolaskom vremena.
 
@@ -148,7 +148,7 @@ Završite dan šetnjom uz jezero dok se prva svjetla pale na okolnim <span class
 
 ---
 
-### Zaključak: Simfonija vječnosti i ljepote
+## Zaključak: Simfonija vječnosti i ljepote
 
 Ohrid nije samo tačka na mapi, on je emocionalni doživljaj koji mijenja pogled na <span class="highlight-text">**svijet**</span>. Od zidina Samuilove tvrđave do manastira Svetog Nauma, svaki korak je susret sa vječitošću. Grad vas uči poštovanju prema precima koji su gradili ove predivne hramove znanja i <span class="highlight-text">**vjere**</span>. To je mjesto gdje se priroda pobrinula da čovjek osjeti svu moć njenog stvaralaštva. Svaki povratak na ohridske obale je novo otkrivanje sopstvenog mira.
 

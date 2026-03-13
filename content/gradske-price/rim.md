@@ -53,7 +53,7 @@ Od masivnih ruševina što prkose vijekovima, preko ekstravagancije baroknih pal
     </figure>
 </div>
 
-### Najpoznatije znamenitosti Rima koje morate posjetiti
+## Najpoznatije znamenitosti Rima koje morate posjetiti
 
 Kada planirate obilazak Vječnog grada, ove tačke su apsolutni prioriteti:
 
@@ -65,7 +65,7 @@ Kada planirate obilazak Vječnog grada, ove tačke su apsolutni prioriteti:
 
 ---
 
-### Dah antike: Gdje zidovi šapuću priče
+## Dah antike: Gdje zidovi šapuću priče
 
 U srcu Rima pulsira ritam davno prošlih vremena, opipljiv na svakom koraku i u svakom ugrađenom kamenu antičkih temelja. Koračati ulicama ovog grada znači putovati kroz istoriju sa svakim korakom, osjećajući težinu i <span class="highlight-text">**veličanstvenost**</span> civilizacije koja je oblikovala svijet kakav danas poznajemo. Svaki stub i luk govore o ambicijama ljudi koji su vjerovali da grade grad koji nikada neće nestati.
 
@@ -85,7 +85,7 @@ Susresti se sa Koloseumom, a zatim se izgubiti među ostacima Foruma i Palatina,
 
 ---
 
-### Trastevere: Intimna strana rimskog života
+## Trastevere: Intimna strana rimskog života
 
 Iza monumentalnih fasada i svjetski poznatih trgova krije se i onaj intimniji Rim, oličen u živopisnoj četvrti Trastevere. Uske kaldrmisane ulice, fasade prekrivene gustim bršljanom i topli žamor prolaznika daju ovom dijelu grada <span class="highlight-text">**poseban šarm**</span> koji osvaja na prvi pogled. Ovdje se osjeća duh prošlih vijekova koji se neprestano prilagođava savremenim potrebama njenih stanovnika.
 
@@ -95,7 +95,7 @@ Trastevere je duša savremenog Rima, podsjetnik da Vječni grad nije samo hladni
 
 ---
 
-### Vatikan: Duhovni centar i umjetnička blaga
+## Vatikan: Duhovni centar i umjetnička blaga
 
 Unutar samog Rima, kao država unutar države, leži Vatikan – duhovno srce miliona i neiscrpna riznica neprocjenjivih umjetničkih djela. Bazilika Svetog Petra, sa svojom impozantnom kupolom koja dominira rimskim nebom, predstavlja vrhunac <span class="highlight-text">**ljudskog dostignuća**</span> u arhitekturi. Berninijev baldahin unutar crkve samo je jedan od simbola moći i vjere koja je vijekovima oblikovala evropsku istoriju.
 
@@ -115,7 +115,7 @@ Vatikanski muzeji predstavljaju labirint prepun čuda koji kulminira u neponovlj
 
 ---
 
-### Rim noću: Mistična strana grada
+## Rim noću: Mistična strana grada
 
 Kada padne mrak, Rim otkriva svoje potpuno drugo lice, obavijeno velom tajni i romantične, prigušene svjetlosti. Fontane i antički spomenici obasjani reflektorima dobijaju <span class="highlight-text">**mističnu dimenziju**</span>, pretvarajući poznate vizure u scene iz najljepših snova. Šetnja oko Koloseuma pod zvjezdanim nebom ostavlja utisak da ste zakoračili u neki drugi, paralelni svijet mašte.
 
@@ -125,7 +125,7 @@ Trgovi poput Piazze Navone postaju okupljališta umjetnika i parova koji uživaj
 
 ---
 
-### Barokni sjaj i fontane želja
+## Barokni sjaj i fontane želja
 
 Rim je i grad nevjerovatne raskoši gdje se umjetnost i arhitektura stapaju u dramatične, barokne scene na svakom trgu. Među njima, Fontana di Trevi blista kao apsolutno remek-djelo, mjesto gdje se legende prepliću sa modernom <span class="highlight-text">**svakodnevicom**</span> miliona turista. Njene grandiozne skulpture i šum moćnih vodopada stvaraju prizor koji putnike ostavlja bez daha i riječi divljenja.
 
@@ -143,7 +143,7 @@ U blizini se nalazi monumentalni Panteon, sa svojim savršeno očuvanim oculusom
     license_url="https://creativecommons.org/licenses/by-sa/2.0/"  
 >}}
 
-### Umjetnost na svakom koraku: Grad-galerija
+## Umjetnost na svakom koraku: Grad-galerija
 
 Rim je grad u kojem umjetnost nije zatvorena samo unutar hladnih zidova galerija, već je prisutna svuda oko vas. Od Caravaggiovih slika u crkvama koje se mogu slobodno posjetiti, do Berninijevih skulptura koje krase javne <span class="highlight-text">**trgove**</span>, ljepota je dostupna svima. Upravo taj kontrast sakralnog i svakodnevnog čini Rim beskonačno inspirativnim mjestom za svakog kreativca.
 
@@ -153,7 +153,7 @@ Rim je grad u kojem umjetnost nije zatvorena samo unutar hladnih zidova galerija
 
 ---
 
-### Strast i kontrasti modernog Rima
+## Strast i kontrasti modernog Rima
 
 Osim vjekovne istorije, Rim danas pulsira modernim životom koji nudi nevjerovatno bogatu paletu različitih doživljaja i emocija. Strast prema fudbalu na Olimpijskom stadionu, gdje navijači Rome i Lazija stvaraju vrelu atmosferu, pokazuje <span class="highlight-text">**temperament**</span> koji definiše ovaj narod. Sport je ovdje mnogo više od igre; to je pitanje identiteta, časti i duboke porodične pripadnosti.
 
@@ -174,7 +174,7 @@ Opušteni ritam svakodnevice poziva svakog putnika da postane dio ovog velikog, 
 
 ---
 
-### La Dolce Vita: Ukusi koji osvajaju čula
+## La Dolce Vita: Ukusi koji osvajaju čula
 
 Rim nije samo istorija i grandioznost, on je i festival ukusa i mirisa koji osvajaju sva čula već pri prvom susretu. Miris svježe pečenih cornetti-ja u ranim jutarnjim satima širi se iz pekara, najavljujući još jedan sunčan <span class="highlight-text">**rimski dan**</span>. Jutarnja kafa u lokalnom baru nije samo piće, već brzi ritual koji Rimljanima daje energiju za njihovu svakodnevnu vrevu.
 
@@ -189,7 +189,7 @@ Savršeni Gelato koji osvježava u vrelim popodnevima postao je simbol uživanja
 
 ---
 
-### Zaključak: Grad koji se voli na drugi pogled
+## Zaključak: Grad koji se voli na drugi pogled
 
 Kada dođe vrijeme za odlazak iz Rima, osjećaj je uvijek pomalo gorak, gotovo kao rastanak od starog i dragog prijatelja. To je grad koji se neizbježno uvlači pod kožu i koji vas proganja svojim slikama dugo nakon što ga <span class="highlight-text">**napustite**</span>. Njegova slojevitost čini ga neiscrpnom inspiracijom kojoj se putnici stalno vraćaju u svojim mislima i planovima.
 

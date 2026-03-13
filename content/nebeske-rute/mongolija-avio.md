@@ -45,7 +45,7 @@ U tom smislu, vazdušna infrastruktura Mongolije dobija ulogu sličnu onoj koju 
 
 ---
 
-### Od karavana i konja do vazdušnih koridora
+## Od karavana i konja do vazdušnih koridora
 
 Istorija kretanja u Mongoliji vijekovima je bila vezana za zemlju, a ne za nebo. Prostrane stepe, nomadski putevi i karavanske rute činile su osnovnu infrastrukturu kretanja. Putovanje je značilo dugotrajno kretanje konjima, devama i kasnije kamionima, kroz prostor koji je istovremeno bio i otvoren i <span class="highlight-text">**surov**</span>. Nebo je u tom kontekstu bilo simbol slobode i udaljenosti, ali ne i stvarna transportna dimenzija.
 
@@ -55,7 +55,7 @@ Savremeni međunarodni aerodrom u blizini Ulan Batora označava prelomnu tačku.
 
 ---
 
-### Chinggis Khaan International Airport: arhitektura kapije
+## Chinggis Khaan International Airport: arhitektura kapije
 
 Novi međunarodni aerodrom kod Ulan Batora projektovan je kao savremena vazdušna kapija države. Njegova arhitektura kombinuje funkcionalnost globalnih aerodroma sa diskretnim referencama na <span class="highlight-text">**mongolski identitet**</span>. U prostoru terminala susreću se staklo, čelik i motivi koji podsjećaju na tradicionalne oblike nomadskih nastambi i ornamentalne obrasce centralnoazijske kulture.
 
@@ -75,7 +75,7 @@ Chinggis Khaan International Airport time dobija ulogu reprezentativnog prostora
 
 ---
 
-### Nebeske rute između Rusije i Kine
+## Nebeske rute između Rusije i Kine
 
 Geografski položaj Mongolije određuje njenu ulogu u globalnoj avijaciji. Smještena između Rusije i Kine, zemlja se nalazi ispod nekih od <span class="highlight-text">**najvažnijih vazdušnih koridora**</span> koji povezuju Evropu i Istočnu Aziju. Decenijama su međunarodni letovi prelazili mongolsko nebo bez slijetanja, tretirajući ga kao neutralni vazdušni prostor između velikih čvorišta.
 
@@ -85,7 +85,7 @@ Razvoj savremenog međunarodnog aerodroma pokušaj je da se ta dinamika promijen
 
 ---
 
-### Povezanost i linije: kapaciteti mongolskog neba
+## Povezanost i linije: kapaciteti mongolskog neba
 
 U praktičnom smislu, Chinggis Khaan International Airport danas održava mrežu od <span class="highlight-text">**desetak međunarodnih linija**</span> i nekoliko domaćih veza koje povezuju Ulan Bator sa ključnim čvorištima Istočne Azije i šireg regiona. Najfrekventnije rute vode ka <span class="highlight-text">**Seulu, Tokiju, Pekingu i Hong Kongu**</span>, dok se evropska povezanost ostvaruje kroz linije prema <span class="highlight-text">**Istanbulu i Moskvi**</span>. Ukupan broj destinacija varira sezonski, ali se u prosjeku kreće između <span class="highlight-text">**15 i 25 aktivnih linija**</span>, zavisno od perioda godine i tržišne potražnje.
 
@@ -93,7 +93,7 @@ U praktičnom smislu, Chinggis Khaan International Airport danas održava mrežu
 
 ---
 
-### Aerodrom kao instrument geopolitike
+## Aerodrom kao instrument geopolitike
 
 Vazdušna infrastruktura u Mongoliji ima i jasnu geopolitičku dimenziju. Kao mala država između dvije velike sile, Mongolija konstantno balansira između <span class="highlight-text">**uticaja Rusije i Kine**</span>. U tom kontekstu, kontrola i razvoj vazdušnih kapaciteta postaje pitanje suvereniteta, vidljivosti i strateške autonomije.
 
@@ -113,7 +113,7 @@ Aerodrom kao kapija ka svijetu tako dobija dvostruku funkciju. On je ekonomski a
 
 ---
 
-### Turizam iz vazduha: stepe kao destinacija
+## Turizam iz vazduha: stepe kao destinacija
 
 Za globalne putnike, Mongolija je dugo bila egzotična i teško dostupna destinacija. Dugotrajna putovanja, ograničene avionske veze i skromna infrastruktura činili su dolazak u zemlju kompleksnim iskustvom. Savremeni aerodrom mijenja tu <span class="highlight-text">**percepciju udaljenosti**</span>. On simbolički i praktično približava stepe globalnom turizmu.
 
@@ -136,7 +136,7 @@ Istovremeno, avio-dostupnost nosi i ambivalentne posljedice. Brži dolazak znač
 
 ---
 
-### Između izolacije i povezanosti
+## Između izolacije i povezanosti
 
 Mongolija se danas nalazi u specifičnoj tranziciji između istorijske izolacije i savremene povezanosti. Vazdušna infrastruktura simbolizuje taj <span class="highlight-text">**prelaz**</span>. Aerodrom predstavlja tačku u kojoj se susreću dvije logike: logika nomadskog prostora, gdje su udaljenosti ogromne, i logika globalne mobilnosti, gdje se kontinenti prelaze za nekoliko sati.
 
@@ -151,7 +151,7 @@ U tom spoju, aerodrom ne briše identitet zemlje, već ga prevodi na jezik globa
 
 ---
 
-### Zaključak: nebo kao novo lice Mongolije
+## Zaključak: nebo kao novo lice Mongolije
 
 Chinggis Khaan International Airport nije samo infrastrukturni projekat, već simbol <span class="highlight-text">**nove faze**</span> mongolskog odnosa prema svijetu. Kroz vazdušne rute, zemlja pokušava izaći iz dugogodišnje geografske nevidljivosti i artikulisati se kao vidljiva tačka na mapi globalne mobilnosti.
 
