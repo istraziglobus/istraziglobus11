@@ -1,5 +1,5 @@
 ---
-title: "Drakula: Između istorijskog vladara i mitskog predatora"
+title: "Rumunija: Vlad Cepeš i legenda o Drakuli"
 subtitle: "Legenda o najpoznatijem vampiru koja vijekovima opsjeda ljudsku maštu"
 slug: "drakula-mit-i-stvarnost"
 date: 2026-03-12T10:00:00+02:00
@@ -83,7 +83,7 @@ Roman je odjeknuo kao odgovor na viktorijanske strahove od stranih invazija i pr
 
 ## Vampirski folklor Balkana i Strigoji
 
-Dugooo prije Stokera, Balkanom su kružile priče o bićima koja se vraćaju iz groba da bi mučila žive, poznatim kao Strigoji u Rumuniji ili vampiri u drugim slovenskim krajevima. Narodno vjerovanje je nalagalo da ljudi koji su bili zli ili su umrli neprirodnom smrću postaju nemrtvi. Ti duhovi su bili <span class="highlight-text">**izvor istinskog terora**</span> u seoskim zajednicama tokom dugih zimskih noći.
+Dugo prije Stokera, Balkanom su kružile priče o bićima koja se vraćaju iz groba da bi mučila žive, poznatim kao Strigoji u Rumuniji ili vampiri u drugim slovenskim krajevima. Narodno vjerovanje je nalagalo da ljudi koji su bili zli ili su umrli neprirodnom smrću postaju nemrtvi. Ti duhovi su bili <span class="highlight-text">**izvor istinskog terora**</span> u seoskim zajednicama tokom dugih zimskih noći.
 
 Za razliku od holivudskog Drakule, narodni vampiri su bili natečeni, tamnocrveni i prljavi, bez ikakvog aristokratskog šarma. Seljani su preduzimali drastične mjere poput otkopavanja grobova i probijanja srca mrtvaca kako bi osigurali mir. Ovi rituali su bili odraz <span class="highlight-text">**kolektivnog straha od bolesti**</span> i neobjašnjivih tragedija koje su pogađale sela.
 
@@ -142,7 +142,7 @@ Danas ga srećemo u igrama, stripovima, pa čak i u dječijim crtanim filmovima,
 
 ---
 
-## Misticizam Karpaških planina
+## Misticizam Karpatskih planina
 
 Transilvanija, sa svojim neprohodnim šumama i oštrim planinskim vrhovima, igra ključnu ulogu u održavanju mita o Drakuli. Ovaj pejzaž sam po sebi emituje osjećaj izolacije i drevne snage koja prkosi modernom vremenu. Planine su ovdje više od geografije; one su <span class="highlight-text">**prirodna barijera**</span> koja čuva tajne od radoznalih očiju ostatka svijeta.
 
