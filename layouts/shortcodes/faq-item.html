@@ -1,0 +1,7 @@
+<details>
+    <summary>{{ .Get "q" }}</summary>
+    <p>{{ .Inner | markdownify }}</p>
+</details>
+
+{{- $item := dict "question" (.Get "q") "answer" .Inner -}}
+{{- .Parent.Scratch.Add "faq_items" (slice $item) -}}

@@ -1,7 +1,7 @@
 ---
 title: "Istanbul 2025: Detaljan putni vodič"
 subtitle: "Kompletan vodič za Istanbul – kada putovati, kako doći, atrakcije, cijene, smještaj, suveniri i savjeti."
-author: "ChatGPT"
+author: "Istraži Globus Tim"
 date: "2025-10-01"
 description: "Planirate put u Istanbul? Otkrijte najbolje savjete za prevoz, hranu i znamenitosti koje ne smijete propustiti. Doživite magiju Turske uz naš detaljni vodič."
 image: "slike/vodic/istanbul-hero.jpg"
@@ -278,4 +278,34 @@ Bilo da ste ljubitelj istorije, gastronomije ili želite uživati u vibrantnoj a
 >}}
 
 
+{{< faq title="Često postavljana pitanja o putovanju u Istanbul" >}}
 
+  {{< faq-item q="Da li mi je potrebna viza za Tursku?" >}}
+Državljanima Srbije, Crne Gore, Bosne i Hercegovine i Hrvatske viza za turistički boravak do 90 dana nije potrebna. Neophodno je da vaš pasoš važi najmanje 6 mjeseci od datuma ulaska u zemlju. Uvijek provjerite najnovije informacije na sajtu ministarstva prije polaska.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je valuta u Turskoj i da li je bolje nositi eure ili liri?" >}}
+Zvanična valuta je turska lira (TRY). Iako u turističkim zonama i na bazarima često prihvataju eure i dolare, kurs koji će vam ponuditi je skoro uvijek nepovoljan. Najbolje je podizati lire na bankomatima ili mijenjati eure u lokalnim mjenjačnicama (Döviz) izvan aerodroma za najbolji kurs.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je Istanbul bezbjedan za turiste?" >}}
+Istanbul je generalno bezbjedan velegrad. Glavna opasnost su sitni džeparoši u gužvama na bazarima i oko Taksima, kao i poznate "turističke prevare" (npr. čistači cipela koji vam "slučajno" ispuste četku ili previsoki računi u barovima ako vas neko nepoznat pozove na piće). Budite oprezni, koristite zdrav razum i sve će biti u redu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako funkcioniše Istanbulkart i gdje je mogu kupiti?" >}}
+Istanbulkart je neophodna za sav javni prevoz (metro, tramvaj, trajekt, Marmaray). Možete je kupiti na žutim automatima (Biletmatik) na svim većim stanicama i aerodromima. Jedna kartica se može koristiti za više osoba (samo je prislonite više puta), ali je praktičnije da svako ima svoju ako planirate češće vožnje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li postoji poseban kodeks oblačenja za posjetu džamijama?" >}}
+Da, džamije su aktivna vjerska mjesta. Žene moraju pokriti glavu maramom, a ramena i koljena moraju biti pokriveni kod oba pola (bez kratkih pantalona i majica na bretele). Ispred ulaza se obavezno izuva obuća, a u većini džamija postoje besplatni ogrtači i marame koje možete pozajmiti ako niste prikladno obučeni.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji je najbrži način za prelazak sa evropske na azijsku stranu?" >}}
+Najbrži način je podvodni voz **Marmaray** (povezuje Sirkeci i Üsküdar za samo par minuta). Ipak, najljepši način je definitivno **trajekt (vapur)**. Vožnja traje oko 20 minuta, košta isto kao i metro, a pruža vam nevjerovatan pogled na Bosfor, Galata kulu i krike galebova uz turski čaj.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je voda iz česme u Istanbulu pitka?" >}}
+Lokalne vlasti tvrde da je voda tehnički ispravna, ali je veoma hlorisana i ima specifičan ukus, pa je ni lokalno stanovništvo ne pije. Preporučujemo da pijete isključivo flaširanu vodu koja je veoma jeftina i dostupna na svakom koraku.
+  {{< /faq-item >}}
+
+{{< /faq >}}

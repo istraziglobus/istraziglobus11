@@ -4,7 +4,7 @@ subtitle: "Tajne 'osmog kontinenta' i biološkog inženjeringa najčudnijeg drve
 slug: "madagaskar-baobab-drvo-zivota"
 date: 2026-03-15T10:00:00+01:00
 author: "Redakcija"
-description: "Baobab nije samo biljka; to je rezervoar života, mitsko biće i simbol prkosa surovim uslovima Madagaskara."
+description: "Šta je baobab i zašto ga zovu drvo života? Otkrij tajne Madagaskara, najneobičnijeg drveta na svijetu i njegovu ulogu u prirodi."
 image: "slike/baobab/baobab-hero.jpg"
 image_alt: "Aleja baobaba na Madagaskaru tokom dana"
 image_author: "Bernard Gagnon" 
@@ -164,4 +164,34 @@ Kao rezervoar vode, apoteka u divljini i dom za bezbrojne vrste, on opravdava ep
 
 Čuvati baobab znači čuvati identitet Madagaskara i nadu da priroda može preživjeti čak i u najsurovijim uslovima. Dok god ove crvene grane budu parale nebo, postojaće podsjetnik da su najvrednije stvari one koje rastu polako. Neka njegova krošnja vječno prkosi gravitaciji kao <span class="highlight-text">**vječni čuvar**</span> izolovanog raja.
 
+{{< faq title="Često postavljana pitanja o baobabu" >}}
 
+  {{< faq-item q="Šta je baobab?" >}}
+Baobab je drvo koje skladišti vodu i raste na Madagaskaru i u Africi.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko dugo živi baobab?" >}}
+Može živjeti i više od **2.000 godina**.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li baobab zaista raste naopačke?" >}}
+Ne, to je samo vizuelna varka. Tokom devet mjeseci sušne sezone, drvo odbacuje lišće kako bi sačuvalo vodu, ostavljajući ogoljene grane koje izgledaju identično kao korijenje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se baobab koristiti kao sklonište?" >}}
+Da, stabla starih baobaba su često prirodno šuplja ili se namjerno izdubljuju. Kroz istoriju su služila kao rezervoari za vodu, skloništa, pa čak i privremeni poštanski uredi ili prodavnice.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se plod baobaba smatra 'superhranom'?" >}}
+Zato što je nutritivna bomba: sadrži znatno više vitamina C od citrusa, više kalcijuma od mlijeka i bogat je antioksidansima i vlaknima koja pomažu varenju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Ko oprašuje cvjetove baobaba?" >}}
+Pošto se krupni, bijeli cvjetovi otvaraju isključivo noću i traju samo 24 sata, njih oprašuju noćni posjetioci poput voćnih šišmiša (letećih lisica) i lemura.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je baobab ugrožena vrsta na Madagaskaru?" >}}
+Da, tri od šest endemskih vrsta na ostrvu se nalaze na listi ugroženih zbog krčenja šuma, poljoprivrede i klimatskih promjena koje ometaju njihovu prirodnu regeneraciju.
+  {{< /faq-item >}}
+
+{{< /faq >}}

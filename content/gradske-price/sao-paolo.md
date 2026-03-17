@@ -203,3 +203,34 @@ Ovo nije samo turistička destinacija, već lekcija o preživljavanju, kreativno
 
 Zato, kada planirate svoje putovanje u Brazil, nemojte samo projuriti kroz njegov aerodrom, već mu posvetite vrijeme koje istinski zaslužuje svojom veličinom. Osjetite miris kiše na vrelom asfaltu, popijte kafu sa mještanima i dopustite da vas <span class="highlight-text">**magija**</span> Južne Amerike potpuno obuzme. Sao Paulo nije grad za turiste – on je grad za putnike koji traže istinu, autentičnost i beskrajni prostor za lično otkrivanje.
 
+{{< faq title="Često postavljana pitanja o posjeti São Paulu" >}}
+
+  {{< faq-item q="Da li je São Paulo bezbjedan za turiste?" >}}
+Kao i u svakoj ogromnoj metropoli, potreban je oprez. Držite se osvijetljenih i prometnih ulica, ne pokazujte skupocjen nakit ili tehniku na ulici i koristite provjerene taxi aplikacije (poput Ubera) umjesto ulaska u neoznačena vozila. Kvartovi poput Avenije Pauliste i Vila Madalene su generalno bezbjedni tokom dana.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako se najbolje kretati kroz ovoliki grad?" >}}
+Metro u São Paulu je jedan od najčistijih i najefikasnijih u Južnoj Americi. To je ubjedljivo najbolji način da izbjegnete čuvene saobraćajne gužve koje ovaj grad prate svakodnevno. Za kraće relacije unutar boemskih kvartova, šetnja je odličan izbor, ali za prelazak s kraja na kraj grada – držite se metro linija.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je najbolje probati od lokalne hrane?" >}}
+Nezaobilazan je 'Pão de Queijo' (hljeb sa sirom) za doručak, 'Coxinha' (pohovana piletina) kao užina, i naravno – čuveni 'Mortadella' sendvič na Mercado Municipal pijaci. Subotom obavezno probajte 'Feijoada' – tradicionalni brazilski pasulj sa mesom koji je nacionalno jelo.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko dana je dovoljno za obilazak São Paula?" >}}
+Iako grad nudi sadržaje za mjesece istraživanja, 3 do 4 puna dana su dovoljna da obiđete glavne atrakcije (Paulista, Ibirapuera, Vila Madalena, Liberdade) i osjetite duh grada. Ako imate više vremena, São Paulo je odlična baza za jednodnevne izlete do obližnjih plaža poput onih u Santosu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je znanje portugalskog neophodno?" >}}
+U većim hotelima i muzejima osoblje govori engleski, ali u manjim restoranima i na pijacama to nije čest slučaj. Naučiti par osnovnih fraza na portugalskom ("Obrigado" - hvala, "Bom dia" - dobar dan) mnogo će vam pomoći u komunikaciji i lokalno stanovništvo će to izuzetno cijeniti.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto je četvrt Liberdade toliko posebna?" >}}
+Liberdade je dom najveće japanske zajednice izvan Japana na cijelom svijetu. To je fascinantan kulturološki spoj gdje možete vidjeti tipičnu japansku arhitekturu i lampion u srcu Brazila. Vikendom se ovdje održavaju pijace hrane koje su raj za ljubitelje azijske kuhinje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje su najbolje opcije za šoping?" >}}
+Avenija Paulista nudi moderne tržne centre, dok je 'Rua Oscar Freire' u kvartu Jardins ekvivalent njujorškoj Petoj aveniji – tu ćete pronaći luksuzne brendove i vrhunski dizajn. Za autentične suvenire i rukotvorine, posjetite nedjeljni sajam na trgu 'Praça da República'.
+  {{< /faq-item >}}
+
+{{< /faq >}}

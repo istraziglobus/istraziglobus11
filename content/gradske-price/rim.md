@@ -196,3 +196,35 @@ Kada dođe vrijeme za odlazak iz Rima, osjećaj je uvijek pomalo gorak, gotovo k
 Rim nije grad koji se može u potpunosti obuhvatiti samo jednom posjetom, on zahtijeva ponovne dolaske i polako otkrivanje tajni. On se razotkriva sloj po sloj, kao kakva drevna knjiga čije <span class="highlight-text">**stranice**</span> nikada do kraja ne pročitate, ali vas svaki novi uvid dodatno veže. Njegova ljepota leži u suživotu grandioznog i intimnog, stvarajući iskustvo koje se pamti do kraja života.
 
 Rim nije samo grad na karti Italije; to je stanje duha koje vas zagrli, zavede i nikada vas u potpunosti ne pusti iz svog naručja. Bacite novčić u Fontanu di Trevi još jednom i iskreno obećajte sebi povratak u ovu <span class="highlight-text">**vječnu luku**</span> istorije i ljubavi. Rim vas čeka, uvijek isti, a opet potpuno drugačiji, spreman da vam ponovo ispriča svoju beskrajnu priču.
+
+{{< faq title="Često postavljana pitanja o posjeti Rimu" >}}
+
+  {{< faq-item q="Kada je najbolje vrijeme za posjetu Rimu?" >}}
+Najbolje vrijeme za posjetu Vječnom gradu su proljeće (april–jun) i rana jesen (septembar–oktobar). Tada su temperature prijatne za duge šetnje, a svjetlost je idealna za fotografisanje. Ljetni mjeseci mogu biti veoma vreli, dok je zima blaga, ali kišovita.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako izbjeći duge redove za Koloseum i Vatikanske muzeje?" >}}
+Jedini siguran način je kupovina karata onlajn nedjeljama unaprijed. Za Vatikan preporučujemo rane jutarnje termine (prije 8:00 h), dok je za Koloseum najbolje rezervisati termin kasno popodne. Razmislite i o kupovini 'Roma Pass' kartice koja nudi prioritetni ulaz i besplatan javni prevoz.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li se voda sa rimskih česmi (nasoni) smije piti?" >}}
+Da, voda iz čuvenih rimskih česmi, poznatih kao "nasoni", potpuno je bezbjedna za piće, hladna je i besplatna. U gradu postoji preko 2.500 ovakvih česmi, pa preporučujemo da nosite svoju flašicu i dopunjujete je, što je i ekološki i ekonomski najisplativije.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja su pravila oblačenja za posjetu Vatikanu?" >}}
+Za ulazak u Baziliku Svetog Petra i Vatikanske muzeje važi strog kodeks oblačenja (dress code). Ramena i koljena moraju biti pokrivena. Izbjegavajte kratke pantalone, mini suknje i majice bez rukava, jer vas obezbjeđenje može vratiti čak i ako imate važeću kartu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'coperto' koji se naplaćuje u restoranima?" >}}
+'Coperto' je fiksna naknada za postavljanje stola, hljeb i uslugu koja se u Italiji često dodaje na račun (obično između 1€ i 3€ po osobi). To nije bakšiš, već standardni dio ugostiteljske kulture. Obavezno provjerite jelovnik na ulazu, gdje ova naknada mora biti jasno naznačena.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako se najlakše kretati kroz Rim?" >}}
+Iako Rim ima metro i autobuse, najljepši način za istraživanje centra je pješice, jer su glavne atrakcije relativno blizu jedna drugoj. Za duže relacije metro je najbrža opcija, ali imajte na umu da on ima samo tri linije (A, B i C) zbog arheoloških iskopavanja koja otežavaju širenje mreže.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je najbolja lokacija za panoramski pogled na grad?" >}}
+Pored kupole Bazilike Svetog Petra, jedan od najljepših (i besplatnih) vidikovaca je brdo Gianicolo (Janikulum) iznad Trastevera. Takođe, predivan pogled se pruža sa vrha Španskih stepenica (Pincio terasa u blizini Ville Borghese) i sa vrha spomenika Vittoriano na trgu Piazza Venezia.
+  {{< /faq-item >}}
+
+{{< /faq >}}

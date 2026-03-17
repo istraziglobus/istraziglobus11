@@ -1,0 +1,25 @@
+<div class="faq-box">
+    <h3>{{ .Get "title" | default "Često postavljana pitanja" }}</h3>
+    {{ .Inner }}
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- $questions := .Scratch.Get "faq_items" -}}
+    {{- range $index, $element := $questions -}}
+    {{- if $index }},{{ end -}}
+    {
+      "@type": "Question",
+      "name": "{{ $element.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $element.answer | plainify }}"
+      }
+    }
+    {{- end -}}
+  ]
+}
+</script>

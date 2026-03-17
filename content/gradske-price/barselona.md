@@ -196,3 +196,34 @@ Bez obzira na to da li istražujete moderni Eixample ili se penjete na brdo Tibi
 
 Onaj ko jednom osjeti puls ovog grada, vraća se uvijek iznova jer Barselona nikada ne miruje u svom stvaralaštvu. Poput mora koje je grli, ona neprestano diše, mijenja se i osvaja srca novih generacija putnika svojom neiscrpnom <span class="highlight-text">**magijom**</span>. Barselona ostaje dama modernizma, katalonska kraljica koja vas poziva da postanete dio njene beskrajne, šarene i sunčane priče.
 
+{{< faq title="Često postavljana pitanja o posjeti Barseloni" >}}
+
+  {{< faq-item q="Kada je najbolje rezervisati karte za Sagrada Familiu i Park Güell?" >}}
+Karte je neophodno rezervisati onlajn barem nekoliko nedelja unaprijed, posebno tokom sezone. Ulaz na licu mjesta gotovo nikada nije moguć jer su termini rasprodati danima unaprijed. Preporučujem da birate termine rano ujutru ili pred zalazak sunca zbog najljepšeg osvjetljenja unutar bazilike.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je Barselona bezbjedan grad za turiste?" >}}
+Barselona je generalno bezbjedna, ali je poznata kao "svjetska prijestonica džeparoša", posebno u zoni La Ramble i Gotičke četvrti. Uvijek držite torbe ispred sebe, izbjegavajte nošenje dragocjenosti u zadnjim džepovima i budite oprezni u gužvama u metrou.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji je najbolji način za prevoz po gradu?" >}}
+Mreža metroa je izvanredna, čista i pokriva skoro sve ključne tačke grada. Najisplativije je kupiti T-casual kartu (za 10 vožnji) ili Holabcn propusnicu za neograničeno kretanje. Takođe, Barselona je vrlo prilagođena pješacima, pa mnoge kvartove poput El Borna i Gotike vrijedi istražiti isključivo pješice.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Katalonski modernizam' i po čemu se razlikuje?" >}}
+To je jedinstveni umjetnički pravac, najvidljiviji u arhitekturi, koji je cvjetao krajem 19. vijeka. Za razliku od klasične gradnje, on koristi organske oblike iz prirode, mnogo kovanog gvožđa, stakla u boji i mozaika (trencadís). Gaudi je bio njegov predvodnik, ali grad krase i djela drugih velikana poput Domènech i Montanera.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li stanovnici Barselone radije govore katalonski ili španski?" >}}
+Oba jezika su zvanična i skoro svi stanovnici govore oba tečno. Ipak, katalonski je jezik identiteta i kulture. Iako će vas svi razumjeti ako govorite španski, naučiti par osnovnih riječi na katalonskom (poput "Bon dia" umjesto "Buenos dias") otvoriće vam mnoga vrata i srca lokalaca.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se može probati najbolja hrana, a da nije turistička zamka?" >}}
+Izbjegavajte restorane sa slikama hrane na samoj Rambli. Umjesto toga, istražite kvartove Gràcia ili Poble-sec. Za autentično iskustvo tapasa, posjetite Carrer de Blai u Poble-secu, ulicu poznatu po "pinchosima" – malim zalogajima na čačkalicama po vrlo pristupačnim cijenama.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kada je Sagrada Familia konačno gotova?" >}}
+Iako je prvobitni plan bio da se završi 2026. godine, na stogodišnjicu Gaudijeve smrti, pandemija je malo pomjerila rokove. Ipak, glavni radovi na tornjevima su pri kraju, a bazilika već sada izgleda veličanstveno. Čak i pod skelama, ona nudi duhovno i arhitektonsko iskustvo koje se ne propušta.
+  {{< /faq-item >}}
+
+{{< /faq >}}

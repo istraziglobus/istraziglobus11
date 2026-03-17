@@ -104,7 +104,7 @@ Trebinjska kuhinja je savršen spoj mediteranskih uticaja i balkanske <span clas
 
 Pastrmka iz Trebišnjice je specijalitet koji se ne smije <span class="highlight-text">**propustiti**</span> u lokalnim restoranima. Meso je mekano i pripremljeno na tradicionalni način sa začinskim biljem. Svaki restoran na obali rijeke nudi jedinstven ambijent uz šum vode. Uz ribu obavezno ide čaša rashlađene Žilavke koja nosi svježinu hercegovačkog sunca. Ovdje se jede s uživanjem i bez žurbe, uz razgovor sa dragim ljudima.
 
-Domaći med i ljekovito bilje sa Leotara su prirodni <span class="highlight-text">**eliksiri**</span> zdravlja. Trebinjska pijaca je mjesto gdje možete kupiti najkvalitetnije smokve i narove. Miris svježeg povrća i domaćeg sira širi se pod krošnjama platana. Svaki zalogaj nosi u sebi snagu kamena i toplinu hercegovačkog neba. Gastronomija Trebinja je zapravo priča o ljubavi prema zemlji i njenim plodovima.
+>Domaći med i ljekovito bilje sa Leotara su prirodni <span class="highlight-text">**eliksiri**</span> zdravlja. Trebinjska pijaca je mjesto gdje možete kupiti najkvalitetnije smokve i narove. Miris svježeg povrća i domaćeg sira širi se pod krošnjama platana. Svaki zalogaj nosi u sebi snagu kamena i toplinu hercegovačkog neba. Gastronomija Trebinja je zapravo priča o ljubavi prema zemlji i njenim plodovima.
 
 ---
 
@@ -153,3 +153,35 @@ U večernjim satima, uz čašu vina, shvatićete zašto se ljudi stalno <span cl
 Trebinje je mnogo više od samo jedne stanice na putu ka moru. Ono je destinacija koja zahtijeva pažnju i nudi nevjerovatno bogatstvo <span class="highlight-text">**iskustva**</span>. Od zidina Kastela do vrhova Leotara, svaki korak je susret sa istinskom ljepotom. Grad vas uči kako da uživate u malim stvarima i cijenite mirne trenutke. Njegova energija je iscjeljujuća, a istorija inspirativna za svakog <span class="highlight-text">**putnika**</span>.
 
 Odlazak iz grada sunca uvijek prati želja za skorim <span class="highlight-text">**povratkom**</span>. Miris platana i ukus hercegovačkog vina ostaju u sjećanju dugo nakon putovanja. Trebinje je grad koji čuva svoju dušu i rado je dijeli sa onima koji je znaju prepoznati. To je istinska oaza na jugu Hercegovine koja vječno sija pod mediteranskim nebom. Vaša balkanska avantura dostiže svoj vrhunac upravo pod sjenkom ovih stogodišnjih <span class="highlight-text">**stabala**</span>.
+
+{{< faq title="Često postavljana pitanja o Trebinju" >}}
+
+  {{< faq-item q="Kada je najbolje vrijeme za posjetu Trebinju?" >}}
+Trebinje je predivno tokom cijele godine zbog svoje blage mediteranske klime. Ipak, najljepše je u kasno proljeće (maj i jun) ili ranu jesen (septembar), kada su temperature idealne za šetnju, a ljetne gužve još nisu počele ili su tek prošle.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se most zove Perovića (Arslanagića) most?" >}}
+Most je u 16. vijeku sagradio Mehmed-paša Sokolović, a ime je dobio po porodici Arslanagić koja je decenijama naplaćivala mostarinu. Danas se često naziva i Perovića most, po porodici koja je bila ključna u njegovom očuvanju, ali su oba naziva u svakodnevnoj upotrebi.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je Trebinje blizu mora?" >}}
+Trebinje ima nevjerovatnu poziciju – udaljeno je samo 30-ak kilometara od Dubrovnika (Hrvatska) i oko 40 kilometara od Herceg Novog (Crna Gora). Zbog toga mnogi putnici koriste Trebinje kao mirniju i povoljniju bazu za istraživanje čitave jadranske obale.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja vina su specifična za ovaj kraj?" >}}
+Hercegovina je domovina autohtonih sorti Žilavka (bijelo vino) i Vranac (crno vino). Žilavka je poznata po svojoj svježini i mineralnosti, dok je Vranac snažno, tamno vino bogato taninima. Obavezno posjetite manastir Tvrdoš ili neku od lokalnih porodičnih vinarija za degustaciju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je Anđelkina kapija i zašto je turisti posjećuju?" >}}
+Anđelkina kapija postala je regionalno popularna nakon snimanja serije "Ranjeni orao". Nalazi se u Starom gradu (Kastelu) i postala je nezaobilazno mjesto za fotografisanje, simbolišući romantičnu stranu Trebinja i njegovu filmsku ljepotu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se kupati u rijeci Trebišnjici?" >}}
+Iako je Trebišnjica prelijepa i čista, ona je prilično hladna čak i usred ljeta. Ipak, postoji uređeno kupalište "Bregovi" u blizini centra grada gdje se mještani i turisti rado osvježavaju tokom vrelih hercegovačkih dana.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta kupiti kao autentičan suvenir iz Trebinja?" >}}
+Najbolji suveniri su jestivi: hercegovački med od ljekovitog bilja, sir iz ulja, sušene smokve ili flaša vrhunskog domaćeg vina. Takođe, na pijaci pod platanima možete pronaći i razne proizvode od lavande i drugog mediteranskog bilja.
+  {{< /faq-item >}}
+
+{{< /faq >}}

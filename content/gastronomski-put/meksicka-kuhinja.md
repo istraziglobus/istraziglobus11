@@ -166,3 +166,35 @@ Meksiko je zemlja koja istinski zna da živi i uživa u svakom ponuđenom trenut
 Kroz taj specifičan ukus vidi se sve ono što Meksiko jeste – snaga, tradicija i radost. On je nit koja povezuje milione ljudi, od farmera na poljima do <span class="highlight-text">vrhunskih umjetnika</span> u gradovima. Meksiko nije samo destinacija, već osjećaj koji se nosi u srcu i čulima.
 
 Zato, kada sljedeći put osjetite dim pečenog kukuruza, sjetite se da u njemu živi civilizacija. Ona nas uči da hrana može biti <span class="highlight-text">najčistija poezija</span>, a kukuruz vječni simbol povezanosti čovjeka i prirode. Dozvolite Meksiku da vas nahrani, inspiriše i podsjeti na važnost vaših sopstvenih korijena.
+
+{{< faq title="Često postavljana pitanja o meksičkoj kuhinji" >}}
+
+  {{< faq-item q="Da li je sva meksička hrana ekstremno ljuta?" >}}
+Ne nužno. Iako su čili papričice osnova kuhinje, one se koriste prvenstveno zbog arome, a ne samo zbog ljutine. Većina jela se služi sa salse (sosovima) sa strane, tako da sami kontrolišete nivo ljutine. Pravilo je: što je manja papričica, to je obično ljuća!
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je razlika između kukuruznih i pšeničnih tortilja?" >}}
+Kukuruzne tortilje su tradicionalne, žute ili bijele boje, i osnova su većine meksičkih jela poput tacosa. Pšenične tortilje su popularnije na sjeveru Meksika i u 'Tex-Mex' kuhinji, mekše su i veće, pa se koriste za buritose koji zahtijevaju čvršće zamotavanje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je zapravo 'Taco' i kako se pravilno jede?" >}}
+Taco je bilo koje punjenje (meso, povrće, sir) stavljeno u malu, savijenu tortilju. Pravi meksički taco se jede isključivo rukama! Savjet: koristite mali prst da pridržite dno tortilje kako punjenje ne bi ispalo dok uživate u zalogaju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je meksička kuhinja pogodna za vegetarijance?" >}}
+Apsolutno. Osnova kuhinje su kukuruz, grah, avokado i bundeve, što ostavlja ogroman prostor za vegetarijanska jela. 'Enchiladas' sa sirom, 'guacamole' ili 'quesadillas' sa gljivama i cvijetom bundeve su fantastične opcije.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Mole' i zašto u njega ide čokolada?" >}}
+Mole je složeni, gusti sos koji predstavlja vrhunac meksičke kulinarske umjetnosti. Čokolada u njemu (naročito u verziji 'Mole Poblano') ne služi da bi jelo bilo slatko, već da bi dalo dubinu, tamnu boju i specifičnu gorčinu koja balansira ljutinu čilija.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je razlika između Tequile i Mezcala?" >}}
+Sve tequile su mezcali, ali nisu svi mezcali tequila. Tequila se pravi isključivo od plave agave u specifičnoj regiji, dok se Mezcal može praviti od preko 30 vrsta agava. Mezcal ima karakterističan dimljeni ukus jer se srca agave peku u podzemnim jamama sa drvenim ugljem.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je sigurno jesti hranu na ulicama Meksika?" >}}
+Ulična hrana je srce meksičke kulture. Opšte pravilo je da birate štandove ispred kojih je veliki red lokalnog stanovništva – to je najbolji znak da je hrana svježa i kvalitetna. Takođe, gledajte da se tortilje peku direktno pred vama.
+  {{< /faq-item >}}
+
+{{< /faq >}}

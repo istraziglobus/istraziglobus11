@@ -164,3 +164,34 @@ Autentični marokanski doručak je prava gozba za početak dana. Uz svježi hlje
 
 Završiti obrok u Maroku obično znači pojesti činiju svježeg sezonskog voća, a ne teške kolače. Ipak, marokanski slatkiši sa <span class="highlight-text">**bademima i vodom narandžinog cvijeta**</span>, poput "kaab el ghazal" (gazelini rogovi), rezervisani su za posebne prilike. Maroko vas uči da hrana nije samo gorivo, već slavljenje života i prirode.
 
+{{< faq title="Često postavljana pitanja o marokanskoj kuhinji" >}}
+
+  {{< faq-item q="Šta je zapravo tagine (tažin)?" >}}
+Tagine je istovremeno naziv za tradicionalnu keramičku posudu sa kupolastim poklopcem i za jelo koje se u njoj priprema. Specifičan oblik poklopca omogućava pari da cirkuliše, čineći hranu nevjerovatno sočnom uz minimalnu upotrebu vode.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je marokanska hrana veoma ljuta?" >}}
+Uglavnom ne. Marokanska kuhinja se fokusira na aromatičnost, a ne na čistu ljutinu. Koriste se začini poput cimeta, šafrana i kumina za dubinu ukusa. Ako želite ljutinu, obično se sa strane služi **harissa** – pasta od ljute paprike.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta sadrži čuvena mješavina Ras el Hanout?" >}}
+Naziv u prevodu znači "vrh radnje", što sugeriše da trgovac miješa svoje najbolje začine. Može sadržati između 10 i 30 začina, uključujući kardamom, muskatni oraščić, kurkumu, đumbir, a ponekad čak i sušene latice ruže.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se čaj od nane sipa sa velike visine?" >}}
+To se radi iz dva razloga: da bi se čaj prozračio i razvio bogatu pjenu na vrhu čaše (koja se smatra znakom kvaliteta), ali i da bi se napitak prirodno ohladio do idealne temperature za piće.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji su osnovni bonton i pravila tokom jela?" >}}
+Tradicionalno se jede desnom rukom, koristeći hljeb (khobz) kao alat za zahvatanje hrane. Smatra se nepristojnim jesti lijevom rukom ili odbiti ponuđeni čaj od nane, koji je simbol gostoprimstva.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Po čemu se marokanski kus-kus razlikuje od instant varijanti?" >}}
+Tradicionalni marokanski kus-kus se pari više puta iznad variva koje se kuva (u posudi zvanoj couscoussier). Ovaj proces traje satima i rezultira laganim, vazdušastim zrncima koja su upila sve arome začina i mesa.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to Amlou i kako se konzumira?" >}}
+Amlou je čuveni marokanski namaz koji se često naziva "marokanska nutela". Pravi se od pečenih badema, meda i dragocjenog **arganovog ulja**. Najčešće se služi uz svježi hljeb ili palačinke za doručak.
+  {{< /faq-item >}}
+
+{{< /faq >}}

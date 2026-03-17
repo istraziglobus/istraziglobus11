@@ -110,14 +110,13 @@ Lokalne vlasti su nedavno <span class="highlight-text">**obnovile**</span> ove d
 
 ---
 
-## Savjeti za putnike
+## Savjeti za nezaboravno iskustvo
 
-> Planirajte cijeli dan za obilazak Jajca. Počnite jutro uz vodopad, a zatim se popnite na tvrđavu dok sunce nije previše jako. Popodne rezervišite za opuštanje na Plivskim jezerima. Ako volite adrenalin, rijeka Vrbas nudi odlične uslove za rafting u blizini.
+Za potpuni doživljaj kraljevskog grada, planirajte minimalno jedan cijeli dan istraživanja. Idealno je početi rano ujutru uz huk vodopada, dok je izmaglica još uvijek svježa, a zatim se popeti ka tvrđavi prije nego što sunce dostigne vrhunac. Popodne ostavite za mirniju stranu Jajca – opuštanje uz Plivska jezera ili laganu vožnju <span class="highlight-text">čamcem</span>. Za one željne adrenalina, obližnji kanjon rijeke Vrbas nudi neke od najboljih uslova za rafting u ovom dijelu Balkana.
 
-<div class="tip-box">
-  <h3><strong>Misterija Mitreovog hrama</strong></h3>
-  <p>Duboko u temeljima Jajca krije se antički hram boga Mitre iz 4. vijeka, dokaz da je ovaj grad bio važno duhovno središte i prije dolaska kraljeva. Ovaj neobični kult nepobjedivog boga Sunca zahtijevao je obrede u potpunom mraku pećina, što Jajce čini jednim od rijetkih mjesta u Evropi gdje su antička mistika i srednjovjekovno hrišćanstvo doslovno naslagani jedno na drugo, čuvajući tajne stare skoro dvije hiljade godina.</p>
-</div>
+Kada je riječ o logistici, važno je znati da je stara gradska jezgra najbolje istražiti pješice. Većina ulica je popločana kaldrmom, pa je udobna obuća apsolutni imperativ. Iako je Jajce turistički razvijeno, zadržalo je pristupačne cijene, pa ćete u lokalnim restoranima naći vrhunsku domaću pastrmku i tradicionalna <span class="highlight-text">jela</span> po vrlo korektnim cijenama. Ukoliko planirate posjetu katakombama ili unutrašnjosti tvrđave, provjerite radno vrijeme muzeja, posebno van ljetnje sezone kada su dani kraći.
+
+>Posebnu draž Jajcu daje njegova okolina koja nudi savršen bijeg u prirodu. Veliko i Malo plivsko jezero nisu samo mjesta za fotografisanje mlinčića, već i oaze mira gdje možete iznajmiti tradicionalne drvene barke. Zbog specifične gustine vode, ova jezera su idealna za kajakaštvo, pa nije rijetkost vidjeti profesionalne sportiste kako se pripremaju za takmičenja. Ako imate vremena, ostanite do zalaska sunca kada se svjetlost na mlinčićima prelama na način koji svaki kadar pretvara u pravo <span class="highlight-text">umjetničko djelo</span>.
 
 ---
 
@@ -153,10 +152,47 @@ Lokalni proizvodi poput domaćeg sira i <span class="highlight-text">**meda**</s
 
 Osim hrane, Jajce je poznato i po izvrsnoj <span class="highlight-text">**kafi**</span> koja se služi u starim kafanama. Ovdje se kafa ne pije na brzinu, već se u njoj uživa polako uz razgovor. Mnogi ugostitelji i dalje koriste tradicionalno posuđe kako bi sačuvali autentičnost doživljaja. Nakon dobrog obroka, ništa ne prija bolje od šetnje obalom uz zalazak sunca.
 
+<div class="tip-box">
+  <h3><strong>Misterija Mitreovog hrama</strong></h3>
+  <p>Duboko u temeljima Jajca krije se antički hram boga Mitre iz 4. vijeka, dokaz da je ovaj grad bio važno duhovno središte i prije dolaska kraljeva. Ovaj neobični kult nepobjedivog boga Sunca zahtijevao je obrede u potpunom mraku pećina, što Jajce čini jednim od rijetkih mjesta u Evropi gdje su antička mistika i srednjovjekovno hrišćanstvo doslovno naslagani jedno na drugo, čuvajući tajne stare skoro dvije hiljade godina.</p>
+</div>
+
 ---
 
-### Zaključak
+## Zaključak – Neraskidiva veza kamena i vode
 
 Jajce je grad koji se ne posmatra, već se istinski <span class="highlight-text">**doživljava**</span>. Mirna jutra uz huk vodopada i večeri ispunjene istorijom stvaraju osjećaj pripadnosti. Svaki posjetilac sa sobom ponese djelić ove bosanske magije. To je destinacija koja vas stalno poziva da se vratite. Njegov šarm leži u savršenoj ravnoteži između prirode i ljudskog <span class="highlight-text">**stvaralaštva**</span>.
 
 Pravi doživljaj ovog mjesta nije u brzom obilasku atrakcija. Potrebno je polagano upijati <span class="highlight-text">**atmosferu**</span> uz obalu Plive. Razgovor sa domaćinima otvoriće vam nove poglede na prošlost. Jajce ostaje urezano u sjećanju kao simbol vječne ljepote. Ono je dokaz da se najvrednije priče kriju u srcu <span class="highlight-text">**Balkana**</span>.
+
+{{< faq title="Često postavljana pitanja o Jajcu" >}}
+
+  {{< faq-item q="Zašto se Jajce naziva 'kraljevskim gradom'?" >}}
+Jajce nosi ovaj nadimak jer je bilo sjedište posljednjih bosanskih kraljeva. Upravo je ovdje 1461. godine krunisan posljednji bosanski kralj, Stjepan Tomašević, čime je grad postao politički i kulturni centar tadašnje države.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je vodopad u Jajcu prirodan ili vještački?" >}}
+Vodopad rijeke Plive je potpuno prirodan fenomen. Ono što ga čini jedinstvenim u svijetu jeste njegova lokacija – to je jedini vodopad te veličine koji se nalazi u samom centru jednog naseljenog grada, na ušću dvije rijeke, Plive i Vrbasa.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta se zapravo nalazi unutar katakombi?" >}}
+Unutar katakombi se nalazi podzemna crkva i kripta isklesana u živoj stijeni. Izgrađene su krajem 14. vijeka po nalogu moćnog vojvode Hrvoja Vukčića Hrvatinića kao porodična grobnica i prostor za molitvu u tišini i mraku.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kada je najbolje vrijeme za posjetu Jajcu?" >}}
+Najbolje vrijeme za posjetu je od kasnog proljeća do rane jeseni (maj–septembar). Ljeta su prijatna zbog blizine vode i planinskog vazduha, a tada se održavaju i tradicionalni skokovi sa vodopada koji su prava turistička atrakcija.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Čemu su nekada služili drveni mlinčići na Plivi?" >}}
+Ovi mali mlinovi (vodenice) vijekovima su služili lokalnim poljoprivrednicima za mljevenje žita. Specifični su po tome što ne koriste klasično veliko kolo, već poseban sistem koji je bio idealan za manju količinu vode i porodične potrebe.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko vremena je potrebno za obilazak svih znamenitosti?" >}}
+Za kvalitetan obilazak jezgra grada (vodopad, tvrđava, katakombe, muzej AVNOJ-a) potrebno je oko 4 do 5 sati. Ako planirate i posjetu mlinčićima te odmor na Plivskim jezerima, preporučuje se cijeli dan ili vikend boravak.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kakva je veza između Jajca i nastanka Jugoslavije?" >}}
+Jajce je istorijski važno jer je u njemu 29. novembra 1943. održano Drugo zasjedanje AVNOJ-a. Na tom skupu su donesene ključne odluke o federalnom uređenju buduće države, zbog čega se Jajce često naziva "rodnim mjestom Jugoslavije".
+  {{< /faq-item >}}
+
+{{< /faq >}}

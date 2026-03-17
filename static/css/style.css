@@ -2715,5 +2715,92 @@ blockquote p {
 }
 
 
+/* FAQ SEKCIJA ZA PITANJA */
+.faq-box {
+    background-color: #eb2e2e; /* Tvoja tamno crvena */
+    border: 1px solid #eecaca;
+    padding: 25px;
+    border-radius: 8px;
+    margin: 30px 0;
+}
 
+.faq-box h3 {
+    color: #ffffff; /* Promijenio sam u bijelu jer je pozadina tamno crvena (#882323) */
+    margin-top: 0;
+    border-bottom: 2px solid #ffcccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+}
 
+.faq-box details {
+    background-color: #ffffff;
+    border-left: 4px solid #a82020;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+}
+
+.faq-box details[open] {
+    padding-bottom: 15px;
+}
+
+.faq-box summary {
+    font-weight: bold;
+    cursor: pointer;
+    color: #333;
+    outline: none;
+    list-style: none;
+    
+    /* DODATO: Osigurava da se i dugačko PITANJE prelama u više redova */
+    display: flex; 
+    align-items: flex-start;
+    white-space: normal;
+}
+
+.faq-box summary::marker, 
+.faq-box summary::-webkit-details-marker {
+    display: none; /* Potpuno uklanja sistemsku strelicu */
+}
+
+.faq-box summary::before {
+    content: "+";
+    color: #a82020;
+    font-weight: bold;
+    margin-right: 10px;
+    flex-shrink: 0; /* Sprečava da se znak plus sabije kod dugih pitanja */
+}
+
+.faq-box details[open] summary::before {
+    content: "−";
+}
+
+.faq-box details p {
+    /* Resetujemo sve što bi moglo blokirati prelazak u novi red */
+    display: block !important;
+    float: none !important;
+    clear: both !important;
+    
+    /* Širina mora biti ograničena na roditelja */
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    
+    /* Pravila za tekst */
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    word-break: normal !important; /* Promijenjeno sa break-word na normal radi prirodnijeg preloma */
+    
+    /* Estetika */
+    margin-top: 10px;
+    margin-bottom: 0;
+    line-height: 1.6;
+    color: #555;
+    border-top: 1px dashed #eee;
+    padding-top: 10px;
+    box-sizing: border-box !important;
+}

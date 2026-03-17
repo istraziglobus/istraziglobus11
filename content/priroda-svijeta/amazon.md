@@ -160,3 +160,35 @@ Amazonija nije samo udaljeni pejzaž sa razglednica, već živo biće koje diše
 Oni koji su imali priliku da je vide izbliza, znaju da nijedno mjesto na svijetu ne ostavlja takav snažan utisak. Snaga njene prirode i tišina njenih dubina pročišćavaju dušu i mijenjaju prioritete svakog posjetioca. Amazonija nas uči da smo svi dio <span class="highlight-text">**jedne velike i neraskidive porodice**</span> koja zavisi od zdravlja prirode.
 
 I dok avion polako napušta oblake iznad vijugave rijeke, u mislima ostaje samo jedna jasna i snažna poruka. Čuvajmo Amazoniju kao što ona čuva nas, jer drugu priliku i drugu planetu nećemo dobiti. Naša je dužnost da budemo <span class="highlight-text">**dostojni čuvari ovog blaga**</span> i da ga predamo unucima netaknutog i punog života.
+
+{{< faq title="Često postavljana pitanja o putovanju u Amazoniju" >}}
+
+  {{< faq-item q="Da li je sigurno putovati u srce Amazonije?" >}}
+Da, pod uslovom da putujete sa licenciranim vodičima i u sklopu organizovanih ekotura. Najveće opasnosti nisu divlje životinje, već insekti koji prenose bolesti i dehidratacija. Ključno je pridržavati se uputstava lokalaca koji poznaju ćudi džungle.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje vakcine su potrebne prije polaska?" >}}
+Vakcina protiv žute groznice je obavezna za većinu regija Amazonije, a preporučuju se i vakcine protiv hepatitisa A i B, kao i tifusa. Takođe, posavjetujte se sa ljekarom o profilaksi protiv malarije, jer su komarci u vlažnim predjelima veoma aktivni.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kada je najbolje vrijeme za posjetu brazilskom Amazonu?" >}}
+Postoje dvije glavne sezone: vlažna (januar–jun) i "suva" (jul–decembar). Tokom vlažne sezone nivo rijeke raste i do 15 metara, što omogućava istraživanje kanuima duboko u šumu. Suva sezona je bolja za pješačenje i posmatranje životinja koje se okupljaju oko preostalih vodenih tokova.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta obavezno spakovati za džunglu?" >}}
+Lagana, dugih rukava odjeća od brzosušećih materijala je prioritet (zbog sunca i insekata). Ne zaboravite kvalitetan repelent sa visokim udjelom DEET-a, vodootpornu kabanicu, šešir širokog oboda i dobru baterijsku lampu. Obuća mora biti duboka i vodootporna.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li se u Amazonu zaista mogu vidjeti ružičasti delfini?" >}}
+Da! Ružičasti riječni delfini (Boto) su stvarni i žive isključivo u slatkim vodama Amazona i Orinoka. Najlakše ih je vidjeti u blizini grada Manausa, gdje se crna voda rijeke Rio Negro spaja sa žutom vodom Amazona (čuveni 'Meeting of Waters').
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako ekoturizam zapravo pomaže očuvanju prašume?" >}}
+Ekoturizam pruža alternativni izvor prihoda lokalnom stanovništvu. Kada mještani zarađuju kao vodiči ili vlasnici eko-lodževa, oni imaju direktan ekonomski interes da šuma ostane netaknuta, umjesto da je sijeku radi poljoprivrede ili rudarstva.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se posjetiti neko od plemena u džungli?" >}}
+Moguće je posjetiti samo plemena koja su u redovnom kontaktu sa modernim svijetom i koja su otvorila svoja sela za turiste u svrhu edukacije. Kontakt sa potpuno izolovanim plemenima je strogo zabranjen zakonom kako bi se spriječilo prenošenje bolesti na koje oni nemaju imunitet.
+  {{< /faq-item >}}
+
+{{< /faq >}}

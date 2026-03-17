@@ -164,3 +164,35 @@ Salar de Uyuni nije samo prirodno čudo koje služi za fotografisanje, već dubo
 Ovo je tačka susreta geologije, globalne ekonomije i geopolitičkih igara moći u 21. vijeku. Tišina Salara govori glasnije od mnogih riječi, podsjećajući nas na krhkost ravnoteže između razvoja i očuvanja. U beskraju bijele soli, cijeli naš <span class="highlight-text">**svijet se ogleda u samom sebi**</span>, tražeći pravi put naprijed.
 
 Kada napustite ovo prostranstvo, sa sobom nosite osjećaj pročišćenja i nove perspektive na ono što je zaista važno. Salar de Uyuni ostaje u sjećanju kao vječni simbol povezanosti čovjeka i zemlje u njenom najčistijem obliku. To je <span class="highlight-text">**mjesto gdje horizont zaista ne postoji**</span>, jer nebo i zemlja postaju jedno u bijelom andskom srcu.
+
+{{< faq title="Često postavljana pitanja o posjeti Salar de Uyuni" >}}
+
+  {{< faq-item q="Koliko je opasna visinska bolest (soroche) na Salaru?" >}}
+S obzirom na to da se Salar nalazi na preko 3.600 metara nadmorske visine, simptomi poput glavobolje i mučnine su česti. Ključno je da provedete barem dva do tri dana u La Pazu ili gradu Uyuni kako biste se aklimatizovali prije nego krenete u dubinu ravnice. Pijte puno vode i tradicionalni čaj od koke koji lokalci preporučuju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je moguće posjetiti Salar bez organizovane ture?" >}}
+Iako tehnički moguće, to se strogo ne preporučuje. Salar je ogroman prostor bez puteva i signala mobilne telefonije gdje je dezorijentacija izuzetno laka, naročito tokom kišne sezone. Iskusni lokalni vozači znaju gdje je kora soli tanka i kako izbjeći opasna područja.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kakva je hrana tokom trodnevnih tura po Salaru?" >}}
+Većina tura uključuje obroke koje spremaju vozači/vodiči. Očekujte jednostavnu, ali hranljivu bolivijsku hranu: meso lame, kvinoju (koja ovdje najbolje uspijeva), povrće i supe. Ako imate posebne dijetalne potrebe (poput autofagije ili veganstva), obavezno to naglasite agenciji unaprijed.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta ponijeti od opreme za fotografisanje?" >}}
+Ponesite rezervne baterije jer hladne andske noći ekstremno brzo troše energiju uređaja. Za čuveni 'efekat ogledala' polarizacioni filteri su od velike pomoći, a ponesite i male predmete (igračke, figurice) za igranje sa perspektivom tokom fotografisanja u sušnoj sezoni.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je hladno noću u hotelima od soli?" >}}
+Hoteli od soli imaju iznenađujuće dobru izolaciju, ali temperature na Altiplanu noću redovno padaju ispod nule. Većina hotela ima grijanje u sobama, ali ponesite toplu termalnu odjeću i vreću za spavanje ako planirate osnovne varijante smještaja.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji tip obuće je najbolji za Salar?" >}}
+Tokom kišne sezone (ogledalo), gumene čizme su obavezne jer slana voda može biti korozivna za vašu kožu i obuću. Većina agencija ih iznajmljuje putnicima. Tokom sušne sezone, dovoljne su čvrste i udobne planinarske cipele.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je litijumski rudnik otvoren za turiste?" >}}
+Glavni pogoni za ekstrakciju litijuma su industrijske zone pod strogim nadzorom države i obično nisu otvoreni za standardne turističke posjete. Ipak, tokom vožnje preko Salara možete vidjeti bazene za isparavanje iz daljine, što je dovoljno da steknete uvid u razmjeru ove industrije.
+  {{< /faq-item >}}
+
+{{< /faq >}}

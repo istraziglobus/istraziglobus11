@@ -2,7 +2,7 @@
 title: "Đurđevića Tara : Kameni div iznad ambisa"
 subtitle: "Arhitektonsko remek-djelo iznad najdubljeg kanjona Evrope"
 slug: "most-na-djurdjevica-tari-vodic"
-date: 2025-06-06T14:00:00+01:00
+date: 2025-07-06T14:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Otkrijte most na Đurđevića Tari, simbol hrabrosti i inženjerski podvig iznad rijeke Tare. Saznajte sve o zip-line avanturama, raftingu i burnoj istoriji."
 image: "slike/balkan/most-na-tari.jpg"
@@ -85,7 +85,7 @@ Danas je most na Tari centar ekstremnih sportova i vrhunske <span class="highlig
 
 Pogled sa zip-lajna nudi potpuno novu perspektivu na tirkiznu rijeku. Dok letite, ispod vas se otvaraju dubine koje oduzimaju dah. Mnogi se odlučuju za ovaj podvig kako bi pobijedili strah od <span class="highlight-text">**visine**</span>. Sigurnosni sistemi su na najvišem nivou, što omogućava uživanje bez brige. To je najuzbudljiviji način da osjetite svu moć kanjona Tare.
 
-Ova aktivnost privlači turiste svih generacija iz cijelog svijeta. Čak i oni koji ne vole adrenalin uživaju u posmatranju hrabrih <span class="highlight-text">**letača**</span>. Okolne platforme su savršena mjesta za pravljenje nevjerovatnih fotografija. Zvuk sajle koja siječe vazduh postao je dio svakodnevice na mostu. To je savršen spoj moderne avanture i divlje, netaknute prirode.
+>Ova aktivnost privlači turiste svih generacija iz cijelog svijeta. Čak i oni koji ne vole adrenalin uživaju u posmatranju hrabrih <span class="highlight-text">**letača**</span>. Okolne platforme su savršena mjesta za pravljenje nevjerovatnih fotografija. Zvuk sajle koja siječe vazduh postao je dio svakodnevice na mostu. To je savršen spoj moderne avanture i divlje, netaknute prirode.
 
 ---
 
@@ -140,7 +140,7 @@ Nakon adrenalinskih podviga, najbolje je uživati u domaćoj hrani. Okolni resto
 
 Ljubazni domaćini će vam rado ispričati lokalne legende i predanja. Gostoprimstvo je ovdje način života, a ne samo turistička usluga. Možete kupiti domaći med, borovnice i razne ljekovite <span class="highlight-text">**trave**</span>. Ovi proizvodi su najbolji suveniri koje možete ponijeti sa ovog putovanja. Osjećaćete se kao dio zajednice čim sjednete za njihov sto.
 
->Završetak dana uz ognjište i domaći čaj je neprocjenjivo iskustvo. Planinske noći su svježe čak i usred najtoplijeg <span class="highlight-text">**ljeta**</span>. Razgovor sa ljudima koji vijekovima žive uz kanjon obogatiće vaše putovanje. Jajce ima svoje vodopade, a Tara svoj most i neustrašive ljude. To je spoj koji Crnu Goru čini jednom od najljepših destinacija na <span class="highlight-text">**Balkanu**</span>.
+Završetak dana uz ognjište i domaći čaj je neprocjenjivo iskustvo. Planinske noći su svježe čak i usred najtoplijeg <span class="highlight-text">**ljeta**</span>. Razgovor sa ljudima koji vijekovima žive uz kanjon obogatiće vaše putovanje. Jajce ima svoje vodopade, a Tara svoj most i neustrašive ljude. To je spoj koji Crnu Goru čini jednom od najljepših destinacija na <span class="highlight-text">**Balkanu**</span>.
 
 <div class="tip-box">
   <h3><strong>Velika popularnost u Kini</strong></h3>
@@ -154,3 +154,35 @@ Ljubazni domaćini će vam rado ispričati lokalne legende i predanja. Gostoprim
 Most na Đurđevića Tari je mjesto gdje se istorija susreće sa vječnom ljepotom <span class="highlight-text">**prirode**</span>. On nije samo tačka prelaza, već destinacija koja nudi odgovore na mnoga pitanja o ljudskoj snazi. Posjeta ovom mjestu ostavlja trajan pečat na duši svakog putnika. To je prostor gdje se strah pretvara u divljenje, a tišina u najljepšu <span class="highlight-text">**muziku**</span>.
 
 Bilo da letite zip-line-om ili samo nijemo posmatrate rijeku, osjetićete moć ovog mjesta. Tara nas uči da je priroda neukrotiva, ali da je ljudski duh sposoban za velika <span class="highlight-text">**djela**</span>. Odlazak sa mosta nikada nije konačan, jer vas njegova magija uvijek zove nazad. To je kameni div koji vječno čuva stražu iznad najdubljeg kanjona <span class="highlight-text">**Evrope**</span>.
+
+{{< faq title="Često postavljana pitanja o mostu na Đurđevića Tari" >}}
+
+  {{< faq-item q="Koliko je zapravo visok most na Đurđevića Tari?" >}}
+Most se uzdiže na nevjerovatnih 172 metra iznad rijeke Tare. U vrijeme kada je završen, neposredno pred Drugi svjetski rat, bio je to najviši drumski most od armiranog betona u čitavoj Evropi, što ga i danas čini inženjerskim čudom.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se most morao srušiti tokom rata?" >}}
+Da bi se spriječio prodor italijanskih tenkova i okupatorske vojske ka unutrašnjosti Crne Gore, partizani su odlučili da onesposobe prelaz. Inženjer Lazar Jauković, koji je učestvovao u gradnji mosta, dobio je zadatak da ga sruši, što je i učinio miniranjem samo jednog, centralnog luka.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je istina da je kanjon Tare najdublji na svijetu?" >}}
+Kanjon rijeke Tare je sa svojom dubinom od 1.300 metara najdublji kanjon u Evropi, dok u svjetskim razmjerama zauzima drugo mjesto, odmah iza čuvenog Velikog kanjona rijeke Kolorado u Sjedinjenim Američkim Državama.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je siguran zip-line iznad kanjona?" >}}
+Zip-line na Tari važi za jedan od najsigurnijih i najbolje opremljenih u regionu. Koriste se vrhunski sigurnosni sistemi i oprema po međunarodnim standardima, a instruktori vrše detaljne provjere prije svakog leta, omogućavajući vam da bez straha uživate u letu iznad ponora.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se preći most pješice i da li se plaća ulaz?" >}}
+Da, most ima pješačke staze sa obje strane i prelazak pješice je potpuno besplatan. To je najbolji način da osjetite visinu i napravite spektakularne fotografije kanjona, ali budite oprezni jer je most i dalje otvoren za drumski saobraćaj.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto je ovaj most toliko popularan među turistima iz Kine?" >}}
+Popularnost duguje kultnom filmu "Most" iz 1969. godine, koji je u Kini stekao legendaran status. Kinezi ovaj most doživljavaju kao simbol otpora i herojstva, a pjesma "Bella Ciao" iz filma je tamo postala jedna od najprepoznatljivijih stranih melodija.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je voda Tare zaista pitka tokom raftinga?" >}}
+Rijeka Tara nosi nadimak "Suza Evrope" upravo zbog svoje nevjerovatne čistoće. Voda je u većem dijelu toka pitka (A1 kategorija), pa se mnogi učesnici raftinga ne ustručavaju da okuse rijeku direktno iz čamca, što je prava rijetkost u modernom svijetu.
+  {{< /faq-item >}}
+
+{{< /faq >}}

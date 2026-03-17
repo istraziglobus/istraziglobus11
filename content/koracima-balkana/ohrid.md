@@ -69,6 +69,16 @@ Na samoj granici sa Albanijom čeka vas Manastir Svetog Nauma, prava duhovna <sp
 
 ---
 
+## Gastronomija: Ukusi jezera i makedonske zemlje
+
+Ohridska kuhinja nudi jedinstven spoj balkanskih, mediteranskih i turskih gastronomskih <span class="highlight-text">**uticaja**</span>. Glavna zvijezda svakog menija je čuvena ohridska pastrmka, pripremljena po tradicionalnoj recepturi. Ukus ove ribe je neponovljiv jer živi u najčistijim vodama koje se mogu zamisliti. Uz ribu se obavezno služi domaće vino iz lokalnih ohridskih <span class="highlight-text">**vinograda**</span>. Svaki obrok ovdje počinje polako, uz mezu i čašicu domaće makedonske rakije.
+
+Tavče gravče je još jedan specijalitet koji se mora probati u nekom od lokalnih <span class="highlight-text">**restorana**</span>. Pasulj pečen u glinenoj posudi sa kobasicama miriše na tradiciju i djetinjstvo. Tu je i čuvena kompir mandža, jelo koje zasićuje i grije dušu tokom hladnijih dana. Pekare na svakom koraku nude svježe mekice sa sirom koje su idealne za brz i ukusan <span class="highlight-text">**doručak**</span>. Makedonsko gostoprimstvo se najbolje osjeti upravo za bogatom trpezom punom boja.
+
+Zanatstvo je u Ohridu podjednako važno kao i dobra hrana i staro <span class="highlight-text">**vino**</span>. Čuveni ohridski biseri su ručno rađeni nakit koji je postao zaštitni znak cijelog grada. Tajna njihove izrade od ribljih ljuski čuva se decenijama unutar samo dvije porodice. Ovi biseri su luksuzan suvenir koji sa sobom nosi djelić jezerske <span class="highlight-text">**magije**</span>. Posjeta radionici bisera je prilika da upoznate ljude koji čuvaju ohridsku tradiciju od zaborava.
+
+---
+
 ## Priroda koja oduzima dah: Jezero i planine
 
 Ohridsko jezero je staro više od tri miliona godina i krije nevjerovatne geološke <span class="highlight-text">**tajne**</span>. Njegova oligotrofna voda je toliko prozirna da možete vidjeti dno na velikim dubinama. Jezero ima specifičan efekat na klimu, čineći ljetne dane svježim i veoma <span class="highlight-text">**prijatnim**</span>. Biodiverzitet ovog područja je jedinstven u cijelom svijetu, sa vrstama koje nigdje drugdje ne postoje. To je pravo prirodno blago koje ponosno nosi zaštitu organizacije UNESCO.
@@ -89,23 +99,13 @@ Jezero noću dobija poseban sjaj pod svjetlima Starog grada i lampiona sa <span 
 
 ---
 
-## Gastronomija: Ukusi jezera i makedonske zemlje
-
-Ohridska kuhinja nudi jedinstven spoj balkanskih, mediteranskih i turskih gastronomskih <span class="highlight-text">**uticaja**</span>. Glavna zvijezda svakog menija je čuvena ohridska pastrmka, pripremljena po tradicionalnoj recepturi. Ukus ove ribe je neponovljiv jer živi u najčistijim vodama koje se mogu zamisliti. Uz ribu se obavezno služi domaće vino iz lokalnih ohridskih <span class="highlight-text">**vinograda**</span>. Svaki obrok ovdje počinje polako, uz mezu i čašicu domaće makedonske rakije.
-
-Tavče gravče je još jedan specijalitet koji se mora probati u nekom od lokalnih <span class="highlight-text">**restorana**</span>. Pasulj pečen u glinenoj posudi sa kobasicama miriše na tradiciju i djetinjstvo. Tu je i čuvena kompir mandža, jelo koje zasićuje i grije dušu tokom hladnijih dana. Pekare na svakom koraku nude svježe mekice sa sirom koje su idealne za brz i ukusan <span class="highlight-text">**doručak**</span>. Makedonsko gostoprimstvo se najbolje osjeti upravo za bogatom trpezom punom boja.
-
-Zanatstvo je u Ohridu podjednako važno kao i dobra hrana i staro <span class="highlight-text">**vino**</span>. Čuveni ohridski biseri su ručno rađeni nakit koji je postao zaštitni znak cijelog grada. Tajna njihove izrade od ribljih ljuski čuva se decenijama unutar samo dvije porodice. Ovi biseri su luksuzan suvenir koji sa sobom nosi djelić jezerske <span class="highlight-text">**magije**</span>. Posjeta radionici bisera je prilika da upoznate ljude koji čuvaju ohridsku tradiciju od zaborava.
-
----
-
 ## Ohridsko ljeto: Festival svjetla i muzike
 
 Tokom jula i avgusta, grad postaje pozornica za jedan od najstarijih festivala na <span class="highlight-text">**Balkanu**</span>. Ohridsko ljeto okuplja vrhunske umjetnike, muzičare i glumce iz svih dijelova svijeta. Glavni program se odvija pod otvorenim nebom u veličanstvenom ambijentu Antičkog <span class="highlight-text">**teatra**</span>. Svjetlost fenjera i miris jezera daju svakoj predstavi mitsku i neponovljivu dimenziju. To je vrijeme kada kultura doslovno preplavi ulice i trgove Starog grada.
 
 Muzika koja se čuje sa zidina stvara atmosferu koja spaja moderno doba sa dalekom <span class="highlight-text">**prošlošću**</span>. Festival je osnovan davne 1961. godine i od tada samo raste u svom prestižu. Posjetioci iz cijele Evrope dolaze kako bi uživali u koncertima klasične muzike i modernim <span class="highlight-text">**performansima**</span>. Svaki kutak Ohrida tada pulsira u ritmu umjetnosti i kreativne energije. To je iskustvo koje svakom putniku ostaje urezano u sjećanje kao najljepši ljetni san.
 
-Pored festivala, noćni život nudi zabavu za sve ukuse u barovima duž obale <span class="highlight-text">**jezera**</span>. Šetalište je puno mladih ljudi koji uživaju u modernoj muzici i ljetnim koktelima. Ipak, tiše uličice Starog grada i dalje nude romantičan mir pod svjetlošću starih <span class="highlight-text">**lampiona**</span>. Ohrid uspješno spaja energiju urbanog života sa spokojem drevne prirode. Svako ovdje može pronaći svoj idealan kutak za uživanje u makedonskoj noći.
+>Pored festivala, noćni život nudi zabavu za sve ukuse u barovima duž obale <span class="highlight-text">**jezera**</span>. Šetalište je puno mladih ljudi koji uživaju u modernoj muzici i ljetnim koktelima. Ipak, tiše uličice Starog grada i dalje nude romantičan mir pod svjetlošću starih <span class="highlight-text">**lampiona**</span>. Ohrid uspješno spaja energiju urbanog života sa spokojem drevne prirode. Svako ovdje može pronaći svoj idealan kutak za uživanje u makedonskoj noći.
 
 ---
 
@@ -153,3 +153,35 @@ Završite dan šetnjom uz jezero dok se prva svjetla pale na okolnim <span class
 Ohrid nije samo tačka na mapi, on je emocionalni doživljaj koji mijenja pogled na <span class="highlight-text">**svijet**</span>. Od zidina Samuilove tvrđave do manastira Svetog Nauma, svaki korak je susret sa vječitošću. Grad vas uči poštovanju prema precima koji su gradili ove predivne hramove znanja i <span class="highlight-text">**vjere**</span>. To je mjesto gdje se priroda pobrinula da čovjek osjeti svu moć njenog stvaralaštva. Svaki povratak na ohridske obale je novo otkrivanje sopstvenog mira.
 
 Ovdje se istorija ne čuva u knjigama, već se živi na ulicama i <span class="highlight-text">**trgovima**</span>. Plavetnilo jezera ostaje urezano u mislima kao simbol čistoće i nesagledive dubine života. Ohrid je grad koji ponosno nosi svoju titulu "Balkanskog Jerusalima" i nesebično nudi svoje <span class="highlight-text">**blago**</span>. Neka ovo putovanje bude vaš povratak istinskim vrijednostima i neprolaznoj ljepoti. Vaša makedonska priča tek počinje pod sjenkom drevnih crkava i mirisom borova uz <span class="highlight-text">**jezero**</span>.
+
+{{< faq title="Često postavljana pitanja o Ohridu" >}}
+
+  {{< faq-item q="Zašto Ohrid nazivaju 'Balkanskim Jerusalimom'?" >}}
+Ovaj nadimak grad je dobio jer je nekada imao čak 365 crkava – po jednu za svaki dan u godini. I danas je Ohrid jedan od najznačajnijih duhovnih centara Balkana, sa neprocjenjivim blagom vizantijske umjetnosti, fresaka i ikona koje se čuvaju u njegovim hramovima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je zapravo staro Ohridsko jezero?" >}}
+Ohridsko jezero je jedno od najstarijih jezera na planeti, čija se starost procjenjuje na preko tri miliona godina. Zbog svoje izolovanosti i starosti, ono je dom za više od 200 endemskih vrsta koje ne postoje nigdje drugdje u svijetu, poput čuvene ohridske pastrmke.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Od čega se zapravo prave čuveni ohridski biseri?" >}}
+Ohridski biseri nisu klasični biseri iz školjki, već se prave ručno od krljušti ribe plašice, koja živi samo u ovom jezeru. Tajni recept za emulziju kojom se premazuju zrna čuva se kao stroga porodična tajna unutar samo dvije ohridske porodice, Talev i Filev.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je najpoznatija crkva u Ohridu za fotografisanje?" >}}
+To je definitivno crkva Svetog Jovana Kanea. Smještena na visokoj litici iznad jezera, njena arhitektura i spektakularan položaj čine je najfotografisanijim motivom u čitavoj Makedoniji, posebno u vrijeme zalaska sunca kada se boje neba spajaju sa jezerom.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je u Ohridu zaista nastala ćirilica?" >}}
+Ohrid je bio ključni centar slovenske pismenosti. Upravo je ovdje Sveti Kliment Ohridski, učenik Ćirila i Metodija, krajem 9. vijeka osnovao Prvi slovenski univerzitet i radio na usavršavanju pisma, čime je grad postao temelj pismenosti za mnoge slovenske narode.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta obavezno treba probati od lokalne hrane?" >}}
+Pored svježe ohridske pastrmke, ne smijete propustiti 'tavče gravče' (pasulj u tiganju), makedonski ajvar i ohridski gjomleze – tradicionalno jelo od tijesta koje se peče satima ispod sača. Sve to najbolje ide uz čašicu domaće rakije ili makedonsko vino.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je najbolja opcija za prevoz do manastira Sveti Naum?" >}}
+Najljepši način za odlazak do Svetog Nauma je brodom koji svakodnevno kreće iz ohridske luke. Vožnja traje oko sat i po i pruža nevjerovatan pogled na obalu, dok je za brži dolazak dostupna vožnja automobilom ili lokalnim autobusom uz obalu jezera.
+  {{< /faq-item >}}
+
+{{< /faq >}}

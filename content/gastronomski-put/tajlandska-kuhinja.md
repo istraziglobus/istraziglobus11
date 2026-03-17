@@ -149,4 +149,34 @@ Bangkok nije grad koji posjetite da biste vidjeli spomenike; to je grad koji pos
 
 Kada napustite Bangkok, ne nosite sa sobom samo suvenire, već i neizbrisivo sjećanje na miris limunske trave i prženog bijelog luka koji se širi kroz vlažni tropski vazduh u sumrak. To je grad koji vas uči da je prava sreća u jednostavnim stvarima – <span class="highlight-text">u savršeno začinjenom obroku pod otvorenim nebom</span>, dok grad oko vas pulsira u svom nezaustavljivom, začinjenom ritmu. Bangkok će vas možda umoriti svojom bukom, ali će vas uvijek nahraniti onim što vam je najpotrebnije: autentičnošću koja se rijetko sreće u današnjem uniformisanom svijetu.
 
+{{< faq title="Često postavljana pitanja o hrani u Bangkoku" >}}
 
+  {{< faq-item q="Da li je sigurno jesti uličnu hranu u Bangkoku?" >}}
+Da, veoma je sigurno ako pratite osnovna pravila. Birajte tezge gdje je velika fluktuacija ljudi (lokalaca) i gdje se hrana priprema u voku na visokoj temperaturi pred vama. Izbjegavajte unaprijed narezano voće koje stoji na suncu i uvijek birajte flaširanu vodu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta znači 'Mai Pet' i zašto mi je to važno?" >}}
+Ako niste ljubitelj ekstremno ljute hrane, zapamtite frazu 'Mai Pet' (nije ljuto). Ipak, imajte na umu da tajlandsko 'malo ljuto' često prevazilazi evropske standarde. Za svaki slučaj, uvijek uz obrok naručite 'Khao Suay' (običan pirinač) koji najbolje gasi 'vatru' u ustima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se nalazi najbolji street food u Bangkoku 2026. godine?" >}}
+Iako su se mnoge lokacije modernizovale, Yaowarat (Kineska četvrt) ostaje neprikosnoveni broj jedan nakon zalaska sunca. Za autentičnije i manje turističko iskustvo, posjetite kvartove Ari ili Bang Rak, gdje lokalni majstori decenijama usavršavaju ista jela.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li moram ostavljati bakšiš u restoranima?" >}}
+U uličnim tezgama i manjim lokalnim restoranima bakšiš se ne očekuje, mada je zaokruživanje računa uvijek lijep gest. U modernim restoranima i hotelima, 'service charge' od 10% je često već uračunat u račun, pa dodatno ostavljanje novca nije neophodno.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako da prepoznam autentični Pad Thai?" >}}
+Autentični Pad Thai treba da ima balans slatkog, kiselog i slanog ukusa. Ne smije biti previše crven (što ukazuje na previše kečapa umesto paste od tamarinda) i obavezno se služi sa svježim klicama pasulja, komadićem limete i tucanom paprikom sa strane da sami začinite po želji.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta su to 'Food Courts' u tržnim centrima i da li ih vrijedi posjetiti?" >}}
+Apsolutno! To su klimatizovani prostori sa desetinama tezgi. Funkcionišu po sistemu kartica na koje uplatite novac. Higijena je na visokom nivou, cijene su slične uličnim, a izbor je nevjerovatan – savršeno za početnike koji se tek upoznaje sa tajlandskom kuhinjom.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je istina da je Durian zabranjen u hotelima i prevozu?" >}}
+Jeste! Iako ga zovu 'kralj voća' zbog bogatog ukusa, njegov miris je toliko prodoran i specifičan da ga je zabranjeno unositi u hotele, metro (MRT) i taksi vozila. Ako želite da ga probate, uradite to na otvorenoj pijaci.
+  {{< /faq-item >}}
+
+{{< /faq >}}

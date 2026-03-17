@@ -261,3 +261,35 @@ Bilo da ste zaljubljenik u umjetnost, gurman ili prosto želite osjetiti čuvenu
     license="Pexels License"
     license_url="https://www.pexels.com/license/" 
 >}}
+
+{{< faq title="Često postavljana pitanja o putovanju u Madrid" >}}
+
+  {{< faq-item q="Da li je Madrid preskup za prosječnog putnika?" >}}
+Madrid je pristupačniji od Londona ili Pariza. Iako cijene hotela rastu, hrana je i dalje veoma povoljna, naročito ako koristite 'Menu del Día' (dnevni meni) koji nudi kompletan ručak od tri slijeda za 12–18 €. Mnogi muzeji i parkovi imaju besplatne termine, što značajno štedi budžet.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kada su muzeji u Madridu besplatni za posjetu?" >}}
+Muzej Prado je besplatan od ponedjeljka do subote (18:00–20:00 h) i nedjeljom (17:00–19:00 h). Muzej Reina Sofía je besplatan većinu večeri nakon 19:00 h. Preporučujemo da dođete bar 45 minuta ranije jer su redovi za besplatne termine obično veoma dugi.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Siesta' i kako utiče na turiste?" >}}
+Iako u Madridu velike prodavnice na Gran Vía rade cijeli dan, manje porodične radnje, zanatlije i apoteke često zatvaraju između 14:00 i 17:00 h. To je idealno vrijeme za ručak ili odmor u parku Retiro, dok se grad ponovo "budi" u kasnim popodnevnim satima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako funkcioniše sistem tapasa – da li su stvarno besplatni?" >}}
+U tradicionalnim madridskim barovima, uz svako naručeno piće (pivo ili vino) često ćete dobiti malu besplatnu porciju hrane (masline, čips ili mali sendvič). Ipak, ako želite konkretniji obrok, naručujete 'Raciones' – veće porcije koje se plaćaju i dijele sa prijateljima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji je najbrži način da se stigne do Toleda?" >}}
+Toledo je savršen za jednodnevni izlet. Najbrži način je brzi voz (AVANT) sa stanice Atocha, koji stiže za samo 33 minuta. Karte je najbolje rezervisati dan-dva unaprijed, jer se vozovi često popune vikendom i praznicima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je Madrid bezbjedan noću?" >}}
+Madrid je jedan od najbezbjednijih gradova Evrope. Ulice su pune ljudi do kasno u noć, a kvartovi poput Malasañe i Chuece su veoma živi i prijatni za šetnju. Ipak, na mjestima kao što su Puerta del Sol i Plaza Mayor, uvijek budite oprezni zbog džeparoša.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se najbolje jede autentična madridska hrana?" >}}
+Za autentično iskustvo posjetite kvart La Latina, posebno ulicu 'Cava Baja' koja je prepuna istorijskih taverni. Ako želite moderniji ambijent, pijaca San Miguel je prelijepa, ali turistički skuplja. Za pravi lokalni osjećaj, potražite pijacu 'Mercado de San Antón' u Chueci.
+  {{< /faq-item >}}
+
+{{< /faq >}}

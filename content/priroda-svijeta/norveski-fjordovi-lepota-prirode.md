@@ -165,3 +165,34 @@ Bilo da klizite po mirnoj površini fjorda ili se penjete na vrtoglave visine, N
 
 Na kraju puta, svaki putnik iz Norveške nosi sa sobom neizbrisiv trag u srcu i sjećanje na kristalno čistu tišinu. Fjordovi ostaju kao trajni spomenik istoriji planete, pozivajući nas da ih <span class="highlight-text">**čuvamo i poštujemo**</span> kao najvrednije nasljeđe. To je čarolija koja ne blijedi, već postaje jača sa svakim novim pogledom na horizont.
 
+{{< faq title="Često postavljana pitanja o norveškim fjordovima" >}}
+
+  {{< faq-item q="Kada je najbolje vrijeme za posjetu norveškim fjordovima?" >}}
+Najbolje vrijeme je od maja do septembra. Jun i jul nude najduže dane (ponoćno sunce), dok je maj specifičan zbog topljenja snijega koji vodopade čini najmoćnijim. Ako želite izbjeći gužve, septembar nudi predivne jesenje boje, mada su dani kraći i hladniji.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li mi je potrebna posebna oprema za planinarenje do Preikestolena ili Trolltunge?" >}}
+Da, kvalitetna planinarska obuća sa dobrim prianjanjem je obavezna jer su staze često klizave i kamenite. Slojevita odjeća je ključna, jer se vrijeme na planini može promijeniti u deset minuta – čak i ljeti ponesite vjetrovku i laganu kapu. Za Trolltungu je potrebna i ozbiljna fizička kondicija (uspon traje 8-12 sati).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko su fjordovi zapravo udaljeni od Osla?" >}}
+Većina poznatih fjordova nalazi se na zapadnoj obali (Fjord Norway regija). Od Osla do Bergena (kapije fjordova) putovanje vozom "Bergen Line" traje oko 7 sati i smatra se jednom od najljepših željezničkih ruta na svijetu. Let avionom traje svega 50 minuta.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li su krstarenja fjordovima skupa?" >}}
+Cijene variraju. Veliki komercijalni kruzeri su skuplji, ali lokalni trajekti (poput onog na relaciji Gudvangen-Flåm) nude slično iskustvo za mnogo manje novca. Norveška je generalno skuplja destinacija, pa planirajte budžet unaprijed, posebno za hranu i piće.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li se vidjeti kitovi u fjordovima?" >}}
+Iako kitovi rjeđe zalaze u južne fjordove poput Geirangera, u sjevernijim djelovima (oko Tromsøa) krstarenja radi posmatranja kitova su veoma popularna, naročito zimi. U fjordovima na zapadu češće ćete vidjeti foke i morske orlove.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Norway in a Nutshell' tura?" >}}
+To je najpopularnija kružna tura koja kombinuje vožnju vozom (uključujući legendarnu Flåm željeznicu), krstarenje fjordom i vožnju autobusom. Idealna je za putnike koji imaju malo vremena, a žele vidjeti esenciju norveških pejzaža u jednom ili dva dana.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je voda u fjordovima slana ili slatka?" >}}
+Voda u fjordovima je slana jer su oni direktno povezani sa morem. Međutim, na površini se često nalazi sloj slatke vode koji dolazi od topljenja glečera i brojnih vodopada, što stvara specifičan ekosistem.
+  {{< /faq-item >}}
+
+{{< /faq >}}
