@@ -1628,6 +1628,13 @@ blockquote p {
   color: #fbf9f9;
 }
 
+.currency-note {
+  font-size: 8px;
+  color: #fffdfd;
+  margin-top: 3px;
+  font-style: italic;
+}
+
 @media (max-width: 768px) {
     /* Smanjite padding kontejnera */
     .whats-now {

@@ -167,3 +167,35 @@ La Bombonera je živi spomenik strasti koji se ne može uporediti ni sa jednim d
 Ako se ikada nađete u glavnom gradu Argentine, ne propustite priliku da osjetite puls ovog hrama fudbala. Čak i ako niste zaljubljenik u sport, energija kojom zrači ovaj beton natjeraće vas da osjetite duboko poštovanje prema snazi kolektivne emocije. To je doživljaj koji će vas ostaviti bez daha i promijeniti vaš pogled na moć sporta.
 
 La Bombonera ne samo da kuca, ona inspiriše i podsjeća nas da su najvrijednije stvari one koje se ne mogu kupiti – pripadnost, ponos i ljubav prema bojama koje predstavljaju dom. To je hram u kojem se molitve upućuju lopti, a čuda se dešavaju svake nedjelje. <span class="highlight-text">**Neka kuca vječno!**</span>
+
+{{< faq title="Često postavljana pitanja o posjeti stadionu La Bombonera" >}}
+
+  {{< faq-item q="Da li je bezbjedno posjetiti kvart La Boca kao turista?" >}}
+Glavna turistička ulica Caminito i zona neposredno oko stadiona su veoma bezbjedni tokom dana zbog velikog prisustva policije. Ipak, preporučuje se da ne zalazite dublje u sporedne ulice kvarta La Boca nakon zalaska sunca i da se držite utabanih turističkih ruta.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako najlakše kupiti kartu za utakmicu Boca Juniorsa?" >}}
+Ovo je najveći izazov. Boca ima više članova (socios) nego sjedišta na stadionu, pa se karte rijetko puštaju u slobodnu prodaju. Najsigurnija opcija za turiste je kupovina "Hospitality" paketa preko provjerenih agencija ili hotela, koji uključuju prevoz i pratnju vodiča.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Radi li muzej Boce svakog dana?" >}}
+Museo de la Pasión Boquense obično radi svakog dana od 10:00 do 18:00 h. Međutim, na dane utakmica radno vrijeme je značajno izmijenjeno ili je muzej potpuno zatvoren za javnost, pa obavezno provjerite zvanični kalendar prije polaska.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se ući na sam teren tokom ture?" >}}
+Standardna tura vam omogućava prolazak kroz tunel i izlazak do same ivice terena, ali ulazak na travnjak je strogo zabranjen kako bi se očuvala podloga za utakmice. Ipak, osjećaj strmih tribina iz te perspektive je nezaboravan.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje su boje dresova Boce i zašto?" >}}
+Legenda kaže da osnivači nisu mogli da se dogovore oko boja, pa su odlučili da usvoje boje zastave prvog broda koji uplovi u luku La Boca. To je bio švedski brod, pa su plava i zlatna postale vječni simboli kluba.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se nalazi najbolji pogled na stadion za fotografisanje?" >}}
+Najbolji "ulični" kadrovi stadiona mogu se napraviti sa uglova ulica Del Valle Iberlucea i Brandsen. Za ptičju perspektivu, neki od okolnih kafića sa krovnim terasama nude nevjerovatan pogled na "isječenu" stranu stadiona.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko traje obilazak muzeja i stadiona?" >}}
+Za kvalitetan obilazak muzeja i kompletnu turu stadiona (Stadium Tour) odvojite barem 2 sata. Ako ste strastveni navijač, vjerovatno ćete željeti da provedete dodatno vrijeme u suvenirnici koja je jedna od najvećih u Južnoj Americi.
+  {{< /faq-item >}}
+
+{{< /faq >}}

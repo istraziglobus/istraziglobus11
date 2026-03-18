@@ -30,23 +30,23 @@ const cityNameElement = document.getElementById("city-name");
 
   const exchangeRates = {
     "EUR": 1, 
-    "USD": 1.08,  
-    "GBP": 0.85, 
-    "AUD": 1.66, 
-    "JPY": 178.00, 
-    "RSD": 117.20, 
-    "RUB": 96.30, 
-    "CNY": 7.78,  
-    "AED": 4.12, 
-    "TRY": 51.40,  
-    "ARS": 1620.0, 
-    "HKD": 8.42,  
-    "ISK": 149.0, 
-    "CUP": 26.20, 
-    "MYR": 4.95, 
-    "EGP": 58.40, 
-    "SGD": 1.45, 
-    "BRL": 6.10   
+    "USD": 1.09,  
+    "GBP": 0.86, 
+    "AUD": 1.64, 
+    "JPY": 176.50, 
+    "RSD": 117.15, 
+    "RUB": 98.50, 
+    "CNY": 7.82,  
+    "AED": 4.00, 
+    "TRY": 35.20,  
+    "ARS": 1080.0, 
+    "HKD": 8.53,  
+    "ISK": 151.0, 
+    "CUP": 24.00, 
+    "MYR": 5.12, 
+    "EGP": 53.00, 
+    "SGD": 1.47, 
+    "BRL": 5.45
 };
 
   const weatherAPIKey = "006710101db1b5a700d24c46ac3f67bb";
@@ -179,14 +179,19 @@ const currencyElement = document.getElementById("currency");
 
 // KORISTIMO innerHTML za prikaz emotikona i teksta
 if (city.currency === "EUR") {
-    // Ako je EUR, prikaži samo lokalnu valutu sa ikonom
-    currencyElement.innerHTML = `${currencyIcon} Lokalna valuta: EUR`;
+    currencyElement.innerHTML = `
+        ${currencyIcon} Lokalna valuta: EUR
+        <div class="currency-note">*Vrijednosti su informativne i podložne promjenama.</div>
+    `;
 } else if (exchangeRates[city.currency]) {
-    // Za ostale valute, prikaži kurs sa ikonom
-    currencyElement.innerHTML = `${currencyIcon} 1 EUR = ${exchangeRates[city.currency].toFixed(2)} ${city.currency}`;
+    currencyElement.innerHTML = `
+        ${currencyIcon} 1 EUR = ${exchangeRates[city.currency].toFixed(2)} ${city.currency}
+        <div class="currency-note">*Vrijednosti su informativne i podložne promjenama.</div>
+    `;
 } else {
-    // Ako nema podataka
-    currencyElement.innerHTML = `${currencyIcon} Nema podataka o valuti`;
+    currencyElement.innerHTML = `
+        ${currencyIcon} Nema podataka o valuti
+    `;
 }
 
      // 2. KVALITET VAZDUHA (SADA SA BOJOM - KORISTI innerHTML)

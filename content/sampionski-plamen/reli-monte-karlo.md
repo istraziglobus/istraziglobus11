@@ -129,7 +129,7 @@ Ovi putevi su nepredvidivi ne samo zbog leda, već i zbog šljunka i kamenja koj
 Arhitektura prevoja Col de Turini i okolnih vrhova stvara specifičan mikro-klimat koji zadržava vlagu i hladnoću u sjenovitim dijelovima čak i tokom sunčanih dana. To stvara "crni led", nevidljivog neprijatelja koji se formira tamo gdje asfalt izgleda savršeno suvo. Razumijevanje ove <span class="highlight-text">**geološke arhitekture**</span> je ono što reli čini naukom, a vozače inženjerima brzine koji moraju predvidjeti gdje će se priroda suprotstaviti njihovoj putanji.
 
 <div class="info-box-container">
-  <h3> Evolucija Monte Karlo relija: Prekretnice</h3>
+  <h3> Evolucija Monte Karlo relija: Ključni momenti</h3>
   <ul>
     <li><strong>1911 </strong> Prva trka organizovana radi promocije turizma u Monaku tokom zime.</li>
     <li><strong>1960-te </strong> Mali britanski automobili šokiraju svijet pobjeđujući mnogo snažnije rivale zahvaljujući okretnosti na ledu.</li>
@@ -161,3 +161,35 @@ Na reliju Monte Karlo 1966. godine dogodio se jedan od najvećih skandala u isto
 Reli Monte Karlo nije samo puka trka protiv štoperice, već kompleksna arhitektura ljudske ambicije koja se decenijama opire zakonima prirode i logike. On predstavlja vrhunski spoj sirove moći inženjeringa i krhkosti ljudske procjene, gdje se sudbina pobjednika rješava u mračnim, <span class="highlight-text">**zaleđenim tunelima Alpa**</span>, daleko od svjetala kazina. U tom prostoru, moć se ne ogleda u luksuzu koji okružuje kneževinu, već u sposobnosti čovjeka da ostane nepokolebljiv dok pod njegovim točkovima nestaje tlo, pretvarajući strah u hirurški preciznu putanju ka vrhu.
 
 Na kraju, duh ove trke ostaje upisan u svaki oštri zavoj prevoja <span class="highlight-text">**Col de Turini**</span> kao vječni podsjetnik na trijumf volje nad haosom elemenata. Monte Karlo nas uči da je istinski suverenitet onaj koji postižemo nad samim sobom u trenucima najveće neizvjesnosti, spajajući nespojivo – hladni led planine i vrelu ambiciju asfalta. Dok god motori grme kroz planinsku tišinu, ovaj reli će ostati živi portret moći, dokazujući da se najsvjetlije priče o ljudskom progresu često pišu na najmračnijim i najopasnijim putevima svijeta.
+
+{{< faq title="Često postavljana pitanja o Reli Monte Karlo spektaklu" >}}
+
+  {{< faq-item q="Zašto se Reli Monte Karlo smatra najtežim na svijetu?" >}}
+Glavni razlog je nepredvidivost podloge. U jednom "brzincu" vozači mogu proći kroz suvi asfalt, mokre dionice, dubok snijeg i najopasniji "crni led". Izbor guma je ovdje čista lutrija koja često odlučuje pobjednika više nego sama brzina.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kada se tradicionalno održava ovaj reli?" >}}
+Reli Monte Karlo je tradicionalno uvodna trka WRC šampionata i održava se u drugoj polovini januara. Cilj ovog termina je upravo da se osiguraju najteži mogući zimski uslovi u francuskim Alpima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Noć dugih noževa' na Col de Turini-ju?" >}}
+To je naziv za legendarne noćne vožnje preko planinskog prevoja Col de Turini. Naziv potiče od farova reli automobila koji u potpunom mraku "sijeku" planinu, ali i od ekstremne napetosti gdje jedna greška znači kraj trke.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li turisti posmatrati trku besplatno?" >}}
+Da, posmatranje relija na samim dionicama u planinama je uglavnom besplatno, ali zahtijeva ozbiljnu pripremu. Navijači često kampuju satima (pa i danima) unaprijed na snijegu kako bi zauzeli najbolje pozicije na legendarnim krivinama.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se nalazi servisni park tokom relija?" >}}
+Servisni park se često seli, ali je poslednjih godina baza uglavnom u gradu Gap u francuskim Alpima, dok se ceremonijalni start i finiš uvijek održavaju na glamuroznom trgu ispred kazina u Monte Karlu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Ko su najuspješniji vozači u istoriji ovog relija?" >}}
+Francuzi apsolutno dominiraju ovim terenom. Sébastien Ogier i Sébastien Loeb drže rekorde po broju pobjeda, koristeći svoje poznavanje alpskih puteva i nevjerovatnu sposobnost adaptacije na promjenjive uslove.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta su to 'Ice Note Crews' ili špijuni za led?" >}}
+To su specijalni timovi koji prolaze stazom neposredno prije takmičara. Njihov zadatak je da jave vozaču tačne mikrolokacije gdje se stvorio novi led ili gdje je vjetar nanio snijeg, jer se uslovi mijenjaju iz minuta u minut.
+  {{< /faq-item >}}
+
+{{< /faq >}}

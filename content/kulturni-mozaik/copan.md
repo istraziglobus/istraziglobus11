@@ -161,3 +161,34 @@ Copán je grad koji ne traži pažnju glasnim povicima niti ogromnim, hladnim pi
 
 Duh Maja ovdje nije ispario u magli vremena, on je i dalje sveprisutan u kriku makao papagaja, u mirisu planinske kafe i u svakom pažljivo urezanom hijeroglifu koji odolijeva tropskim kišama. Odlazak iz Copána nikada nije potpun, jer dio te tišine i drevnog mira putnik nosi sa sobom kao podsjetnik na nevjerovatnu veličinu ljudske ambicije i kreativnosti koja se spojila sa prirodom. Na ovom svetom tlu Hondurasa, <span class="highlight-text">kamena istorija postaje dio ličnog iskustva</span>, trajno urezana u sjećanje svakog putnika namjernika koji je ikada zakoračio među ove spomenike, shvatajući da su Maje, iako fizički odsutne, ostavile poruku koja je jasnija i snažnija nego ikada prije.
 
+{{< faq title="Često postavljana pitanja o posjeti drevnom gradu Kopán" >}}
+
+  {{< faq-item q="Koliko je bezbjedno putovati u ovaj dio Hondurasa?" >}}
+Gradić Copán Ruinas i samo arheološko nalazište važe za jedne od najbezbjednijih zona u Hondurasu. Lokalna zajednica je decenijama usmjerena na turizam, a atmosfera je znatno opuštenija i mirnija u odnosu na velike industrijske gradove poput San Pedro Sule.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko vremena je potrebno za detaljan obilazak lokaliteta?" >}}
+Za sam arheološki park, uključujući muzeje i tunele, preporučuje se minimalno 4 do 5 sati. Idealno je posvetiti cijeli jedan dan kako biste bez žurbe istražili i staze kroz džunglu koje okružuju hramove.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li se ulaz u tunele dodatno naplaćuje?" >}}
+Da, ulaznica za tunele (Rosalila i Los Jaguares) obično je odvojena od osnovne ulaznice za arheološki park. Broj posjetilaca u tunelima je ograničen radi očuvanja vlažnosti i temperature, pa je preporučljivo rezervisati termin odmah po dolasku na ulaz.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje je najbolje vrijeme godine za posjetu Kopánu?" >}}
+Najbolji period je sušna sezona, od novembra do maja. Tada je vlažnost vazduha podnošljiva, a putevi do lokaliteta su u najboljem stanju. Ipak, posjeta u kišnoj sezoni (jun-oktobar) nudi poseban doživljaj jer džungla tada dobija nevjerovatno jarku zelenu boju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se do Kopána doći iz Gvatemale?" >}}
+Vrlo lako. Nalazište se nalazi na svega 12 kilometara od granice sa Gvatemalom (prelaz El Florido). Mnogi putnici posjećuju Kopán kao jednodnevni ili dvodnevni izlet iz gvatemalskih gradova poput Antigve ili Rio Dulcea.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta treba obavezno ponijeti sa sobom na lokalitet?" >}}
+Zbog tropske klime, obavezni su zaštita od sunca, šešir i dosta vode. Takođe, sredstvo protiv komaraca je neophodno, naročito ako planirate šetnju kroz sjenovite dijelove džungle i oko stela.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je dozvoljeno fotografisanje unutar muzeja?" >}}
+U Muzeju majanske skulpture fotografisanje je dozvoljeno, ali bez upotrebe blica, kako bi se zaštitili pigmenti na originalnim artefaktima. Unutar tunela je fotografisanje često ograničeno ili strogo zabranjeno radi zaštite struktura.
+  {{< /faq-item >}}
+
+{{< /faq >}}

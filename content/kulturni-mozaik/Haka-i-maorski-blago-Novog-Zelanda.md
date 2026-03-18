@@ -158,4 +158,34 @@ Posjeta Novom Zelandu definitivno nije samo vizuelna avantura kroz filmske pejza
 
 Poštovanje prema zemlji i zajednici ovdje nije samo fraza, već duboko usađena filozofija koja oblikuje identitet svakog Maora kojeg sretnete. Razumjeti Novi Zeland znači zastati, slušati jezik i dozvoliti da vam se snaga <span class="highlight-text">tradicije</span> ulije u kosti, stvarajući osjećaj povezanosti sa planetom koji se rijetko gdje drugdje može naći.
 
+{{< faq title="Često postavljana pitanja o maorskoj kulturi i Haki" >}}
 
+  {{< faq-item q="Da li turisti smiju da izvode Haku?" >}}
+Da, ali uz veliko poštovanje. Mnogi kulturni centri na Novom Zelandu (naročito u Rotorui) organizuju radionice gdje Maori podučavaju turiste pokretima i značenju Hake. Ključno je razumjeti da to nije samo zabava, već sveti ritual.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta znači kada Maori isplaze jezik tokom plesa?" >}}
+Taj gest se zove 'pūkana'. Za muškarce, isplažen jezik simbolizuje prkos i snagu, dok širom otvorene oči pokazuju budnost i unutrašnju energiju (Mana). To je način komunikacije koji prevazilazi riječi.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje je najbolje doživjeti autentičnu maorsku kulturu?" >}}
+Rotorua se smatra kulturnim srcem Novog Zelanda. Tamo možete posjetiti sela poput Te Puia ili Mitai, gdje možete vidjeti gejzire, učestvovati u Hāngi gozbi i posmatrati vrhunske izvođače Hake u njihovom prirodnom okruženju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je 'Kia Ora' jedini pozdrav koji treba da znam?" >}}
+Iako je 'Kia Ora' najpoznatiji, korisno je znati i 'Aotearoa' (maorski naziv za Novi Zeland - 'Zemlja dugog bijelog oblaka') i 'Haere mai' (Dobrodošli). Korišćenje ovih fraza pokazuje duboko poštovanje prema lokalnom stanovništvu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je Hongi i kako se pravilno izvodi?" >}}
+Hongi je tradicionalni pozdrav dodirom nosa i čela. On simbolizuje razmjenu 'daha života' (te ha). Ako vas neko pozove na hongi, to znači da više niste stranac (manuhiri), već ste postali dio zajednice (tangata whenua).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je maorski jezik zastupljen u svakodnevnom životu?" >}}
+Veoma. Iako većina stanovništva govori engleski, maorski (Te Reo Māori) je službeni jezik. Čućete ga u vijestima, vidjeti na dvojezičnim tablama, a mnogi nazivi gradova i rijeka su isključivo maorskog porijeklu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li dobiti pravu maorsku tetovažu kao turista?" >}}
+Mnogi umjetnici rade tetovaže inspirisane maorskim motivima (Kirituhi), koje su namijenjene onima koji nisu maorskog porijekla. Tradicionalni 'Moko' je rezervisan isključivo za Maore jer on predstavlja njihovu ličnu i porodičnu genealogiju.
+  {{< /faq-item >}}
+
+{{< /faq >}}

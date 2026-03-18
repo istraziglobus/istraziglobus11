@@ -1,25 +1,28 @@
 <div class="faq-box">
     <h3>{{ .Get "title" | default "Često postavljana pitanja" }}</h3>
-    {{ .Inner }}
+    {{ .Inner }} {{/* Prvo izvršavamo unutrašnje elemente da napunimo listu */}}
 </div>
 
+{{ if .Scratch.Get "faq_items" }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {{- $questions := .Scratch.Get "faq_items" -}}
-    {{- range $index, $element := $questions -}}
+    {{- $all_items := .Scratch.Get "faq_items" -}}
+    {{- $limit_items := first 5 $all_items -}}
+    {{- range $index, $element := $limit_items -}}
     {{- if $index }},{{ end -}}
     {
       "@type": "Question",
-      "name": "{{ $element.question }}",
+      "name": {{ $element.question | jsonify }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ $element.answer | plainify }}"
+        "text": {{ $element.answer | plainify | jsonify }}
       }
     }
     {{- end -}}
   ]
 }
 </script>
+{{ end }}

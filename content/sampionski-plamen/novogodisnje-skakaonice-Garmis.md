@@ -128,21 +128,15 @@ Medijska pažnja u Garmischu znatno je veća nego na ostalim skakaonicama turnej
 
 Garmisch zbog toga ima disproporcionalan uticaj na percepciju cijele turneje. Iako ne odlučuje uvijek pobjednika, <span class="highlight-text">**često određuje ton ostatka takmičenja**</span>. Skakači su svjesni da se ovdje formira javna slika njihove sezone. Mediji Garmisch tretiraju kao centralnu scenu. U tom smislu, ova skakaonica ima veću simboličku nego bodovnu težinu. To je čini jedinstvenom. <span class="highlight-text">Slike skakača u letu sa Alpima u pozadini postaju posteri koji krase sportske časopise</span> tokom cijele godine. Garmisch je brend sam po sebi, brend koji obećava uzbuđenje, tradiciju i vrhunsku atletsku vještinu. Čak i za one koji ne prate skokove redovno, 1. januar u Garmischu je nezaobilazan dio praznične atmosfere. Zbog toga je simbolički kapital pobjede ovdje gotovo neizmjeran, nadilazeći čistu sportsku statistiku.
 
-
 <div class="info-box-container">
-<h3>Ključni datumi i imena</h3>
- <ul>
-  <li>1936 – Izgrađena skakaonica za Zimske olimpijske igre; početak ere modernog Garmischa.</li>
-  <li>1953 – Garmisch postaje stalna i nezaobilazna stanica Novogodišnje turneje.</li>
-  <li>2007 – Otvorena nova Große Olympiaschanze, inženjersko čudo od 14 miliona eura.</li>
-  <li>K-tačka – 125 metara; standard koji razdvaja dobre od vrhunskih skokova.</li>
-  <li>Rekord skakaonice – 143,5 m (Bjørn Einar Romøren); let koji je prkosio zakonima fizike.</li>
-  <li>Jens Weißflog – "Buha iz Erzgebirgea" koji je decenijama dominirao tehničkom preciznošću.</li>
-  <li>Jan Boklöv – Čovjek koji je upravo ovdje šokirao svijet uvođenjem V-stila.</li>
-  <li>Sven Hannawald – 2002. godine, ovdje je napravio ključni korak ka "Grand Slam" tituli.</li>
-  <li>Kamil Stoch – Majstor elegancije čiji su skokovi u Garmischu postali udžbenički primjer stila.</li>
-  <li>Ryoyu Kobayashi – Savremeni fenomen koji je pokazao kako se vlada pritiskom modernog doba.</li>
- </ul>
+    <h3><strong>Garmisch-Partenkirchen: Ključne godine</strong></h3>
+    <ul>
+        <li><strong>1936:</strong> Izgrađena originalna skakaonica za potrebe IV Zimskih olimpijskih igara.</li>
+        <li><strong>1953:</strong> Održano prvo takmičenje u okviru premijerne Novogodišnje turneje Četiri skakaonice.</li>
+        <li><strong>2002:</strong> Sven Hannawald pobjeđuje u Garmischu na putu ka istorijskom "Grand Slam-u" (sve 4 pobjede).</li>
+        <li><strong>2007:</strong> Stara skakaonica je srušena, a na njenom mjestu otvorena današnja futuristička konstrukcija.</li>
+        <li><strong>143,5 m:</strong> Rekordna daljina koju je postavio Norvežanin Bjørn Einar Romøren na novoj skakaonici.</li>
+    </ul>
 </div>
 
 ---
@@ -169,7 +163,37 @@ Ona ostaje nemilosrdan, ali pravedan sudija koji svakog prvog januara podsjeća 
 
 Garmisch je, u konačnici, praznik <span class="highlight-text">**ljudske odvažnosti**</span> koji svakog prvog januara podsjeća svijet na ljepotu leta. Bez obzira na tehnologiju i promjene u bodovanju, suština ostaje ista – čovjek naspram planine, vjetra i sopstvenog straha. Dok se zavjesa spušta nad Gudibergom, ostaje obećanje nove borbe, novih letača i vječne magije koja nema kraj, već samo sljedeće poglavlje.
 
+{{< faq title="Često postavljana pitanja o skakaonici u Garmisch-Partenkirchenu" >}}
 
+  {{< faq-item q="Kada se tačno održava takmičenje u Garmischu?" >}}
+Tradicionalno, kvalifikacije se održavaju 31. decembra, dok je glavno takmičenje na programu 1. januara. To je najgledaniji sportski događaj prvog dana nove godine, sa početkom obično oko 14:00 h.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko koštaju ulaznice za Novogodišnju turneju?" >}}
+Cijene variraju, ali se kreću od 20-30 eura za kvalifikacije do 50-150 eura za glavno takmičenje, zavisno od pozicije na tribinama. Karte se često rasprodaju mjesecima unaprijed, pa se preporučuje kupovina online već u septembru.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'K-tačka' (K-point) na skakaonici?" >}}
+To je 'kritična tačka' (Konstruktionspunkt) koja na skakaonici u Garmischu iznosi 125 metara. Ona služi kao baza za bodovanje – skakači dobijaju dodatne poene ako prelete ovu granicu, dok im se poeni oduzimaju ako slete ranije.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se skakaonica posjetiti van sezone takmičenja?" >}}
+Da, Große Olympiaschanze je otvorena za turiste tokom cijele godine. Postoje organizovane ture koje vas vode na sam vrh tornja, odakle se pruža nevjerovatan pogled na Alpe i grad, a dostupan je i kosi lift za posjetioce.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se turneja zove 'Četiri skakaonice'?" >}}
+Turneja povezuje četiri specifične lokacije u Njemačkoj i Austriji: Oberstdorf, Garmisch-Partenkirchen, Innsbruck i Bischofshofen. Pobjednik je onaj ko sakupi najviše bodova iz ukupno osam serija skokova na ove četiri stanice.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je razlika između 'skijaških skokova' i 'skijaških letova'?" >}}
+Razlika je u veličini skakaonice. Garmisch je velika skakaonica (Large Hill), dok se letovi održavaju na još većim, mamutskim skakaonicama (poput Planice ili Vikersunda), gdje se postižu daljine preko 250 metara.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako vjetar utiče na bodovanje?" >}}
+Moderni sistem uključuje 'wind compensation' faktor. Ako skakač ima jak vjetar u leđa (koji ga pritiska na dole), dobija bonus poene. Ako ima vjetar u prsa (koji mu pomaže da lebdi), poeni mu se oduzimaju kako bi takmičenje bilo što pravednije.
+  {{< /faq-item >}}
+
+{{< /faq >}}
 
 
 

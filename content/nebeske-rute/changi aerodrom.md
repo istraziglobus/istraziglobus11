@@ -167,3 +167,34 @@ U svijetu gdje su aerodromi često sinonim za stres, redove i umor, Changi stoji
 
 U Singapuru, gdje se granice ljudskih mogućnosti pomjeraju s hirurškom preciznošću i vizijom, Changi je postao manifest <span class="highlight-text">**savremenog**</span> svijeta koji težimo da izgradimo. Čist, savršeno povezan, duboko human i uvijek korak ispred svog vremena, on ostaje neprevaziđena kapija ka svim čudima naše planete. Odlazak sa Changija nikada nije sretan, jer onaj osjećaj harmonije koji tamo doživite ostaje sa vama kao najljepša uspomena na putovanje.
 
+{{< faq title="Često postavljana pitanja o boravku na aerodromu Changi" >}}
+
+  {{< faq-item q="Da li mi je potrebna viza da bih posjetio Jewel Changi?" >}}
+Da, Jewel se nalazi u javnoj zoni (prije pasoške kontrole). To znači da morate proći imigracionu kontrolu da biste ga posjetili. Građani Crne Gore i većine zemalja regiona mogu ući u Singapur bez vize u turističke svrhe, ali obavezno provjerite trenutne propise prije puta.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko vremena mi je potrebno da obiđem vodopad Rain Vortex?" >}}
+Sam vodopad možete vidjeti brzo, ali za potpuni doživljaj Jewel kompleksa (šetnja kroz Shiseido Forest Valley i Canopy Park) odvojite barem 2 do 3 sata. Ako želite gledati svjetlosni šou, on se obično održava svakog sata nakon 19:30 h.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se tačno nalazi besplatni bioskop?" >}}
+Postoje dvije besplatne bioskopske sale koje rade 24/7. Jedna se nalazi na Terminalu 2 (Level 3, Departure Transit Hall), a druga na Terminalu 3 (Level 3, Departure Transit Hall North). Idealno su mjesto za odmor tokom dugih noćnih presjedanja.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li koristiti bazen ako nisam gost aerodromskog hotela?" >}}
+Da! Bazen na krovu Terminala 1 (Aerotel Airport Transit Hotel) dostupan je svim putnicima uz plaćanje dnevne naknade (oko 20-25 SGD). Cijena uključuje korištenje bazena, đakuzija, tuševa i jedan besplatan napitak.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako funkcioniše besplatna tura gradom (Free Singapore Tour)?" >}}
+Ako imate presjedanje između 5,5 i 24 sata, možete se prijaviti za besplatnu dvočasovnu turu autobusom. Prijave se vrše na posebnim štandovima u tranzitnoj zoni (ne izlazite kroz pasošku kontrolu sami!). Postoje tri rute: City Sights, Heritage i Changi Precinct.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako se najbrže prebaciti između terminala?" >}}
+Terminali 1, 2 i 3 su povezani besplatnim Skytrain vozom koji saobraća svaka dva minuta. Terminal 4 je malo udaljeniji i do njega vozi besplatan šatl autobus koji polazi sa Terminala 2. Vožnja traje oko 10 minuta.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje mogu naći čuveni vrt sa leptirima?" >}}
+Butterfly Garden se nalazi na Terminalu 3 (Departure Transit Hall, nivoi 2 i 3). Ulaz je besplatan za sve putnike u tranzitu, a najbolje ga je posjetiti tokom dana kada su leptiri najaktivniji zbog prirodne svjetlosti.
+  {{< /faq-item >}}
+
+{{< /faq >}}

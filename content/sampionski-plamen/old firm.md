@@ -172,3 +172,35 @@ Old Firm nije samo borba za prevlast u Glazgovu – to je priča o vjeri, istori
 Na kraju dana, kada se svjetla stadiona ugase i navijači raziđu, ostaje spoznaja da su Celtic i Rangers dva lica iste medalje. Oni su definisali jedno drugo kroz vjekove borbe, stvarajući legendu koja prevazilazi granice sporta. Njihova <span class="highlight-text">**vječna saga**</span> je dokaz moći kolektivnog identiteta.
 
 Zato, bez obzira na to za koga navijate, Old Firm zaslužuje duboko poštovanje. On je podsjetnik na to zašto volimo fudbal – zbog strasti koja nas spaja i dijeli, ali koja nas uvijek čini živima. Glazgov će i sutra disati u dvije boje, nastavljajući priču koja <span class="highlight-text">**nema kraj, već samo sljedeće poglavlje**</span>.
+
+{{< faq title="Često postavljana pitanja o Old Firm derbiju" >}}
+
+  {{< faq-item q="Zašto se derbi Celtica i Rangersa naziva 'Old Firm'?" >}}
+Termin potiče s početka 20. vijeka (oko 1904. godine). Ironično je nastao kao komentar na to koliko oba kluba finansijski profitiraju od svog rivalstva, sugerišući da su oni kao "stara, dobra firma" koja zajednički dominira škotskim tržištem fudbala.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je bezbjedno za turiste da prisustvuju derbiju u Glazgovu?" >}}
+ Da, ali uz oprez. Bezbjednosne mjere na stadionima su rigorozne. Turistima se savjetuje da ne nose navijačka obilježja u dijelovima grada koji pripadaju suprotnom taboru i da izbjegavaju političke ili religijske rasprave u pabovima neposredno prije i nakon meča.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji stadion ima bolju atmosferu: Celtic Park ili Ibrox?" >}}
+To je subjektivno. Celtic Park je veći i poznat po horskom pjevanju (naročito 'You'll Never Walk Alone'), dok je Ibrox arhitektonski kompaktniji, što stvara intenzivniji akustični pritisak i osjećaj da su navijači "iznad" samog terena.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako doći do ulaznica za Old Firm?" >}}
+To je gotovo nemoguća misija za obične turiste. Ulaznice su rezervisane za vlasnike sezonskih karata (season ticket holders). Najbolja šansa je kupovina skupih "hospitality" paketa preko zvaničnih sajtova klubova ili praćenje utakmice u nekom od kultnih fudbalskih pabova u centru Glazgova.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Postoji li zaista zabrana transfera igrača između ova dva kluba?" >}}
+Ne postoji zvanična zabrana, ali je to "napisano pravilo" koje se rijetko krši. Prelazak direktno iz jednog kluba u drugi smatra se najvećom mogućom izdajom. Rijetki igrači, poput Mo Johnstona 1989. godine, doživjeli su ogromne neprijatnosti nakon takvog poteza.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta simbolizuju boje klubova?" >}}
+Zelena i bijela boja Celtica simbolizuju irsko nasljeđe i katoličku zajednicu. Plava, bijela i crvena boja Rangersa (Union Jack boje) simbolizuju britanski identitet, lojalnost kruni i protestantsku tradiciju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se posjetiti stadion kada nema utakmice?" >}}
+Oba kluba nude odlične stadionske ture koje uključuju posjetu trofejnim salama, svlačionicama i tunelima. To je zapravo najbolji način za turiste da osjete istoriju Old Firma bez tenzije koju nosi sam dan utakmice.
+  {{< /faq-item >}}
+
+{{< /faq >}}

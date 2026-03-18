@@ -122,16 +122,14 @@ Putnik koji danas slijeće u Ulan Bator ulazi u Mongoliju kroz prostor koji pods
 Istovremeno, avio-dostupnost nosi i ambivalentne posljedice. Brži dolazak znači i potencijalnu komercijalizaciju prostora koji je dugo funkcionisao izvan masovnog turizma. Aerodrom otvara Mongoliju svijetu, ali i <span class="highlight-text">**svijet Mongoliji**</span> – sa svim ekonomskim, kulturnim i ekološkim implikacijama koje to nosi.
 
 <div class="info-box-container">
-  <h3>Osnovne informacije o aerodromu Ulan Batora</h3>
-  <ul>
-    <li><strong>Zvanični naziv:</strong> Chinggis Khaan International Airport</li>
-    <li><strong>Lokacija:</strong> oko 50 km južno od Ulan Batora</li>
-    <li><strong>Otvoren:</strong> 2021. godine (novi međunarodni aerodrom)</li>
-    <li><strong>Uloga:</strong> glavna vazdušna kapija Mongolije</li>
-    <li><strong>Povezuje:</strong> Istočnu Aziju, Rusiju i centralnu Aziju</li>
-    <li><strong>Specifičnost:</strong> jedan od aerodroma sa **najhladnijim zimskim uslovima** operacija na svijetu</li>
-    <li><strong>Simbolika:</strong> ključni infrastrukturni projekat za otvaranje Mongolije prema svijetu</li>
-  </ul>
+    <h3><strong>Chinggis Khaan Airport: Ključne činjenice</strong></h3>
+    <ul>
+        <li><strong>2021:</strong> Godina kada je aerodrom zvanično otvoren, zamijenivši stari Buyant-Ukhaa aerodrom.</li>
+        <li><strong>50 km:</strong> Udaljenost od centra Ulan Batora, smješten u prostranoj dolini Khushig radi veće bezbjednosti.</li>
+        <li><strong>3 miliona:</strong> Projektovani godišnji kapacitet putnika, sa modernim terminalom od 30.000 m².</li>
+        <li><strong>-40°C:</strong> Ekstremni zimski uslovi u kojima aerodrom operiše bez prekida, zahvaljujući naprednoj tehnologiji.</li>
+        <li><strong>15-25:</strong> Prosječan broj aktivnih međunarodnih linija koje povezuju Mongoliju sa ključnim azijskim i evropskim čvorištima.</li>
+    </ul>
 </div>
 
 ---
@@ -158,3 +156,35 @@ Chinggis Khaan International Airport nije samo infrastrukturni projekat, već si
 Nebo iznad Mongolije više nije samo tranzitni prostor za letove između Rusije i Kine. Ono postaje dio <span class="highlight-text">**državnog identiteta**</span>, prostor kroz koji se zemlja predstavlja svijetu. Aerodrom kao kapija ka svijetu pretvara vazdušni saobraćaj u produžetak kulturne, političke i simboličke komunikacije.
 
 U tom smislu, Mongolija danas ne gradi samo piste i terminale. Ona gradi <span class="highlight-text">**narativ o sebi**</span> kao zemlji koja, iako prostorno golema i demografski mala, želi biti prisutna u globalnom kretanju ljudi, ideja i tokova. Nebeske rute postaju nova mapa na kojoj se Mongolija ponovo iscrtava – ne više kao praznina između velikih sila, već kao vidljiva tačka na nebu savremenog svijeta.
+
+{{< faq title="Često postavljana pitanja o putovanju preko aerodroma Chinggis Khaan (UBN)" >}}
+
+  {{< faq-item q="Koliko je novi aerodrom udaljen od centra Ulan Batora?" >}}
+Novi aerodrom (UBN) se nalazi oko 50 km južno od grada u dolini Khushig. Za razliku od starog aerodroma koji je bio praktično u gradu, odavde je potrebno oko 60 do 90 minuta vožnje, zavisno od čuvenih saobraćajnih gužvi u Ulan Batoru.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Postoji li organizovan prevoz do grada?" >}}
+Da, postoje redovne linije "shuttle" autobusa koje prate red letjenja, kao i zvanični aerodromski taksi. Preporučuje se korišćenje zvaničnog prevoza jer su distance velike, a predjeli između aerodroma i grada nenaseljeni.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je aerodrom otvoren tokom ekstremnih mongolskih zima?" >}}
+Aerodrom je projektovan upravo da bi riješio probleme koje je imao stari (otkazivanje letova zbog magle i smoga). Novi terminal i pista su opremljeni najsavremenijom tehnologijom za rad na temperaturama i do -40°C, što ga čini jednim od najpouzdanijih u regionu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje avio-kompanije najčešće lete za Ulan Bator?" >}}
+Glavni prevoznik je nacionalni MIAT Mongolian Airlines. Pored njih, veoma su aktivni Turkish Airlines (iz Istanbula), Korean Air i Asiana (iz Seula), kao i Air China. Za putnike iz Evrope, Istanbul je trenutno najpraktičnija tačka spajanja.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li dobiti vizu na samom aerodromu?" >}}
+Mongolija je značajno liberalizovala vizni režim (posebno za turizam u periodu 2023-2025). Građani mnogih zemalja mogu ući bez vize ili je dobiti putem e-visa portala. Ipak, uvijek provjerite status za vaš pasoš prije polaska na zvaničnom sajtu mongolske imigracije.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kakvi su sadržaji unutar samog terminala?" >}}
+Terminal je moderan i nudi besplatan Wi-Fi, nekoliko biznis loža (poput Blue Sky Lounge), restorane sa tradicionalnom i internacionalnom hranom, kao i Duty-Free prodavnice gdje možete kupiti čuveni mongolski kašmir po fabričkim cijenama.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Postoji li hotel na samom aerodromu za duga presijedanja?" >}}
+Unutar samog terminala nema klasičnog hotela, ali u neposrednoj blizini aerodromskog kompleksa postoje smještajni kapaciteti. S obzirom na to da je aerodrom nov, okolina se još uvijek razvija, pa se za duža čekanja preporučuje odlazak u grad ili boravak u ložama.
+  {{< /faq-item >}}
+
+{{< /faq >}}

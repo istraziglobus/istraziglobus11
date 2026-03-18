@@ -164,3 +164,35 @@ Vijetnamski borci su otkrili da američki psi tragači mogu locirati ulaze po mi
 Iako su tuneli preživjeli rat, tlo iznad njih ostalo je decenijama nijemi svjedok hemijskog uništenja koje je trebalo da izbriše svaki trag života. <span class="highlight-text">Regeneracija</span> prirode u Cu Chi regiji danas se smatra malim biološkim čudom; tamo gdje je "Agent Orange" ostavio sprženu zemlju, ponovo buja gusta džungla, ali sa izmijenjenim genetskim kodom koji podsjeća na cijenu pobjede. Danas se suočavamo sa neobičnim paradoksom gdje je nekadašnje poprište najmračnijih ljudskih iskustava postalo <span class="highlight-text">destinacija</span> globalnog turizma, stvarajući tenziju između komercijalizacije sjećanja i sirove, neispričane patnje onih koji su u mraku proveli mladost, tjerajući nas da se zapitamo kako zapravo konzumiramo istoriju i da li je ikada možemo istinski razumjeti.
 
 Na kraju, najveća lekcija Cu Chija nije u vojnoj taktici, već u spoznaji da su najtrajnije građevine čovječanstva zapravo one <span class="highlight-text">neopipljive</span>, sazdane od kolektivne traume i ponosa. Dok se čelik i beton modernog Vijetnama izdižu ka nebu, ovi tuneli nastavljaju da "dišu" ispod njih, podsjećajući nas da se stabilnost svake nacije mjeri dubinom njenih temelja. Cu Chi ostaje kao opomena da prava moć ne leži u onome što posjedujemo, već u onome što smo spremni da postanemo kada nam se oduzme sve osim gline pod noktima i prava na sopstveno postojanje.
+
+{{< faq title="Često postavljana pitanja o posjeti Cu Chi tunelima" >}}
+
+  {{< faq-item q="Koja je razlika između Ben Dinh i Ben Duoc lokacija?" >}}
+Ben Dinh je bliži Ho Chi Minh City-ju i prilagođeniji je turistima (tuneli su prošireni). Ben Duoc je dalje, ali nudi autentičnije iskustvo sa originalnim dimenzijama tunela i manjim gužvama, što preporučujemo onima koji žele stvarniji uvid u istoriju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je posjeta tunelima bezbjedna za osobe sa klaustrofobijom?" >}}
+Osobe sa izraženom klaustrofobijom bi trebale biti oprezne. Iako su turistički dijelovi prošireni i osvijetljeni, prostor je i dalje veoma uzak i nizak. Uvijek možete odabrati da ostanete na površini i razgledate zamke, bolnice i kuhinje bez ulaska u same podzemne hodnike.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je vremena potrebno za izlet iz Ho Chi Minh City-ja?" >}}
+Za poludnevni izlet (Ben Dinh) potrebno je oko 5-6 sati sa prevozom. Ako planirate posjetu Ben Duoc lokaciji, odvojite cijeli dan (oko 8-9 sati), jer je put duži, a lokalitet prostraniji.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Hoang Cam' peć i zašto je važna?" >}}
+To je genijalna vijetnamska inovacija – peć projektovana da raspršuje dim kroz duge podzemne kanale. Dim bi na površinu izlazio daleko od kuhinje i to u vidu blage izmaglice, čineći kuvanje nevidljivim za američke izviđačke avione.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li se u okviru kompleksa vidjeti i ratne zamke?" >}}
+Da, vodiči demonstriraju razne vrste "booby traps" (zamki) napravljenih od bambusa i gvožđa koje su gerilci koristili. Ovo je često najupečatljiviji, ali i najjeziviji dio ture koji pokazuje surovost asimetričnog ratovanja.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je dozvoljeno pucanje iz vatrenog oružja na lokalitetu?" >}}
+Na oba lokaliteta postoje strelišta gdje posjetioci, uz doplatu, mogu pucati iz autentičnog oružja iz tog perioda, poput AK-47 ili M16. Ipak, imajte na umu da je buka na strelištu veoma velika i može biti uznemirujuća.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je najbolja odjeća za posjetu tunelima?" >}}
+Obavezno nosite udobnu obuću (patike) i odjeću koju vam nije žao zaprljati, jer ćete se u tunelima kretati četvoronoške ili u čučnju kroz prašinu i vlagu. Takođe, ponesite sredstvo protiv komaraca, jer se lokaliteti nalaze u pravoj džungli.
+  {{< /faq-item >}}
+
+{{< /faq >}}

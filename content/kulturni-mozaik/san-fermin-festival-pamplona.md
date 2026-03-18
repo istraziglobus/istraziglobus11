@@ -163,3 +163,35 @@ Ernest Hemingvej je toliko proslavio Pamplonu da mu je grad 1968. godine podigao
 Na kraju, Festival San Fermín u Pamploni je jedinstven događaj koji ostavlja dubok utisak na svakoga ko ga doživi, podsjećajući nas na krhkost ljudske <span class="highlight-text">**stvarnosti**</span> i snagu tradicije. To je proslava hrabrosti i zajedništva, gdje se drevni rituali prepliću sa modernom potrebom za uzbuđenjem i katarzom unutar jednog neraskidivog <span class="highlight-text">**mjesto**</span> na mapi. Kroz ovaj devetodnevni vrtlog energija, vidimo lice jedne ponosne kulture koja odbija da se preda zaboravu, slaveći svaki trenutak kao da je posljednji.
 
 Pamplona nas uči da je život ljepši kada se dijeli sa drugima, uz pjesmu i poštovanje prema silama prirode koje ne možemo uvijek kontrolisati, čak i kada su obale saradnje <span class="highlight-text">**blizu**</span>. San Fermín nije samo festival; on je podsjetnik na našu iskonsku potrebu da budemo dio nečeg većeg, da testiramo svoje granice i proslavimo pobjedu nad sopstvenim sumnjama. To je kolektivno iskustvo koje nas spaja, brišući razlike i ostavljajući samo čistu esenciju ljudske strasti i neustrašivosti koja odjekuje vijekovima. Ovo je kapija koja nas uči da budemo svjesni putnici na ovom globusu, čuvajući plamen tradicije za sve one koji dolaze poslije nas u srce Navare.
+
+{{< faq title="Često postavljana pitanja o San Fermín festivalu u Pamploni" >}}
+
+  {{< faq-item q="Da li svako može učestvovati u trci s bikovima (Encierro)?" >}}
+Tehnički, da – učestvovanje je besplatno i nije potrebna prethodna prijava. Međutim, morate imati preko 18 godina, ući na stazu prije 7:30 ujutru i biti u adekvatnoj fizičkoj spremi. Policija strogo zabranjuje ulazak osobama u alkoholisanom stanju ili onima koji nose neprikladnu obuću (japanke, sandale).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kada se tačno održavaju trke s bikovima?" >}}
+Trke se održavaju svakog jutra od 7. do 14. jula. Raketa koja označava početak ispaljuje se tačno u 8:00 sati. Preporučuje se da na stazi budete već oko 7:00 kako biste zauzeli mjesto, jer se kapije zatvaraju čim se postigne maksimalni kapacitet trkača.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je najbolja lokacija za posmatranje trke ako ne želim da trčim?" >}}
+Najbolje (i najsigurnije) mjesto su balkoni duž ulica Santo Domingo, Mercaderes i Estafeta. Ovi balkoni su privatno vlasništvo i iznajmljuju se mjesecima unaprijed. Druga opcija je arena (Plaza de Toros), gdje bikovi završavaju trku, ali za nju je potrebno kupiti ulaznicu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta predstavlja crveno-bijela odjeća koju svi nose?" >}}
+Bijela odjeća simbolizuje čistoću, dok crvena marama (pañuelo) i pojas (faja) predstavljaju sjećanje na mučeništvo Svetog Fermína, koji je prema legendi pogubljen odsijecanjem glave. Marama se veže oko vrata tek nakon što se 6. jula ozvaniči početak festivala (Chupinazo).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je opasan Encierro?" >}}
+Trka je izuzetno opasna. Svake godine bude između 50 i 100 povrijeđenih, uglavnom uslijed padova i gaženja u masi. Povrede rogovima su rjeđe, ali mogu biti fatalne. Od 1910. godine zabilježeno je 16 smrtnih slučajeva.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje odsjesti u Pamploni tokom festivala?" >}}
+Smještaj u samom centru (Casco Viejo) je ekstremno skup i rezerviše se godinu dana unaprijed. Mnogi putnici biraju hotele u širem dijelu grada ili kampove u okolini Pamplone koji su povezani posebnim autobuskim linijama tokom festivala.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Postoje li alternative trci s bikovima tokom festivala?" >}}
+Naravno! San Fermín je pun koncerata, tradicionalnih baskijskih sportova, povorki džinova (Gigantes y Cabezudos) i spektakularnih vatrometa svake večeri. Festival je mnogo više od same trke i nudi bogat kulturni program za sve uzraste.
+  {{< /faq-item >}}
+
+{{< /faq >}}

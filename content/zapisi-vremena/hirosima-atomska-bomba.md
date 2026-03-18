@@ -166,3 +166,35 @@ Hirošima je danas mnogo više od pukog geografskog pojma ili istorijske lekcije
 Svaki proljetni vjetar koji ponese latice trešnjinog cvijeta preko Memorijalnog parka mira nosi poruku nade i opraštanja. Hirošima nas uči da nijedna rana nije toliko duboka da iz nje ne može izrasti nešto lijepo, ako se zaliva mirom i razumijevanjem. Ona je podsjetnik da smo svi <span class="highlight-text">**povezani istom sudbinom**</span> na ovoj maloj planeti.
 
 Dok sunce zalazi nad Genbaku kupolom, grad koji je preživio kraj svijeta nastavlja da kuca ritmom novog doba. Njegova misija nije završena sve dok postoji i jedna nuklearna bojeva glava koja prijeti nebu. Hirošima je bila kraj jednog starog svijeta, ali i <span class="highlight-text">**veličanstveni početak borbe**</span> za svijet bez straha i razaranja.
+
+{{< faq title="Često postavljana pitanja o posjeti Hirošimi" >}}
+
+  {{< faq-item q="Da li je Hirošima danas bezbjedna po pitanju radijacije?" >}}
+Da, Hirošima je potpuno bezbjedna. Nivo radioaktivnosti u gradu je identičan prirodnom pozadinskom zračenju bilo gdje drugdje na svijetu. Radioaktivnost uzrokovana atomskom bombom 1945. godine brzo je opala, a grad je decenijama temeljno čišćen i obnavljan.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako se najbolje ponašati u Memorijalnom parku mira?" >}}
+Park je mjesto dubokog pijeteta. Preporučuje se tišina, izbjegavanje glasnog smijeha ili neprikladnog poziranja za fotografije, naročito ispred Kenotafa (spomenika žrtvama) i Genbaku kupole. Japan je kultura koja izuzetno cijeni tiho poštovanje prostora.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko vremena je potrebno za obilazak Memorijalnog muzeja mira?" >}}
+Iako fizički muzej možete proći za sat vremena, preporučujemo da odvojite barem 2 do 3 sata. Eksponati su izuzetno emotivni i zahtijevaju vrijeme da se procesuiraju. Audio vodič je dostupan na engleskom jeziku i toplo se preporučuje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Hiroshima Okonomiyaki' i zašto ga treba probati?" >}}
+To je lokalni kulinarski specijalitet, slana palačinka sa slojevima kupusa, rezanaca, mesa i jaja. Hirošima stil se razlikuje od onog u Osaki jer se sastojci slažu u slojeve, a ne miješaju. Posjeta restoranu u "Okonomimura" zgradi je nezaobilazan dio upoznavanja modernog duha grada.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li turisti razgovarati sa preživjelima (Hibakusha)?" >}}
+Postoje organizovani termini u Memorijalnom muzeju gdje preživjeli ili njihovi "nasljednici svjedočenja" (Legacy Successors) drže javna predavanja na japanskom i engleskom jeziku. To je rijetka prilika da čujete priču iz prve ruke i postavite pitanja na pun poštovanja način.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako stići do Hirošime iz Tokija ili Osake?" >}}
+Najbrži i najudobniji način je Shinkansen (voz metak). Iz Tokija vožnja traje oko 4 sata, dok je iz Osake (stanica Shin-Osaka) potrebno samo oko sat i po. Ako koristite Japan Rail Pass, ovo je jedna od najisplativijih ruta.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje je značenje hiljadu papirnih ždralova u parku?" >}}
+Oni simbolizuju nadu i ozdravljenje. Inspirisani su pričom o Sadako Sasaki, koja je vjerovala da će joj bogovi ispuniti želju da ozdravi ako napravi 1.000 ždralova od papira. Danas ljudi iz cijelog svijeta šalju ždralove kao simbol želje za svijetom bez nuklearnog oružja.
+  {{< /faq-item >}}
+
+{{< /faq >}}

@@ -118,7 +118,7 @@ Smještaj u tradicionalnim kućama Starog grada nudi poseban osjećaj povezanost
 Najbolje vrijeme za posjetu je kasno proljeće ili rana jesen kada nema velikih <span class="highlight-text">**gužvi**</span>. Tada je klima najprijatnija za duga istraživanja i planinske uspone iznad jezera. Ipak, ljetni mjeseci nose posebnu energiju festivala i kupanja u kristalno čistoj <span class="highlight-text">**vodi**</span>. Bez obzira na godišnje doba, Ohrid će vas dočekati raširenih ruku i sa osmijehom. To je destinacija kojoj se putnici uvijek vraćaju, otkrivajući svaki put nešto novo.
 
 <div class="info-box-container">
-  <h3>Osnovne informacije o Trebinju</h3>
+  <h3>Osnovne informacije o Ohridu</h3>
   <ul>
      <li><strong>Država:</strong> Sjeverna Makedonija, kulturno srce Balkana.</li>
      <li><strong>Jezero:</strong> Jedno od najstarijih i najdubljih na svijetu (UNESCO baština).</li>

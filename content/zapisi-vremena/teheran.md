@@ -163,5 +163,35 @@ Njegove ulice više nikada nisu bile samo obične saobraćajnice; one su postale
 
 Duh 1979. godine se i dalje osjeća u svakom razgovoru, u svakom muralu i u svakom pogledu ka planini Alborz. Teheran je živi spomenik ljudskoj volji i podsjetnik da se istorija dešava ovdje, pod našim nogama. To je grad koji je <span class="highlight-text">**promijenio tok vremena**</span>, ostavljajući neizbrisiv trag u srcu Bliskog istoka i cijelog svijeta.
 
+{{< faq title="Često postavljana pitanja o istoriji i posjeti Teheranu" >}}
 
+  {{< faq-item q="Šta je danas 'Gnijezdo špijunaže' u Teheranu?" >}}
+To je kolokvijalni naziv za bivšu američku ambasadu u kojoj se 1979. dogodila talačka kriza. Danas je to muzej otvoren za javnost, gdje posjetioci mogu vidjeti sobe za dešifrovanje, prislušne uređaje i čuvene antiameričke murale na spoljnim zidovima kompleksa.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li su palate bivšeg šaha otvorene za posjetioce?" >}}
+Da, kompleksi Niavaran i Saadabad na sjeveru Teherana pretvoreni su u muzeje. Posjeta ovim lokacijama nudi fascinantan kontrast revolucionarnim ulicama, jer prikazuje nevjerovatan luksuz u kojem je živjela porodica Pahlavi prije nego što je bila prinuđena da napusti zemlju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je bezbjedno za turiste da fotografišu murale u gradu?" >}}
+Generalno je bezbjedno fotografisati murale na stambenim zgradama i javnim površinama. Ipak, strogo je zabranjeno fotografisanje bilo kakvih vladinih zgrada, vojnih objekata ili policijskih punktova. Uvijek obratite pažnju na znakove zabrane fotografisanja (prekrižen fotoaparat).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta predstavlja toranj Azadi (Toranj Slobode)?" >}}
+Izgrađen 1971. godine povodom 2500 godina Persijskog carstva (tada nazvan Shahyad), nakon 1979. preimenovan je u Azadi. On je vizuelni simbol Teherana i bio je glavno mjesto okupljanja tokom revolucije. Danas se ispod tornja nalazi muzej posvećen iranskoj istoriji.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li se na teheranskom bazaru i dalje osjeća uticaj 'bazaarija'?" >}}
+Apsolutno. Veliki bazar u Teheranu i dalje je ekonomsko srce grada. Iako su nikli moderni šoping centri, trgovci sa bazara i dalje drže ključeve tradicionalne trgovine i imaju značajan društveni uticaj. To je najbolje mjesto da osjetite duh "starog" Teherana.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja su pravila oblačenja za turiste u Teheranu?" >}}
+Iranski zakoni zahtijevaju poštovanje islamskog koda oblačenja (hijab). Za žene to znači marama preko glave i tunika ili mantil koji pokriva bokove i ruke. Muškarci ne bi trebali nositi kratke pantalone. Iako su pravila u Teheranu nešto opuštenija nego u unutrašnjosti, ona su i dalje zakonska obaveza.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li turisti posjetiti groblje Behesht-e Zahra?" >}}
+Da, to je glavno gradsko groblje i mjesto gdje je ajatolah Homeini održao svoj prvi govor po povratku 1979. godine. Tamo se nalazi i njegov monumentalni mauzolej koji je mjesto hodočašća, ali i dio posvećen "mučenicima" iz iransko-iračkog rata, što pruža dubok uvid u noviju istoriju Irana.
+  {{< /faq-item >}}
+
+{{< /faq >}}
 

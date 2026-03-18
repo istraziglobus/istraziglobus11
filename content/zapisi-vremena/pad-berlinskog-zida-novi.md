@@ -168,3 +168,35 @@ Danas je Berlin jedna od najvibrantnijih metropola na svijetu, grad koji ponosno
 Tamo gdje je nekada bila "zona smrti", danas cvjetaju parkovi, moderni kvartovi i mjesta sjećanja koja edukuju posjetioce o vrijednosti mira. Berlin je postao simbol transformacije, grad koji je uspio da od pepela podjele izgradi temelje za napredno i otvoreno društvo. On nas uči da je <span class="highlight-text">**oprost moguć, a ujedinjenje neophodno**</span> za napredak čovječanstva.
 
 Šetajući Berlinom danas, više ne osjećate težinu betona, već lakoću postojanja u slobodnom svijetu koji cijeni svakog pojedinca. Zid je pao, ali lekcije koje smo iz toga naučili moraju ostati vječno prisutne u našim srcima. Berlin danas ponosno stoji kao živi dokaz da nijedan zid ne može <span class="highlight-text">**zauvijek sakriti sunce slobode**</span>.
+
+{{< faq title="Često postavljana pitanja o posjeti ostacima Berlinskog zida" >}}
+
+  {{< faq-item q="Gdje se danas mogu vidjeti najduži ostaci Zida?" >}}
+Najpoznatija i najduža dionica (1,3 km) je **East Side Gallery** u kvartu Friedrichshain. To je galerija na otvorenom sa preko 100 murala koje su umjetnici iz cijelog svijeta naslikali 1990. godine, uključujući i čuveni "Bratski poljubac".
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to 'Memorijal Berlinskog zida' (Gedenkstätte Berliner Mauer)?" >}}
+To je najautentičnije mjesto za posjetu, smješteno u ulici Bernauer Strasse. Ovdje je očuvan dio "zone smrti" sa oba zida, stražarskom kulom i sistemom prepreka. Ulaz je besplatan i nudi najbolji uvid u to kako je granica zaista izgledala.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je Checkpoint Charlie originalan?" >}}
+Kućica koja se danas nalazi na Checkpoint Charlie-u je replika postavljena u turističke svrhe. Iako je lokacija autentična i istorijski važna kao prelaz za strance i diplomate, danas je to komercijalna zona. Za dublje razumijevanje, posjetite obližnji muzej "Haus am Checkpoint Charlie".
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako mogu pratiti liniju gdje je nekada stajao Zid?" >}}
+Kroz centar Berlina, linija gdje je nekada bio Zid označena je dvostrukim redom kaldrme ugrađenim u asfalt. Takođe, postoji biciklistička i pješačka staza pod nazivom **Berliner Mauerweg** duga 160 km koja prati nekadašnju granicu oko cijelog Zapadnog Berlina.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta su 'Duhovi stanice' (Geisterbahnhöfe)?" >}}
+To su bile stanice metroa (U-Bahn i S-Bahn) koje su se nalazile u Istočnom Berlinu, ali su vozovi sa Zapada kroz njih prolazili bez zaustavljanja, zazidani i pod stražom. Danas su te stanice ponovo u funkciji, a u stanici Nordbahnhof postoji stalna izložba o ovom fenomenu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li se negdje još uvijek mogu kupiti pravi komadi Zida?" >}}
+Budite oprezni. Prodavnice suvenira prodaju obojene komadiće betona, ali je teško garantovati autentičnost. Najbolje je posjetiti zvanične muzejske prodavnice. Pravi, veliki segmenti Zida danas se nalaze na lokacijama poput Potsdamer Platz-a kao spomenici.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je vremena potrebno za istorijsku turu kroz Berlin?" >}}
+Za ključne lokacije (Brandenburška kapija, Reichstag, Memorijalni centar, East Side Gallery i Checkpoint Charlie) potreban je jedan pun i intenzivan dan. Preporučujemo korišćenje linije autobusa broj 100, koja prolazi pored mnogih istorijskih znamenitosti.
+  {{< /faq-item >}}
+
+{{< /faq >}}

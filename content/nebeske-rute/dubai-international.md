@@ -162,5 +162,35 @@ Dubai International (DXB) ostaje neosporni lider koji redefiniše način na koji
 
 Bez obzira na to da li ste u Dubaiju na samo nekoliko sati ili je on vaša krajnja destinacija, boravak na ovom aerodromu ostavlja neizbrisiv <span class="highlight-text">**utisak luksuza**</span> i efikasnosti. DXB nas podsjeća da putovanje može biti jednako važno i lijepo kao i sam cilj, ostavljajući nas inspirisanim za nove horizonte koje tek treba da otkrijemo.
 
+{{< faq title="Često postavljana pitanja o Dubai International (DXB) aerodromu" >}}
 
+  {{< faq-item q="Da li mi je potrebna viza za izlazak iz tranzitne zone u Dubai?" >}}
+Državljani Crne Gore, Srbije i Hrvatske mogu dobiti besplatnu vizu po dolasku (Visa on Arrival) koja važi 90 dana. To vam omogućava da, ukoliko imate duže presijedanje, lagano skoknete do grada i vidite Burj Khalifu, koja je udaljena svega 15-20 minuta vožnje taksijem ili metroom.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako se najlakše kreće između terminala na DXB?" >}}
+Terminali 1 i 3 su povezani tranzitnom zonom i unutrašnjim vozom (shuttle train). Međutim, Terminal 2 se nalazi na suprotnoj strani piste i do njega vozi besplatni aerodromski autobus. Vožnja između T2 i ostalih terminala može trajati i do 30 minuta, pa planirajte vrijeme u skladu s tim.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta su 'Smart Gates' i ko može da ih koristi?" >}}
+Smart Gates su biometrijski prolazi koji omogućavaju pasošku kontrolu za manje od 10 sekundi skeniranjem lica ili pasoša. Mogu ih koristiti svi putnici koji imaju biometrijske pasoše i koji su se prethodno registrovali (ili su već ulazili u UAE preko regularnih šaltera).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Postoji li mjesto za tuširanje i odmor ako ne želim hotel?" >}}
+Da, DXB nudi "G-Force Health Club" u Terminalu 3 gdje možete platiti samo korištenje tuševa, bazena ili teretane. Takođe, po terminalima su raspoređene "Sleep 'n fly" kapsule koje se iznajmljuju na sat, što je idealno za kratak, kvalitetan san.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je Wi-Fi na aerodromu zaista besplatan i brz?" >}}
+Dubai se ponosi jednim od najbržih aerodromskih interneta na svijetu pod nazivom "WOW-Fi". Potpuno je besplatan i neograničen, što je idealno za rad ili strimovanje dok čekate sljedeći let.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje je najbolje mjesto za kupovinu zlata na aerodromu?" >}}
+Dubai Duty Free je poznat po "Gold Souk" sekciji unutar samih terminala (posebno u T3). Cijene su konkurentne onima u gradu, a kvalitet i autentičnost su garantovani, što je odlična opcija za last-minute luksuzni poklon.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko ranije treba doći na aerodrom za let iz Dubaija?" >}}
+Zbog ogromnih distanci unutar samih terminala (nekada vam treba 20 minuta hoda samo do gejta), preporučuje se dolazak najmanje 3 sata prije leta. Ako putujete tokom praznika ili u špicu sezone, dodajte još pola sata na to.
+  {{< /faq-item >}}
+
+{{< /faq >}}
 
