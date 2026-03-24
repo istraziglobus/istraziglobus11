@@ -15,7 +15,7 @@ slug: "8-mart-istorija-njujork-kopenhagen-ravnopravnost"
 draft: false
 countries: ["Ostalo"]
 categories:
-- Geo Kutak
+- Geo kutak
 tags:
 - 8. mart
 - Njujork

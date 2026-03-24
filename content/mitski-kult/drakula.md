@@ -14,7 +14,7 @@ image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license-summary/" 
 countries: ["Rumunija"]
 categories:
-  - Mitski Kult
+  - Mitski kult
 tags:
   - Drakula
   - Mitologija
@@ -165,5 +165,35 @@ Kroz lik grofa iz Transilvanije, naučili smo kako da kanališemo svoj strah od 
 
 Na kraju, bilo da ga posmatramo kao Vlada Cepeša ili kao Stokerovog grofa, on ostaje neprikosnoveni gospodar misticizma. Njegova priča se nastavlja sa svakim novim šapatom u mraku i svakim novim otvaranjem stare knjige. Drakula je zaista besmrtan, ne zbog krvi koju pije, već zbog <span class="highlight-text">**mjesta koje zauzima**</span> u našim snovima i noćnim morama.
 
+{{< faq title="Često postavljana pitanja o Drakuli" >}}
 
+  {{< faq-item q="Da li je Drakula zaista postojao?" >}}
+Postojao je Vlad III Cepeš, vladar Vlaške, koji je poslužio kao istorijska inspiracija za ime i reputaciju surovosti, ali natprirodni vampir je plod mašte Brama Stokera.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje se nalazi pravi Drakulin dvorac?" >}}
+Istorijsko sjedište Vlada Cepeša je tvrđava Poenari, koja je danas u ruševinama. Zamak Bran se smatra "Drakulinim zamkom" zbog svoje filmske estetike.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se Drakula plaši bijelog luka i krsta?" >}}
+Ovi elementi potiču iz balkanskog folklora gdje su se sveti simboli i biljke sa jakim mirisom koristili kao zaštita od zlih duhova i nemrtvih.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako je Vlad Cepeš dobio nadimak Nabijač?" >}}
+Nadimak je dobio zbog svoje surove metode kažnjavanja neprijatelja, koje je masovno nabijao na drvene kolce kao opomenu drugima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koja je razlika između vampira i Strigoja?" >}}
+Strigoji su mitska bića iz rumunskog folklora koja mogu biti živi (vještice) ili mrtvi koji ustaju iz groba, dok je vampir moderniji, zapadni termin.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Gdje je sahranjen stvarni Vlad Cepeš?" >}}
+Vjeruje se da je sahranjen u manastiru Snagov blizu Bukurešta, mada arheološka iskopavanja nikada nisu definitivno potvrdila prisustvo njegovih ostataka, što samo dodatno hrani mit o njegovom "nestanku".
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je Transilvanija stvarna regija?" >}}
+Da, Transilvanija je istorijska i geografska regija u centralnom dijelu današnje Rumunije, poznata po svojim Karpatima i srednjovjekovnim gradovima.
+  {{< /faq-item >}}
+
+{{< /faq >}}
 

@@ -15,7 +15,6 @@ image_license_url: "https://creativecommons.org/licenses/by/2.0/"
 countries: ["Ostalo"]
 categories:
   - Vijesti
-  - Geo kutak
 tags:
   - EES sistem
   - Šengen zona

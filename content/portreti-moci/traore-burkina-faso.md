@@ -24,11 +24,19 @@ tags:
 - Moć
 ---
 
-U svijetu uštirkanih odijela i diplomatskih protokola, pojava <span class="highlight-text">**Ibrahima Traoréa**</span> na svjetskoj sceni djelovala je poput grmljavine iznad Sahela. Najmlađi predsjednik na planeti, čovjek koji je u trenutku preuzimanja vlasti imao svega 34 godine, ne vlada iz luksuznih palata, već iz narativa vječite borbe i vojničke discipline. Njegova maskirna uniforma nije samo radna odjeća; ona je vizuelni manifest generacije koja više ne vjeruje obećanjima starog poretka i traži radikalni raskid sa kolonijalnom prošlošću.
+U svijetu uštirkanih odijela i diplomatskih protokola, pojava Ibrahima Traoréa na svjetskoj sceni djelovala je poput grmljavine iznad Sahela. Najmlađi predsjednik na planeti, čovjek koji je u trenutku preuzimanja vlasti imao <span class="highlight-text">**svega 34 godine**</span>, ne vlada iz luksuznih palata, već iz narativa vječite borbe i vojničke discipline. Njegova maskirna uniforma nije samo radna odjeća; ona je vizuelni manifest generacije koja više ne vjeruje obećanjima starog poretka i traži radikalni raskid sa kolonijalnom prošlošću.
 
 Njegov uspon na vlast u septembru 2022. godine nije bio samo vojni puč, već kulminacija dubokog nezadovoljstva unutar vojske i naroda koji se decenijama bori sa siromaštvom i terorizmom. Traoré je prepoznao trenutak u kojem je država počela da puca pod pritiskom nesigurnosti, pozicionirajući se kao glas običnog vojnika i obespravljenog seljaka. On ne govori jezikom kompromisa, već <span class="highlight-text">**jezikom suvereniteta**</span>, čime je u rekordnom roku postao simbol novog afričkog buđenja koje odjekuje daleko izvan granica Burkine Faso.
 
-Ovaj portret moći istražuje kako je anonimni kapetan iz artiljerijske jedinice postao figura koja prkosi zapadnim centrima moći, dok istovremeno gradi kult ličnosti zasnovan na nasljeđu legendarnog Thomasa Sankare. Traoréova moć nije samo u oružju kojim komanduje, već u <span class="highlight-text">**simboličkom kapitalu**</span> koji crpi iz pustinjskog pijeska i gnjeva mladih. On je lider koji ne nudi stabilnost starog kova, već viziju slobode koja se plaća krvlju, znojem i potpunim zaokretom ka novim globalnim saveznicima.
+---
+
+## Kapetan iz sjene: Put do crvene beretke
+
+Ibrahim Traoré nije rođen u privilegovanim krugovima prijestonice; njegovo porijeklo je vezano za provinciju, za prostore gdje se život mjeri snagom prirode i otpornošću na oskudicu. Obrazovan na Univerzitetu u Ouagadougou, gdje je pokazao rani interes za <span class="highlight-text">**socijalnu pravdu**</span>, ubrzo je shvatio da je vojska jedina institucija koja može nametnuti promjenu. Njegova odluka da upiše vojnu akademiju bila je strateška potraga za instrumentom moći.
+
+Kao oficir artiljerije, Traoré je proveo godine na terenu, direktno se suočavajući sa brutalnošću džihadističkih pobuna koje su decenijama razarale sjever zemlje. Upravo su ti rovovi bili njegova stvarna politička škola, gdje je vidio jaz između komandne elite u klimatizovanim kancelarijama i vojnika koji umiru bez opreme. Njegova moć crpi snagu iz te <span class="highlight-text">**terenske autentičnosti**</span>; on je čovjek koji poznaje miris baruta, a ne samo diplomatske protokole.
+
+Uspon do vrha bio je brz, nasilan i hirurški precizan. Iskoristivši drugi puč u samo osam mjeseci, Traoré je stao na čelo grupe oficira koji su smatrali da je prethodna vlast izdala vojsku. Kada se prvi put pojavio na nacionalnoj televiziji, mlađi od većine svojih sagovornika, svijet je vidio lidera koji ne traži dopuštenje da vlada. Njegova <span class="highlight-text">**crvena beretka**</span> postala je trenutni znak prepoznavanja – simbol nove ere direktne akcije.
 
 {{< figcredit 
     src="slike/traore-burkina-faso/traore1.jpg" 
@@ -42,13 +50,13 @@ Ovaj portret moći istražuje kako je anonimni kapetan iz artiljerijske jedinice
 
 ---
 
-## Kapetan iz sjene: Put do crvene beretke
+## Geopolitički zaokret: Zbogom Parizu, dobrodošla Moskvo
 
-Ibrahim Traoré nije rođen u privilegovanim krugovima prijestonice; njegovo porijeklo je vezano za provinciju, za prostore gdje se život mjeri snagom prirode i otpornošću na oskudicu. Obrazovan na Univerzitetu u Ouagadougou, gdje je pokazao rani interes za <span class="highlight-text">**socijalnu pravdu**</span>, ubrzo je shvatio da je vojska jedina institucija koja može nametnuti promjenu. Njegova odluka da upiše vojnu akademiju bila je strateška potraga za instrumentom moći.
+Jedan od najradikalnijih poteza Ibrahima Traoréa bio je oštri prekid sa Francuskom, bivšim kolonijalnim gospodarom koji je decenijama dominirao Sahelom. Njegova odluka da protjera francuske trupe i diplomate nije bila samo vojni potez, već <span class="highlight-text">**geopolitički potres**</span> koji je odjeknuo širom kontinenta. Traoré je prepoznao da prisustvo stranih trupa za mnoge građane predstavlja simbol neokolonijalizma, a njihovo uklanjanje postalo je mjera njegovog uspjeha.
 
-Kao oficir artiljerije, Traoré je proveo godine na terenu, direktno se suočavajući sa brutalnošću džihadističkih pobuna koje su decenijama razarale sjever zemlje. Upravo su ti rovovi bili njegova stvarna politička škola, gdje je vidio jaz između komandne elite u klimatizovanim kancelarijama i vojnika koji umiru bez opreme. Njegova moć crpi snagu iz te <span class="highlight-text">**terenske autentičnosti**</span>; on je čovjek koji poznaje miris baruta, a ne samo diplomatske protokole.
+Prazninu nastalu odlaskom zapadnih sila, Traoré je brzo popunio partnerstvom sa Rusijom, tražeći novu vrstu bezbjednosne saradnje bez moralnih lekcija Brisela ili Vašingtona. Njegovo pojavljivanje na samitu u Sankt Peterburgu, gdje je otvoreno kritikovao zapadne lidere, učvrstilo je njegov status heroja <span class="highlight-text">**globalnog juga**</span>. On ne vidi Rusiju kao novog gospodara, već kao alat za postizanje sopstvenih ciljeva u multipolarnom poretku.
 
-Uspon do vrha bio je brz, nasilan i hirurški precizan. Iskoristivši drugi puč u samo osam mjeseci, Traoré je stao na čelo grupe oficira koji su smatrali da je prethodna vlast izdala vojsku. Kada se prvi put pojavio na nacionalnoj televiziji, mlađi od većine svojih sagovornika, svijet je vidio lidera koji ne traži dopuštenje da vlada. Njegova <span class="highlight-text">**crvena beretka**</span> postala je trenutni znak prepoznavanja – simbol nove ere direktne akcije.
+Ovaj zaokret nosi ogromne rizike, ali Traoréova moć leži u njegovoj spremnosti da rizikuje sve zarad promjene paradigme. On je pretvorio Burkinu Faso u laboratoriju novog svijeta, gdje male države koriste rivalstvo velikih sila kako bi izborile prostor za manevar. Dok kritičari upozoravaju na zamjenu jednog uticaja drugim, Traoréov odgovor je jasan: suverenitet nema cijenu, a partnerstva se biraju prema <span class="highlight-text">**rezultatima na terenu**</span>, a ne prema dugovima.
 
 ---
 
@@ -70,15 +78,6 @@ Kult ličnosti koji se gradi oko njega nije zasnovan na luksuzu, već na askezi.
     license_url="https://en.wikipedia.org/wiki/Public_domain" 
 >}}
 
----
-
-## Geopolitički zaokret: Zbogom Parizu, dobrodošla Moskvo
-
-Jedan od najradikalnijih poteza Ibrahima Traoréa bio je oštri prekid sa Francuskom, bivšim kolonijalnim gospodarom koji je decenijama dominirao Sahelom. Njegova odluka da protjera francuske trupe i diplomate nije bila samo vojni potez, već <span class="highlight-text">**geopolitički potres**</span> koji je odjeknuo širom kontinenta. Traoré je prepoznao da prisustvo stranih trupa za mnoge građane predstavlja simbol neokolonijalizma, a njihovo uklanjanje postalo je mjera njegovog uspjeha.
-
-Prazninu nastalu odlaskom zapadnih sila, Traoré je brzo popunio partnerstvom sa Rusijom, tražeći novu vrstu bezbjednosne saradnje bez moralnih lekcija Brisela ili Vašingtona. Njegovo pojavljivanje na samitu u Sankt Peterburgu, gdje je otvoreno kritikovao zapadne lidere, učvrstilo je njegov status heroja <span class="highlight-text">**globalnog juga**</span>. On ne vidi Rusiju kao novog gospodara, već kao alat za postizanje sopstvenih ciljeva u multipolarnom poretku.
-
-Ovaj zaokret nosi ogromne rizike, ali Traoréova moć leži u njegovoj spremnosti da rizikuje sve zarad promjene paradigme. On je pretvorio Burkinu Faso u laboratoriju novog svijeta, gdje male države koriste rivalstvo velikih sila kako bi izborile prostor za manevar. Dok kritičari upozoravaju na zamjenu jednog uticaja drugim, Traoréov odgovor je jasan: suverenitet nema cijenu, a partnerstva se biraju prema <span class="highlight-text">**rezultatima na terenu**</span>, a ne prema dugovima.
 
 ---
 
@@ -89,37 +88,6 @@ Traoréov način komunikacije je drastičan otklon od političkog govora na koji
 On majstorski koristi društvene mreže kako bi premostio jaz između sela i grada. Snimci na kojima razgovara sa običnim vojnicima ili obilazi ranjenike stvaraju sliku lidera-ratnika koji se ne plaši da zaprlja ruke. U njegovom narativu, on je samo kapetan koji vrši dužnost, a prava moć pripada narodu pod zastavom. Taj spoj <span class="highlight-text">**skromnosti i autoriteta**</span> stvara harizmu koju je teško osporiti u kriznim vremenima.
 
 Kritika međunarodne zajednice za njega je samo potvrda da je na pravom putu. Svaku osudu puča on preokreće u narativ o "stranom miješanju", dodatno učvršćujući domaću podršku. Njegov jezik je jezik prkosa koji rezonuje sa ljudima koji se osjećaju ignorisanim od strane globalnih institucija. Ibrahim Traoré ne traži odobravanje Zapada; on traži <span class="highlight-text">**odanost svog naroda**</span>, i nju dobija kroz osjećaj povraćenog dostojanstva.
-
----
-
-## Simbolika odjeće: Uniforma kao identitet
-
-Za razliku od svojih prethodnika koji su se presvlačili u odijela, Ibrahim Traoré ostaje u uniformi. Njegova maskirna košulja sa zavrnutim rukavima je poruka: on je <span class="highlight-text">**lider**</span> koji je stalno na poslu, lider koji ne planira da postane birokrata. Ta uniforma služi kao zaštitni sloj koji ga odvaja od političara prošlosti, vizuelno ga povezujući sa običnim čovjekom koji se bori za goli život.
-
-Svaki detalj na uniformi je pažljivo odabran – od zastave na rukavu do crvene beretke koja podsjeća na revoluciju. U svijetu gdje imidž diktira percepciju moći, Traoré koristi minimalizam kako bi projektovao maksimalnu snagu. On ne nosi ordenje; njegova jedina dekoracija je <span class="highlight-text">**blizina vojniku**</span>. To je estetika moći koja se ne zasniva na onome što posjedujete, već na onome što predstavljate u očima naroda.
-
-Čak i na svjetskim skupovima, on odbija dress-kod globalne elite. Pojava u uniformi među predsjednicima u frakovima je čin simboličkog bunta. On time poručuje da njegova država više neće igrati po tuđim pravilima, čak ni u bontonu moći. Ibrahim Traoré je lider koji je svoju uniformu pretvorio u <span class="highlight-text">**štit od spoljnih pritisaka**</span>, čineći je neodvojivim dijelom svog političkog mita i autoriteta.
-
-<div class="info-box-container">
-  <h3> Ibrahim Traoré: Ključni momenti moći</h3>
-  <ul>
-<li><strong> Septembar 2022:</strong>  Dolazak na vlast vojnim pučem.</li>
-<li><strong> Januar 2023:</strong>  Zvanični prekid vojne saradnje sa Francuskom.</li>
-<li><strong> Maj 2023:</strong>  Pokretanje masovne regrutacije (50.000 dobrovoljaca VDP).</li>
-<li><strong> Jul 2023:</strong>  Govor na samitu u Sankt Peterburgu (Globalni odjek).</li>
-<li><strong> Februar 2024:</strong>  Istupanje iz ECOWAS bloka i formiranje AES saveza.</li>
-</ul>
-</div>
-
----
-
-## Sahel kao bojište: Nova bezbjednosna doktrina
-
-U središtu Traoréove moći je rješavanje bezbjednosne kriz koja prijeti opstanku države. Njegova doktrina se zasniva na <span class="highlight-text">**totalnom ratu**</span> i uključivanju civilnog stanovništva u odbranu kroz jedinice "Dobrovoljaca za odbranu domovine" (VDP). On je transformisao državu u vojni kamp, tvrdeći da se terorizam može pobijediti samo ako svaki građanin postane vojnik. Ova militarizacija je mač sa dvije oštrice, ali i temelj njegovog autoriteta.
-
-On odbacuje tradicionalne metode mirovnih misija UN-a, smatrajući ih neefikasnim i pasivnim. Umjesto toga, promoviše brze, agresivne operacije i direktnu konfrontaciju, često lično nadgledajući planove na frontu. Njegova moć je direktno vezana za rezultate; svaki vraćeni grad cementira njegovu poziciju. On vlada u stanju <span class="highlight-text">**stalne vanredne situacije**</span>, gdje se sigurnost prodaje kao jedini put ka stvarnoj slobodi.
-
->Kroz savez sa Malijem i Nigerom, Traoré gradi novu arhitekturu moći u Sahelu, poznatu kao Alijansa država Sahela (AES). Ovaj blok predstavlja regionalni otpor zapadnim integracijama koje on vidi kao instrumente stranog uticaja. Njegova vizija je Sahel koji sam rješava svoje probleme, koristeći sopstvene resurse, stvarajući tako novi <span class="highlight-text">**centar moći**</span> na kontinentu koji odbija da se povinuje starim, kolonijalnim pravilima.
 
 ---
 
@@ -143,6 +111,16 @@ Danas, Burkina Faso stoji na istorijskoj prekretnici, pokušavajući da redefini
 
 ---
 
+## Simbolika odjeće: Uniforma kao identitet
+
+Za razliku od svojih prethodnika koji su se presvlačili u odijela, Ibrahim Traoré ostaje u uniformi. Njegova maskirna košulja sa zavrnutim rukavima je poruka: on je <span class="highlight-text">**lider**</span> koji je stalno na poslu, lider koji ne planira da postane birokrata. Ta uniforma služi kao zaštitni sloj koji ga odvaja od političara prošlosti, vizuelno ga povezujući sa običnim čovjekom koji se bori za goli život.
+
+Svaki detalj na uniformi je pažljivo odabran – od zastave na rukavu do crvene beretke koja podsjeća na revoluciju. U svijetu gdje imidž diktira percepciju moći, Traoré koristi minimalizam kako bi projektovao maksimalnu snagu. On ne nosi ordenje; njegova jedina dekoracija je <span class="highlight-text">**blizina vojniku**</span>. To je estetika moći koja se ne zasniva na onome što posjedujete, već na onome što predstavljate u očima naroda.
+
+Čak i na svjetskim skupovima, on odbija dress-kod globalne elite. Pojava u uniformi među predsjednicima u frakovima je čin simboličkog bunta. On time poručuje da njegova država više neće igrati po tuđim pravilima, čak ni u bontonu moći. Ibrahim Traoré je lider koji je svoju uniformu pretvorio u <span class="highlight-text">**štit od spoljnih pritisaka**</span>, čineći je neodvojivim dijelom svog političkog mita i autoriteta.
+
+---
+
 ## Ekonomska suverenost: Resursi u službi revolucije
 
 Traoréova moć se širi i na kontrolu prirodnih resursa, prvenstveno zlata koje je glavni izvozni proizvod zemlje. Njegova vlada je počela sa revizijom ugovora sa stranim rudarskim kompanijama, tražeći veći udio za državu. On zlato vidi kao <span class="highlight-text">**strateško oružje**</span> kojim će finansirati rat i razvoj, bez potrebe za ponižavajućim i uslovljenim kreditima međunarodnih finansijskih institucija.
@@ -151,17 +129,26 @@ Njegova vizija "endogenog razvoja" podrazumijeva oslanjanje na sopstvene poljopr
 
 Kontrola nad <span class="highlight-text">**rudnicima zlata**</span> znači i kontrolu nad teritorijom. Preuzimanjem direktne uprave nad ovim resursima, Traoré centralizuje moć i osigurava sredstva za plate vojnika. Njegova borba za ekonomska prava države je neodvojiva od njegove borbe na frontu; to je rat za resurse koji moraju služiti revoluciji, a ne stranim investitorima ili korumpiranoj eliti koja je decenijama parazitirala na narodu.
 
+<div class="info-box-container">
+  <h3> Ibrahim Traoré: Ključni momenti moći</h3>
+  <ul>
+    <li><strong>Septembar 2022: </strong>  Dolazak na vlast vojnim pučem.</li>
+    <li><strong>Januar 2023:    </strong>  Zvanični prekid vojne saradnje sa Francuskom.</li>
+    <li><strong>Maj 2023:       </strong>  Pokretanje masovne regrutacije (50.000 dobrovoljaca VDP).</li>
+    <li><strong>Jul 2023:       </strong>  Govor na samitu u Sankt Peterburgu (Globalni odjek).</li>
+    <li><strong>Februar 2024:   </strong>  Istupanje iz ECOWAS bloka i formiranje AES saveza.</li>
+  </ul>
+</div>
+
 ---
 
-## Budućnost moći: Između heroja i diktatora
+## Globalni odjek: Novi pan-afrikanizam 21. vijeka
 
-Pitanje koje opsjeda analitičare jeste u šta će se transformisati moć Ibrahima Traoréa u godinama koje dolaze. Da li će ostati <span class="highlight-text">**heroj**</span> koji je spasio državu, ili će skliznuti u klasičnu vojnu diktaturu koja guši slobode? Njegova moć je trenutno apsolutna, ali ona zavisi od krhkog balansa između vojnih uspjeha i socijalne stabilnosti u zemlji koja je na rubu iscrpljenosti.
+Moć Ibrahima Traoréa ne završava se na granicama Burkine Faso; ona se preliva na čitav kontinent, inspirišući novi talas <span class="highlight-text">**pan-afrikanizma**</span> koji odbacuje starateljstvo zapadnih sila. Njegova harizma i direktan nastup postali su pogonsko gorivo za mlade aktiviste od Senegala do Južne Afrike, koji u njemu vide lidera sposobnog da kaže "ne" globalnom sistemu koji Afriku decenijama drži na periferiji. On je uspio da pretvori Burkinu Faso u simbol otpora, čime je postao ključna figura u novom preslagivanju snaga na afričkom tlu.
 
-Iskušenja su ogromna: ekonomske sankcije, prijetnja novim pučevima i pritisak međunarodne zajednice. Traoréov odgovor je jasan – prioriteti su sigurnost i suverenitet, a ne puki izborni kalendari. On gradi <span class="highlight-text">**novi model države**</span> u Africi, onaj koji odbacuje liberalnu demokratiju zapadnog tipa u korist snažnog, centralizovanog i vojnog vođstva koje obećava brze i vidljive rezultate.
+Formiranje Saveza država Sahela (AES) sa Malijem i Nigerom direktan je plod te nove političke arhitekture koju Traoré zagovara. Ovaj blok ne predstavlja samo vojni savez, već pokušaj stvaranja nezavisnog ekonomskog i političkog prostora koji ignoriše pritiske <span class="highlight-text">**tradicionalnih regionalnih organizacija**</span> pod uticajem Zapada. Traoréova vizija je jasna: ujedinjena, suverena i naoružana Afrika koja samu sebe hrani i brani. Taj san o potpunoj autonomiji je ono što mu daje gotovo mitski status među potlačenima.
 
-Na kraju, Ibrahim Traoré ostaje najfascinantniji portret moći današnjice jer otjelovljuje sve kontradikcije modernog Sahela. On je istovremeno vojnik i političar, askezista i vizionar, nacionalista i globalni igrač. Dokle god nosi tu crvenu beretku, on će biti simbol jedne Afrike koja je odlučila da <span class="highlight-text">**više ne čeka na dozvolu**</span>. Njegova moć je svedočanstvo vremena u kojem se sjenke pustinje pretvaraju u nove centre svjetske politike.
-
----
+Ipak, ovaj globalni odjek nosi i pečat velike geopolitičke neizvjesnosti. Dok ga jedni slave kao oslobodioca, drugi ga vide kao opasan presedan koji bi mogao uvesti kontinent u novu eru militarizma i izolacionizma. Bez obzira na krajnji ishod, Ibrahim Traoré je već sada uspio da promijeni <span class="highlight-text">**rječnik afričke politike**</span>. On je dokazao da moć u 21. vijeku ne dolazi samo iz dubine trezora ili jačine lobističkih grupa, već iz sposobnosti da se narodu vrati osjećaj istorijske misije i sopstvene vrijednosti u očima svijeta.
 
 <div class="tip-box">
 <h3><strong>Zanimljivost o Traoreu</strong></h3>
@@ -170,8 +157,40 @@ Ibrahim Traoré je postao viralan širom svijeta kada je na samit u Sankt Peterb
 
 ---
 
-## Zaključak: Moć kao dužnost i prkos
+## Zaključak: Između heroja i diktatora
 
-Portret Ibrahima Traoréa nije samo priča o jednom čovjeku, već o čitavom regionu koji traži svoj <span class="highlight-text">**novi put**</span>. Njegova moć nije proistekla iz glasačkih kutija, već iz dubokog uvjerenja da je državi potreban hirurški rez kako bi preživjela. On je lider koji je shvatio da se u kriznim vremenima moć ne moli, već se uzima i koristi kao instrument opstanka.
+Pitanje koje opsjeda analitičare jeste u šta će se transformisati moć Ibrahima Traoréa u godinama koje dolaze. Da li će ostati <span class="highlight-text">**heroj**</span> koji je spasio državu, ili će skliznuti u klasičnu vojnu diktaturu koja guši slobode? Njegova moć je trenutno apsolutna, ali ona zavisi od krhkog balansa između vojnih uspjeha i socijalne stabilnosti u zemlji koja je na rubu iscrpljenosti. Iskušenja su ogromna: ekonomske sankcije, prijetnja novim pučevima i pritisak međunarodne zajednice. Traoréov odgovor je jasan – prioriteti su sigurnost i suverenitet, a ne puki izborni kalendari. On gradi <span class="highlight-text">**novi model države**</span> u Africi, onaj koji odbacuje liberalnu demokratiju zapadnog tipa u korist snažnog, centralizovanog i vojnog vođstva koje obećava brze i vidljive rezultate.
 
-Ibrahim Traoré nam pokazuje najsiroviji oblik ljudske moći – onu koja se rađa iz <span class="highlight-text">**prkosa i harizme**</span>. On je podsjetnik da se geopolitičke mape svijeta ne iscrtavaju samo u velikim metropolama, već i u prašnjavim gradovima Sahela gdje se rađa novi afrički suverenitet. U tišini pustinje, njegova moć nastavlja da raste, prkoseći svim pravilima starog svijeta.
+Na kraju, Ibrahim Traoré ostaje najfascinantniji portret moći današnjice jer otjelovljuje sve kontradikcije modernog Sahela. On je istovremeno vojnik i političar, askezista i vizionar, nacionalista i globalni igrač. Dokle god nosi tu crvenu beretku, on će biti simbol jedne Afrike koja je odlučila da <span class="highlight-text">**više ne čeka na dozvolu**</span>. Njegova moć je svedočanstvo vremena u kojem se sjenke pustinje pretvaraju u nove centre svjetske politike.
+
+{{< faq title="Često postavljana pitanja o Ibrahimu Traoréu i Burkini Faso" >}}
+
+  {{< faq-item q="Ko je Ibrahim Traoré i kako je došao na vlast?" >}}
+Ibrahim Traoré je mladi oficir Burkine Faso koji je u septembru 2022. godine predvodio vojni puč, zbacivši tadašnju prelaznu vladu zbog neuspjeha u borbi protiv terorizma. Sa 34 godine postao je najmlađi šef države na svijetu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto ga često porede sa Thomasom Sankarom?" >}}
+Porede ga zbog slične revolucionarne retorike, nošenja crvene beretke, vojničke askeze i beskompromisnog stava protiv neokolonijalizma i stranog miješanja u unutrašnja pitanja Afrike.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto je Burkina Faso prekinula odnose sa Francuskom?" >}}
+Traoréova vlada optužila je Francusku za neefikasnost u borbi protiv džihadista i miješanje u unutrašnju politiku, tražeći potpuno povlačenje francuskih trupa kako bi se osigurao puni suverenitet zemlje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kakvu ulogu Rusija igra u današnjoj Burkini Faso?" >}}
+Rusija je postala ključni bezbjednosni partner, pružajući vojnu opremu, obuku i logističku podršku u borbi protiv militantnih grupa, zamjenjujući tako tradicionalni uticaj zapadnih sila.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je VDP i kakva je njihova uloga?" >}}
+VDP (Dobrovoljci za odbranu domovine) su civilne paravojne formacije koje je Traoré masovno mobilisao kako bi pomogli vojsci u zaštiti lokalnih zajednica od terorističkih napada širom zemlje.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je Burkina Faso i dalje članica ECOWAS-a?" >}}
+Ne, Burkina Faso je početkom 2024. godine zvanično istupila iz ECOWAS-a (Ekonomske zajednice država zapadne Afrike) zajedno sa Malijem i Nigerom, formirajući sopstveni Savez država Sahela (AES).
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koji su najveći izazovi za Traoréovu vlast?" >}}
+Najveći izazovi su stalna bezbjednosna kriza na sjeveru, ekonomske sankcije međunarodne zajednice, unutrašnji pritisci unutar vojske i potreba za rješavanjem dubokog siromaštva u izolaciji.
+  {{< /faq-item >}}
+
+{{< /faq >}}

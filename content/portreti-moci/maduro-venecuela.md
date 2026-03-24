@@ -25,9 +25,7 @@ tags:
   - Latinska Amerika
 ---
 
-Venecuela je gotovo čitavo jedno stoljeće bila <span class="highlight-text">**paradigma latinoameričkog sna**</span>. Dok su druge zemlje regiona prolazile kroz cikluse vojnih diktatura, građanskih ratova i hronične nestabilnosti, ova država je zahvaljujući nafti gradila sliku sigurnosti, prosperiteta i modernosti. Ogromna ležišta oko jezera Maracaibo, a kasnije i u Orinoko pojasu, pretvorila su Venecuelu u jednog od <span class="highlight-text">najvećih izvoznika sirove nafte na planeti</span>. Dolari su pristizali u količinama kakve nijedna druga latinoamerička država nije mogla ni da zamisli. 
-
-Sedamdesetih godina Caracas je bio grad nebodera, autoputeva i luksuznih četvrti. <span class="highlight-text">**Aerodrom Maiquetía**</span> bio je jedno od glavnih čvorišta između Sjeverne i Južne Amerike, dok su rafinerije i luke radile danonoćno. Srednja klasa rasla je ubrzano, univerziteti su proizvodili generacije inženjera, ljekara i ekonomista, a zemlja je bila politički stabilnija od većine svojih susjeda.
+Venecuela je gotovo čitavo jedno stoljeće bila paradigma latinoameričkog sna. Dok su druge zemlje regiona prolazile kroz cikluse vojnih diktatura, građanskih ratova i hronične nestabilnosti, ova država je zahvaljujući nafti gradila sliku sigurnosti, prosperiteta i modernosti. Ogromna ležišta oko jezera Maracaibo, a kasnije i u Orinoko pojasu, pretvorila su Venecuelu u jednog od <span class="highlight-text">**najvećih izvoznika sirove nafte na planeti**</span>. Dolari su pristizali u količinama kakve nijedna druga latinoamerička država nije mogla ni da zamisli. Sedamdesetih godina Caracas je bio grad nebodera, autoputeva i luksuznih četvrti. <span class="highlight-text">**Aerodrom Maiquetía**</span> bio je jedno od glavnih čvorišta između Sjeverne i Južne Amerike, dok su rafinerije i luke radile danonoćno. Srednja klasa rasla je ubrzano, univerziteti su proizvodili generacije inženjera, ljekara i ekonomista, a zemlja je bila politički stabilnija od većine svojih susjeda.
 
 Ali ispod te blještave fasade krila se opasna slabost. Privreda gotovo u potpunosti zavisna od jednog resursa ostala je bez otpornosti. Država se navikla da sve probleme rješava prihodima iz zemlje, umjesto reformama i jačanjem institucija. Nafta je finansirala sistem, ali ga je istovremeno <span class="highlight-text">**učinila krhkim**</span>. Kada je došlo do prvih ozbiljnih potresa, temelji su se pokazali kao pijesak.
 
@@ -43,26 +41,23 @@ Ali ispod te blještave fasade krila se opasna slabost. Privreda gotovo u potpun
 
 ---
 
-## Nasljednik revolucije
+## Nasljednik revolucije i bolivarski san
 
-Dolazak <span class="highlight-text">**Huga Cháveza**</span> na vlast krajem devedesetih označio je prekretnicu. Njegova <span class="highlight-text">„bolivarska revolucija“</span> donijela je novu ideologiju, snažnu retoriku socijalne pravde i direktno oslanjanje na prihode od nafte kako bi se finansirali masovni socijalni programi. U prvim godinama, dok su cijene energenata rasle, sistem je funkcionisao. Siromaštvo je opadalo, infrastruktura se širila, a Chávez je postao <span class="highlight-text">jedan od najuticajnijih lidera globalnog juga.
+Dolazak harizmatičnog **Huga Cháveza** na vlast krajem devedesetih označio je istorijsku prekretnicu i uvođenje takozvane „bolivarske revolucije“. Ova nova ideologija donijela je agresivnu retoriku socijalne pravde, koristeći rekordne prihode od nafte za finansiranje masovnih programa pomoći najsiromašnijim slojevima stanovništva. U prvim godinama, dok je cijena crnog zlata nezaustavljivo rasla, činilo se da sistem funkcioniše i da Venecuela postaje <span class="highlight-text">**lider globalnog juga**</span>.
 
-Ali paralelno sa tim procesom počelo je sistematsko potkopavanje nezavisnih institucija. Sudovi, izborni organi i mediji stavljeni su pod političku kontrolu. Državna naftna kompanija PDVSA pretvorena je iz profesionalne korporacije u produženu <span class="highlight-text">**ruku vlasti**</span>. Korupcija je bujala, ali je bila skrivena iza visokih cijena nafte.
+Paralelno sa socijalnim usponom, počelo je sistematsko i tiho potkopavanje svih nezavisnih državnih institucija. Sudovi, mediji i izborni organi postepeno su stavljani pod direktnu političku kontrolu vladajuće partije, dok je korupcija bujala u sjenkama visokih cijena energenata. Državna naftna kompanija PDVSA, nekada profesionalna korporacija, pretvorena je u običnu <span class="highlight-text">**produženu ruku vlasti**</span>, čime je struka ustupila mjesto partijskoj lojalnosti i ideološkoj podobnosti.
 
-Kada je Chávez umro 2013. godine, njegov nasljednik <span class="highlight-text">**Nicolás Maduro**</span> preuzeo je državu koja je već bila duboko ranjiva. Bio je to trenutak u kojem je harizma zamijenjena lojalnošću aparata, a politička vizija prešla u borbu za opstanak.
+Kada je Chávez preminuo 2013. godine, njegov nasljednik **Nicolás Maduro** preuzeo je kormilo države koja je već bila duboko načeta unutrašnjim slabostima. Bio je to kritičan trenutak u kojem je preostala revolucionarna harizma zamijenjena krutim aparatom moći, a politička vizija se svela na puku borbu za opstanak režima. Maduro se suočio sa nasljeđem koje je zahtijevalo bolne reforme, ali je on izabrao put <span class="highlight-text">**još čvršće kontrole**</span> i političke radikalizacije.
 
 ---
 
-## Od naftnog raja do hiperinflacije
+## Od naftnog raja do totalne hiperinflacije
 
-Pad cijena nafte 2014. godine bio je početak lavine. Državni budžet se urušio, devizne rezerve nestajale su alarmantnom brzinom, a vlada je odgovorila <span class="highlight-text">**štampanjem novca bez pokrića**</span>. Posljedica je bila jedna od najgorih <span class="highlight-text">hiperinflacija u savremenoj istoriji</span>. Cijene su rasle iz sata u sat, plate gubile vrijednost prije nego što bi bile isplaćene, a ljudi su torbe punili novčanicama da bi kupili osnovne namirnice.
+Nagli pad cijena nafte 2014. godine označio je početak ekonomske lavine koja je Venecuelu gurnula u provaliju bez dna. Državni budžet se bukvalno urušio preko noći, a vlada je na krizu odgovorila najgorim mogućim potezom — neograničenim <span class="highlight-text">**štampanjem novca bez ikakvog pokrića**</span>. Rezultat je bila jedna od najrazornijih hiperinflacija u savremenoj istoriji čovječanstva, gdje su cijene osnovnih namirnica rasle bukvalno iz sata u sat.
 
-Nestanci hrane, lijekova i goriva postali su svakodnevica. U bolnicama su nestajali antibiotici i osnovna oprema, dok su hirurzi improvizovali u uslovima koji su podsjećali na <span class="highlight-text">**ratne zone**</span>. U zemlji koja je nekada izvozila gorivo širom svijeta, građani su čekali u redovima od nekoliko kilometara da natoče benzin.
+Život običnog građanina pretvorio se u svakodnevnu borbu za preživljavanje, gdje su torbe pune bezvrijednih novčanica bile potrebne za kupovinu hljeba ili jaja. Nestanci hrane, lijekova i struje postali su nova normalnost, dok su bolnice ostajale bez osnovne opreme i antibiotika u uslovima koji su podsjećali na <span class="highlight-text">**stvarne ratne zone**</span>. Paradox je bio potpun: zemlja sa najvećim rezervama nafte na svijetu suočila se sa kilometarskim redovima za gorivo.
 
-U urbanim centrima, posebno u Caracasu, infrastruktura se polako raspada. Nestanci struje traju satima, ponekad i danima. Metro sistem, nekada <span class="highlight-text">**ponos glavnog grada**</span>, funkcioniše uz minimalno održavanje. Vodosnabdijevanje je neredovno, a mnoge četvrti zavise od cisterni.
-Naftna industrija, stub ekonomije, proizvodi tek dio nekadašnjih količina. Rafinerije su zastarjele, <span class="highlight-text">stručnjaci su emigrirali</span>, a korupcija izjela operativne kapacitete.
-
-Egzodus je prerastao u demografski slom. Milioni ljudi napustili su Venecuelu, često <span class="highlight-text">**pješke prelazeći granice**</span>. Kolumbija, Peru i Brazil primali su stotine hiljada izbjeglica, dok su cijeli kvartovi u **Caracasu** ostajali napušteni.
+U nekadašnjem ponosu kontinenta, urbanim centrima poput Caracasa, infrastruktura je počela da se raspada pred očima stanovnika. Metro sistem, nekada simbol modernosti, jedva je funkcionisao uz minimalno održavanje, dok su čitave četvrti ostajale bez vode danima. Naftna industrija, nekadašnji stub ekonomije, doživjela je kolaps jer su <span class="highlight-text">**vodeći stručnjaci emigrirali**</span>, a rafinerije zastarjele zbog nedostatka investicija i sveprisutne korupcije.
 
 {{< figcredit 
     src="slike/maduro/maduro2.jpg" 
@@ -76,27 +71,33 @@ Egzodus je prerastao u demografski slom. Milioni ljudi napustili su Venecuelu, �
 
 ---
 
-## Izbori bez izbora
+## Egzodus: Narod koji bježi pješke
 
-Politički sistem ušao je u fazu potpune polarizacije. <span class="highlight-text">Izbori su formalno postojali</span>, ali su sve više gubili legitimitet. Opozicioni kandidati diskvalifikovani su administrativnim odlukama, **mediji su stavljeni pod kontrolu**, a izborni proces obilježen nepravilnostima.
+Duboka ekonomska i humanitarna kriza pokrenula je jedan od najvećih migracionih talasa u istoriji zapadne hemisfere. Milioni očajnih ljudi su spakovali svoje živote u jedan kofer i napustili domovinu, često <span class="highlight-text">**pješke prelazeći granice**</span> u potrazi za osnovnim dostojanstvom. Kolumbija, Peru, Brazil i Čile postali su utočišta za stotine hiljada izbjeglica koje su bježale od gladi i potpunog beznađa u sopstvenoj zemlji.
 
-Kriza je kulminirala **2019. godine**, kada se Juan Guaidó proglasio <span class="highlight-text">privremenim predsjednikom uz podršku većine zapadnih država</span>. Na trenutak se činilo da je režim na ivici sloma. Međutim, vojska je ostala lojalna Maduru, a državni aparat je zatvorio redove. Opozicija je vremenom izgubila momentum, dok je međunarodna pažnja počela da slabi.
+Ovaj masovni egzodus doveo je do pravog demografskog sloma Venecuele, ostavljajući čitave kvartove u Caracasu sablasno napuštenim i pustim. Odlazak najobrazovanijeg dijela stanovništva, ljekara, inženjera i profesora, stvorio je generacijsku rupu koju će biti nemoguće popuniti decenijama. Porodice su razdvojene hiljadama kilometara, a jedina veza sa domovinom postale su <span class="highlight-text">**skromne novčane doznake**</span> koje su slali oni koji su uspjeli da nađu bilo kakav posao u inostranosti.
 
-Sjedinjene Države podigle su krivične optužnice protiv Madura zbog navodne povezanosti sa **trgovinom drogom**. Sankcije su dodatno izolovale zemlju, ali nisu donijele političku promjenu. Naprotiv, režim se prilagodio: trgovina se preusmjerila prema <span class="highlight-text">**Rusiji, Kini i Iranu**</span>, dok su paralelni finansijski tokovi zamijenili zvanične kanale.
-
-Maduro se vremenom <span class="highlight-text">transformisao</span> iz ideološkog nasljednika u pragmatičnog vladara koji balansira između velikih sila, regionalnih saveznika i unutrašnje kontrole.
+Prizori kolona ljudi koji pješače autoputevima Južne Amerike postali su tragičan simbol propasti jedne nekada bogate i uspješne države. Humanitarne organizacije su upozoravale na katastrofu, ali je režim u Mirafloresu dugo negirao samu postojanje izbjegličke krize, nazivajući je <span class="highlight-text">**stranom propagandom**</span>. Venecuela je od zemlje koja je primala imigrante iz cijelog svijeta postala zemlja iz koje se bježi po svaku cijenu, čak i kroz opasne džungle Darijena.
 
 ---
 
-## Talasi nestabilnosti: regionalni efekat venecuelanske krize
+## Izbori bez pravog izbora i gubitak legitimiteta
 
-Posljedice krize nisu ostale zatvorene <span class="highlight-text">unutar granica Venecuele</span>. Migracioni talas promijenio je demografsku mapu cijelog kontinenta. Kolumbijski pogranični gradovi udvostručili su stanovništvo, <span class="highlight-text">**peruanske i ekvadorske službe**</span> suočile su se sa pritiskom kakav nisu imale decenijama, dok su političke tenzije rasle širom regiona.
+Politički sistem Venecuele pod Madurom ušao je u fazu potpune polarizacije i postepenog gubitka bilo kakvog demokratskog legitimiteta. Iako su izbori formalno i dalje održavani, procesi su postajali sve netransparentniji, uz masovne diskvalifikacije opozicionih lidera i apsolutnu kontrolu nad medijskim prostorom. Režim je koristio državne resurse za ucjenu birača, dok su <span class="highlight-text">**nezavisni posmatrači**</span> sistematski onemogućavani u svom radu.
 
-Venecuela je tako postala faktor nestabilnosti <span class="highlight-text">**Latinske Amerike**</span>, ali i test sposobnosti regionalnih organizacija da odgovore na jednu od najvećih humanitarnih kriza u modernoj istoriji kontinenta. Organizacija američkih država, Unija južnoameričkih nacija i niz ad-hoc inicijativa pokušavali su da posreduju, ali bez **trajnog uspjeha**.
+Kriza legitimiteta je kulminirala 2019. godine kada je Juan Guaidó dobio podršku zapadnih sila, ali je Maduro uspio da zadrži lojalnost vojnog vrha i bezbjednosnog aparata. Opozicija je, uprkos masovnim protestima na ulicama Caracasa, postepeno gubila početni zamah pred represijom koja nije birala sredstva. Režim je pokazao nevjerovatnu sposobnost preživljavanja kroz <span class="highlight-text">**stvaranje paralelnih institucija**</span> koje su služile isključivo za očuvanje moći u rukama uskog kruga ljudi.
 
-Istovremeno, Maduro je vješto koristio regionalne podjele. Savezništva sa <span class="highlight-text">**Kubom, Nikaragvom i Bolivijom**</span> omogućila su mu politički oslonac, dok su promjene vlasti u Brazilu, Argentini i Kolumbiji periodično otvarale i zatvarale prostor za pritisak.
+Međunarodna izolacija i teške ekonomske sankcije postale su novi zid oko Venecuele, ali one nisu donijele željenu promjenu vlasti. Naprotiv, Maduro je vješto iskoristio sankcije kao izgovor za sve ekonomske promašaje, dok je trgovinu preusmjerio prema saveznicima poput <span class="highlight-text">**Rusije, Kine i Irana**</span>. Politička borba se iz institucija preselila na ulice, ali su pendreci i suzavac brzo utišali glasove nezadovoljstva, ostavljajući narod u apatiji i strahu.
 
-Sudbina Venecuele tako je postala ogledalo **političke nestabilnosti** cijelog kontinenta.
+---
+
+## Regionalni efekat nestabilnosti i migrantski pritisak
+
+Posljedice unutrašnje venecuelanske drame brzo su prešle njene državne granice, mijenjajući demografsku i političku mapu čitave Latinske Amerike. Kolumbijski pogranični gradovi poput Cúcute doživjeli su nezapamćen pritisak, dok su se peruanske i ekvadorske socijalne službe suočile sa kolapsom pod naletom izbjeglica. Venecuela je tako postala glavni <span class="highlight-text">**faktor nestabilnosti**</span> u regionu, testirajući solidarnost susjednih država do samih granica izdržljivosti.
+
+Političke tenzije u regionu su rasle kako su se vlade Južne Amerike dijelile na one koje podržavaju Madura i one koje traže njegov hitan odlazak. Organizacija američkih država (OAS) se pokazala nemoćnom da posreduje u krizi, dok su regionalne inicijative propadale jedna za drugom pred nepopustljivošću režima u Caracasu. Sudbina Venecuele pretvorila se u <span class="highlight-text">**ogledalo političke nesloge**</span> cijelog kontinenta, dodatno pojačavajući ideološke rovove između ljevice i desnice.
+
+Istovremeno, Maduro je veoma vješto manipulisao regionalnim podjelama kako bi sebi obezbijedio bar minimalni manevarski prostor. Savezništva sa Kubom i Nikaragvom pružala su mu obavještajnu i logističku podršku, dok su pobjede ljevičarskih kandidata u drugim zemljama periodično smanjivale pritisak na njegovu administraciju. Venecuela više nije bila samo humanitarni problem, već <span class="highlight-text">**geopolitički šahovski poligon**</span> na kojem su se prelamali interesi mnogo većih globalnih igrača.
 
 {{< figcredit 
     src="slike/maduro/maduro3.jpg" 
@@ -110,59 +111,90 @@ Sudbina Venecuele tako je postala ogledalo **političke nestabilnosti** cijelog 
 
 ---
 
-## Nafta kao geopolitika: resurs koji spašava i razara
+## Nafta kao oružje preživljavanja i izolacije
 
-U središtu čitave venecuelanske drame ostaje jedan isti element — <span class="highlight-text">**nafta**</span>. Najveće dokazane rezerve na svijetu pretvorile su se iz blagoslova u političko oružje. Kontrola nad energentima omogućila je režimu da preživi <span class="highlight-text">**sankcije**</span>, ali i da pregovara sa velikim silama iz pozicije strateške važnosti.
+U samom središtu venecuelanske tragedije ostaje jedan te isti element koji je nekada obećavao vječno bogatstvo — nafta. Najveće dokazane rezerve na svijetu pretvorile su se iz blagoslova u najmoćnije <span class="highlight-text">**političko oružje režima**</span> za preživljavanje u uslovima teških međunarodnih sankcija. Kontrola nad naftnim poljima omogućila je Maduru da kupuje lojalnost vojnih generala i da tajno trguje sa državama koje ignorišu američke zabrane.
 
-U trenucima najveće izolacije, Madurova vlada pronašla je alternativne puteve izvoza kroz <span class="highlight-text">**složene mreže posrednika**</span>, „tamne flote“ tankera i bilateralnih dogovora sa državama koje nisu **priznavale američke sankcije**. Iran je pomogao obnovu rafinerija, Rusija je obezbijedila logistiku, dok je Kina nastavila otkup nafte kao otplatu ranijih dugova.
+U trenucima kada je zvanični izvoz bio gotovo onemogućen, vlada je razvila složenu mrežu posrednika i takozvanih "tamnih flota" tankera koji su isporučivali sirovu naftu na azijska tržišta. Iran je poslao svoje inženjere i gorivo kako bi pomogao u obnovi ruiniranih rafinerija, dok je Rusija obezbijedila logistiku za zaobilazne finansijske tokove. Venecuela je tako postala svojevrsni <span class="highlight-text">**eksperiment sankcione geopolitike**</span>, pokazujući koliko je teško srušiti režim koji sjedi na strateškom resursu.
 
->U tom kontekstu, Venecuela je postala <span class="highlight-text">**eksperiment sankcione geopolitike**</span>. Pitanje koje se postavljalo u diplomatskim krugovima nije bilo samo kako promijeniti vlast, već da li sankcije uopšte mogu srušiti režim koji kontroliše strateški resurs i ima podršku globalnih rivala Zapada.
-
-Paradoks je bio očigledan: što je zemlja bila izolovanija, to je njena geopolitička **vrijednost rasla**.
+>Paradoks je bio bolan za narod: dok su se na vrhu vrtjeli milioni od ilegalne prodaje nafte, obični građani nisu imali struje da osvijetle domove. Pitanje koje se godinama postavljalo u diplomatskim krugovima bilo je da li sankcije uopšte mogu donijeti promjenu ako režim ima podršku globalnih rivala Zapada. Venecuela je dokazala da strateški resursi mogu biti <span class="highlight-text">**pojas za spasavanje diktature**</span> čak i kada se cijela ekonomija države pretvori u prah i pepeo.
 
 ---
 
-## Venecuela kao geopolitičko bojište velikih sila
+## Geopolitičko bojište velikih sila u dvorištu SAD
 
-Kriza u Venecueli odavno je prestala biti isključivo <span class="highlight-text">**unutrašnje**</span> pitanje jedne latinoameričke države. Ona se pretvorila u jedno od ključnih geopolitičkih čvorišta savremenog svijeta, mjesto gdje se ukrštaju interesi Sjedinjenih Država, Rusije, Kine i regionalnih sila Latinske Amerike. Sudbina Madura i njegovog režima direktno je bila povezana sa <span class="highlight-text">globalnim odnosima</span> moći i borbom za kontrolu nad energetskim resursima.
+Kriza u Venecueli odavno je prestala biti samo unutrašnje pitanje i prerasla je u jedno od najvažnijih geopolitičkih čvorišta savremenog svijeta. Caracas je postao mjesto gdje se otvoreno ukrštaju koplja Sjedinjenih Država, Rusije i Kine, pretvarajući sjever Južne Amerike u poligon za demonstraciju globalne moći. Sudbina Nicolása Madura postala je neraskidivo vezana za širu <span class="highlight-text">**borbu za novi multipolarni poredak**</span> i kontrolu nad energetskim tokovima.
 
-Za Vašington, Venecuela predstavlja dvostruki izazov: **ideološki i strateški**. Još od Hladnog rata <span class="highlight-text">Karibi i sjever Južne Amerike</span> smatrani su američkom sferom uticaja. Dolazak Cháveza, a kasnije i Madura, otvoreno je doveo u pitanje tu doktrinu. Socijalistička retorika, savezništvo sa Kubom i otvoreni antiamerički stav pretvorili su Venecuelu u simbol otpora američkoj hegemoniji u regionu.
+Za Vašington, Venecuela predstavlja direktan strateški izazov u sferi koja se tradicionalno smatrala američkom zonom uticaja još od vremena Monroove doktrine. Prisustvo ruskih vojnih savjetnika i kineskih investitora u neposrednom američkom susjedstvu imalo je snažan simbolički efekat prkosa zapadnoj hegemoniji. Moskva je Venecuelu koristila kao <span class="highlight-text">**geopolitičku polugu**</span> za pritisak na SAD, uzvraćajući na američko prisustvo u istočnoj Evropi i blizu ruskih granica.
 
-Istovremeno, prisustvo Rusije i Kine dodatno je zakomplikovalo situaciju. Moskva je Venecuelu koristila kao geopolitičku polugu u globalnom nadmetanju sa Zapadom, nudeći kredite, vojnu opremu i diplomatsku zaštitu u <span class="highlight-text">Savjetu bezbjednosti Ujedinjenih nacija</span>. Pojava ruskih vojnih savjetnika u Caracasu imala je snažan simbolički efekat: prvi put nakon Kubanske krize jedna velika sila demonstrirala je vojno prisustvo u neposrednom američkom susjedstvu.
+Kina je, sa druge strane, djelovala tiše ali kroz ogromne kredite koji su zemlju učinili dugoročno zavisnom od Pekinga. Venecuela je za Kinu bila strateška investicija u energetsku bezbjednost, ali i važan politički saveznik u izgradnji novog svjetskog poretka koji ne zavisi od dolara. U tom kontekstu, podrška Maduru nije bila samo pitanje ideologije, već <span class="highlight-text">**hladna računica moći**</span> u kojoj su interesi naroda Venecuele bili tek sporedna stavka u velikoj igri velikih sila.
 
-Kina je, sa druge strane, igrala tišu, ali dugoročniju igru. Kroz milijarde dolara kredita obezbijeđenih budućim isporukama nafte, Peking je postao jedan od <span class="highlight-text">**glavnih finansijskih**</span> oslonaca režima. Venecuela je za Kinu bila strateška investicija u energetskoj bezbjednosti, ali i politički saveznik u stvaranju multipolarnog svijeta.
-
----
-
-## Kraj jedne ere: Hapšenje i pad Mirafloresa
-
-Početak 2026. godine donio je prizore koje je malo ko mogao predvidjeti sa takvom silinom. Nakon mjeseci tajnih pregovora dijela vojnog vrha sa međunarodnim faktorima, podrška Maduru se **istopila u svega nekoliko dana**. <span class="highlight-text">**Hapšenje Nicolása Madura**</span>, koje su izvele specijalne jedinice uz podršku međunarodnih naloga, nije bilo samo policijska akcija, već simbolički kraj decenija „čavizma“.
-
-Slike bivšeg predsjednika u pritvoru <span class="highlight-text">**obišle su svijet**</span>, ostavljajući iza sebe zemlju u dubokim ranama, ali sa prvim stvarnim nagovještajem promjene u posljednjih četvrt vijeka. Pravni procesi koji su uslijedili pred međunarodnim sudovima postali su test za globalnu pravdu, dok je Venecuela preko noći ušla u fazu bolne tranzicije.
-
-<div class="tip-box">
-<h3><strong>Hronologija: ključni datumi Venecuele i Nicolása Madura</strong></h3>
-
-<ul>
-<li><strong>1999.</strong> – Hugo Chávez dolazi na vlast i pokreće „bolivarsku revoluciju“.</li>
-<li><strong>2013.</strong> – Smrt Cháveza; Nicolás Maduro izabran za predsjednika.</li>
-<li><strong>2014.</strong> – Počinje pad cijena nafte i ekonomski kolaps.</li>
-<li><strong>2017.</strong> – Masovni protesti i stvaranje Ustavotvorne skupštine lojalne režimu.</li>
-<li><strong>2019.</strong> – Juan Guaidó proglašava se privremenim predsjednikom.</li>
-<li><strong>2020.</strong> – SAD podižu optužnice protiv Madura.</li>
-<li><strong>2023.</strong> – Djelimično ublažavanje sankcija i ograničeni pregovori sa opozicijom.</li>
-<li><strong>2026.</strong> – Hapšenje Nikolasa Madura.</li>
-</ul>
+<div class="info-box-container">
+  <h3><strong>Vremenska linija uspona i pada</strong></h3>
+  <ul>
+    <li><strong>1999.</strong> – Hugo Chávez dolazi na vlast i proglašava početak „bolivarske revolucije“.</li>
+    <li><strong>2013.</strong> – Smrt Cháveza; Nicolás Maduro tijesnom pobjedom postaje predsjednik.</li>
+    <li><strong>2014.</strong> – Nagli pad cijena nafte koji pokreće ekonomski kolaps i hiperinflaciju.</li>
+    <li><strong>2019.</strong> – Juan Guaidó se proglašava za privremenog predsjednika uz podršku Zapada.</li>
+    <li><strong>2020.</strong> – Sjedinjene Države podižu optužnicu protiv Madura zbog trgovine drogom.</li>
+    <li><strong>2024.</strong> – Kontroverzni izbori praćeni masovnim protestima širom zemlje.</li>
+    <li><strong>2026.</strong> – Pad režima i hapšenje Nicolása Madura u Caracasu.</li>
+  </ul>
 </div>
 
 ---
 
-## Epilog koji još nije napisan
+## Hapšenje Nicolása Madura i pad Mirafloresa
 
-Sudbina Venecuele ostaje otvoreno pitanje. Hoće li se zemlja postepeno reformisati ili će nastaviti da tone u produženu krizu, zavisi od faktora koji nadilaze jednog čovjeka. Ali jedno je jasno: <span class="highlight-text">priča o Maduru i Venecueli</span> već sada zauzima posebno mjesto u savremenoj političkoj istoriji.
+Početak 2026. godine donio je dramatične prizore koje su mnogi u Venecueli čekali punu deceniju, ali u koje je malo ko do kraja vjerovao. Nakon što je unutrašnja lojalnost vojnog vrha konačno pukla pod pritiskom ekonomskog neodrživosti i tajnih pregovora sa međunarodnim faktorima, podrška režimu je nestala u svega nekoliko dana. <span class="highlight-text">**Hapšenje Nicolása Madura**</span> koje su izvele specijalne snage uz podršku međunarodnih naloga, označilo je definitivan i krvav kraj ere „čavizma“.
 
-Danas Venecuela zauzima <span class="highlight-text">**neobično mjesto na globalnoj mapi**</span>. Ona nije velika sila, ali je previše važna da bi bila ignorisana. Nije demokratska država, ali je previše strateška da bi bila izolovana do kraja. U svijetu koji se sve brže dijeli na suprotstavljene blokove, Caracas je postao jedna od tačaka gdje se testira novi međunarodni poredak.
+Slike nekada svemoćnog lidera u pritvoru munjevitom brzinom su obišle svijet, simbolizujući pad jedne od najdugovječnijih autoritarnih vladavina u Latinskoj Americi. Ulice Caracasa su, umjesto ideoloških mitinga, preplavile mase ljudi koje su tražile pravdu za godine provedene u bijedi i progonu. Ovaj događaj nije bio samo policijska akcija, već <span class="highlight-text">**duboki tektonski poremećaj**</span> koji je pokrenuo talas promjena širom čitavog kontinenta, ostavljajući iza sebe opustošenu ali slobodnu zemlju.
 
-Venecuela, nekada energetsko srce Latinske Amerike, danas je i jedno od **najosjetljivijih mjesta** savremene geopolitike.
-To je priča o zemlji koja je imala sve, a izgubila gotovo sve. I o moći koja se, jednom osvojena, rijetko napušta bez dubokih lomova.
+Pad palate Miraflores postao je test za globalnu pravdu, dok je Venecuela preko noći ušla u fazu bolne i neizvjesne tranzicije ka nečemu novom. Pravni procesi pred međunarodnim sudovima za zločine protiv čovječnosti i masovnu korupciju tek su počeli da otkrivaju razmjere propasti koju je režim ostavio u nasljeđe. Venecuela je ponovo postala slobodna, ali sa sviješću da će oporavak od decenija razaranja biti <span class="highlight-text">**najteži ispit u njenoj modernoj istoriji**</span>.
 
+<div class="tip-box">
+  <h3><strong>Da li ste znali?</strong></h3>
+  <p>Na vrhuncu hiperinflacije u Venecueli, nacionalna valuta <strong>bolivar</strong> izgubila je toliko na vrijednosti da su lokalni umjetnici počeli koristiti novčanice kao <strong>papir za crtanje ili pletenje torbi</strong>. Bilo je jeftinije napraviti novčanik od samih novčanica nego kupiti materijal za izradu istog. Jedna kafa je u jednom trenutku koštala preko milion bolivara, što je dovelo do toga da su ljudi bukvalno mjerili novac na vagu umjesto da ga broje.</p>
+</div>
+
+---
+
+## Zaključak: Epilog koji se tek ispisuje
+
+Sudbina Venecuele i dalje ostaje otvoreno, bolno pitanje koje nadilazi sudbinu samo jednog čovjeka ili jedne ideološke partije. Hoće li se zemlja uspjeti reformisati i povratiti stari sjaj bogate demokratije, zavisi od faktora koje je danas nemoguće do kraja predvidjeti. Ipak, <span class="highlight-text">**priča o Maduru i Venecueli**</span> već sada zauzima mračno i poučno mjesto u udžbenicima savremene političke istorije kao opomena o moći nafte i ideologije.
+
+Venecuela danas zauzima neobično i strateški važno mjesto na globalnoj mapi, previše važna da bi bila ignorisana, ali previše ranjena da bi bila stabilna. U svijetu koji se ubrzano dijeli na suprotstavljene blokove, ona ostaje tačka gdje se testiraju novi modeli međunarodnog poretka i izdržljivosti naroda. Venecuela, nekadašnje energetsko srce kontinenta, danas je <span class="highlight-text">**najosjetljiviji seizmograf**</span> savremene geopolitike čiji eho odjekuje daleko van Kariba.
+
+To je ujedno i tragična priča o državi koja je imala apsolutno sve prirodne preduslove za uspjeh, a koja je izgubila gotovo sve zbog loše politike i pohlepe. To je podsjetnik da se moć, jednom kada se pretvori u apsolutnu kontrolu, rijetko napušta bez dubokih i trajnih društvenih lomova. Epilog venecuelanskog sna se tek ispisuje, a narod se nada da će <span class="highlight-text">**sljedeće poglavlje**</span> biti ispisano olovkom, a ne naftom ili suzavcem.
+
+{{< faq title="Često postavljana pitanja o krizi u Venecueli" >}}
+
+  {{< faq-item q="Zašto je Venecuela, uprkos nafti, postala siromašna?" >}}
+Glavni razlozi su potpuna zavisnost od nafte, katastrofalno loše vođenje ekonomije, hiperinflacija izazvana štampanjem novca i sveprisutna korupcija u državnim strukturama.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta je to hiperinflacija i kako je uticala na građane?" >}}
+Hiperinflacija je nekontrolisani rast cijena; u Venecueli je dostigla nivoe gdje su plate gubile svaku vrijednost za par sati, čineći nemogućom kupovinu osnovne hrane.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Ko su glavni saveznici režima Nicolása Madura?" >}}
+Glavni međunarodni saveznici su Rusija, Kina, Iran i Kuba, koji su pružali finansijsku, vojnu i diplomatsku podršku u zamjenu za naftu i uticaj.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko ljudi je napustilo Venecuelu tokom krize?" >}}
+Procjenjuje se da je više od 7 miliona ljudi (oko 25% stanovništva) napustilo zemlju, što predstavlja jednu od najvećih izbjegličkih kriza na svijetu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Zašto se vojska dugo nije okrenula protiv Madura?" >}}
+Maduro je vojne generale postavio na ključne pozicije u ekonomiji, posebno u naftnom sektoru i uvozu hrane, čime je njihove lične interese neraskidivo vezao za opstanak režima.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kakvu ulogu su igrale američke sankcije?" >}}
+Sankcije su bile usmjerene na izolaciju režima i presijecanje naftnih prihoda, ali su istovremeno produbile ekonomsku krizu za obične građane.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta se desilo sa Nicolásom Madurom početkom 2026. godine?" >}}
+Nakon unutrašnjeg sloma vojnog vrha i gubitka kontrole nad aparatom moći, Maduro je uhapšen u akciji koja je označila kraj decenija vladavine "čavizma".
+  {{< /faq-item >}}
+
+{{< /faq >}}

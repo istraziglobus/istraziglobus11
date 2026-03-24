@@ -1,10 +1,10 @@
 ---
-title: "Egipat: Geopolitička moć Sueckog kanala"
-subtitle: "Gdje se sudaraju mora, sudbine i trgovina"
-slug: "sueski-kanal-plavi-koridor"
+title: "Suecki kanal: geopolitička moć Egipta i arterija svjetske trgovine"
+subtitle: "Kako ovaj prolaz između Mediterana i Crvenog mora oblikuje trgovinu, geopolitiku i pomorstvo"
+slug: "suecki-kanal-geopolitika"
 date: 2025-12-06T10:00:00+02:00
 author: "Istraži Globus Tim"
-description: "Suecki kanal nije samo vodeni prolaz – to je arterija svjetske trgovine, pozornica istorijskih drama i mjesto gdje se susreću moć, tehnologija i more."
+description: "Saznajte zašto je Suečki kanal ključan za svjetsku trgovinu, koliko brodova prolazi kroz njega i kako ovaj egipatski prolaz utiče na geopolitiku, pomorstvo i globalno snabdijevanje."
 image: "slike/suecki-kanal/suec-hero.jpg"
 image_alt: "Brod u Sueckom kanalu"
 image_author: "Oliver Clarke"
@@ -26,20 +26,20 @@ tags:
 most_read: false
 ---
 
-<p class="intro-paragraph">
-Samo na karti izgleda jednostavno: uski potez vode urezan u pustinju, linija koja spaja Mediteran i Crveno more. Ali u stvarnosti, <span class="highlight-text">**Suecki kanal je mnogo više od crte na mapi**</span>. On je arterija globalne ekonomije, moćna žila kucavica koja svakog dana prevozi milijarde dolara robe i spaja svjetove koji bi inače bili razdvojeni hiljadama kilometara i mjesecima plovidbe. Njegova strateška važnost daleko nadilazi geografiju, direktno utičući na cijene nafte, snabdijevanje robom i međunarodnu stabilnost. Kanal služi kao ključni indikator zdravlja svjetske trgovine, reflektujući sve globalne ekonomske i političke turbulencije.
 
-Za pomorce, on predstavlja izazov i olakšanje istovremeno. Za Egipat – srce njegovog geopolitičkog identiteta. Za svijet – mjesto gdje jedan brod može zaustaviti planetu. **Suecki kanal** je simbol vremena u kojem živimo: krhak, snažan, nezamjenjiv.
-</p>
+Samo na karti izgleda jednostavno: uski potez vode urezan u pustinju, linija koja spaja Mediteran i Crveno more. Ali u stvarnosti, Suecki kanal je mnogo više od crte na mapi. On je arterija globalne ekonomije, moćna žila kucavica koja svakog dana prevozi milijarde dolara robe i spaja svjetove koji bi inače bili razdvojeni hiljadama kilometara i mjesecima plovidbe. Njegova strateška važnost daleko nadilazi geografiju, direktno utičući na <span class="highlight-text">**cijene nafte**</span>, snabdijevanje robom i međunarodnu stabilnost. 
+
+Kanal služi kao ključni indikator zdravlja svjetske trgovine, reflektujući sve globalne ekonomske i političke turbulencije. Za pomorce, on predstavlja izazov i olakšanje istovremeno. Za Egipat – srce njegovog geopolitičkog identiteta. Za svijet – mjesto gdje jedan brod može zaustaviti planetu. <span class="highlight-text">**Suecki kanal**</span> je simbol vremena u kojem živimo: krhak, snažan, nezamjenjiv.
 
 ---
 
-## Kanal koji je promijenio tok istorije 
+## Kanal koji je promijenio tok istorije
 
-Kada je 1869. godine svečano otvoren, Suecki kanal nije bio samo građevinski podvig. Bio je to <span class="highlight-text">**civilizacijski događaj**</span>, promjena koja je skratila morske rute između Evrope i Azije za gotovo *7.000 kilometara*. Odjednom, svijet je postao manji. Prije kanala, brodovi su morali da oplovljavaju Afriku – opasnu i iscrpljujuću rutu oko Rta dobre nade. Godinama su mornari gubili brodove, teret i živote na tom burnom putu. Suecki kanal je taj ciklus prekinuo. Danas kroz njega godišnje prođe više od <span class="highlight-text">**20.000 brodova**</span> – tankeri koji nose naftu, kontejnerski giganti koji snabdijevaju gradove, vojna plovila koja čuvaju interese velikih sila. 
+Kada je 1869. godine svečano otvoren, Suecki kanal nije bio samo građevinski podvig već civilizacijski događaj koji je skratio morske <span class="highlight-text">**rute**</span> drastično. Odjednom, svijet je postao manji jer brodovi više nisu morali da oplovljavaju Afriku i opasni Rt dobre nade tokom dugih putovanja.
 
-Njegova konstrukcija zahtijevala je masovni međunarodni inženjerski napor i viziju, što ga je odmah pozicioniralo kao jedno od sedam modernih svjetskih čuda. 
-Sam projekat se smatra trijumfom francuskog inženjera Ferdinanda de Lessepsa, čija je kompanija nadgledala izgradnju. Kanal je postao <span class="highlight-text">**plava pista**</span> globalizacije.
+Danas kroz njega godišnje prođe više od 20.000 brodova, uključujući kontejnerske gigante koji snabdijevaju gradove i vojna plovila koja čuvaju <span class="highlight-text">**interese**</span> sila. Njegova konstrukcija zahtijevala je masovni međunarodni inženjerski napor i viziju, što ga je odmah pozicioniralo kao jedno od modernih svjetskih čuda.
+
+Sam projekat se smatra trijumfom francuskog inženjera Ferdinanda de Lessepsa, čija je kompanija godinama nadgledala izgradnju u teškim pustinjskim <span class="highlight-text">**uslovima**</span> Egipta. Kanal je postao plava pista globalizacije, omogućavajući protok robe koji je ranije bio nezamisliv za tadašnje trgovačke flote i kompanije.
 
 {{< figcredit 
     src="slike/suecki-kanal/suec1.jpg" 
@@ -53,17 +53,13 @@ Sam projekat se smatra trijumfom francuskog inženjera Ferdinanda de Lessepsa, �
 
 ---
 
-## Egipat i kanal – priča o moći, ponosu i borbi 
+## Egipat i kanal: Priča o ponosu i borbi
 
-Ako postoji mjesto gdje je politika jednako duboka kao voda ispod kobilice, to je Suecki kanal.
-Kroz istoriju, bio je:
+Ako postoji mjesto gdje je politika jednako duboka kao voda ispod kobilice broda, to je bez sumnje Suecki kanal tokom proteklog <span class="highlight-text">**vijeka**</span>. Kroz istoriju, on je bio ponos kolonijalnih sila koje su ga gradile, ali i strateška nagrada za koju su se vodili krvavi ratovi.
 
-- **ponos kolonijalnih sila**, koje su ga gradile i kontrolisale  
-- **strateška nagrada**, za koju su se vodili ratovi  
-- **ekonomski temelj Egipta**, koji danas zarađuje milijarde dolara od prolaza brodova  
-- **geopolitička tačka pritiska**, koja može, u trenutku, presjeći tok svjetske trgovine  
+Godine 1956. Egipat ga je nacionalizovao pod vođstvom predsjednika Nasera, što je direktno dovelo do čuvene Suecke krize i vojne <span class="highlight-text">**intervencije**</span> zapada. Ta odluka je odjeknula kao grom u međunarodnoj politici, testirajući granice suvereniteta mlade države i mijenjajući odnos snaga na Bliskom istoku.
 
-Godine 1956. <span class="highlight-text">Egipat ga je nacionalizovao</span>. Taj čin, pod vođstvom predsjednika Nasera, direktno je doveo do Sueske krize, vojne intervencije Britanije, Francuske i Izraela, čime je kanal postao centar Hladnog rata. Bila je to odluka koja je odjeknula kao grom u međunarodnoj politici, testirajući granice suvereniteta. Egipat je tokom sukoba čak namjerno potopio brodove kako bi blokirao plovidbu, demonstrirajući spremnost da koristi kanal kao polugu moći. Usledile su napetosti, sukobi i interventne operacije, ali kanal je ostao u rukama Egipćana – kao simbol suvereniteta i nacionalnog ponosa.
+Egipat je čak namjerno potopio brodove kako bi blokirao plovidbu, demonstrirajući spremnost da koristi kanal kao moćnu polugu u međunarodnim <span class="highlight-text">**pregovorima**</span>. Danas je on simbol nacionalnog ponosa i suvereniteta, ali i ključni ekonomski temelj koji Egiptu donosi milijarde dolara čiste zarade svake godine.
 
 ---
 
@@ -75,12 +71,11 @@ Ulazak u kanal počinje u luci <span class="highlight-text">**Port Said** na sje
 Ovaj obavezni ukrcaj pilota s egipatskim certifikatom ključan je jer oni, i samo oni, posjeduju specifično znanje o plovidbenim karakteristikama kanala. 
 Od tog časa, posada predaje sudbinu lađe u ruke stručnjaka kanala. 
 
-Piloti su majstori plovidbe: <span class="highlight-text">poznaju svaki zavoj, svaku struju, svaki metar</span>. Plovidba traje desetak do dvanaest sati. Nakon prvih nekoliko kilometara, osjeća se neobična tišina – kao da su čak i motori tiši, kao da se brod kreće kroz istoriju.
-
+Piloti su majstori plovidbe: <span class="highlight-text">**poznaju svaki zavoj, svaku struju, svaki metar**</span>. Plovidba traje desetak do dvanaest sati. Nakon prvih nekoliko kilometara, osjeća se neobična tišina – kao da su čak i motori tiši, kao da se brod kreće kroz istoriju.
 
 {{< figcredit 
     src="slike/suecki-kanal/suec2.jpg" 
-    alt="Brod u lici koji čeka utovar"
+    alt="Brod u luci koji čeka prolaz"
     author="JAXPORT"
     source="Flickr / Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:Suez_Canal_Bridge_(2).jpg"
@@ -90,23 +85,23 @@ Piloti su majstori plovidbe: <span class="highlight-text">poznaju svaki zavoj, s
 
 ---
 
-## Susreti i prolasci – leđima uz pustinju 
+## Bliski susreti na ivici pješčane dine
 
-Najimpresivniji trenutak je kada se dva giganta <span class="highlight-text">mimoilaze u uskim dijelovima kanala</span>. Pomorci kažu:
+Najimpresivniji trenutak je kada se dva giganta mimoilaze u uskim dijelovima kanala, ostavljajući minimalan prostor između sigurnosti i potencijalne <span class="highlight-text">**katastrofe**</span>. Sa jedne strane udara pustinjski vjetar koji podiže prašinu, dok je sa druge zid od čelika drugog broda koji prolazi u suprotnom smjeru.
 
-> „Tada shvatiš koliko je malo prostora između sigurnosti i katastrofe.“
+Na nekim dionicama kanal je toliko uzak da se posmatraču sa obale čini kao da brod bukvalno trči po vrelom pijesku umjesto po <span class="highlight-text">**vodi**</span>. Zato su stalne modernizacije ključne, posebno izgradnja paralelnih dionica koje omogućavaju dvosmjerni saobraćaj i značajno smanjuju vrijeme čekanja za sve kapetane.
 
-Sa jedne strane – pustinjski vjetar koji podiže prašinu. Sa druge – zid vode i čelika, drugi brod čija pramčana kosa izgleda kao planina u pokretu. Na nekim dijelovima Suecki kanal je toliko uzak da se čini kao da brod <span class="highlight-text">„trči po kopnu“</span>. Zato su modernizacije ključne, posebno izgradnja drugog plovnog puta na određenim sekcijama, što omogućava dvosmjerni saobraćaj i smanjuje vrijeme čekanja. 
-
-Uveče, svjetla s mosta presijecaju tamu, stvarajući čudnu sliku: kontejnerski giganti plutaju kroz pijesak, vođeni reflektorima. Ponekad se posada može diviti i takozvanim "Fata Morgana" iluzijama iznad užarenog pijeska, što dodaje gotovo mističan element prolasku.
+Uveče, snažna svjetla sa mosta presijecaju tamu stvarajući nadrealnu sliku kontejnerskih brodova koji plutaju kroz mrak vođeni jakim <span class="highlight-text">**reflektorima**</span>. Ponekad se posada može diviti i iluzijama iznad užarenog pijeska, što dodaje gotovo mističan element čitavom iskustvu prolaska kroz srce egipatske pustinje.
 
 ---
 
-## Ever Given: trenutak kada je planeta stala 
+## Ever Given: Trenutak blokade cijele planete
 
-U martu 2021. godine desilo se nešto što je zvučalo nemoguće: ogromni brod <span class="highlight-text">**Ever Given**</span> zaglavio se ukoso u kanalu. Svijet je stao. Globalna trgovina izgubila je *9,6 milijardi dolara dnevno*. Stotine brodova čekalo je sa obje strane, formirajući zastoj neviđenih razmjera. Ovaj incident je razotkrio ekstremnu ranjivost sistema globalnog snabdijevanja, pokazujući koliko je trgovina ovisna o jednom jedinom, uskom prolazu. 
+U martu 2021. godine desilo se nešto što je zvučalo nemoguće kada se ogromni brod Ever Given zaglavio ukoso i potpuno blokirao <span class="highlight-text">**saobraćaj**</span>. Svijet je praktično stao, a globalna trgovina je gubila milijarde dolara svakog dana dok su stotine brodova nemoćno čekale sa obje strane prolaza.
 
-Slika zaglavljenog broda postala je simbol krhkosti moderne ekonomije. Cijene goriva su skočile, tržišta su se uzdrmala, a memovi preplavili internet. Samo napori spasilačkih timova, tegljača i bagera, koji su radili pod izuzetnim pritiskom, uspjeli su nakon šest dana osloboditi plovilo i ponovo pokrenuti protok roba. Taj događaj pokazao je koliko je Suecki kanal važan – i koliko je <span class="highlight-text">osjetljiv</span>.
+Ovaj incident je razotkrio ekstremnu ranjivost sistema snabdijevanja, pokazujući koliko je moderna civilizacija ovisna o jednom jedinom uskom <span class="highlight-text">**prolazu**</span> u Egiptu. Slika zaglavljenog diva postala je simbol krhkosti ekonomije, dok su cijene goriva na svjetskim berzama momentalno skočile zbog straha od dugotrajne blokade.
+
+Napori spasilačkih timova i bagera koji su radili pod neviđenim pritiskom uspjeli su nakon šest dana osloboditi plovilo i ponovo pokrenuti <span class="highlight-text">**protok**</span> roba. Taj događaj je trajno promijenio način na koji osiguravajuće kuće i logističke kompanije posmatraju rizike plovidbe kroz kritična uska grla svjetskih okeana.
 
 {{< figcredit 
     src="slike/suecki-kanal/suec3.jpg" 
@@ -120,48 +115,88 @@ Slika zaglavljenog broda postala je simbol krhkosti moderne ekonomije. Cijene go
 
 ---
 
-## Dogma, disciplina i strahopoštovanje 
+## Disciplina i strahopoštovanje na komandnom mostu
 
-Za pomorce, prolazak kroz **Suecki kanal** je kombinacija: rutine, stroge procedure i psihološkog pritiska. Na mostu, u tim trenucima, niko ne priča mnogo. Naredbe se daju tiho, precizno. Govor tijela je gotovo vojnički. Uz pilota, na brod ulazi i <span class="highlight-text">**konvoj radnika**</span>, uključujući i tzv. „Suez crew“ – tim koji osigurava da sve ide po protokolu, od vezivanja do manevrisanja. 
+Za pomorce je prolazak kroz Suecki kanal kombinacija rutine, stroge procedure i psihološkog pritiska koji se osjeća u vazduhu na komandnom <span class="highlight-text">**mostu**</span>. Naredbe se daju tiho i precizno, a uz pilota na brod ulazi i poseban tim radnika zadužen za tehničku podršku tokom tranzita.
 
-Svaki brod mora pratiti konvoj i držati strogo određenu brzinu kako bi se izbjegle opasne interakcije i oštećenja obale kanala. Pa ipak, uprkos ozbiljnosti, postoji poseban trenutak koji svaki mornar pamti: kada brod izađe na široko <span class="highlight-text">Crveno more</span>. Tada se posada opušta. Osjećaj da je rizični tranzit uspješno završen donosi veliko olakšanje cijeloj posadi. Vjetar postaje pun soli, horizont se širi, a iza broda ostaje plava traka historije.
+Svaki brod mora pratiti konvoj i držati strogo određenu brzinu kako bi se izbjegle opasne interakcije vode sa pješčanom <span class="highlight-text">**obalom**</span>. Ipak, uprkos ozbiljnosti situacije, postoji poseban momenat koji svaki mornar pamti, a to je izlazak na otvoreno plavetnilo Crvenog mora nakon tranzita.
+
+>Tada se posada konačno opušta jer osjećaj da je rizični manevar uspješno završen donosi veliko olakšanje svima koji su učestvovali u <span class="highlight-text">**plovidbi**</span>. Vjetar postaje pun soli, horizont se širi pred pramcem, a iza broda ostaje samo tanka plava traka koja spaja dva velika svjetska mora.
 
 ---
 
-## Ekonomija kanala 
+## Ekonomija i tranzitne takse kao temelj države
 
-Suecki kanal je jedan od najvažnijih ekonomskih resursa Egipta i ključna <span class="highlight-text">**arterija svjetske trgovine**</span>. Kroz njega godišnje prolaze hiljade brodova, a samo naplata tranzitnih taksi donosi Egiptu milijarde dolara prihoda. Taj novac zavisi od obima globalne razmjene, pa kanal postaje svojevrsni barometar svjetske ekonomije: kada trgovina raste, rastu i prihodi; kada se desi poremećaj, kao u slučaju Ever Givena, posljedice odmah osjete tržišta širom planeta.
+Suecki kanal je jedan od najvažnijih resursa Egipta koji kroz naplatu taksi donosi državi ogroman prihod neophodan za funkcionisanje nacionalne <span class="highlight-text">**infrastrukture**</span>. Taj novac direktno zavisi od obima globalne razmjene, pa kanal postaje svojevrsni barometar svjetske ekonomije koji jasno pokazuje svaku promjenu na tržištu.
 
-Zahvaljujući tome što skraćuje put između <span class="highlight-text">**Evrope i Azije**</span> za sedmicama, Suecki kanal je nezamjenjiv za brodarske kompanije. Njegova ekonomska vrijednost ne leži samo u taksama, već u vremenu koje štedi – vremenu koje se u pomorstvu pretvara direktno u novac. Zbog toga Egipat stalno ulaže u njegovo proširenje i modernizaciju, nastojeći da obezbijedi brži i sigurniji prolaz sve većim brodovima.
+Zahvaljujući činjenici da skraćuje put između Evrope i Azije za čitave sedmice, kanal je apsolutno nezamjenjiv za sve velike brodarske <span class="highlight-text">**kompanije**</span>. Njegova vrijednost ne leži samo u dolarima već u uštedi vremena koje se u pomorskoj industriji pretvara direktno u profit za vlasnike brodova.
+
+Zbog toga Egipat stalno ulaže u jaružanje dna i proširenje kanala, nastojeći da obezbijedi siguran prolaz za sve veće generacije kontejnerskih <span class="highlight-text">**brodova**</span>. Ekonomski uticaj ovog prolaza seže do najudaljenijih polica prodavnica širom svijeta, određujući cijenu proizvoda koje svakodnevno koristimo u našim domovima i kancelarijama.
 
 <div class="info-box-container">
- <h3>Fascinantne činjenice</h3>
- <ul>
- <li>Kanal je dug 193 km, ali njegova „radna dužina“ zavisi od proširenih dijelova i konvoja.</li>
- <li>Najveći brodovi koji prolaze nose do 20.000 TEU kontejnera. **Ove dimenzije se strogo kontrolišu kroz Suesmax standard.**</li>                                <li>Ne postoje brane – **Suecki kanal** je potpuno ravan i bez visinskih razlika, što je jedinstveno za kanale te dužine.</li>
- <li>Prolazak može koštati između 100.000 i 700.000 dolara po brodu, što ga čini jednim od najskupljih tranzita na svijetu.</li>
- <li>Oko 12% svjetske trgovine prolazi ovim putem, što uključuje značajan udio nafte i tečnog prirodnog gasa (LNG).</li>
- <li>Kanal radi 24 sata dnevno, uz strogi raspored konvoja, obično tri konvoja dnevno (dva na jug, jedan na sjever).</li>
- <li>Izgradnja je trajala 10 godina, od 1859. do 1869., a procjenjuje se da je stotine hiljada radnika učestvovalo u tom grandioznom poduhvatu.</li>                    </ul>
+  <h3>Tehničke specifikacije Sueckog kanala</h3>
+  <ul>
+    <li><strong>Godina otvaranja:</strong> 1869. (Novi kanal otvoren 2015).</li>
+    <li><strong>Dužina kanala:</strong> 193 kilometra od Port Saida do Sueca.</li>
+    <li><strong>Tranzitno vrijeme:</strong> Prosječno traje između 11 i 16 sati.</li>
+    <li><strong>Dnevni kapacitet:</strong> Oko 76 brodova nakon proširenja 2015. godine.</li>
+    <li><strong>Cijena prolaza:</strong> Varira između 100.000 i 700.000 dolara po tranzitu.</li>
+  </ul>
 </div>
 
 ---
 
-## Suecki kanal danas – i sjutra 
+## Budućnost i modernizacija Novog Sueca
 
-Egipat nastavlja da ulaže u širenje i modernizaciju <span class="highlight-text">**Sueckog kanala**</span>. Novi projekti nastoje:
-- proširiti uske sektore  
-- povećati dubinu  
-- digitalizovati nadzor  
-- ubrzati tranzit  
-- poboljšati sigurnosne standarde 
+Egipat nastavlja da ulaže u digitalizaciju nadzora i povećanje dubine kanala kako bi odgovorio na izazove koje donosi budućnost svjetskog <span class="highlight-text">**transporta**</span>. Najveća modernizacija, poznata kao Novi Suecki kanal, otvorila je 2015. godine paralelni plovni put dug 35 kilometara koji je drastično povećao kapacitet.
 
-Jer budućnost globalne trgovine zavisi od toga da **Suecki kanal** ostane siguran, protočan i stabilan. Najveća modernizacija, <span class="highlight-text">Novi Suecki kanal (otvoren 2015.), dodala je 35 km novog, paralelnog plovnog puta</span>, značajno povećavajući kapacitet i omogućavajući dvosmjernu plovidbu dijelom rute. Ovi stalni zahvati su nužni kako bi se kanal prilagodio sve većim dimenzijama modernih kontejnerskih brodova. Bez njega, svijet bi se vratio u doba dugih plovidbi i spore ekonomije. Upravljanje kanalom zahtijeva konstantno jaružanje dna kako bi se održala potrebna dubina za prolaz najvećih plovila.
+Ovi stalni zahvati su nužni kako bi se kanal prilagodio dimenzijama modernih plovila koja postaju sve veća i zahtjevnija za sigurno <span class="highlight-text">**upravljanje**</span>. Bez tih ulaganja, svijet bi se brzo vratio u doba sporije ekonomije i dugih plovidbi oko čitavog afričkog kontinenta kao u prošlim vijekovima.
+
+Upravljanje ovakvom strukturom zahtijeva konstantan rad na održavanju kanala kako bi se spriječilo taloženje pijeska koje bi moglo ugroziti prolaz najvećih <span class="highlight-text">**plovila**</span>. Budućnost globalne trgovine neraskidivo je vezana za stabilnost i efikasnost ovog vještačkog vodenog puta koji prkosi surovom okruženju vrele egipatske pustinje.
+
+<div class="tip-box">
+  <h3><strong>Zanimljivost: Lesepsijske migracije</strong></h3>
+  <p>Jeste li znali da je prokopavanje kanala izazvalo jedan od najvećih bioloških fenomena u istoriji? Nazvan po inženjeru Lesepsu, ovaj proces omogućio je stotinama morskih vrsta iz Crvenog mora da pređu u Mediteran. Danas su mnoge ribe koje jedemo u Grčkoj ili Italiji zapravo "doseljenici" koji su prije vijek i po bukvalno preplivali kroz Suecki kanal u potrazi za novim staništem.</p>
+</div>
 
 ---
 
-## Zaključak: Plavi nerv planete 
+## Zaključak: Plavi nerv naše planete
 
-Suecki kanal je mnogo više od vodene linije kroz pustinju — on je jedan od ključnih oslonaca savremenog svijeta. Kroz njega prolaze ritmovi ekonomija, odluke velikih sila i svakodnevni tokovi <span class="highlight-text">**globalne trgovine**</span>. Svaki brod koji njime prođe podsjeća koliko je **planeta povezana** i koliko zavisi od ovog uskog, ali presudnog plavog koridora. 
+Suecki kanal je mnogo više od vodene linije kroz pustinju jer predstavlja jedan od ključnih oslonaca čitavog savremenog poretka i svjetske <span class="highlight-text">**razmjene**</span>. Kroz njega prolaze ritmovi nacionalnih ekonomija, odluke velikih sila i svakodnevni tokovi roba koji povezuju udaljene kontinente u jednu cjelinu.
 
-Dok god kanal funkcioniše, svijet ostaje brži, bliži i međusobno isprepleteniji. On je<span class="highlight-text"> tiha tačka na mapi</span>, ali glasna u svom značaju — mjesto gdje se vidi koliko je moderna civilizacija istovremeno i snažna i ranjiva.
+Svaki brod koji njime prođe podsjeća nas koliko je planeta povezana i koliko zavisimo od ovog uskog, ali presudnog plavog <span class="highlight-text">**koridora**</span>. Dok god kanal funkcioniše bez zastoja, svijet ostaje brži i međusobno isprepleteniji, omogućavajući napredak civilizacije kroz nesmetanu trgovinu i komunikaciju.
+
+On je tiha tačka na mapi, ali izuzetno glasna u svom značaju za svakog stanovnika Zemlje, bez obzira na to koliko je <span class="highlight-text">**udaljen**</span> od Egipta. Suecki kanal ostaje trajni spomenik ljudskoj ambiciji da ukroti prirodu i stvori puteve koji spajaju narode i mora u jednu neraskidivu istorijsku nit.
+
+{{< faq title="Često postavljana pitanja o Sueckom kanalu" >}}
+
+  {{< faq-item q="Zašto je Suecki kanal toliko važan za svijet?" >}}
+Zato što skraćuje put između Evrope i Azije za oko 7.000 kilometara, štedeći vrijeme, gorivo i novac za 12% ukupne svjetske trgovine.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li u kanalu postoje brane ili ustave?" >}}
+Ne, za razliku od Panamskog kanala, Suecki kanal je potpuno ravan i bez visinskih razlika, pa voda slobodno teče između dva mora.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko košta prolazak jednog broda kroz kanal?" >}}
+Cijena zavisi od tonaže i vrste tereta, ali veliki kontejnerski brodovi plaćaju između 400.000 i 700.000 dolara za jedan tranzit.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta se desilo sa brodom Ever Given?" >}}
+U martu 2021. brod se zaglavio ukoso zbog jakog vjetra i pješčane oluje, blokirajući kanal na šest dana i izazvajući globalni zastoj trgovine.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Ko upravlja Sueckim kanalom?" >}}
+Kanalom upravlja državna institucija Suez Canal Authority (SCA) koja je u potpunom vlasništvu Vlade Egipta.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko je trajala izgradnja kanala u 19. vijeku?" >}}
+Izgradnja je trajala tačno 10 godina, od 1859. do 1869. godine, uz učešće stotina hiljada radnika i ogromne inženjerske izazove.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li svaki brod proći kroz kanal?" >}}
+Postoje ograničenja u dimenzijama poznata kao 'Suezmax' standard, ali nakon proširenja 2015. godine, čak i najveći super-tankeri mogu bezbjedno proći.
+  {{< /faq-item >}}
+
+{{< /faq >}}

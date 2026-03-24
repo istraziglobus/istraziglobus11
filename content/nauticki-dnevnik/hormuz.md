@@ -1,15 +1,15 @@
 ---
-title: "Hormuz: Najvažniji pomorski prolaz između Irana i Omana"
-subtitle: "Geopolitičko srce svijeta između Irana i Omana"
+title: "Moreuz Hormuz: geopolitičko srce između Irana i Omana"
+subtitle: "Zašto ovaj uski prolaz između Irana i Omana odlučuje o energiji, trgovini i stabilnosti svijeta"
 author: "Istraži Globus Tim"
-description: "Sve o moreuzu Hormuz: od strateške važnosti za svjetsku ekonomiju do nevjerovatnih fjordova Omana i crvene zemlje Irana."
+description: "Istražujemo moreuz Hormuz – strateški prolaz između Irana i Omana kojim prolazi veliki dio svjetske nafte, ali i regiju nevjerovatnih pejzaža, fjordova i ostrva Hormuz."
 date: 2026-03-09T11:00:00+01:00
 image: "slike/hormuz/hormuz-hero.jpg"
 image_alt: "Pogled na moreuz Hormuz i tankere"
 image_author: "Istraži Globus Arhiva"
-image_source: "/"
-image_source_url: "/"
-image_license: "/"
+image_source: ""
+image_source_url: ""
+image_license: "generisano preko AI"
 slug: "hormuz-moreuz-iran-oman-geopolitika"
 draft: false
 countries: ["Iran", "Oman"]
@@ -28,7 +28,7 @@ Ovaj moreuz nije samo linija na karti, već živi organizam kroz koji pulsira gl
 
 ---
 
-### Geografski ključ svjetske kapije
+## Geografski ključ svjetske kapije
 
 Priroda je ovdje bila nevjerovatno surova, stvarajući pejzaž od kojeg putniku često zastaje <span class="highlight-text">**dah**</span> dok posmatra kako se goli krečnjački vrhovi spuštaju pravo u tirkizno more. Pjeskovite dine i oštri, skriveni grebeni u dubini čine ovaj moreuz jednim od najtežih navigacionih izazova za kapetane najvećih brodova na svijetu, jer dubina varira neočekivano brzo. Uz to, stalne morske struje i visoke temperature isparavanja stvaraju specifičnu izmaglicu koja često otežava vizuelnu orijentaciju moreplovcima koji ovuda prolaze vjekovima.
 
@@ -48,7 +48,7 @@ Ovaj uski pojas vode definiše sudbinu okolnih naroda već hiljadama godina i sl
 
 ---
 
-### Hormuz u plamenu regionalnih sukoba
+## Hormuz u plamenu regionalnih sukoba
 
 U kontekstu trenutnih sukoba koji potresaju Bliski istok, moreuz Hormuz ponovo je postao centralna pozornica na kojoj se odmjeravaju snage velikih sila i regionalnih aktera. Svaka eskalacija tenzija, bilo da je riječ o direktnim sukobima ili posrednim ratovima, momentalno se reflektuje na sigurnost plovidbe ovim uskim prolazom. Iran je u više navrata nagovijestio da bi u slučaju totalne agresije mogli iskoristiti svoju geografsku poziciju da potpuno <span class="highlight-text">**blokiraju**</span> promet nafte, što bi izazvalo globalni ekonomski zemljotres bez presedana.
 
@@ -58,7 +58,7 @@ Uticaj ovih sukoba nije samo vojni, već i duboko psihološki, jer svaka vijest 
 
 ---
 
-### Ormuz: Izgubljeni sjaj kraljevstva
+## Ormuz: Izgubljeni sjaj kraljevstva
 
 Istorija ovog prolaza seže duboko u prošlost, u vrijeme kada je srednjovjekovni grad Ormuz bio jedan od najbogatijih trgovačkih <span class="highlight-text">**centara**</span> koje je tadašnji svijet poznavao. Putopisci su ga opisivali kao grad u kojem se zlato i začini prosipaju po ulicama, a važio je za nezaobilazna "vrata Indije" kroz koja je prolazilo nezamislivo bogatstvo. Trgovci iz Venecije i Kine sretali su se na ovim obalama, razmjenjujući dobra koja su oblikovala tadašnju globalnu ekonomiju i kulturu.
 
@@ -68,7 +68,7 @@ Danas ruševine starog svijeta na iranskom ostrvu svjedoče o prolaznosti svake 
 
 ---
 
-### Čuvari prolaza: Iran i Oman
+## Čuvari prolaza: Iran i Oman
 
 Sjevernu obalu u potpunosti drži Iran, koji moreuz smatra svojom prvom i najvažnijom <span class="highlight-text">**odbrambenom**</span> barijerom protiv bilo kakvog stranog uticaja u regiji. Njihova vojna prisutnost je vidljiva na svakom koraku, od patrolnih čamaca do radarskih stanica postavljenih na visokim liticama koje nadgledaju svaki pokret na vodi. Za Teheran, moreuz nije samo pomorski put već najjači diplomatski adut kojim mogu da utiču na globalna dešavanja kad god se za tim ukaže potreba.
 
@@ -88,9 +88,9 @@ Odnosi ove dvije zemlje direktno diktiraju temperaturu globalne <span class="hig
 
 ---
 
-### Zašto je Hormuz najvažniji moreuz na svijetu?
+## Zašto je Hormuz najvažniji moreuz na svijetu?
 
-Svaki dan kroz Hormuški moreuz prolazi približno <span class="highlight-text">**20 do 21 milion barela nafte**</span>, što predstavlja gotovo petinu ukupne svjetske potrošnje energije iz nafte. Ovaj uski prolaz između Irana i Omana funkcioniše kao pravi energetski ventil planete, jer je glavni izlaz za naftu koja dolazi iz država Persijskog zaliva. Tankeri koji ovuda prolaze nose energiju prema najvećim industrijskim ekonomijama svijeta, poput Kina, Japan i Indija.
+Svaki dan kroz Hormuški moreuz prolazi približno <span class="highlight-text">**20 do 21 milion barela nafte**</span>, što predstavlja gotovo petinu ukupne svjetske potrošnje energije iz nafte. Ovaj uski prolaz između Irana i Omana funkcioniše kao pravi energetski ventil planete, jer je glavni izlaz za naftu koja dolazi iz država Persijskog zaliva. Tankeri koji ovuda prolaze nose energiju prema najvećim industrijskim ekonomijama svijeta, poput Kine, Japana i Indije.
 
 Ogromni tankeri klase VLCC (Very Large Crude Carrier) mogu prevoziti i do <span class="highlight-text">**dva miliona barela**</span> nafte u jednom putovanju, pretvarajući svaki brod u pokretni rezervoar energije. Tokom najprometnijih sati kroz moreuz prolaze gotovo neprekidne kolone ovih čeličnih divova, često u razmacima od svega nekoliko minuta. Sa obala Omana prizor podsjeća na spor i gotovo hipnotičan tok plutajućih gradova koji nose gorivo za fabrike, elektrane i transport širom planete.
 
@@ -100,7 +100,7 @@ Iako je sam moreuz širok nekoliko desetina kilometara, brodovi se kreću kroz s
 
 ---
 
-### Ostrvo Hormuz: Spektakl boja
+## Ostrvo Hormuz: Spektakl boja
 
 Iransko ostrvo Hormuz je geološki <span class="highlight-text">**raj**</span> u kojem se tlo preliva u stotinama nijansi crvene i žute boje, stvarajući nadrealne kontraste sa morem. Visok sadržaj gvožđa i mineralnih soli u zemlji stvorio je pejzaž koji više podsjeća na površinu Marsa nego na bilo koje mjesto na Zemlji. Hodanje po ovom tlu ostavlja tragove crvene prašine na obući, podsjećajući putnike na drevnu snagu zemlje koja se ovdje bukvalno prosula po površini.
 
@@ -120,7 +120,7 @@ Istražiti unutrašnjost ostrva znači razumjeti dušu naroda koji živi na ivic
 
 ---
 
-### Geopolitika kao sudbina
+## Geopolitika kao sudbina
 
 U vojnim i strateškim krugovima Hormuz se definiše kao najkritičniji "choke point" na planeti, tačka koju je nemoguće <span class="highlight-text">**zaobići**</span> bez ogromnih gubitaka. Svaka velika sila, od zapadnih mornarica do rastućih azijskih ekonomija, ima vitalni interes da plovidba ovim moreuzom ostane potpuno slobodna. Interesi Kine, koja ovuda uvozi lavovski dio svoje energije, prepliću se sa bezbjednosnim garancijama zapada, čineći moreuz neobičnim mjestom paradoksalnih interesa.
 
@@ -141,7 +141,7 @@ Ipak, uprkos čestim krizama, moreuz i dalje funkcioniše kao glavni kanal ljuds
 
 ---
 
-### Budućnost i novi vidici
+## Budućnost i novi vidici
 
 Svjetski prelazak na obnovljivu energiju postavlja pitanje šta će biti sa ovim moreuzom u decenijama koje <span class="highlight-text">**dolaze**</span> pred nas. Mnogi stratezi u regiji već sada vide turizam i naučna istraživanja morskog dna kao nove stubove na kojima će se graditi ekonomija Hormuza. Transformacija regije iz čisto naftnog čvorišta u centar održivog razvoja zahtijevaće ogromna ulaganja i promjenu paradigme u glavama lokalnih moćnika.
 
@@ -156,8 +156,40 @@ Bez obzira na energetske promjene, Hormuz će uvijek zadržati svoju <span class
 
 ---
 
-### Zaključak: Moreuz uspravnih ljudi
+## Zaključak: Moreuz uspravnih ljudi
 
 Na kraju, Hormuz je mnogo više od običnog moreuza; on je živo ogledalo naše civilizacijske <span class="highlight-text">**stvarnosti**</span> i podsjetnik da su najvažnije tačke na planeti često i one najosjetljivije. Kroz ovaj uski tjesnac vidimo kako se prošlost i budućnost spajaju, tjerajući nas da shvatimo da je svijet neraskidivo međuzavisno <span class="highlight-text">**mjesto**</span>. Dok god brodovi mirno prolaze između Omana i Irana, globalna zajednica ima šansu da uči na greškama i bira put stabilnosti umjesto konflikta.
 
 Hormuz ostaje vječni učitelj o snazi geografije koja nas spaja uprkos svim vještačkim podjelama i granicama koje smo sami iscrtali. Neka nam ovaj moreuz bude inspiracija da tražimo puteve saradnje čak i tamo gdje su obale previše <span class="highlight-text">**blizu**</span>, a razlike izgledaju nepremostive. Putovanje kroz Hormuz se ne završava na njegovim liticama, već se nastavlja u našoj svijesti o očuvanju ovog globusa koji svi zajedno dijelimo.
+
+{{< faq title="Često postavljana pitanja o moreuzu Hormuz" >}}
+
+  {{< faq-item q="Zašto se Hormuz smatra najvažnijim moreuzom na svijetu?" >}}
+Zbog toga što kroz njega prolazi petina ukupne svjetske nafte. Bilo kakva blokada bi izazvala momentalni skok cijena goriva i globalnu ekonomsku krizu.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje države kontrolišu obale moreuza?" >}}
+Sjevernu obalu kontroliše Iran, dok južnu obalu (poluostrvo Musandam) kontroliše Oman. Ujedinjeni Arapski Emirati se nalaze u neposrednoj blizini na ulazu u zaliv.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je moreuz dovoljno dubok za najveće brodove?" >}}
+Jeste. Dubina kanala omogućava prolaz VLCC i ULCC tankerima, najmasivnijim brodovima ikada sagrađenim, mada zahtijeva preciznu navigaciju kroz plovne koridore.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Može li se Iran zaista odlučiti na zatvaranje moreuza?" >}}
+Teoretski da, jer njihova mornarica kontroliše ključne tačke, ali bi to nanijelo ogromnu štetu i njihovoj ekonomiji i vjerovatno izazvalo međunarodnu vojnu intervenciju.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Postoje li kopneni cjevovodi koji zaobilaze Hormuz?" >}}
+Postoje određeni cjevovodi u Saudijskoj Arabiji i UAE koji vode do Crvenog mora ili Omanskog zaliva, ali oni mogu da prevezu samo mali dio ukupne nafte iz regiona.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Šta turisti mogu vidjeti na iranskom ostrvu Hormuz?" >}}
+Ostrvo je poznato po nadrealnim pejzažima crvene zemlje, pećinama od soli, "Dolini duha" i ostacima stare portugalske tvrđave iz 16. vijeka.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kakva je uloga Omana u stabilnosti moreuza?" >}}
+Oman održava politiku neutralnosti i djeluje kao posrednik između zapada i Irana, osiguravajući da tehnički i logistički uslovi za plovidbu ostanu stabilni.
+  {{< /faq-item >}}
+
+{{< /faq >}}

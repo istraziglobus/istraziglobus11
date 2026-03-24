@@ -1,10 +1,10 @@
 ---
-title: "Madagaskar: Baobab – Drvo koje raste naopačke"
-subtitle: "Tajne 'osmog kontinenta' i biološkog inženjeringa najčudnijeg drveta na svijetu"
+title: "Madagaskar: Baobab drvo života koje izgleda kao da raste naopačke"
+subtitle: "Zašto je baobab simbol Madagaskara, kako preživljava sušu i zašto ga zovu drvo života"
 slug: "madagaskar-baobab-drvo-zivota"
 date: 2026-03-15T10:00:00+01:00
 author: "Redakcija"
-description: "Šta je baobab i zašto ga zovu drvo života? Otkrij tajne Madagaskara, najneobičnijeg drveta na svijetu i njegovu ulogu u prirodi."
+description: "Saznajte šta je baobab, zašto ga zovu drvo života i kakvu ulogu ima na Madagaskaru, od skladištenja vode do očuvanja jedinstvenog ekosistema."
 image: "slike/baobab/baobab-hero.jpg"
 image_alt: "Aleja baobaba na Madagaskaru tokom dana"
 image_author: "Bernard Gagnon" 
@@ -171,7 +171,7 @@ Baobab je drvo koje skladišti vodu i raste na Madagaskaru i u Africi.
   {{< /faq-item >}}
 
   {{< faq-item q="Koliko dugo živi baobab?" >}}
-Može živjeti i više od **2.000 godina**.
+Može živjeti i više od 2.000 godina.
   {{< /faq-item >}}
 
   {{< faq-item q="Da li baobab zaista raste naopačke?" >}}
