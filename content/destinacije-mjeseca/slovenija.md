@@ -11,7 +11,7 @@ image_author: "detait"
 image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/bled-lake-island-church-landmark-5890874/"
 image_license: "Pixabay License"
-license_url: "https://pixabay.com/service/license/"
+image_license_url: "https://pixabay.com/service/license/"
 countries: ["Slovenija"]
 categories:
   - Destinacija mjeseca
@@ -28,7 +28,7 @@ mesec_destinacije: "MART 2026"
 most_read: true
 ---
 
-Postoje države koje osvajaju svojom veličinom, i postoje one koje vas očaraju svojom **preciznošću**. Slovenija spada u ove druge. Zamislite prostor toliko kompaktan da se u njegovim granicama sudaraju tri potpuno različita svijeta: oštri vrhovi Alpa, mistični kraški podzemni lavirinti i blaga toplota Jadrana. Slovenija nije samo tranzitna tačka na putu ka zapadu; ona je <span class="highlight-text">**zelena laboratorija Evrope**</span>, mjesto gdje je ekološka svijest postala dio nacionalnog genoma, a priroda se čuva s religioznim žarom.
+Postoje države koje osvajaju svojom veličinom, i postoje one koje vas očaraju svojom preciznošću. Slovenija spada u ove druge. Slovenija je mala evropska država u kojoj se u kratkoj vožnji smjenjuju Alpi, kraške pećine, zelene prijestonice i jadranska obala, što je čini idealnom destinacijom za putovanje u martu. Slovenija nije samo tranzitna tačka na putu ka zapadu; ona je <span class="highlight-text">**zelena laboratorija Evrope**</span>, mjesto gdje je ekološka svijest postala dio nacionalnog genoma, a priroda se čuva s religioznim žarom.
 
 <div class="highlight-box">
   <h3>✨ Slovenija: Destinacija Mjeseca ✨</h3>
@@ -37,7 +37,7 @@ Postoje države koje osvajaju svojom veličinom, i postoje one koje vas očaraju
 
 ---
 
-## Zašto Slovenija u martu?
+## Šta vidjeti u Sloveniji u martu?
 
 Mart u Sloveniji je mjesec vizuelnog šoka. Dok se u Ljubljani otvaraju prve bašte kafića, na Triglavu zima još uvijek čvrsto drži položaje. Upravo ta <span class="highlight-text">**geografska dinamika**</span> omogućava vam ono što rijetko gdje u svijetu možete: da jutro provedete na skijama, a zalazak sunca dočekate uz tanjir morskih plodova na obali Pirana, dok vam vjetar s mora još uvijek donosi miris snijega s planina u daljini.
 
@@ -92,13 +92,13 @@ Međutim, Bled je više od estetike. On je dokaz kako se <span class="highlight-
 
 Slovenija se ne istražuje samo po horizontali, već i po vertikali. Ispod njenih zelenih šuma krije se jedan od najfascinantnijih pećinskih sistema na svijetu – <span class="highlight-text">**Postojnska jama**</span>. Sa preko 24 kilometra hodnika, dvorana i tunela koje je milionima godina klesala rijeka Pivka, Postojna je dokaz da prava čuda prirode često ne vide sunčevu svjetlost.
 
-Ono što Postojnu izdvaja je njena "stanovnica" – <span class="highlight-text">**čovječija ribica**</span> (*Proteus anguinus*), endemsko biće koje može živjeti i do sto godina i preživjeti deceniju bez hrane. Mart je idealno vrijeme za posjetu jer unutar pećine vlada stalna temperatura od 10°C, pružajući savršen bijeg od nepredvidivog prolećnog vremena napolju. Vožnja podzemnim vozom kroz dvorane visoke poput katedrala podsjeća nas da je Slovenija jednako moćna i u svojoj tami i u svojoj svjetlosti.
+Ono što Postojnu izdvaja je njena "stanovnica" – <span class="highlight-text">**čovječija ribica**</span> (*Proteus anguinus*), endemsko biće koje može živjeti i do sto godina i preživjeti deceniju bez hrane. Mart je idealno vrijeme za posjetu jer unutar pećine vlada stalna temperatura od 10°C, pružajući savršen bijeg od nepredvidivog proljećnog vremena napolju. Vožnja podzemnim vozom kroz dvorane visoke poput katedrala podsjeća nas da je Slovenija jednako moćna i u svojoj tami i u svojoj svjetlosti.
 
 Ovaj podzemni lavirint nije samo geološki fenomen, već i istorijski lokalitet. Postojna je imala ugrađenu <span class="highlight-text">**električnu rasvjetu**</span> prije mnogih evropskih prestonica, što svjedoči o ranoj fascinaciji ovim prostorom. Danas, dok prolazite kroz "Veliku goru" ili "Koncertnu dvoranu", osjećate strahopoštovanje prema vremenu; svaki stalaktit raste tek nekoliko milimetara u deceniji, čineći pećinu živim spomenikom koji strpljivo čeka da ljudska istorija prođe pored njega.
 
 {{< figcredit 
   src="slike/slovenija/slovenija1.jpg"
-  alt="Ulazak u Postojnsku jamu sa stalaktitima"
+  alt="Predjamski grad uklesan u stijenu u Sloveniji"
   author="vrolanas"
   source="Pixabay"
   source_url="https://pixabay.com/photos/predjama-castle-castle-slovenia-4453480/"
@@ -112,7 +112,7 @@ Ovaj podzemni lavirint nije samo geološki fenomen, već i istorijski lokalitet.
 
 Nijedna priča o Sloveniji nije potpuna bez pomena <span class="highlight-text">**Triglava**</span>. Ovaj vrh, sa svojih 2.864 metra, nije samo najviša tačka države, već njen duhovni centar. Postoji nepisano pravilo: nisi pravi Slovenac dok se bar jednom ne popneš na Triglav. Planina je toliko važna da se nalazi i na državnoj zastavi, simbolizujući snagu i opstanak naroda koji je vjekovima bio pod uticajem većih imperija.
 
-U martu, Triglav je carstvo leda. Alpinisti ga poštuju zbog njegove nepredvidivosti, a skijaši uživaju na padinama obližnje Kranjske Gore. Nacionalni park koji nosi njegovo ime pokriva 4% teritorije države, čuvajući jezera, kanjone i rijetke biljne vrste. Triglav je <span class="highlight-text">**kameni čuvar**</span> koji diktira klimu i ritam života cijele države, podsjećajući stanovnike da su planine ovdje uvijek bile prvo i poslednje utočište.
+U martu, Triglav je carstvo leda. Alpinisti ga poštuju zbog njegove nepredvidivosti, a skijaši uživaju na padinama obližnje Kranjske Gore. Nacionalni park koji nosi njegovo ime pokriva 4% teritorije države, čuvajući jezera, kanjone i rijetke biljne vrste. Triglav je <span class="highlight-text">**kameni čuvar**</span> koji diktira klimu i ritam života cijele države, podsjećajući stanovnike da su planine ovdje uvijek bile prvo i posljednje utočište.
 
 Dolina Vrata, podno sjeverne triglavske stijene, nudi prizor koji oduzima dah – masivni vertikalni zid koji se izdiže direktno ka nebu. Čak i za one koji se ne planinare, sama blizina ove planine donosi <span class="highlight-text">**osjećaj mira**</span>. Martovsko sunce koje se odbija od snijegom pokrivenog vrha stvara auru nepobjedivosti; Triglav je dokaz da, uprkos modernizaciji, Slovenija u svom srcu ostaje neukroćena, divlja i vječno vezana za svoje alpsko porijeklo.
 
@@ -150,7 +150,7 @@ Kulturni život grada u martu cvjeta podjednako kao i drvoredi u parku Tivoli. A
 
 {{< figcredit 
   src="slike/slovenija/slovenija2.jpg"
-  alt="Rijeka Ljublajnica koja protice kroz samo srce Ljubljane"
+  alt="Rijeka Ljubljanica koja protiče kroz samo srce Ljubljane"
   author="MemoryCatcher"
   source="Pixabay"
   source_url="https://pixabay.com/photos/canal-ljubljana-river-bridge-642872/"
@@ -310,8 +310,8 @@ Vogel je najbolji izbor jer se nalazi na velikoj visini iznad Bohinja i snijeg s
 Slovenija ima jednu od najkvalitetnijih voda u Evropi. Voda sa česme je savršeno bezbjedna i besplatna na mnogim javnim fontanama.
   {{< /faq-item >}}
 
-  {{< faq-item q="Koja je razlika između 'plitkog' i 'dubokog' tipa pećina?" >}}
-Plitki sistemi su bliže površini, dok su duboki, poput Postojne, građeni milionima godina kroz kompleksne geološke slojeve krečnjaka.
+  {{< faq-item q="Kakvo je vrijeme u Sloveniji u martu?" >}}
+Vrijeme je promjenjivo: u Alpima često još ima snijega, dok su Ljubljana i obala znatno blaže, pa je slojevito oblačenje najbolji izbor.
   {{< /faq-item >}}
 
   {{< faq-item q="Koliko vremena treba od Alpa do mora?" >}}
