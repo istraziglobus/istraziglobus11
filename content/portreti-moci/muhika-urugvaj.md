@@ -1,17 +1,17 @@
 ---
 title: "José Mujica: Lekcije o skromnosti iz Urugvaja"
-subtitle: "Portret najsiromašnijeg lidera na svijetu i duhovnog oca modernog Urugvaja"
+subtitle: "Portret najsiromašnijeg lidera na svjetu i duhovnog oca modernog Urugvaja"
 author: "Istraži Globus Tim"
 description: "Dubinska analiza života i filozofije Joséa 'Pepea' Mujice, čovjeka koji je od gerilskog borca postao predsjednik, odbijajući palate zarad trošne farme i starog Volkswagena."
 date: 2026-03-26T10:00:00+01:00
 image: "slike/muhika/muhika-hero.jpg"
-image_alt: "Jose Mujica na III svijetskom forumu u Buenos Airesu"
+image_alt: "Jose Mujica na III svjetskom forumu u Buenos Airesu"
 image_author: "Kaloian / Ministerio de Cultura de la Nación"
 image_source: "Wikimedia Commons / Flickr"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mujica_en_el_III_Foro_Mundial_de_Derechos_Humanos_2023.jpg"
 image_license: "CC BY-SA 2.0 Generic"
-image_licence_url: "https://creativecommons.org/licenses/by-sa/2.0/deed.en"
-slug: "jose-mujica-najsiromasniji-predsjednik-na-svijetu"
+image_license_url: "https://creativecommons.org/licenses/by-sa/2.0/deed.en"
+slug: "jose-mujica-najsiromasniji-predsjednik-na-svjetu"
 draft: false
 countries: ["Urugvaj"]
 categories:

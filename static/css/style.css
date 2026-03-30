@@ -1096,6 +1096,7 @@ CSS ZA SEKCIJU - SAVJETI ZA PUTOVANJA (Fino i Moderno)
     background-color: var(--bg-white);
     border-radius: var(--border-radius-soft);
     box-shadow: var(--shadow-light);
+    border-left: 8px solid #f300ba;
     padding: 30px;
     text-align: center;
     display: flex;
@@ -2902,7 +2903,7 @@ blockquote p {
 .tip-card {
     background: #fff;
     border: 1px solid #eee;
-    border-left: 5px solid #c9005e;
+    border-left: 5px solid #d70394;
     padding: 20px;
     border-radius: 12px;
     transition: transform 0.3s ease;
