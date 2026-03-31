@@ -1,130 +1,183 @@
 ---
 title: "Japan: Između drevnih tradicija i futurističkih gradova"
-subtitle: "Zemlja Jesenjih Boja, Harmonije i Vjekovnih Priča"
+subtitle: "Zemlja gdje jesenji javori plešu uz neonski sjaj budućnosti"
 slug: "japan-oktobar"
 date: 2025-10-01T10:00:00+02:00
 author: "Istraži Globus Tim"
-description: "Japan u oktobru: od hramova Kjota obasjanih crvenim lišćem, do futurističkog Tokija, planinskih pejzaža Hokaida i koralnih plaža Okinave – zemlja koja jesen pretvara u umjetničko djelo."
+description: "Istražujemo Japan u oktobru – mjesecu momijigarija, kada se hramovi Kjota utapaju u crveno lišće, a Tokio nudi savršen balans tehnologije i tradicije."
 image: "slike/japan/japan-hero.jpg"
-image_alt: "Jesenski pejzaž Kjota sa hramom Kiyomizu-dera u pozadini"
-image_author: "Gemini" 
-image_source: "/"
-image_source_url: "/" 
-image_license: "/"
-image_license_url: "/"
+image_alt: "Jesenski pejzaž sa hramom Himeji u pozadini"
+image_author: "Nick115"
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/heritage-japan-castle-himeji-white-5430081/"
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license-summary/"
 countries: ["Japan"]
 categories:
   - Destinacija mjeseca
-  - Azija
 tags:
   - Japan
   - Jesen
   - Kjoto
   - Tokio
   - Gastronomija
+  - Tehnologija
 featured_monthly_theme: true
 mesec_destinacije: "OKTOBAR 2025"
 most_read: true
 ---
 
-**Japan.** Zemlja gdje svaka jesen izgleda kao da ju je naslikao <span class="highlight-text">pažljiv umjetnik</span>. Kada oktobar stigne, arhipelag se oblači u crveno, zlatno i narandžasto, a ulice i parkovi postaju galerija pod vedrim nebom. Ovo je mjesec kada priroda i kultura plešu u istom ritmu: festivali u gradovima prate mijenu lišća, hramovi uronjeni u krošnje podsjećaju na vjekovnu tradiciju, a moderna metropola pokazuje svoje mirnije, tiše lice. Japan u oktobru nije samo destinacija – to je iskustvo koje spaja prošlost i budućnost, ritam grada i spokoj planine, boje prirode i ljudsku maštu.  
+Japan je zemlja u kojoj se drevna tišina i neonski sjaj budućnosti ne sudaraju, već žive u savršenoj harmoniji. Japan je zemlja gdje svaka jesen izgleda kao da ju je naslikao pažljiv umjetnik. Kada oktobar stigne, arhipelag se oblači u crveno, zlatno i narandžasto, a ulice i parkovi postaju galerija pod vedrim nebom. Ovo je mjesec kada priroda i kultura plešu u istom ritmu: festivali u gradovima prate mijenu lišća, hramovi uronjeni u krošnje podsjećaju na <span class="highlight-text">**vjekovnu tradiciju**</span>, a moderna metropola pokazuje svoje mirnije, tiše lice.
 
 <div class="highlight-box">
-    <h3>✨ Japan: Destinacija Meseca! ✨</h3>
-    <p>Ovog oktobra vodimo vas u Japan – od Kjota, gdje pagode uranjaju u more crvenih krošnji, preko Tokija koji u jesen usporava korak i otkriva parkove u zlatu, pa do Hokaida sa snježnim vrhovima i Okinave, gdje ljeto još traje. Jesen je ovdje priča koja se živi svim čulima.</p>
+  <h3>✨ Japan: Destinacija Mjeseca ✨</h3>
+  <p>Ovog oktobra vodimo vas u srce izlazećeg sunca. Od Kjota, gdje pagode uranjaju u more crvenih krošnji, preko Tokija koji u jesen usporava korak, pa do Hokaida sa snježnim vrhovima. Jesen je ovdje priča koja se živi svim čulima.</p>
 </div>
 
 ---
 
-### Istorija i Kultura: Zemlja Vjekovnog Balansa
+## Šta vidjeti u Japanu u oktobru?
 
-Japan je zemlja kontrasta – tamo gdje se pagoda iz 8. vijeka nadvija nad <span class="highlight-text">ultramodernim neboderom</span>, gdje se šintoistički hram u šumi može naći tik pored futurističke metro stanice. Njegova istorija je duga i složena, ali uvijek protkana istim nitima: težnjom ka balansu, poštovanjem prirode i kultom harmonije.  
+Oktobar u Japanu je mjesec vizuelnog preporoda u toplim tonovima. Dok se u Tokiju pale prve neonske reklame nove sezone, na sjeveru Hokaida zima polako šalje prve signale. Upravo ta <span class="highlight-text">**geografska dinamika**</span> omogućava vam ono što rijetko gdje u svijetu možete: da jutro provedete istražujući najmoderniju robotiku, a zalazak sunca dočekate uz ceremoniju čaja u Kjotu, dok vam vjetar s planina donosi miris jeseni.
 
-**Kjoto** je srce te tradicije. Bio je prestonica više od hiljadu godina i u oktobru postaje grad boja. Hram Kiyomizu-dera lebdi nad morem krošnji koje gore u crvenom i narandžastom, dok Arashiyama, sa svojim bambusovim šumama i mostom Togetsukyo, nudi prizore dostojne razglednica. U četvrti Gion, gdje gejše još uvijek hodaju tihim koracima, osjeti se duh starog Japana, nepokoleban u vremenu.  
-**Tokio** je drugačija priča – svijet <span class="highlight-text">futurizma i užurbanosti</span>, ali i ovdje jesen usporava ritam. Park Ueno, vrt Rikugien i prostranstva Yoyogi parka oblače se u zlatno-crveno, nudeći predah od neonskog sjaja Shibuye i Shinjukua. Tokio pokazuje kako i metropola može imati dušu u boji jeseni.  
-**Nara** odiše spokojem. Jelena u parkovima koji slobodno šetaju i hram Todai-ji, u kojem se nalazi najveća bronzana statua Bude, čine da grad djeluje kao mjesto gdje priroda i religija dišu u harmoniji. Jesen ovdje dodaje posebnu tišinu i dostojanstvo.  
-**Osaka** je suprotnost – glasna, razigrana i živopisna. Dvorac Osake uzdiže se iznad krošnji obojenih u crveno, dok Dotonbori treperi svjetlima i mirisima ulične hrane. Jesen u Osaki znači sezona svježih riba i sakea, ali i neprekidne zabave.  
-**Hirošima** nosi tešku prošlost, ali jesen joj daje mirnoću i novu snagu. <span class="highlight-text">Memorijalni park</span> mira u oktobru izgleda spokojno, a grad, obnovljen i snažan, priča priču o pomirenju i obnovi.  
-**Hokaido** na sjeveru već u oktobru izgleda kao šarena tapiserija. Nacionalni park Daisetsuzan i planina Asahidake preplavljeni su bojama. Onsen sela djeluju čarobno dok para iz kupki lebdi iznad šuma u plamenu jeseni.  
-**Okinava** nudi kontrast: dok ostatak Japana uranja u jesen, ovdje more još uvijek mami, a plaže su mirne i tihe. Jugo i sjever Japana u oktobru su kao dvije različite zemlje, spojene u jednoj.  
+Taj osjećaj stalne promjene pejzaža stvara specifičan mentalitet kod lokalnog stanovništva – kombinaciju nevjerovatne discipline i duboke duhovnosti. Japanci ne posmatraju tehnologiju kao nešto što treba da zamijeni prirodu, već kao alat koji je nadopunjuje. U oktobru se ta veza najbolje vidi kroz ritual <span class="highlight-text">**momijigari**</span> (lov na jesenje lišće); granica između urbanog i divljeg ovdje praktično ne postoji, što stvara osjećaj da cijela država diše kao jedan jedinstveni, <span class="highlight-text">**zlatni organizam**</span>.
+
+<div class="voyager-badge-container">
+  <div class="badge-header">
+    <i class="fas fa-map-marker-alt"></i> <span>JAPAN: Brzi vodič</span>
+  </div>
+  
+  <div class="badge-content">
+    <div class="badge-item">
+      <span class="badge-icon"><i class="fas fa-yen-sign"></i></span>
+      <span class="badge-text">Jen (¥)</span>
+    </div>
+    <div class="badge-item">
+      <span class="badge-icon"><i class="fas fa-globe-asia"></i></span>
+      <span class="badge-text">Bez vize (Turistički)</span>
+    </div>
+    <div class="badge-item">
+      <span class="badge-icon"><i class="fas fa-comment-dots"></i></span>
+      <span class="badge-text">Japanski / Engleski</span>
+    </div>
+    <div class="badge-item">
+      <span class="badge-icon"><i class="fas fa-bolt"></i></span>
+      <span class="badge-text">100V / Tip A&B</span>
+    </div>
+    <div class="badge-item">
+      <span class="badge-icon"><i class="fas fa-glass-whiskey"></i></span>
+      <span class="badge-text">Voda sa česme (Top)</span>
+    </div>
+  </div>
+
+  <div class="badge-footer">
+    <span class="vibe-tag">#Momijigari</span>
+    <span class="vibe-tag">#ZenIFuturizam</span>
+    <span class="vibe-tag">#ShinkansenRitam</span>
+  </div>
+</div>
+
+---
+
+## Tokio: Najzelenija futuristička prestonica
+
+Tokio nije samo grad, on je čitava civilizacija unutar jedne metropole. Ovaj <span class="highlight-text">**"megaposlis"**</span> sastavljen od stotina manjih, intimnih kvartova, gdje se futuristički neboderi Shibuye sa gigantskim ekranima graniče sa mirnim svetilištima sakrivenim iza drvoreda ginka. Tokio je mjesto gdje tehnologija služi čovjeku, a svaki kvadratni metar prostora je maksimalno iskorišten.
+
+Arhitektura grada nudi fascinantnu simetriju, od savršeno poređanih stambenih blokova do futurističkih remek-djela u Ginzi. Park Ueno i vrt Rikugien u oktobru postaju mjesta gdje se kafa pije uz šum jesenjeg lišća, dok poslovni ljudi u odijelima na trenutak zastaju da fotografišu promjenu boja. Tokio je dokaz da grad može biti tehnološki <span class="highlight-text">**najnapredniji na svijetu**</span>, a da istovremeno zadrži duboku povezanost s ritmom prirode.
+
+Kulturni život Tokija u oktobru dostiže vrhunac kroz <span class="highlight-text">**razne manifestacije**</span>, od Halloween proslava koje transformišu Shibuyu u more maski, do mirnih izložbi krizantema u Carskoj palati. Upravo u tom spoju "uštogljenog" poslovnog centra i kreativnog haosa Harajukua leži prava duša grada. Tokio je dovoljno veliki da se u njemu izgubite, a dovoljno siguran da u svakom trenutku osjetite gostoprimstvo i red.
 
 {{< figcredit 
-    src="slike/japan/japan1.jpg" 
-    alt="Tokio, najveći grad na svijetu"
-    author="Ian G Shingler"
-    source="Wikimedia Commons"
-    source_url="https://commons.wikimedia.org/wiki/File:Night_view_of_Tokyo_from_Sky_Tree.jpg"
-    license="CC BY-SA 4.0 International"
-    license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en"  
+  src="slike/japan/japan1.jpg" 
+  alt="Tokio, najveći grad na svijetu"
+  author="Ian G Shingler"
+  source="Wikimedia Commons"
+  source_url="https://commons.wikimedia.org/wiki/File:Night_view_of_Tokyo_from_Sky_Tree.jpg"
+  license="CC BY-SA 4.0 International"
+  license_url="https://creativecommons.org/licenses/by-sa/4.0/deed.en"  
 >}}
 
 ---
 
-### Prirodne Ljepote: Zemlja Jesenjeg Teatra
+## Kjoto: Ikona u ogledalu tradicije
 
-Jesen u Japanu ima svoje ime: <span class="highlight-text">*momijigari*</span>, „lov na lišće“. To je više od izleta – to je kulturni ritual. Ljudi odlaze u šume, parkove i planine da posmatraju promjenu boja i osjete prolaznost ljepote. U Kjotu, hram Eikando uveče obasjan lampionima postaje živa slika, dok u Tokiju vrt Rikugien nudi more krošnji koje se prelijevaju u vodi.  
+Kjoto nije samo grad; on je simbol japanske estetske perfekcije. Bio je prestonica više od hiljadu godina i u oktobru postaje epicentar jeseni. Hram <span class="highlight-text">**Kiyomizu-dera**</span>, postavljen na masivnim drvenim stubovima bez ijednog eksera, lebdi nad morem krošnji koje gore u crvenom i narandžastom, pružajući pogled koji oduzima dah svakom posjetiocu.
 
-**Planina Fuji i Pet jezera** pružaju najpoznatiji prizor Japana. Dok snježni vrh počinje da se bijeli, podnožje gori u jesenjim tonovima. Oko njega pet jezera – Kawaguchi, Yamanaka, Saiko, Shoji i Motosu – nude različite perspektive. Biciklističke staze, šumske šetnje i ribarski molovi stvaraju prizore u kojima se čovjek lako izgubi.  
-**Nikko**, sveti grad u krošnjama, u oktobru izgleda nestvarno. Toshogu svetište, bogato ukrašeno, okruženo je javorima, dok most Shinkyo, jedan od najsvetijih u Japanu, lebdi iznad rijeke obasjane zlatnim lišćem. Vodopadi Kegon u blizini padaju niz stijene okružene vatrom jeseni.  
-**Hakone** je poznat po onsenima i pogledima na Fuji. U oktobru, <span class="highlight-text">šetnja oko jezera Ashi</span>, dok brodovi u obliku gusarskih lađa plove pod krošnjama u boji vatre, jedno je od najposebnijih iskustava.  
-**Hokaido** dočekuje jesen prvi i najburnije. Nacionalni parkovi poput Daisetsuzana pretvaraju se u palete boja. Dolina Sounkyo, sa svojim strmim stijenama i šumama u plamenu, izgleda kao da je izašla iz bajke.  
-**Okinava** donosi kontrast – dok na sjeveru lišće gori, ovdje talasi i dalje udaraju o bijele plaže, a more je toplo i mirno. Jesen na Okinavi znači mir, sunce i spokoj.  
-**Kanazava i vrt Kenroku-en** u oktobru su primjer japanske umjetnosti vrtova. Ribnjaci i bonsai drveće ogledaju se u <span class="highlight-text">jesenjim bojama</span>, a svaka staza otkriva novi prizor.  
+Međutim, Kjoto je više od puke arhitektonske ljepote. On je dokaz kako se <span class="highlight-text">**duhovno nasljeđe**</span> čuva u modernom dobu kroz stroga pravila gradnje i očuvanja zanata. U četvrti Gion, gdje gejše još uvijek hodaju tihim koracima između drvenih čajdžinica, osjeti se duh starog Japana, potpuno nepokoleban brzinom kojom se ostatak svijeta mijenja.
+
+Šetnja kroz hram Eikando, koji je poznat kao <span class="highlight-text">**"hram jesenjeg lišća"**</span>, pruža osjećaj mira koji ljetne gužve često maskiraju. Uveče, kada se upale diskretni reflektori, crveni javori se ogledaju u mirnim jezercima, stvarajući iluziju beskonačnosti. Ovdje shvatate da je Kjoto čuvar japanske duše, mjesto gdje su se susretali carevi i pjesnici, tražeći inspiraciju u tišini zen vrtova i sjenkama hramova.
+
+---
+
+## Shinkansen i tehnološki puls
+
+Japan se ne istražuje samo po horizontali, već i kroz njegove nevjerovatne inženjerske podvige. Sa mrežom pruga kojom dominira <span class="highlight-text">**Shinkansen**</span>, Japan je dokaz da prava čuda moderne civilizacije leže u brzini i tačnosti. Transport u zemlji je toliko precizan da se kašnjenja mjere u sekundama, što omogućava turistima da efikasno obiđu cijeli arhipelag.
+
+Ono što japansku infrastrukturu izdvaja je njena apsolutna funkcionalnost i čistoća. Vožnja vozom kroz dvorane stanica koje izgledaju kao gradovi u malom, poput stanice <span class="highlight-text">**Shinjuku**</span> kroz koju dnevno prođu milioni ljudi, podsjeća nas na snagu japanske organizacije. Svaki detalj, od oznaka na peronima do ljubaznog naklona konduktera pri ulasku u vagon, dio je koreografije koja putovanje čini bezbrižnim.
+
+Oktobar je idealno vrijeme za putovanje prugom jer pejzaži koji promiču kroz prozor izgledaju kao <span class="highlight-text">**pokretna galerija**</span> jesenjih boja. Gledati kako se obrisi urbanog Tokija polako pretvaraju u rustične pejzaže centralnog Japana, dok u daljini promiče planina Fuji, doživljaj je koji se dugo pamti. To je trenutak u kojem tehnologija postaje prozor u najčistiju prirodu.
+
+<div class="stats-box-container">
+    <h3><i class="fas fa-chart-line"></i> Japan: Brojke koje fasciniraju</h3>
+    <div class="stats-grid">
+        <div class="stat-item">
+            <span class="stat-number">6.800+</span>
+            <span class="stat-desc">Ostrva čine arhipelag</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number">70%</span>
+            <span class="stat-desc">Teritorije pod planinama</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number">0.9s</span>
+            <span class="stat-desc">Prosječno kašnjenje vozova</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number">5.5M</span>
+            <span class="stat-desc">Automata za prodaju širom zemlje</span>
+        </div>
+    </div>
+</div>
+
+---
+
+## Fuji: Sveta planina i nacionalni mit
+
+Nijedna priča o Japanu nije potpuna bez pomena <span class="highlight-text">**planine Fuji**</span>. Ovaj savršeni konusni vrh nije samo najviša tačka države, već njen duhovni centar i inspiracija za bezbrojna umjetnička djela. Dok snježni vrh u oktobru dobija svoju prvu bijelu kapu, podnožje oko Pet jezera gori u jesenjim tonovima, stvarajući najpoznatiji vizuelni kontrast u čitavoj Aziji.
+
+Regija oko jezera Kawaguchi nudi najbolje perspektive za posmatranje planine, posebno rano ujutru kada je vazduh kristalno čist. Nacionalni park Fuji-Hakone-Izu pruža utočište onima koji traže mir u onsenima, gdje topla vulkanska voda liječi tijelo dok pogled počiva na svetom vrhu. Fuji je <span class="highlight-text">**kameni čuvar**</span> koji diktira klimu i ritam života čitave Kanto regije.
+
+Čak i za one koji se ne odluče na uspon, sama blizina ove planine donosi osjećaj <span class="highlight-text">**stabilnosti i strahopoštovanja**</span>. Oktobarsko sunce koje zalazi iza jezera stvara auru nepobjedivosti, podsjećajući nas na krhkost ljudskih naseobina pred silama prirode. Fuji ostaje dokaz da, uprkos futurizmu i neboderima, Japan u svom srcu ostaje vječno vezan za svoje vulkansko porijeklo i paganske korijene.
 
 {{< figcredit 
-    src="slike/japan/japan2.jpg" 
-    alt="JApanska sveta planina Fudzi"
-    author="bewkaman"
-    source="Pixabay"
-    source_url="https://pixabay.com/photos/fuji-japan-volcano-mountain-sky-4669296/"
-    license="Pixabay License"
-    license_url="https://pixabay.com/service/license/" 
+  src="slike/japan/japan2.jpg" 
+  alt="Japanska sveta planina Fudzi"
+  author="bewkaman"
+  source="Pixabay"
+  source_url="https://pixabay.com/photos/fuji-japan-volcano-mountain-sky-4669296/"
+  license="Pixabay License"
+  license_url="https://pixabay.com/service/license/" 
 >}}
 
+---
+
+## Kaiseki i Sake: Ukusi jeseni i tradicije
+
+Japanska gastronomija je u oktobru na svom vrhuncu jer nudi prelaz ka toplijim, bogatijim ukusima koji zagrijavaju dušu. Stolovi se pune <span class="highlight-text">**matsutake gljivama**</span>, koje se smatraju kraljicama jeseni zbog svoje jedinstvene arome. U Japanu hrana nije samo nutrijent, već pažljivo koreografisana veza sa trenutnim godišnjim dobom, gdje svaka boja na tanjiru odražava pejzaž napolju.
+
+Uz obrok neraskidivo ide <span class="highlight-text">**sake**</span>, posebno limitirane serije koje sazrijevaju tokom ljeta i bivaju otvorene baš u jesen. Posjeta Izakayama, tradicionalnim japanskim pabovima, pruža uvid u opušteniju stranu japanskog društva. Ovdje, uz dimljene ražnjiće (yakitori) i čašicu pirinčanog vina, nestaju formalne granice i rađa se atmosfera zajedništva koja je ključna za razumijevanje japanskog načina života.
+
+>Posebno iskustvo nudi *Kaiseki* večera, gdje se kroz niz od desetak jela priča priča o regiji i sezoni. Svaki tanjir je vizuelno remek-djelo, ukrašeno javorovim lišćem ili kestenovim iglicama. Gastronomija Japana nas uči da je <span class="highlight-text">**hrana umjetnost**</span> koja zahtijeva vrijeme, pažnju i duboko poštovanje prema porijeklu svake namirnice, čineći svaki obrok nezaboravnim ritualom.
 
 ---
 
-### Gastronomija: Jesen na japanskoj trpezi
+## Arhitektura: Od Zen Vrtova do Čeličnih Divova
 
-Japanska kuhinja je ogledalo godišnjeg doba. U oktobru stolovi se pune <span class="highlight-text">jesenskim darovima</span>: gljivama, kestenima, ribom i sakeom. To nije samo hrana, to je iskustvo, ritual u kojem se poštuje sezona i priroda.  
+Prvi susret sa japanskom arhitekturom često izaziva osjećaj strahopoštovanja prema ljudskoj sposobnosti da ukroti prostor. Tradicionalne drvene konstrukcije hramova, koje opstaju vjekovima bez upotrebe eksera, predstavljaju vrhunac <span class="highlight-text">**stolarije**</span> i inženjerskog vizionarstva. Ove strukture nisu samo zgrade; one su filozofski koncepti materijalizovani u kedrovini, dizajnirani da se njišu u ritmu zemljotresa i dišu u skladu sa vlažnom klimom arhipelaga.
 
-* **Kaiseki:** Višeslojni obrok u kojem svako jelo odražava sezonu. Gljive matsutake, kesteni i bundeva pojavljuju se u najfinijim kombinacijama.  
-* **Riba i morski plodovi:** Ostrige u Hirošimi, <span class="highlight-text">sardine i skuše</span> na obali – sve na vrhuncu ukusa.  
-* **Tempura od jesenskog povrća:** Kriške tikve, šitake gljive i lotosov korijen – hrskavi izvana, mekani iznutra.  
-* **Soba nudle:** Heljdine nudle servirane uz gljive i povrće, posebno u planinama.  
-* **Unagi (jegulja):** Pečena na žaru i prelivena sosom, simbol snage.  
-* **Wagashi:** Tradicionalni slatkiši oblikovani kao jesenje lišće, servirani uz matcha čaj.  
-* **Sake:** <span class="highlight-text">*Hiyaoroshi*</span> sake, sazreo tokom ljeta, u oktobru ima punu aromu i toplinu.  
+Na drugom kraju spektra nalaze se neboderi Tokija i Osake, koji prkose gravitaciji i seizmičkim silama najnaprednijim svjetskim tehnologijama. Ovi čelični divovi koriste sisteme amortizacije i masivnih tegova kako bi ostali stabilni, pretvarajući betonsku džunglu u <span class="highlight-text">**laboratoriju**</span> moderne arhitekture. Fasade od stakla i aluminijuma reflektuju jesenje nebo, stvarajući vizuelni most između futurističke vizije i prirodnog okruženja koje ih okružuje.
 
----
-
-### Japanski Bonton: Kako se Ponašati i Izbjeći Gafove
-
-Japanska kultura je izuzetno ceni poštovanje i harmoniju (Wa). Poznavanje <span class="highlight-text">osnovnog bontona</span> pokazaće vaše uvažavanje i učiniće vaše putovanje mnogo prijatnijim.
-
-* **Tišina u Prevozu:** U javnom prevozu (metro, Šinkansen) izbegavajte <span class="highlight-text">glasno razgovaranje</span> i obavezno isključite zvuk na telefonu. Smatra se nepristojnim razgovarati telefonom.
-* **Jedenje:** Generalno je neprihvatljivo jesti i hodati istovremeno. Ako kupite hranu na ulici, pojedite je na licu mesta.
-* **Štapići i Jelo:** Nema bakšiša u restoranima! Osoblje može smatrati uvredljivim. Nikada ne zabadajte štapiće uspravno u činiju pirinča i nikada ne dodajte hranu direktno sa svojih štapića na tuđe.
-* **Uklanjanje obuće:** Obavezno izujte cipele pre ulaska u privatne kuće, tradicionalne Ryokane, neke hramove, pa čak i neke svlačionice i restorane. Uvek postoje papuče za goste, ali pazite da s papučama ne uđete na tatami podlogu.
-* **Posjeta Onsenima (Termalnim Kupkama):** Pre ulaska u toplu vodu morate se potpuno skinuti i temeljno se <span class="highlight-text">oprati i isprati</span> na tušu. Većina javnih onsena ne dopušta tetovaže (iako su pravila sve opuštenija), pa ih po potrebi prekrijte flasterom.
-* **Ophođenje:** Izbegavajte direktno upiranje prstom. Ako želite da pokažete na sebe, dodirnite nos, a ne grudi. Kada primate ili dajete novac/kartice, koristite obe ruke.
-
----
-
-### Aktivnosti i Iskustva: Jesen na Dlanu
-
-Japan u oktobru je zemlja u <span class="highlight-text">pokretu</span>. Svaki grad, svako selo, svaka planina nudi nešto posebno.  
-
-* **Momijigari:** Šetnje kroz <span class="highlight-text">hramove i parkove</span>, od Kjota do Tokija.  
-* **Onsen kupke:** Najljepše u Hakoneu i Hokaidu, posebno dok krošnje gore u boji.  
-* **Čajna ceremonija:** Jesenji vrtovi postaju pozornica ovog rituala.  
-* **Festivali:**  
-  * **Takayama festival** – raskošne kočije i lampioni.  
-  * **Jidai Matsuri u Kjotu** – povorka kroz istoriju Japana.  
-  * **Halloween u Tokiju** – <span class="highlight-text">Shibuya</span> pretvorena u more maski i neona.  
-* **Šinkansen:** Putovanje kroz pejzaže koji se mijenjaju u boji i ritmu.  
-* **Noćni život:** Karaoke, izakaye i kafići Tokija i Osake – jesen ovdje znači smijeh i energiju.  
-* **Pijace:** Nishiki u Kjotu, Kuromon u Osaki, Tsukiji u Tokiju – pune jesenskih ukusa i mirisa.  
+Ono što zaista fascinira je suživot ova dva svijeta, gdje se ultra-moderni šoping centri često grade oko malih, skrivenih svetišta. Ta prostorna <span class="highlight-text">**simbioza**</span> pokazuje da Japan ne ruši prošlost da bi napravio mjesta za budućnost, već ih slaže u slojeve poput najfinijeg kimona. Svaki ugao ulice nudi lekciju o tome kako se identitet jedne nacije čuva kroz materijale, bilo da je riječ o grubom kamenu zen vrta ili poliranom titanijumu neboderu.
 
 {{< figcredit 
     src="slike/japan/japan3.jpg" 
@@ -136,40 +189,136 @@ Japan u oktobru je zemlja u <span class="highlight-text">pokretu</span>. Svaki g
     license_url="https://pixabay.com/service/license/"   
 >}}
 
-
 ---
 
->## Praktični Savjeti za Oktobar
-><span class="highlight-text">**Odjeća:**</span> Slojevita, lagana za dan, toplija za večer.  
-><span class="highlight-text">**Prevoz:**</span> Japan Rail Pass najbolja opcija za obilazak cijele zemlje.  
-><span class="highlight-text">**Valuta:**</span> Jen, gotovina često potrebna u manjim mjestima.  
-><span class="highlight-text">**Sigurnost:**</span> Japan je jedna od najsigurnijih zemalja svijeta.  
-><span class="highlight-text">**Internet:**</span> Pocket WiFi ili lokalna SIM kartica olakšava komunikaciju.  
+## Ostrvo Mijajima: Svetište koje pluta na vodi
 
-<div class="tip-box">
-    <h3>💡 Brzi savjet!</h3>
-    <p>Planirajte put od sjevera ka jugu: počnite na Hokaidu, gdje jesen dolazi prva, nastavite u Kjoto i Tokio gdje je u punom sjaju, a završite na Okinavi gdje ljeto još traje. U jednom putovanju dobićete tri godišnja doba.</p>
+Smješteno u neposrednoj blizini Hirošime, ostrvo Mijajima (zvanično Itsukushima) predstavlja jedan od najsvetijih i najfotografisanijih lokaliteta u cijelom Japanu. Glavna atrakcija je masivna narandžasta <span class="highlight-text">**torii**</span> kapija koja, zahvaljujući plimi, izgleda kao da slobodno pluta na površini mora, stvarajući prizor koji oduzima dah milionima putnika godišnje. Ova kapija simbolizuje ulaz u sveti prostor, a njena jarka boja u oktobru pravi nevjerovatan kontrast sa dubokim plavetnilom Seto zaliva i zlatnim obroncima planine Misen.
+
+Pored čuvene kapije, ostrvo je dom pitomim jelenima koji slobodno šetaju među posjetiocima, tražeći pažnju i pokoji zalogaj u sjenci drevnih javora. Za one koji traže mir, uspon žičarom ili pješačenje do vrha planine nudi panoramski <span class="highlight-text">**pogled**</span> koji obuhvata stotine malih ostrva razasutih po moru. Oktobarski vazduh ovdje je oštar i svjež, a miris tamjana iz hrama Itsukushima miješa se sa slanim mirisom okeana, stvarajući atmosferu koja briše granicu između zemlje i neba.
+
+Gastronomska ponuda Mijajime u jesen fokusirana je na lokalne specijalitete, prvenstveno na svježe ostrige sa žara i čuveni kolač Momiji Manju u obliku javorovog lista. Ovi slatkiši se tradicionalno pune pastom od crvenog pasulja ili kremom, a njihova <span class="highlight-text">**degustacija**</span> dok posmatrate zalazak sunca iza plutajuće kapije je ritual koji zaokružuje posjetu ostrvu. Mijajima je dokaz da Japan posjeduje mjesta gdje vrijeme zaista stoji, dozvoljavajući prirodi i religiji da vladaju pejzažom bez miješanja modernog svijeta.
+
+<div class="travel-timeline">
+  <h3><i class="fas fa-map-marked-alt"></i> Plan puta: 10 dana kroz Japan</h3>
+  
+  <div class="timeline-item">
+    <span class="day-tag">Dan 1-3</span><br>
+    <p><strong>Tokio:</strong> Istraživanje kontrasta između neonske Shibuye i mirnih jesenjih vrtova Rikugien.</p>
+  </div>
+
+  <div class="timeline-item">
+    <span class="day-tag">Dan 4-5</span><br>
+    <p><strong>Nikko & Fuji:</strong> Svetišta u planinskim šumama i odmor uz termalne kupke s pogledom na vrh Fuji.</p>
+  </div>
+
+  <div class="timeline-item">
+    <span class="day-tag">Dan 6-8</span><br>
+    <p><strong>Kjoto & Nara:</strong> Putovanje kroz istoriju, zen bašte i susret sa divljim jelenima u parkovima Nare.</p>
+  </div>
+
+  <div class="timeline-item">
+    <span class="day-tag">Dan 9</span><br>
+    <p><strong>Osaka:</strong> Gastronomski maraton kroz Dotonbori i posjeta dvorcu Osaka u jesenjem ruhu.</p>
+  </div>
+
+  <div class="timeline-item">
+    <span class="day-tag">Dan 10</span><br>
+    <p><strong>Hirošima:</strong> Posjeta ostrvu Miyajima i torii kapiji koja izranja iz mora, uz refleksiju u Memorijalnom parku.</p>
+  </div>
 </div>
 
 ---
 
-### Vodič za Budžet i Logistiku: Koliko košta Japan u Oktobru?
-Japan je poznat kao <span class="highlight-text">skupa destinacija</span>, ali uz pametno planiranje, putovanje u oktobru može biti pristupačno. Vaš najveći trošak biće prevoz i smeštaj.
+## Geopolitički položaj: Ostrvska stabilnost
 
-Cijene po kategorijama:
+Iako na seizmički aktivnom tlu, Japan igra ključnu ulogu u geopolitici kao najstabilniji faktor na dalekom istoku. Kao tehnološki lider i treća ekonomija svijeta, on se pozicionirao kao most između <span class="highlight-text">**tradicionalnih azijskih vrijednosti**</span> i zapadne inovacije. Njegova snaga ne leži samo u vojsci ili resursima, već u nevjerovatnoj sposobnosti adaptacije i preciznosti njegove industrije.
 
-* **Smeštaj:** Ako putujete ekonomično, možete očekivati cijene od 30–60 € po noći za kapsula hotele ili hostele. Za srednji rang, prosečan trošak za klasičan biznis hotel ili pristojan Airbnb kreće se od 80–150 €.
-* **Hrana:** Ekonomičan budžet za hranu iznosi oko 20–40 € dnevno, pod uslovom da se hranite u Konbini (prodavnicama 24/7) i lančanim ramen/udon restoranima. Za srednji rang, gde uključujete Izakaye (japanske pabove) i kvalitetnije suši restorane, spremite 50–90 € dnevno.
-* **Prevoz:** Za lokalni prevoz u gradovima <span class="highlight-text">računajte na 5–15 € dnevno</span>, zavisno od toga koliko se krećete.
-Ukupan dnevni budžet (bez velikih međugradskih karata) kreće se od oko 55 € za super-ekonomičnu varijantu, pa do 150–250 € za putnike srednjeg ranga.
+Ovaj uspjeh nije došao na račun prirode, što je lekcija koju mnoge nacije još uvijek uče. Japan je zemlja koja je shvatila da je <span class="highlight-text">**harmonija (Wa)**</span> ključ opstanka na malom prostoru, uspješno čuvajući svoje planinske šume uprkos gustoj naseljenosti. Preko 70% teritorije je pod šumama, što je fascinantan podatak za zemlju koja je sinonim za visokotehnološke gradove i nebodere.
 
-Ključni savjeti za finansije i prevoz:
-* **Japan Rail Pass (JR Pass):** Pre nego što ga kupite, izračunajte isplati li se. Ako putujete na dugim relacijama, kao što su <span class="highlight-text">Tokijo-Kjoto-Osaka</span> i nazad u roku od 7 ili 14 dana, isplati se. Ako ostajete samo u jednoj regiji (npr. samo u Tokiju i okolini), bolje je kupovati pojedinačne karte ili koristiti lokalne regionalne propusnice.
-* **Gotovina je kralj:** Iako je zemlja tehnološki napredna, u manjim gradovima, hramovima i tradicionalnim restoranima plaćanje se često obavlja gotovinom (Jen). Uvek imajte pri sebi manju količinu novca. Najbolje mesto za podizanje gotovine su bankomati u 7-Eleven prodavnicama.
-* **Ekonomična hrana:** Za brze i jeftine obroke oslonite se na Konbini (posebno za doručak i onigiri) i lančane restorane (Yoshinoya, Sukiya), gde za minimalan novac dobijate kvalitetan topli obrok.
+Kroz vijekove, Japan je od izolovanog kraljevstva postao globalni lider, zadržavajući pritom svoj identitet. Ta uloga posrednika između <span class="highlight-text">**prošlosti i budućnosti**</span> čini ga nezaobilaznim faktorom u svjetskoj diplomatiji. Danas, Japan koristi svoju poziciju da promoviše mir, ekološke standarde i robotsku revoluciju, dokazujući da se prava moć krije u balansu između ljudskog napretka i očuvanja planete.
+
+<div class="tip-box">
+  <h3><i class="fas fa-lightbulb"></i> Da li ste znali?</h3>
+  <p>U Japanu vozovi kasne u prosjeku svega <strong>0.9 sekundi</strong> godišnje! Ako voz zakasni više od 5 minuta, željeznica izdaje zvanično opravdanje koje radnici daju šefovima. To je vrhunski simbol japanske <strong>preciznosti</strong> i poštovanja tuđeg vremena.</p>
+</div>
 
 ---
 
-### Zaključak: Japan – Jesenja Simfonija
+## Praktični savjeti za putovanje kroz Japan
 
-Japan u oktobru nije samo destinacija – to je putovanje kroz boje, ukuse i ritmove zemlje koja spaja prošlost i budućnost. Jesen je ovdje lekcija o prolaznosti i ljepoti promjene. Ako je Maroko bio zemlja mirisa i pustinje,<span class="highlight-text"> Japan je zemlja boja i harmonije</span>. Putnik iz nje ne odlazi prazan – već obogaćen, sa sjećanjem na trenutke u kojima se priroda i kultura savršeno dodiruju.  
+<div class="practical-tips-container">
+
+  <div class="tip-card">
+    <div class="tip-header"><i class="fas fa-calendar-alt"></i> Najbolje vrijeme</div>
+    <p>Oktobar nudi idealnu temperaturu i <strong>momijigari</strong> (boje lišća). Proljeće je rezervisano za sakuru, ali su gužve tada znatno veće.</p>
+  </div>
+
+  <div class="tip-card highlight-tip">
+    <div class="tip-header"><i class="fas fa-train"></i> JR Pass (Savjet)</div>
+    <p>Za međugradska putovanja Shinkansenom provjerite isplativost <strong>JR Pass-a</strong> prije polaska, jer su cijene nedavno korigovane naviše.</p>
+  </div>
+
+  <div class="tip-card">
+    <div class="tip-header"><i class="fas fa-money-bill-wave"></i> Plaćanje</div>
+    <p>Valuta je Jen (¥). Iako tehnološki napredan, Japan i dalje voli <strong>gotovinu</strong> u hramovima i manjim radnjama. Uvijek imajte sitninu.</p>
+  </div>
+
+  <div class="tip-card">
+    <div class="tip-header"><i class="fas fa-user-shield"></i> Bonton</div>
+    <p>Tišina u prevozu je svetinja. Nema bakšiša u restoranima – on se smatra uvredom jer je dobra usluga podrazumijevani standard.</p>
+  </div>
+
+  <div class="tip-card">
+    <div class="tip-header"><i class="fas fa-wifi"></i> Povezanost</div>
+    <p>Najbolja opcija je <strong>Pocket WiFi</strong> koji iznajmite na aerodromu. To omogućava stabilan internet za više uređaja istovremeno.</p>
+  </div>
+
+  <div class="tip-card">
+    <div class="tip-header"><i class="fas fa-trash"></i> Kante za smeće</div>
+    <p>Kante su prava rijetkost na ulicama. Nosite kesicu sa sobom i odlažite smeće u hotelu ili pored <strong>konbini</strong> prodavnica.</p>
+  </div>
+
+</div>
+
+---
+
+## Zaključak: Lekcija iz balansa
+
+Japan nas uči da je moguće biti najmodernija nacija na svijetu, a istovremeno ostati duboko vezan za korijenje i pretke. U svijetu koji se često osjeća haotičnim i ubrzanim, Japan nudi osjećaj reda, tišine i nevjerovatne ljepote koja je dostupna svakom ko je spreman da je primijeti. On je dokaz da luksuz nije u posjedovanju, već u <span class="highlight-text">**mogućnosti mira**</span>.
+
+Putovanje u oktobru pruža priliku da tu harmoniju osjetite u njenom najčistijem obliku. Između vatre <span class="highlight-text">**jesenjeg lišća**</span> i hladnog sjaja neonskih reklama, Japan je izabrao put koji poštuje oba ekstrema. Ta ravnoteža je ono što posjetioca ne ostavlja samo zadivljenim, već i inspirisanim da potraži sličan balans u svom svakodnevnom životu nakon povratka.
+
+Na kraju, Japan ostaje vječna lekcija o tome kako civilizacija može da napreduje bez gubitka duše. Ta sigurnost dolazi iz dubokog razumijevanja prostora i vremena, čineći svaku posjetu putovanjem u bolju verziju budućnosti koja nije <span class="highlight-text">**zaboravila svoju prošlost**</span>. Japan je destinacija koja se ne zaboravlja, jer vas uči da je najveće umijeće zapravo umijeće življenja u harmoniji sa sobom i prirodom.
+
+{{< faq title="Često postavljana pitanja o Japanu" >}}
+
+  {{< faq-item q="Da li je Japan skup u oktobru?" >}}
+Srednji dnevni budžet je oko 120-150 €, ali uz Konbini hranu i hostele možete proći i sa 70 € ako ste štedljivi.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Mogu li koristiti telefon iz moje zemlje?" >}}
+Mreže su kompatibilne, ali preporučujemo kupovinu lokalne SIM kartice ili eSIM-a radi lakše navigacije.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li su tetovaže dozvoljene u onsenima?" >}}
+Tradicionalno ne, ali mnoga moderna mjesta dozvoljavaju manje tetovaže ako ih prekrijete vodootpornim flasterom.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koje je najbolje mjesto za jesenje boje?" >}}
+Nikko i Kjoto su apsolutni pobjednici u oktobru, dok sjeverni Hokaido boje dobija već krajem septembra.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Da li je voda sa česme sigurna za piće?" >}}
+Voda u Japanu je među najkvalitetnijima na svijetu i potpuno je bezbjedna za piće u svim regijama.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Koliko ranije treba rezervisati smještaj?" >}}
+Zbog popularnosti jesenje sezone, preporučuje se rezervacija bar 4 mjeseca unaprijed za gradove poput Kjota.
+  {{< /faq-item >}}
+
+  {{< faq-item q="Kako se kretati kroz Tokio bez znanja jezika?" >}}
+Natpisi su dvojezični, a Google Maps je savršeno precizan za red vožnje vozova i izlaze iz stanica.
+  {{< /faq-item >}}
+
+{{< /faq >}}
