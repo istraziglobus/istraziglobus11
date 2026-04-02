@@ -1,7 +1,7 @@
 ---
 title: "Uzbekistan: Zlatni put svile u tirkiznim mozaicima"
 subtitle: "Zemlja gdje pustinjski pijesak čuva tajne drevnih imperija i miris toplog hljeba"
-slug: "uzbekistan-srce-centralne-azije"
+slug: "sta-vidjeti-u-uzbekistanu"
 date: 2026-04-01T10:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Istražujemo dragulj Centralne Azije u aprilu – mjesecu kada pustinja cvjeta, a tirkizne kupole Samarkanda sijaju pod blagim proljećnim suncem."

@@ -3071,3 +3071,171 @@ blockquote p {
     color: #ccc;
     font-weight: 500;
 }
+
+/* --- Geo Kutak Premium Stilovi --- */
+
+/* Kontejner za brze činjenice na početku */
+.geo-brief-box {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-left: 5px solid #2c3e50;
+    padding: 25px;
+    margin: 30px 0;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.geo-brief-box h3 {
+    margin-top: 0;
+    color: #2c3e50;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.geo-brief-box ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.geo-brief-box li {
+    margin-bottom: 12px;
+    position: relative;
+    padding-left: 25px;
+    line-height: 1.5;
+}
+
+.geo-brief-box li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #e67e22;
+    font-weight: bold;
+}
+
+
+
+/* Grid za statistiku na kraju */
+.geo-stats-container {
+    background: #2c3e50;
+    color: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    margin: 50px 0;
+}
+
+.geo-stats-container h3 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    text-align: center;
+}
+
+.stat-item {
+    padding: 15px;
+}
+
+.stat-number {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #e67e22;
+    margin-bottom: 5px;
+}
+
+.stat-desc {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    opacity: 0.8;
+}
+
+.geo-dictionary-section {
+    background: #fca80b;
+    border: 1px solid #eee;
+    border-top: 4px solid #df7205; /* Tvoja narandžasta kao akcenat na vrhu */
+    padding: 35px;
+    margin: 50px 0;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.03);
+}
+
+/* Automatsko dodavanje ikonice/stila ispred naslova */
+.geo-dictionary-section h3 {
+    color: #1a1a1a;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    position: relative;
+    padding-left: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Elegantna linija umjesto fas-fa ikonice */
+.geo-dictionary-section h3::after {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #df7205;
+    margin-top: 10px;
+}
+
+.geo-dictionary-section ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dvije kolone za premium izgled */
+    gap: 25px;
+}
+
+.geo-dictionary-section li {
+    padding: 15px;
+    background: #ff5a02c9;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+
+.geo-dictionary-section li:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(223, 114, 5, 0.1);
+}
+
+.geo-dictionary-section strong {
+    color: #000000; /* Narandžasta za ključnu riječ */
+    display: block;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+/* Mobilna verzija: jedna kolona */
+@media (max-width: 768px) {
+    .geo-dictionary-section ul {
+        grid-template-columns: 1fr;
+    }
+}
+
+.list-header {
+    color: #27ae60; /* Tvoja narandžasta */
+    font-weight: 800;
+    text-transform: uppercase; /* Da bi bilo još upečatljivije kao naslov stavke */
+    letter-spacing: 0.5px;
+    margin-right: 5px;
+}
+
+/* 3. NARANDŽASTE TAČKICE (Da se slažu sa list-header-om) */
+article ul li::before {
+    content: "•"; 
+    color: #27ae60; 
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
