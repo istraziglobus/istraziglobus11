@@ -25,7 +25,7 @@ tags:
   - ekologija
 featured_monthly_theme: true
 mesec_destinacije: "MART 2026"
-most_read: true
+most_read: false
 ---
 
 Postoje države koje osvajaju svojom veličinom, i postoje one koje vas očaraju svojom preciznošću. Slovenija spada u ove druge. Slovenija je mala evropska država u kojoj se u kratkoj vožnji smjenjuju Alpi, kraške pećine, zelene prijestonice i jadranska obala, što je čini idealnom destinacijom za putovanje u martu. Slovenija nije samo tranzitna tačka na putu ka zapadu; ona je <span class="highlight-text">**zelena laboratorija Evrope**</span>, mjesto gdje je ekološka svijest postala dio nacionalnog genoma, a priroda se čuva s religioznim žarom.
