@@ -3,11 +3,12 @@ title: "Marokanska kuhinja: Putovanje kroz mirise začina i pijeska"
 subtitle: "Priča o začinima, tagineu i ritualu marokanskog čaja"
 author: "Istraži Globus Tim"
 date: 2025-07-24T23:00:00+02:00
-image: "slike/maroko-kuhinja/maroko-kuhinja-hero.jpg" # PRILAGODI PUTANJU DO SLIKE
+description: "Otkrijte magiju marokanske kuhinje kroz mirise taginea, egzotične začine i ritual čaja od nane. Vodimo vas na putovanje kroz soukove Magreba gdje se berberska tradicija susreće sa vrhunskom gastronomijom."
+image: "slike/maroko-kuhinja/maroko-kuhinja-hero.jpg" 
 image_alt: "Tradicionalna marokanska hrana - Tagine"
 image_author: "BBouchra00" 
 image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-plat-varie-et-sain.jpg" # Standardni URL za ovu sliku na Commonsu
+image_source_url: "https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-plat-varie-et-sain.jpg" 
 image_license: "CC BY-SA 4.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
 slug: "marokanska-kuhinja-zacini-tagine"
