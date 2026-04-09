@@ -63,6 +63,8 @@ Kada planirate obilazak Vječnog grada, ove tačke su apsolutni prioriteti:
 * **Panteon:** Najbolje očuvana građevina iz antičkog perioda sa fascinantnom kupolom.
 * **Forum Romanum:** Nekadašnje srce političkog i društvenog života Starog Rima.
 
+{{< youtube-custom iptLKUr5VOw >}}
+
 ---
 
 ## Dah antike: Gdje zidovi šapuću priče

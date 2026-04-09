@@ -66,6 +66,9 @@ Kada se nađete u ovoj južnoameričkoj metropoli, ove lokacije su nezaobilazne 
 * **Muzej umjetnosti (MASP):** Prepoznatljiva lebdeća zgrada koja čuva najvažniju zbirku evropske umjetnosti.
 * **Mercado Municipal:** Legendarna gradska pijaca, poznata po vitražima i čuvenom sendviču sa mortadelom.
 * **Beco do Batman:** Najpoznatija uličica u četvrti Vila Madalena, potpuno prekrivena vrhunskim grafitima.
+
+{{< youtube-custom OORULv_w6m0 >}}
+
 ---
 
 ## Avenija Paulista – Puls metropole

@@ -68,6 +68,8 @@ Kada se nađete u ovoj okeanskoj metropoli, ove lokacije su nezaobilazne za potp
 * **Bondi Beach:** Legendarna plaža, raj za surfere i simbol opuštenog australijskog života.
 * **Darling Harbour:** Srce zabave i pješačka zona prepuna restorana, akvarijuma i muzeja.
 
+{{< youtube-custom n5Jk63JnLwI >}}
+
 ---
 
 ## Sidnejska Opera – Puls luke

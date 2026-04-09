@@ -64,6 +64,8 @@ Kada planirate obilazak, ove tačke su apsolutni prioriteti za svakog putnika:
 * **La Pedrera (Casa Milà):** Simbol arhitektonske revolucije sa krovom punim neobičnih skulptura.
 * **La Rambla:** Centralna gradska ulica, epicentar zabave, mirisa i uličnih performansa.
 
+{{< youtube-custom tmcuJjTz4QA >}}
+
 ## Grad sa dubokom dušom i istorijom
 
 Barselona je osnovana još u rimskom periodu pod imenom Barcino, a tokom vijekova se razvila u najvažniji trgovački i kulturni centar Katalonije. Svaki ugao starog jezgra odiše istorijom – od ostataka srednjovjekovnih zidina do raskošnih renesansnih palata koje kriju tajne plemstva. Šetnja ovim prostorima nudi osjećaj <span class="highlight-text">**vremenske mašine**</span> koja vas vodi kroz vijekove španske i katalonske moći.
