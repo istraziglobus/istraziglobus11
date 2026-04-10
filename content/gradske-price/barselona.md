@@ -54,6 +54,8 @@ Ono što je čini posebnom jeste njena sposobnost da svakog posjetioca natjera d
     </figure>
 </div>
 
+---
+
 ## Najpoznatije znamenitosti Barselone koje morate posjetiti
 
 Kada planirate obilazak, ove tačke su apsolutni prioriteti za svakog putnika:
@@ -63,6 +65,8 @@ Kada planirate obilazak, ove tačke su apsolutni prioriteti za svakog putnika:
 * **Casa Batlló:** Fascinantna zgrada čija fasada podsjeća na površinu mirnog jezera.
 * **La Pedrera (Casa Milà):** Simbol arhitektonske revolucije sa krovom punim neobičnih skulptura.
 * **La Rambla:** Centralna gradska ulica, epicentar zabave, mirisa i uličnih performansa.
+
+<span class="highlight-text">Barselona iz vazduha: Doživite grad u punom 4K sjaju</span> 👇
 
 {{< youtube-custom tmcuJjTz4QA >}}
 

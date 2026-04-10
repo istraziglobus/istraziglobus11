@@ -53,6 +53,8 @@ Od masivnih ruševina što prkose vijekovima, preko ekstravagancije baroknih pal
     </figure>
 </div>
 
+---
+
 ## Najpoznatije znamenitosti Rima koje morate posjetiti
 
 Kada planirate obilazak Vječnog grada, ove tačke su apsolutni prioriteti:
@@ -62,6 +64,8 @@ Kada planirate obilazak Vječnog grada, ove tačke su apsolutni prioriteti:
 * **Fontana di Trevi:** Barokno remek-djelo u koje se bacaju novčići za ponovni povratak.
 * **Panteon:** Najbolje očuvana građevina iz antičkog perioda sa fascinantnom kupolom.
 * **Forum Romanum:** Nekadašnje srce političkog i društvenog života Starog Rima.
+
+<span class="highlight-text">Rim iz vazduha: Doživite grad u punom 4K sjaju</span> 👇
 
 {{< youtube-custom iptLKUr5VOw >}}
 

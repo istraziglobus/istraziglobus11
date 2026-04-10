@@ -58,6 +58,8 @@ Sidnej je grad koji se ne može opisati jednom riječju, jer on predstavlja kolo
     </figure>
 </div>
 
+---
+
 ## Najpoznatije znamenitosti Sidneja koje morate posjetiti
 
 Kada se nađete u ovoj okeanskoj metropoli, ove lokacije su nezaobilazne za potpuno iskustvo grada:
@@ -67,6 +69,8 @@ Kada se nađete u ovoj okeanskoj metropoli, ove lokacije su nezaobilazne za potp
 * **The Rocks:** Istorijski kvart sa kamenim ulicama gdje je započela moderna istorija Sidneja.
 * **Bondi Beach:** Legendarna plaža, raj za surfere i simbol opuštenog australijskog života.
 * **Darling Harbour:** Srce zabave i pješačka zona prepuna restorana, akvarijuma i muzeja.
+
+<span class="highlight-text"> iz vazduha: Doživite grad u punom 4K sjaju</span> 👇
 
 {{< youtube-custom n5Jk63JnLwI >}}
 
