@@ -14,6 +14,11 @@ removePathAccents = true
   country = "countries"
   city = "cities"
 
+# Dodaj ovo odmah ispod da kažeš Hugu da ne pravi sitemap za njih
+[cascade._build]
+  list = "never"
+  sitemap = "never"
+
 [params]
   description = "Sajt za putovanja i avanture"
   # Dodatni parametri koje možeš kasnije da proširiš
