@@ -14,11 +14,6 @@ removePathAccents = true
   country = "countries"
   city = "cities"
 
-# Dodaj ovo odmah ispod da kažeš Hugu da ne pravi sitemap za njih
-[cascade._build]
-  list = "never"
-  sitemap = "never"
-
 [params]
   description = "Sajt za putovanja i avanture"
   # Dodatni parametri koje možeš kasnije da proširiš
@@ -75,10 +70,9 @@ weight = 80
   tihe-megastrukture = "/tihe-megastrukture/:filename"
   nauticki-dnevnik = "/nauticki-dnevnik/:filename"
 
+
 [build]
   [[build.renderMethods]]
-    # Isključuje stranice koje izlistavaju sve zemlje (/countries/)
-    # i pojedinačne zemlje (/countries/alzir/)
     kinds = ["taxonomy", "term"]
     render = "never"
 
