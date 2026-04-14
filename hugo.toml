@@ -14,6 +14,10 @@ removePathAccents = true
   country = "countries"
   city = "cities"
 
+[cascade._build]
+  list = "never"
+  sitemap = "never"
+
 [params]
   description = "Sajt za putovanja i avanture"
   # Dodatni parametri koje možeš kasnije da proširiš
@@ -71,11 +75,3 @@ weight = 80
   nauticki-dnevnik = "/nauticki-dnevnik/:filename"
 
 
-[build]
-  [[build.renderMethods]]
-    kinds = ["taxonomy", "term"]
-    render = "never"
-
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.5
