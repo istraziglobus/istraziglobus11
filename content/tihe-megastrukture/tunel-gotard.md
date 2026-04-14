@@ -3,7 +3,7 @@ title: "Tunel Gotard: Najduži željeznički tunel na svijetu"
 subtitle: "Trijumf ljudske volje nad masivom Alpa i najdublji put kroz srce kontinenta"
 author: "Istraži Globus Tim"
 description: "Istražujemo bazni tunel Gotard, najduži i najdublji željeznički tunel na svijetu. Saznajte kako je hiljade radnika savladalo dva i po kilometra stijene iznad glave kako bi spojili sjever i jug Evrope."
-date: 2026-04-14T10:00:00+01:00
+date: 2026-04-14T08:00:00+01:00
 image: "slike/tunel-gotard/gotard-hero.jpg"
 image_alt: "gotthard bazni tunel u multifunkcionalnoj stanici sedrun na dubini od 1100 metara"
 image_author: "Zacharie Grossen" 
