@@ -70,14 +70,13 @@ weight = 80
   tihe-megastrukture = "/tihe-megastrukture/:filename"
   nauticki-dnevnik = "/nauticki-dnevnik/:filename"
 
-  [sitemap]
-  changefreq = "weekly"
-  priority = 0.5
-
-# Ovaj dio dodaj da isključiš taksonomije iz mape sajta
 [build]
   [[build.renderMethods]]
-    # Isključujemo 'term' (npr. /countries/alzir/) 
-    # i 'taxonomy' (npr. /countries/) iz sitemapa
-    types = ["taxonomy", "term"]
+    # Isključuje stranice koje izlistavaju sve zemlje (/countries/)
+    # i pojedinačne zemlje (/countries/alzir/)
+    kinds = ["taxonomy", "term"]
     render = "never"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
