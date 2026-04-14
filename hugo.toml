@@ -69,3 +69,15 @@ weight = 80
   prirodna-riznica = "/prirodna-riznica/:filename"
   tihe-megastrukture = "/tihe-megastrukture/:filename"
   nauticki-dnevnik = "/nauticki-dnevnik/:filename"
+
+  [sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+# Ovaj dio dodaj da isključiš taksonomije iz mape sajta
+[build]
+  [[build.renderMethods]]
+    # Isključujemo 'term' (npr. /countries/alzir/) 
+    # i 'taxonomy' (npr. /countries/) iz sitemapa
+    types = ["taxonomy", "term"]
+    render = "never"
