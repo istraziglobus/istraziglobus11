@@ -14,9 +14,6 @@ removePathAccents = true
   country = "countries"
   city = "cities"
 
-[cascade._build]
-  list = "never"
-  sitemap = "never"
 
 [params]
   description = "Sajt za putovanja i avanture"
