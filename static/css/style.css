@@ -3284,3 +3284,23 @@ article ul li::before {
     margin-bottom: 1.2rem;
   }
 }
+
+
+.article-content a.kw-link {
+  color: #1a7f37;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+  font-weight: 600;
+
+  padding: 0 2px;
+  border-radius: 4px;
+
+  background: rgba(15, 93, 37, 0.08);
+  transition: all 0.2s ease;
+}
+
+.article-content a.kw-link:hover {
+  background: rgba(4, 63, 21, 0.15);
+  color: #145c2a;
+}
