@@ -3,7 +3,7 @@ title: "Sargaško more: Okeanska tvrđava bez obala"
 subtitle: "Jedinstveni fenomen Atlantika okovan morskim strujama i vječnom tišinom"
 author: "Istraži Globus Tim"
 description: "Istražujemo Sargaško more, jedini vodeni entitet na planeti koji nema kopnene granice. Otkrijte tajnu plivajućih algi, Bermudskog trougla i nevjerovatne migracije jegulja."
-date: 2026-04-16T11:00:00+01:00
+date: 2026-04-18T11:00:00+01:00
 image: "slike/okean/sargasko-hero.jpg"
 image_alt: "Guste naslage žuto-smeđih sargaških algi koje plutaju na tamnoplavoj površini okeana"
 image_author: "Ocean_Explorer" 
