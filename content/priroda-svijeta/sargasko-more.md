@@ -2,14 +2,15 @@
 title: "Sargaško more: Okeanska tvrđava bez obala"
 subtitle: "Jedinstveni fenomen Atlantika okovan morskim strujama i vječnom tišinom"
 author: "Istraži Globus Tim"
-description: "Istražujemo Sargaško more, jedini vodeni entitet na planeti koji nema kopnene granice. Otkrijte tajnu plivajućih algi, Bermudskog trougla i nevjerovatne migracije jegulja."
+description: "Saznajte zašto je Sargaško more jedino more bez obala, kako nastaju plivajuće alge i zašto jegulje prelaze hiljade kilometara upravo do ovog misterioznog dijela Atlantika."
 date: 2026-04-18T11:00:00+01:00
-image: "slike/okean/sargasko-hero.jpg"
+image: "slike/sargasko-more/sargasko-hero.jpg"
 image_alt: "Guste naslage žuto-smeđih sargaških algi koje plutaju na tamnoplavoj površini okeana"
-image_author: "Ocean_Explorer" 
-image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:Sargassum_sea_surface.jpg" 
-image_license: "Public Domain"
+image_author: "Symbiosis" 
+image_source: "Flickr"
+image_source_url: "https://www.flickr.com/photos/75554154@N00/52930525055/" 
+image_license: "CC BY 2.0"
+image_license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
 slug: "sargasko-more-okean-bez-obale"
 draft: false
 countries: ["Atlantik"]
@@ -39,12 +40,13 @@ Kristofor Kolumbo je bio jedan od prvih Evropljana koji je dokumentovao ovo more
 Danas, iako moderna tehnologija omogućava brodovima da prođu bez problema, Sargaško more zadržava svoju reputaciju izolovanog i nepredvidivog prostora. Njegova pozicija se djelimično preklapa sa zloglasnim Bermudskim trouglom, što samo doprinosi auri <span class="highlight-text">**mističnosti i straha**</span> koja ga okružuje. To je prostor gdje zakoni obale ne važe, a jedini gospodar je kružno kretanje struja koje ljubomorno čuvaju ovaj dio okeana od ostatka svijeta.
 
 {{< figcredit 
-    src="slike/okean/sargasko1.jpg" 
-    alt="Stari jedrenjak okružen gustim plivajućim algama u mirnim vodama"
-    author="Mariner_History"
-    source="Wikimedia Commons"
-    source_url="https://commons.wikimedia.org/wiki/File:Old_Ship_Sargasso.jpg"
+    src="slike/sargasko-more/sargasko1.jpg" 
+    alt="ilustracija sargaskog mora iz knjige okean i njegova cuda iz 1874 godine"
+    author="Robert Michael Ballantyne"
+    source="Wikisource"
+    source_url="https://commons.wikimedia.org/wiki/File:The_ocean_and_its_wonders_-_Page_61.png"
     license="Public Domain"
+    license_url="https://creativecommons.org/publicdomain/mark/1.0/"
 >}}
 
 ---
@@ -68,13 +70,13 @@ Plastika se upliće u alge, koje morske kornjače i ribe koriste kao hranu i zak
 Budućnost Sargaškog mora direktno zavisi od naše sposobnosti da kontrolišemo zagađenje okeana na globalnom nivou. Ukoliko dozvolimo da plastika nadvlada alge, izgubićemo jedan od najunikatnijih prirodnih fenomena koji je preživio milione godina bez ikakvog ljudskog uticaja. Ono nas podsjeća da čak i mjesta bez obale i bez ljudi nisu imuna na <span class="highlight-text">**negativne tragove**</span> koje ostavljamo na planeti, zahtijevajući našu hitnu pažnju i zaštitu.
 
 {{< figcredit 
-    src="slike/okean/sargasko2.jpg" 
-    alt="Morska kornjača koja se skriva u naslagama algi sargassum"
-    author="Nature_Shot"
-    source="Flickr"
-    source_url="https://www.flickr.com/photos/nature/12345678/"
-    license="CC BY 2.0"
-    license_url="https://creativecommons.org/licenses/by/2.0/"
+    src="slike/sargasko-more/sargasko2.jpg" 
+    alt="mapa velikog atlantskog pojasa sargasa sa prikazom sargaskog mora i glavnih morskih struja"
+    author="López Miranda JL i sar. / SyntaxTerror"
+    source="Frontiers in Marine Science"
+    source_url="https://www.frontiersin.org/articles/10.3389/fmars.2021.768470/full"
+    license="Public Domain"
+    license_url="https://creativecommons.org/publicdomain/mark/1.0/"
 >}}
 
 ---
@@ -98,12 +100,13 @@ Ove plivajuće strukture nisu samo biljke; one su temelj čitave prehrambene mre
 Kada se posmatra izbliza, ovaj zlatni tepih pulsira životom koji je u potpunom kontrastu sa sterilnom plavetnilju ispod njega. Milijarde malih organizama svakodnevno vrše razmjenu materije, održavajući ravnotežu koja prkosi izolaciji i udaljenosti od najbližeg kopna. Sargaške alge su <span class="highlight-text">**biološki motor**</span> ovog mora, pretvarajući prazan prostor okeana u najgušće naseljenu tačku sjevernog Atlantskog prstena.
 
 {{< figcredit 
-    src="slike/okean/sargasko3.jpg" 
-    alt="Satelitski snimak sjevernog Atlantika koji prikazuje vrtložno kretanje Sargaškog mora"
-    author="NASA_Earth"
-    source="Wikimedia Commons"
-    source_url="https://commons.wikimedia.org/wiki/File:Sargasso_Sea_Satellite.jpg"
-    license="Public Domain"
+    src="slike/sargasko-more/sargasko3.jpg" 
+    alt="biolog mark dodd ispituje morske trave sargasum natopljene naftom u meksickom zalivu 2023 godine"
+    author="Georgia Department of Natural Resources"
+    source="Flickr"
+    source_url="https://www.flickr.com/photos/usoceangov/4700293367/in/photolist-8amesP-XqigSZ-m36tJa-kVTZNt-bjKt1x-asbZpb-qXzwFX-Dz2yM-DcYYBv-QSvKF3-dptL9o-H4rJNt-p6NmXP-2kZdQNH-6cX1Bn-6aKeZf-dtVz-px77cK-7FzSV-4FMNkz-FQvuh8-7TLrkh-5jkqRG-282vC6f-UC4dZH-8yRzg-2iMBM4j-9KVwgx-2mBxABZ-a59rdb-dPSfHH-XhSr4z-4pXCbh-GBfyTE-mHNyt3-KG3FqW-GBfDXs-2hE6dsb-BiF5be-2kvxPMJ-2iGtefB-4SHbcE-7jRMV7-8Qdog1-2jHLYKp-CPU7Kc-juP8hU-GBfz51-8PhQaz-i17R"
+    license="CC BY 2.0"
+    license_url="https://creativecommons.org/licenses/by/2.0/deed.en"
 >}}
 
 ---
@@ -114,7 +117,17 @@ Jedan od najčudnijih aspekata Sargaškog mora je način na koji njegova specifi
 
 Naučnici koji proučavaju podvodnu akustiku primijetili su da je nivo pozadinske buke u Sargaškom moru znatno niži nego u okolnim vodama. Alge na površini djeluju kao prirodni prigušivači udara talasa, dok kružne struje sprečavaju prodor zvukova sa udaljenih brodskih ruta. To je rijedak prostor na planeti gdje vlada <span class="highlight-text">**iskonska tišina**</span>, pružajući idealno okruženje za komunikaciju kitova koji povremeno prolaze kroz ove vode tokom svojih migracija.
 
-Ova tišina je decenijama hranila maštu istraživača koji su vjerovali da more krije anomalije koje ometaju čak i zvuk. Zapravo, radi se o savršenoj fizičkoj ravnoteži elemenata koji su stvorili zonu u kojoj se priroda odlučila za mir umjesto buke. Sargaško more je <span class="highlight-text">**utočište za čula**</span>, mjesto gdje se okean ne oglašava grmljavinom talasa, već tihim šumom plivajućih livada koje se lagano njišu na suncu.
+>Ova tišina je decenijama hranila maštu istraživača koji su vjerovali da more krije anomalije koje ometaju čak i zvuk. Zapravo, radi se o savršenoj fizičkoj ravnoteži elemenata koji su stvorili zonu u kojoj se priroda odlučila za mir umjesto buke. Sargaško more je <span class="highlight-text">**utočište za čula**</span>, mjesto gdje se okean ne oglašava grmljavinom talasa, već tihim šumom plivajućih livada koje se lagano njišu na suncu.
+
+---
+
+## Satelitsko oko: Pogled na more iz svemira
+
+Zahvaljujući modernoj tehnologiji, Sargaško more je danas pod stalnim nadzorom satelita koji prate kretanje njegovih zlatnih livada u realnom vremenu. Iz svemira, more izgleda kao ogromna mrlja u boji rđe koja se polako okreće unutar tamnoplavog Atlantika, mijenjajući svoj oblik zavisno od snage morskih struja. Ova <span class="highlight-text">**kosmička perspektiva**</span> nam je omogućila da po prvi put vidimo prave razmjere ovog fenomena koji je vjekovima bio enigma za moreplovce.
+
+Satelitski podaci su otkrili da Sargaško more pulsira u skladu sa godišnjim dobima, šireći se i skupljajući kao da je živo biće. Ovi snimci su ključni za naučnike koji pokušavaju da predvide kako će klimatske promjene uticati na Golfsku struju, a samim tim i na opstanak ovog mora. Praćenje ove <span class="highlight-text">**dinamične granice**</span> bez kopna pomaže nam da razumijemo kako se energija prenosi preko okeana i kako male promjene u temperaturi mogu uticati na globalni ekosistem.
+
+Danas, dok gledamo te fascinantne snimke iz orbite, shvatamo koliko je Sargaško more zapravo krhko i dragocjeno u svojoj izolaciji. Ono više nije samo mistična tačka na starim mapama, već mjerljiva i jasna dokaznica snage prirode da stvori red usred haosa. Pogled iz svemira nam poručuje da je Sargaško more <span class="highlight-text">**plivajući spomenik**</span> evolucije, podsjetnik da se najljepše priče naše planete ponekad pišu tamo gdje nema obale da ih zaustavi.
 
 <div class="info-box-container">
  <h3>Sargaško more: Tehnička anatomija</h3>
@@ -129,13 +142,13 @@ Ova tišina je decenijama hranila maštu istraživača koji su vjerovali da more
 
 ---
 
-## Satelitsko oko: Pogled na more iz svemira
+## Duh vjetrova: Zašto je ovdje tišina?
 
-Zahvaljujući modernoj tehnologiji, Sargaško more je danas pod stalnim nadzorom satelita koji prate kretanje njegovih zlatnih livada u realnom vremenu. Iz svemira, more izgleda kao ogromna mrlja u boji rđe koja se polako okreće unutar tamnoplavog Atlantika, mijenjajući svoj oblik zavisno od snage morskih struja. Ova <span class="highlight-text">**kosmička perspektiva**</span> nam je omogućila da po prvi put vidimo prave razmjere ovog fenomena koji je vjekovima bio enigma za moreplovce.
+Razlog zašto je Sargaško more tako mirno leži u globalnom sistemu vazdušnih strujanja koji ovdje stvara zonu visokog pritiska. U ovoj regiji vazduh se spušta ka površini, neutrališući vjetrove koji bi inače pokretali valove i miješali vodu. Rezultat je <span class="highlight-text">**vječna bonaca**</span>, stanje mora koje je za modernog putnika opuštajuće, ali je za drevne moreplovce značilo sigurnu smrt u izolaciji.
 
-Satelitski podaci su otkrili da Sargaško more pulsira u skladu sa godišnjim dobima, šireći se i skupljajući kao da je živo biće. Ovi snimci su ključni za naučnike koji pokušavaju da predvide kako će klimatske promjene uticati na Golfsku struju, a samim tim i na opstanak ovog mora. Praćenje ove <span class="highlight-text">**dinamične granice**</span> bez kopna pomaže nam da razumijemo kako se energija prenosi preko okeana i kako male promjene u temperaturi mogu uticati na globalni ekosistem.
+Ova tišina na površini u suprotnosti je sa snažnim strujama koje cirkulišu oko mora, poput Golfske struje na zapadu i Kanarske na istoku. One djeluju kao nevidljivi zidovi koji zadržavaju toplu vodu unutar Sargaškog mora, stvarajući termalnu anomaliju usred hladnijeg Atlantika. Ta <span class="highlight-text">**energetska barijera**</span> je ključna za održavanje specifične klime koja pogoduje rastu algi i mrijestu ugroženih vrsta poput jegulja.
 
-Danas, dok gledamo te fascinantne snimke iz orbite, shvatamo koliko je Sargaško more zapravo krhko i dragocjeno u svojoj izolaciji. Ono više nije samo mistična tačka na starim mapama, već mjerljiva i jasna dokaznica snage prirode da stvori red usred haosa. Pogled iz svemira nam poručuje da je Sargaško more <span class="highlight-text">**plivajući spomenik**</span> evolucije, podsjetnik da se najljepše priče naše planete ponekad pišu tamo gdje nema obale da ih zaustavi.
+U pop-kulturi i književnosti, ova tišina je često opisivana kao zlokobna, mjesto gdje se gube signali i gdje vrijeme teče drugačije. Mnogi pisci su koristili Sargaško more kao metaforu za stagnaciju i izgubljenost u sopstvenim mislima usred beskraja. Ono ostaje jedan od rijetkih preostalih <span class="highlight-text">**prirodnih hramova tišine**</span> na svijetu, podsjećajući nas na snagu nevidljivih sila koje oblikuju našu planetu bez ikakve buke.
 
 <div class="tip-box">
 <h3><strong>Zanimljivost o 'Konjskim širinama'</strong></h3>
@@ -144,13 +157,13 @@ Centralni dio Sargaškog mora se vjekovima naziva 'Konjske širine' zbog mračno
 
 ---
 
-## Duh vjetrova: Zašto je ovdje tišina?
+## Pogled u beskraj: Šta nas uči more bez obala?
 
-Razlog zašto je Sargaško more tako mirno leži u globalnom sistemu vazdušnih strujanja koji ovdje stvara zonu visokog pritiska. U ovoj regiji vazduh se spušta ka površini, neutrališući vjetrove koji bi inače pokretali valove i miješali vodu. Rezultat je <span class="highlight-text">**vječna bonaca**</span>, stanje mora koje je za modernog putnika opuštajuće, ali je za drevne moreplovce značilo sigurnu smrt u izolaciji.
+Sargaško more ostaje jedan od posljednjih simbola istinske divljine, podsjećajući nas da priroda ne poznaje granice koje iscrtava čovjek. Ono nas uči da snaga ne leži uvijek u čvrstini kopna, već u nevidljivim strujama koje održavaju život u savršenoj, mada krhkoj ravnoteži. Dok god te zlatne livade plutaju Atlantikom, imaćemo podsjetnik da najdublje tajne naše planete često leže tamo gdje <span class="highlight-text">ljudska noga ne može da stane</span>, već samo oko može da se divi prostranstvu.
 
-Ova tišina na površini u suprotnosti je sa snažnim strujama koje cirkulišu oko mora, poput Golfske struje na zapadu i Kanarske na istoku. One djeluju kao nevidljivi zidovi koji zadržavaju toplu vodu unutar Sargaškog mora, stvarajući termalnu anomaliju usred hladnijeg Atlantika. Ta <span class="highlight-text">**energetska barijera**</span> je ključna za održavanje specifične klime koja pogoduje rastu algi i mrijestu ugroženih vrsta poput jegulja.
+Ovaj vodeni fenomen je dokaz da izolacija može biti izvor nevjerovatnog bogatstva, ali i da je naša odgovornost prema okeanima globalna i neodložna. Čuvajući more bez obala, mi zapravo čuvamo same temelje života koji se rađa u tišini i putuje hiljadama kilometara da bi nas nahranio i inspirisao. Sargaško more je <span class="highlight-text">ogledalo našeg odnosa</span> prema nevidljivim blagom Zemlje, izazov da prepoznamo vrijednost u onome što ne možemo posjedovati, ali moramo zaštititi.
 
-U pop-kulturi i književnosti, ova tišina je često opisivana kao zlokobna, mjesto gdje se gube signali i gdje vrijeme teče drugačije. Mnogi pisci su koristili Sargaško more kao metaforu za stagnaciju i izgubljenost u sopstvenim mislima usred beskraja. Ono ostaje jedan od rijetkih preostalih <span class="highlight-text">**prirodnih hramova tišine**</span> na svijetu, podsjećajući nas na snagu nevidljivih sila koje oblikuju našu planetu bez ikakve buke.
+Na kraju, tišina koja vlada nad sargaškim algama nije praznina, već glas prirode koji nas poziva na poštovanje i skromnost. To je prostor u kojem vrijeme teče sporije, a prozirna dubina nudi odgovor na pitanja koja nismo znali ni da postavimo. Sargaško more će nastaviti da pulsira kao <span class="highlight-text">srce Atlantika</span>, ostajući vječna inspiracija za sve one koji tragaju za čudima koja se kriju iza horizonta, tamo gdje se nebo i okean stapaju u jedno.
 
 {{< faq title="Često postavljana pitanja o Sargaškom moru" >}}
 
