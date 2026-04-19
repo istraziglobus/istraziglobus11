@@ -5,7 +5,7 @@
     #hero-map-section { 
         position: relative;
         width: 100vw; 
-        height: 70vh; 
+        height: 75vh; 
         left: 50%;
         right: 50%;
         margin-left: -50vw;
@@ -127,58 +127,66 @@
     var dataItems = document.querySelectorAll('#map-data li');
     
     dataItems.forEach(function(item) {
-    var lat = parseFloat(item.getAttribute('data-lat'));
-    var lng = parseFloat(item.getAttribute('data-lng'));
-    var title = item.getAttribute('data-title');
-    var city = item.getAttribute('data-city'); // DODAJ OVO
-    var url = item.getAttribute('data-url');
+        var lat = parseFloat(item.getAttribute('data-lat'));
+        var lng = parseFloat(item.getAttribute('data-lng'));
+        var title = item.getAttribute('data-title');
+        var city = item.getAttribute('data-city'); 
+        var url = item.getAttribute('data-url');
 
-    if (!isNaN(lat) && !isNaN(lng)) {
-        lineCoords.push([lat, lng]);
+        if (!isNaN(lat) && !isNaN(lng)) {
+            lineCoords.push([lat, lng]);
 
-        var customIcon = L.divIcon({
-            html: '<div class="green-pulse"></div><div class="green-dot"></div>',
-            className: 'custom-icon',
-            iconSize: [10, 10],
-            iconAnchor: [5, 5]
-        });
+            var customIcon = L.divIcon({
+                html: '<div class="green-pulse"></div><div class="green-dot"></div>',
+                className: 'custom-icon',
+                iconSize: [10, 10],
+                iconAnchor: [5, 5]
+            });
 
-        var marker = L.marker([lat, lng], { icon: customIcon }).addTo(map);
-        
-        // TOOLTIP - Sada koristi 'city' umesto 'title'
-        marker.bindTooltip(city, {
-            permanent: false,
-            direction: 'top',
-            className: 'city-tooltip',
-            offset: [0, -10]
-        });
+            var marker = L.marker([lat, lng], { icon: customIcon }).addTo(map);
+            
+            marker.bindTooltip(city, {
+                permanent: false,
+                direction: 'top',
+                className: 'city-tooltip',
+                offset: [0, -10]
+            });
 
-        // POPUP - I dalje koristi pun naslov članka na klik
-        marker.bindPopup("<div style='text-align:center; color:#333;'><b>" + title + "</b><br><a href='" + url + "' style='color:#2ecc71;'>Vidi članak</a></div>");
-    }
-});
+            marker.bindPopup("<div style='text-align:center; color:#333;'><b>" + title + "</b><br><a href='" + url + "' style='color:#2ecc71;'>Vidi članak</a></div>");
+        }
+    });
 
-    // POVEZIVANJE LINIJOM KOJA TEČE
     if (lineCoords.length > 1) {
-    // 1. Osnovna statična linija (tamnija i puna)
-    L.polyline(lineCoords, {
-        color: '#0044cc',      // Tamnije plava
-        weight: 2,             
-        opacity: 0.3,          // Suptilna baza
-        lineJoin: 'round'
-    }).addTo(map);
+        L.polyline(lineCoords, {
+            color: '#0044cc',
+            weight: 2,             
+            opacity: 0.3,
+            lineJoin: 'round'
+        }).addTo(map);
 
-    // 2. Linija "Struja" (svetlija koja se kreće preko baze)
-    L.polyline(lineCoords, {
-        color: '#00d4ff',      // Svetlo plava (neon)
-        weight: 2,             
-        opacity: 0.8,
-        className: 'electric-line', // Poziva našu novu animaciju
-        lineJoin: 'round'
-    }).addTo(map);
-}
+        L.polyline(lineCoords, {
+            color: '#00d4ff',
+            weight: 2,             
+            opacity: 0.8,
+            className: 'electric-line',
+            lineJoin: 'round'
+        }).addTo(map);
+    }
 
-    // SKLANJANJE NASLOVA PRI ZUMIRANJU
+    // --- OVDE JE DODAT KOD ZA MOBILNI ZUM ---
+    if (window.innerWidth < 768) {
+        // Dozvoljavamo manji zum na mobitelu da bi sve stalo
+        map.setMinZoom(1); 
+        
+        var worldBounds = L.latLngBounds(
+            L.latLng(-50, -150), // Južna Amerika / Pacifik
+            L.latLng(30, 190)    // Sever / Australija
+        );
+        
+        map.fitBounds(worldBounds, { padding: [10, 10] });
+    }
+    // ---------------------------------------
+
     map.on('zoomend', function() {
         var currentZoom = map.getZoom();
         var textElement = document.getElementById('hero-text');
