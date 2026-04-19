@@ -3283,24 +3283,64 @@ article ul li::before {
   color: #145c2a;
 }
 
-/* Stil za samu tačkicu */
+
+
+/* --- GLOBALNI STIL (Desktop - 10px) --- */
 .green-dot {
     width: 10px;
     height: 10px;
-    background: #2ecc71; /* Lepa zelena boja */
+    background: #2ecc71;
     border-radius: 50%;
     position: absolute;
     border: 2px solid white;
+    z-index: 2;
 }
 
-/* Stil za pulsirajući krug oko tačkice */
 .green-pulse {
     width: 10px;
     height: 10px;
     background: #2ecc71;
     border-radius: 50%;
     position: absolute;
-    animation: pulse-green 2s infinite;
+    /* Koristimo specifično ime za desktop animaciju */
+    animation: pulse-green-desktop 2s infinite;
+}
+
+@keyframes pulse-green-desktop {
+    0% { transform: scale(1); opacity: 0.8; }
+    100% { transform: scale(4); opacity: 0; }
+}
+
+/* --- MOBILNI STIL (Unutar media upita - 6px) --- */
+@media (max-width: 768px) {
+    /* Tvoji postojeći stilovi za hero-map-section, hero-text, h1, p ostaju isti... */
+    
+    #hero-map-section { height: 70vh; }
+    
+    /* DODAJ OVO ZA TAČKICE: */
+    .green-dot {
+        width: 6px !important;
+        height: 6px !important;
+        border: 1px solid white !important; /* Tanja ivica za manju tačku */
+    }
+
+    .green-pulse {
+        width: 6px !important;
+        height: 6px !important;
+        /* Nova animacija prilagođena mobilnom ekranu */
+        animation: pulse-green-mobile 2s infinite !important;
+    }
+
+    @keyframes pulse-green-mobile {
+        0% { transform: scale(1); opacity: 0.8; }
+        100% { transform: scale(3); opacity: 0; } /* Manji opseg širenja */
+    }
+
+    /* Resetujemo centriranje jer je tačka sada manja */
+    .custom-icon {
+        margin-left: -3px !important;
+        margin-top: -3px !important;
+    }
 }
 
 @keyframes pulse-green {
@@ -3455,6 +3495,8 @@ article ul li::before {
         border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
     }
 }
+
+
 
 /* Stil za ime grada (Tooltip) koji se pojavljuje na hover */
 .city-tooltip {
