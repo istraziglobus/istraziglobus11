@@ -12,6 +12,7 @@ image_source: "Wikimedia Commons / Flickr"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Path..._%281889799985%29.jpg" 
 image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
+location: [43.6532, -79.3832]
 countries: ["Kanada"]
 cities: ["Toronto"]
 categories:

@@ -13,6 +13,7 @@ image_license: "Pexels License (Attribution Optional)"
 image_license_url: "https://www.pexels.com/license/"
 slug: "barselona-sta-vidjeti"
 draft: false
+location: [41.3851, 2.1734]
 countries: ["Spanija"]
 cities: ["Barselona"]
 categories:

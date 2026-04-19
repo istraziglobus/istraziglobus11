@@ -11,6 +11,7 @@ image_source_url: "https://mt.m.wikipedia.org/wiki/Stampa:Dubai_-_International_
 image_license: "Copyrighted by Konstantin von Wedelstaedt"
 image_license_url: "http://www.airliners.net/"
 slug: "dubai-international"
+location: [25.2048, 55.2708]
 countries: ["Ujedinjeni Arapski Emirati"]
 cities: ["Dubai"]
 categories:

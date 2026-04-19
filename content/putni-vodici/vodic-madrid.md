@@ -9,6 +9,7 @@ source: "Pixabay"
 source_url: "https://pixabay.com/photos/madrid-city-spain-architecture-2713751/"
 license: "Pixabay License"
 license_url: "https://pixabay.com/service/license/" 
+location: [40.4168, -3.7038]
 countries: ["Španija"]
 cities: ["Madrid"]
 categories:

@@ -14,6 +14,7 @@ image_source: "Flickr / Public Domain"
 image_source_url: "https://www.flickr.com/photos/j0035001-2/54803174202/"
 image_license: "CC0 1.0 Universal (Public Domain)"
 image_license_url: "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+location: [1.3521, 103.8198]
 countries: ["Singapur"]
 cities: ["Singapur"]
 categories:

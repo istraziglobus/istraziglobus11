@@ -11,6 +11,7 @@ image_source: "Flickr (via Wikimedia Commons)"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Hiroshima-after-the-bomb_(6018958296).jpg"
 image_license: "CC BY-SA 2.0 Generic"
 image_license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+location: [34.3853, 132.4553]
 countries: ["Japan"]
 cities: ["Hirošima"]
 categories:

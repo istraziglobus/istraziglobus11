@@ -1,16 +1,197 @@
 {{ define "main" }}
-<section class="hero" id="pocetna">
-    <video autoplay muted loop class="hero-video-background">
-        {{/* Uklonjena kosa crta ispred slike unutar absURL */}}
-        <source src="{{ "slike/hero/hero_video.mp4" | absURL }}" type="video/mp4">
-        Vaš pregledač ne podržava video tag.
-    </video>
-    <div class="hero-content">
-        <h1>ISTRAŽI GLOBUS</h1>
-        <p>Svako putovanje ima svoj kod. Dekodiraj sistem.</p>
-        <a href="#whats-now" class="btn btn-primary">Istraži Odmah</a>
+
+<style>
+    /* Desktop: Puna širina ekrana */
+    #hero-map-section { 
+        position: relative;
+        width: 100vw; 
+        height: 70vh; 
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        background: #000;
+        overflow: hidden;
+    }
+    
+    @media (max-width: 768px) {
+        #hero-map-section { height: 45vh; }
+    }
+
+    #map { height: 100%; width: 100%; display: block; }
+
+    /* CSS ZA PULSIRANJE TAČKICA */
+    .green-dot {
+        width: 10px; height: 10px;
+        background: #2ecc71;
+        border-radius: 50%;
+        position: absolute;
+        border: 2px solid white;
+    }
+    .green-pulse {
+        width: 10px; height: 10px;
+        background: #2ecc71;
+        border-radius: 50%;
+        position: absolute;
+        animation: pulse-green 2s infinite;
+    }
+    @keyframes pulse-green {
+        0% { transform: scale(1); opacity: 0.8; }
+        100% { transform: scale(4); opacity: 0; }
+    }
+
+    /* CSS ZA TEČENJE LINIJA */
+    @keyframes dash-flow {
+        to { stroke-dashoffset: -20; }
+    }
+    .flowing-line {
+        animation: dash-flow 1s linear infinite;
+    }
+
+    /* ELEGANTNI NASLOV U UGLU (Opcija 3) */
+    #hero-text {
+        position: absolute;
+        bottom: 40px;
+        left: 40px;
+        z-index: 1000;
+        transition: opacity 0.5s ease;
+        pointer-events: none;
+    }
+    .title-container { display: flex; align-items: center; gap: 15px; }
+    .green-bar {
+        width: 3px; height: 60px;
+        background: #2ecc71;
+        box-shadow: 0 0 10px rgba(46, 204, 113, 0.5);
+    }
+    .title-content h1 {
+        color: #fff; font-size: 1.8rem; margin: 0;
+        font-weight: 300; letter-spacing: 5px;
+        font-family: 'Playfair Display', serif;
+    }
+    .title-content p {
+        color: #666; font-size: 0.8rem; margin: 0;
+        text-transform: uppercase; letter-spacing: 2px;
+    }
+</style>
+
+<section id="hero-map-section">
+    <div id="hero-text">
+        <div class="title-container">
+            <div class="green-bar"></div>
+            <div class="title-content">
+                <h1>ISTRAŽI GLOBUS</h1>
+                <p>Svako putovanje ima svoj kod. <br>Dekodiraj sistem!</p>
+            </div>
+        </div>
     </div>
+
+    <div id="map"></div>
 </section>
+
+<ul id="map-data" style="display: none;">
+    {{ range .Site.RegularPages }}
+        {{ if .Params.location }}
+        <li data-lat="{{ index .Params.location 0 }}" 
+            data-lng="{{ index .Params.location 1 }}" 
+            data-title="{{ .Title }}" 
+            data-city="{{ index .Params.cities 0 }}" 
+            data-url="{{ .Permalink }}">
+        </li>
+        {{ end }}
+    {{ end }}
+</ul>
+
+<script>
+    var southWest = L.latLng(-85, -180);
+    var northEast = L.latLng(85, 180);
+    var bounds = L.latLngBounds(southWest, northEast);
+
+    var map = L.map('map', {
+        center: [25, 0],           
+        zoom: 2,                  
+        minZoom: 2,
+        maxZoom: 10,              
+        zoomControl: false,
+        attributionControl: false,
+        maxBounds: bounds,
+        maxBoundsViscosity: 1.0,
+        dragging: !L.Browser.mobile
+    });
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        noWrap: false,
+        bounds: bounds
+    }).addTo(map);
+
+    var lineCoords = [];
+    var dataItems = document.querySelectorAll('#map-data li');
+    
+    dataItems.forEach(function(item) {
+    var lat = parseFloat(item.getAttribute('data-lat'));
+    var lng = parseFloat(item.getAttribute('data-lng'));
+    var title = item.getAttribute('data-title');
+    var city = item.getAttribute('data-city'); // DODAJ OVO
+    var url = item.getAttribute('data-url');
+
+    if (!isNaN(lat) && !isNaN(lng)) {
+        lineCoords.push([lat, lng]);
+
+        var customIcon = L.divIcon({
+            html: '<div class="green-pulse"></div><div class="green-dot"></div>',
+            className: 'custom-icon',
+            iconSize: [10, 10],
+            iconAnchor: [5, 5]
+        });
+
+        var marker = L.marker([lat, lng], { icon: customIcon }).addTo(map);
+        
+        // TOOLTIP - Sada koristi 'city' umesto 'title'
+        marker.bindTooltip(city, {
+            permanent: false,
+            direction: 'top',
+            className: 'city-tooltip',
+            offset: [0, -10]
+        });
+
+        // POPUP - I dalje koristi pun naslov članka na klik
+        marker.bindPopup("<div style='text-align:center; color:#333;'><b>" + title + "</b><br><a href='" + url + "' style='color:#2ecc71;'>Vidi članak</a></div>");
+    }
+});
+
+    // POVEZIVANJE LINIJOM KOJA TEČE
+    if (lineCoords.length > 1) {
+    // 1. Osnovna statična linija (tamnija i puna)
+    L.polyline(lineCoords, {
+        color: '#0044cc',      // Tamnije plava
+        weight: 2,             
+        opacity: 0.3,          // Suptilna baza
+        lineJoin: 'round'
+    }).addTo(map);
+
+    // 2. Linija "Struja" (svetlija koja se kreće preko baze)
+    L.polyline(lineCoords, {
+        color: '#00d4ff',      // Svetlo plava (neon)
+        weight: 2,             
+        opacity: 0.8,
+        className: 'electric-line', // Poziva našu novu animaciju
+        lineJoin: 'round'
+    }).addTo(map);
+}
+
+    // SKLANJANJE NASLOVA PRI ZUMIRANJU
+    map.on('zoomend', function() {
+        var currentZoom = map.getZoom();
+        var textElement = document.getElementById('hero-text');
+        if (textElement) {
+            if (currentZoom > 2) { textElement.style.opacity = "0"; }
+            else { textElement.style.opacity = "1"; }
+        }
+    });
+
+    window.onload = function() {
+        setTimeout(function() { map.invalidateSize(); }, 500);
+    };
+</script>
 
 <section class="quote-horoscope-section">
     <div class="container">
@@ -90,6 +271,7 @@
         </div>
     </div>
 </section>
+
 
 <section class="balkan-section">
     <h2 class="section-title">KORACIMA BALKANA</h2>

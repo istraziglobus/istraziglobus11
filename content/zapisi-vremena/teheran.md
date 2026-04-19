@@ -12,6 +12,7 @@ image_source: "Wikimedia Commons / Sajed.ir"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Mass_demonstration_in_Iran,_date_unknown.jpg" 
 image_license: "GNU Free Documentation License (GFDL)"
 image_license_url: "https://www.gnu.org/licenses/fdl-1.3.html" 
+location: [35.6892, 51.3890]
 countries: ["Iran"]
 cities: ["Teheran"]
 categories:

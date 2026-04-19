@@ -459,28 +459,6 @@ a:hover {
     margin-bottom: 30px;
     color: var(--light-text-color);
 }
-/* ---- STIL ZA HERO VIDEO SAMO NA MOBILNOM UREĐAJU ---- */
-@media (max-width: 768px) {
-    .hero {
-        height: 250px; /* Možeš prilagoditi visinu hero sekcije */
-        overflow: hidden;
-    }
-    .hero-video-background {
-        height: 100%;
-        width: auto;
-        left: 50%;
-        transform: translateX(-50%);
-        object-fit: cover;
-    }
-    .hero-content {
-        position: absolute;
-        bottom: 20px;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 90%;
-        text-align: center;
-    }
-}
 
 /* ========================================= 
    NOVI STILOVI ZA "NAJNOVIJE ČLANKE"
@@ -3303,4 +3281,203 @@ article ul li::before {
 .article-content a.kw-link:hover {
   background: rgba(4, 63, 21, 0.15);
   color: #145c2a;
+}
+
+/* Stil za samu tačkicu */
+.green-dot {
+    width: 10px;
+    height: 10px;
+    background: #2ecc71; /* Lepa zelena boja */
+    border-radius: 50%;
+    position: absolute;
+    border: 2px solid white;
+}
+
+/* Stil za pulsirajući krug oko tačkice */
+.green-pulse {
+    width: 10px;
+    height: 10px;
+    background: #2ecc71;
+    border-radius: 50%;
+    position: absolute;
+    animation: pulse-green 2s infinite;
+}
+
+@keyframes pulse-green {
+    0% {
+        transform: scale(1);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(4);
+        opacity: 0;
+    }
+}
+
+/* Efekat struje kroz punu liniju */
+@keyframes electric-flow {
+    from {
+        stroke-dashoffset: 100;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+.electric-line {
+    /* Ovde pravimo jedan dugačak svetli impuls koji putuje */
+    stroke-dasharray: 20, 80; 
+    animation: electric-flow 2s linear infinite;
+    stroke-linecap: round;
+}
+
+
+
+/* FINALNI STIL ZA NASLOVNI PANEL */
+#hero-text {
+    position: absolute;
+    bottom: 0px!important;
+    left: 5px!important;
+    z-index: 1000;
+    transition: all 0.5s ease;
+    pointer-events: none;
+    
+    /* Panel/Okvir */
+    padding: 30px 5px;
+    background: rgba(0, 0, 0, 0.6); /* Malo tamnije za bolji kontrast */
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1); /* Suptilan beli okvir */
+    border-top: 2px solid #2ecc71; /* Zelena linija sad ide gore za simetriju */
+    border-radius: 4px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.title-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    /* CENTRIRA SVE HORIZONTALNO */
+    text-align: center;     /* CENTRIRA TEKST UNUTAR REDOVA */
+}
+
+.title-content h1 {
+    color: #ffffff !important;
+    font-family: 'Playfair Display', serif !important;
+    font-size: 2.05rem !important; /* Još malo veće */
+    font-weight: 700 !important;
+    letter-spacing: 10px !important; /* Još širi razmak za moćniji izgled */
+    text-transform: uppercase !important;
+    margin: 0 !important;
+    
+    /* MAGIJA OVDE: Spoljni sjaj i senka za dubinu */
+    text-shadow: 
+        0 0 10px rgba(255, 255, 255, 0.3), 
+        0 0 20px rgba(46, 204, 113, 0.2), /* Blagi zeleni odsjaj */
+        2px 2px 5px rgba(0, 0, 0, 0.8) !important; 
+    
+    /* Animacija pri pojavljivanju */
+    animation: revealText 1.5s ease-out forwards;
+}
+
+.title-content p {
+    color: #2ecc71 !important; /* Podnaslov u zelenoj boji da "razbije" monotoniju */
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 0.9rem !important;
+    font-weight: 400 !important;
+    letter-spacing: 4px !important;
+    margin-top: 25px !important;
+    text-transform: uppercase !important;
+    line-height: 1.8 !important;
+    
+    /* Linija razdvajanja sa sjajem */
+    border-top: 1px solid rgba(46, 204, 113, 0.4) !important;
+    padding-top: 15px !important;
+    text-shadow: 0 0 5px rgba(46, 204, 113, 0.3) !important;
+}
+
+/* Animacija za moćan ulazak naslova */
+@keyframes revealText {
+    0% {
+        opacity: 0;
+        letter-spacing: 20px;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity: 1;
+        letter-spacing: 10px;
+        transform: translateY(0);
+    }
+}
+
+.green-bar { display: none; }
+
+/* Kompaktno rješenje za mobilni - do samog kraja */
+@media (max-width: 768px) {
+    #hero-map-section { 
+        height: 50vh; /* Optimalna visina za mobilni pregled */
+    }
+
+    #hero-text {
+        left: 0 !important;
+        bottom: 0 !important;
+        transform: none !important; /* Uklanjamo centriranje da bi išao od ivice do ivice */
+        
+        /* Maksimalno smanjivanje */
+        width: 100% !important; /* Širina preko cijelog ekrana */
+        min-width: unset !important;
+        padding: 10px 15px !important; /* Veoma mali prostor unutar */
+        
+        background: rgba(0, 0, 0, 0.6) !important;
+        backdrop-filter: blur(5px) !important;
+        
+        /* Ivice */
+        border: none !important;
+        border-top: 1px solid rgba(46, 204, 113, 0.5) !important; /* Samo tanka zelena linija na vrhu */
+        border-radius: 0 !important; /* Brišemo zaobljenje da nalegne na ivice ekrana */
+        box-shadow: none !important;
+    }
+
+    .title-container {
+        align-items: center; /* Tekst ostaje u sredini panela */
+    }
+
+    .title-content h1 {
+        font-size: 1.1rem !important; /* Baš mala, ali jasna slova */
+        letter-spacing: 3px !important;
+        text-shadow: none !important;
+    }
+
+    .title-content p {
+        font-size: 0.65rem !important;
+        margin-top: 5px !important; /* Minimalan razmak */
+        padding-top: 5px !important;
+        letter-spacing: 1px !important;
+        line-height: 1.2 !important;
+        border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+    }
+}
+
+/* Stil za ime grada (Tooltip) koji se pojavljuje na hover */
+.city-tooltip {
+    background: rgba(0, 0, 0, 0.85) !important; /* Tamna, skoro skroz crna pozadina */
+    color: #2ecc71 !important;                 /* Tvoja zelena boja */
+    border: 1px solid rgba(46, 204, 113, 0.4) !important; /* Tanak zeleni okvir */
+    border-radius: 2px !important;              /* Oštre ivice za tech izgled */
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;       /* Sva velika slova */
+    letter-spacing: 2px !important;             /* Razmaknuta slova */
+    padding: 5px 10px !important;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5) !important;
+    white-space: nowrap;                        /* Sprečava prelamanje imena grada */
+}
+
+/* Uklanjanje podrazumevane Leaflet strelice ispod tooltipa */
+.city-tooltip:before {
+    display: none !important;
+}
+
+/* Opciono: Blagi sjaj oko teksta u tooltipu */
+.city-tooltip {
+    text-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
 }

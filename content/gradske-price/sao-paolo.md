@@ -12,6 +12,7 @@ image_source: "Generisano na zahtev"
 image_source_url: ""
 image_license: "Dozvola za korišćenje"
 image_license_url: ""
+location: [-23.5505, -46.6333]
 countries: ["Brazil"]
 cities: ["Sao Paulo"]
 categories:

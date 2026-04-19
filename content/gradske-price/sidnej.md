@@ -12,6 +12,7 @@ image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/sydney-opera-house-dawn-sydney-354376/"
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license-summary/"
+location: [-33.8688, 151.2093]
 countries: ["Australija"]
 cities: ["Sidnej"]
 categories:

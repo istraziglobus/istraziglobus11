@@ -12,6 +12,7 @@ image_license: "CC BY-SA 3.0 Unported (Multiple License)"
 image_license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
 slug: "pad-berlinskog-zida-novi"
 draft: false
+location: [52.5200, 13.4050]
 countries: ["Njemacka"]
 cities: ["Berlin"]
 categories:

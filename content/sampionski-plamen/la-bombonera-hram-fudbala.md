@@ -12,6 +12,7 @@ image_source: "Flickr"
 image_source_url: "https://www.flickr.com/photos/125618985@N06/17346926886" 
 image_license: "CC BY 2.0"
 image_license_url: "https://creativecommons.org/licenses/by/2.0/" 
+location: [-34.6037, -58.3816]
 countries: ["Argentina"]
 cities: ["Buenos Aires"]
 categories:
