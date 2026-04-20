@@ -338,13 +338,13 @@ a:hover {
     box-shadow: var(--shadow);
     transition: max-height 0.4s ease-out, opacity 0.4s ease-out;
     opacity: 0; /* Počinje nevidljivo */
-    z-index: 990; /* Ispod hamburgera */
+    z-index: 1200; /* Ispod hamburgera */
     border-bottom-left-radius: var(--border-radius); /* Zaobljen donji levi ugao */
 }
 
 .dropdown-menu.active {
     display: block; /* Prikazuje se JS-om na mobilnom */
-    max-height: 500px; /* Dovoljno veliko da primi sadržaj, JavaScript će dinamički podesiti */
+    max-height: 450px; /* Dovoljno veliko da primi sadržaj, JavaScript će dinamički podesiti */
     opacity: 1;
     overflow-y: auto; /* Omogućava skrolovanje ako je sadržaj duži */
 }
@@ -1370,7 +1370,7 @@ blockquote p {
 .balkan-card .card-subtitle {
     font-size: 1.25em;
     letter-spacing: 0.5px;
-    color: #FFEA00; /* KLJUČNO: Menjamo boju teksta u plavu */
+    color: #feffff; /* KLJUČNO: Menjamo boju teksta u plavu */
 }
 
 /* Media query za desktop - od 768px i naviše */
@@ -1574,7 +1574,7 @@ blockquote p {
   font-size: 2.2rem;
   letter-spacing: 0.1em;
   animation: blink 1s infinite;
-  color: #f8f020f2;
+  color: #2ecc71;
   position: relative;
 }
 
@@ -1584,7 +1584,7 @@ blockquote p {
   object-fit: cover; /* KLJUČNO: Garantuje da se slika ne izobličuje */
   border-radius: 8px;
   margin-top: 1rem;
-  border: 3px solid #FFD700; /* Žuti okvir debljine 3px */
+  border: 3px solid #2ecc71; /* Žuti okvir debljine 3px */
   padding: 2px; /* Mali padding da odvoji sliku od okvira */
   width: calc(100% + 0.3rem); 
   margin-left: -0.3rem;
@@ -2485,7 +2485,7 @@ blockquote p {
 
 .daily-globus-card:hover {
   transform: translateY(-5px);
-  border-color: rgba(212, 175, 55, 0.4); /* Lagani zlatni sjaj na hover */
+  border-color: #2ecc71; /* Lagani zlatni sjaj na hover */
 }
 
 /* NASLOV: DNEVNI GLOBUS */
@@ -2495,7 +2495,7 @@ blockquote p {
   font-weight: 790;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #8fd3ff; /* Svetlo plava */
+  color: #30f49f; /* Svetlo plava */
   text-align: center;
   margin-top: -15px;    /* Povlači naslov prema samom vrhu kartice */
   margin-bottom: 20px;   /* Smanjuje razmak između naslova i današnjeg datuma */
@@ -2520,7 +2520,7 @@ blockquote p {
   flex-direction: column;
   justify-content: center;
   padding: 30px;
-  border: 5px solid #d4af37; /* ZLATNI OKVIR */
+  border: 5px solid #2ecc71; 
   border-radius: 15px;
   background: rgba(255, 255, 255, 0.02); /* Suptilni odsjaj unutar okvira */
   position: relative;
@@ -2541,7 +2541,7 @@ blockquote p {
     font-family: "Montserrat", sans-serif;
     font-size: 2.5rem; /* Jako velika i upečatljiva godina */
     font-weight: 900;
-    color: #d4af37; /* Zlatna boja */
+    color: #2ecc71;
     text-align: center;
     line-height: 1;
     margin-bottom: 15px;
@@ -2567,7 +2567,7 @@ blockquote p {
     display: block;
     width: 40px;
     height: 2px;
-    background: #d4af37;
+    background: #074e18;
     margin: 15px auto 0;
     opacity: 0.5;
 }
@@ -2881,7 +2881,7 @@ blockquote p {
 .tip-card {
     background: #fff;
     border: 1px solid #eee;
-    border-left: 5px solid #d70394;
+    border-left: 5px solid #02e5ec;
     padding: 20px;
     border-radius: 12px;
     transition: transform 0.3s ease;
@@ -2904,14 +2904,14 @@ blockquote p {
 }
 
 .tip-header i {
-    color: #e827ab; /* Tvoja prepoznatljiva žuta */
+    color: #02e5ec; /* Tvoja prepoznatljiva žuta */
     font-size: 1.2rem;
 }
 
 /* Posebno istaknuta kartica (npr. za Vinjetu) */
 .highlight-tip {
     background-color: #fff9e6; /* Svijetlo žuta pozadina */
-    border-color: #8b0254;
+    border-color: #02e5ec;
 }
 
 .tip-card p {
@@ -3328,11 +3328,11 @@ article ul li::before {
         width: 6px !important;
         height: 6px !important;
         /* Nova animacija prilagođena mobilnom ekranu */
-        animation: pulse-green-mobile 2s infinite !important;
+        animation: pulse-green-mobile 1s infinite !important;
     }
 
     @keyframes pulse-green-mobile {
-        0% { transform: scale(1); opacity: 0.8; }
+        0% { transform: scale(1); opacity: 1.1; }
         100% { transform: scale(3); opacity: 0; } /* Manji opseg širenja */
     }
 
@@ -3366,12 +3366,26 @@ article ul li::before {
 
 .electric-line {
     /* Ovde pravimo jedan dugačak svetli impuls koji putuje */
-    stroke-dasharray: 20, 80; 
+    stroke-dasharray: 0, 50; 
     animation: electric-flow 2s linear infinite;
-    stroke-linecap: round;
+    stroke-linecap: square;
 }
 
+/* --- KONTEJNER MAPE (Desktop) --- */
+#hero-map-section {
+    position: relative;
+    width: 100%;
+    height: 450px !important; 
+    background: #000; /* Boja dok se mapa ne učita */
+    overflow: hidden;
+}
 
+/* Stil za samu Leaflet mapu unutar kontejnera */
+#map {
+    width: 100%;
+    height: 100%;
+    background-color: #0b0b0b !important; /* Tamna boja pozadine mape */
+}
 
 /* FINALNI STIL ZA NASLOVNI PANEL */
 #hero-text {
@@ -3454,6 +3468,7 @@ article ul li::before {
 @media (max-width: 768px) {
     #hero-map-section { 
         height: 70vh; /* Optimalna visina za mobilni pregled */
+        z-index: 5 !important; /* Smanjujemo sa 1000 na 5 */
     }
 
     #hero-text {
@@ -3466,7 +3481,7 @@ article ul li::before {
         min-width: unset !important;
         padding: 15px 15px !important; /* Veoma mali prostor unutar */
         
-        background: rgba(0, 0, 0, 0.6) !important;
+        background: rgba(43, 42, 42, 0.6) !important;
         backdrop-filter: blur(5px) !important;
         
         /* Ivice */

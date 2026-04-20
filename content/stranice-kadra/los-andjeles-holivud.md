@@ -11,7 +11,8 @@ image_author: "/"
 image_source: "Pixabay"
 image_source_url: "https://pixabay.com/photos/hollywood-sign-los-angeles-hollywood-1598473/" 
 image_license: "Pixabay License"
-image_license_url: "https://pixabay.com/service/license/" 
+image_license_url: "https://pixabay.com/service/license/"
+location: [34.0522, -118.2437]
 countries: ["Sjedinjene Američke Države"]
 cities: ["Los Anđeles"]
 categories:
