@@ -35,29 +35,23 @@ Za Australijance, Sidnej nije samo grad – to je <span class="highlight-text">*
 
 Sidnej je grad koji se ne može opisati jednom riječju, jer on predstavlja kolosalan spoj prirode, inženjeringa i dizajna koji preplavljuje sva čula. Ova pacifička metropola, dragulj južne hemisfere, nudi <span class="highlight-text">**energiju**</span> koja je istovremeno grandiozna i nevjerovatno privlačna za svakog putnika namjernika.
 
-<div class="content-with-image-layout">
-    <div class="info-box-container">
-        <h3>Osnovne informacije o Sidneju</h3>
-        <ul>
-           <li><strong>Osnovan:</strong> 26. januar 1788. godine</li>
-           <li><strong>Stanovništvo:</strong> ~5,3 miliona (metr. područje)</li>
-           <li><strong>Jezik:</strong> Engleski</li>
-           <li><strong>Valuta:</strong> Australijski dolar (AUD)</li>
-           <li><strong>Nadimak:</strong> Harbour City (Grad luke)</li>
-           <li><strong>Geografski položaj:</strong> Jugoistočna obala Australije (33°52′S 151°12′E)</li>
-           <li><strong>Aerodrom:</strong> Kingsford Smith (SYD) – međunarodni</li>
-           <li><strong>Atrakcija:</strong> Sydney Opera House</li>
-           <li><strong>Pozivni broj:</strong> +61 2</li>
-           <li><strong>Vremenska zona:</strong> AEST (UTC+10 / ljeti +11)</li>
-           <li><strong>Savezna država:</strong> Novi Južni Vels (New South Wales)</li>
-           <li><strong>Površina:</strong> 12.367 km²</li>
-           <li><strong>Klima:</strong> Vlažna suptropska</li>
-        </ul>
-    </div>
-    <figure class="article-image-box">
-        {{< figcredit src="slike/sidnej/sidnej4.jpg" alt="Mapa Sidneja" >}}
-    </figure>
-</div>
+{{< citybox 
+    ime="SYDNEY" 
+    drzava="AUSTRALIA"
+    zastava="🇦🇺"
+    osnovan="26. januar 1788." 
+    stanovnistvo="~5,3 miliona" 
+    povrsina="12.367 km²"
+    jezik="Engleski" 
+    valuta="Australijski dolar (AUD)"
+    pozivni="+61 2"
+    zona="AEST (UTC+10)"
+    polozaj="Jugoistočna obala" 
+    aerodrom="Kingsford Smith (SYD)" 
+    klima="Vlažna suptropska" 
+    lat="-33.8688" 
+    lng="151.2093" 
+>}}
 
 ---
 

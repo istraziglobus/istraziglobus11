@@ -1,0 +1,85 @@
+<div class="city-data-wrapper">
+
+    <div class="city-info-box">
+        <h3 class="info-title">Osnovne informacije</h3>
+
+        <div class="info-row"><span class="label">OSNOVAN</span><span class="value">{{ .Get "osnovan" }}</span></div>
+        <div class="info-row"><span class="label">STANOVNIŠTVO</span><span class="value">{{ .Get "stanovnistvo" }}</span></div>
+        <div class="info-row"><span class="label">POVRŠINA</span><span class="value">{{ .Get "povrsina" }}</span></div>
+        <div class="info-row"><span class="label">VALUTA</span><span class="value">{{ .Get "valuta" }}</span></div>
+        <div class="info-row"><span class="label">POZIVNI BROJ</span><span class="value">{{ .Get "pozivni" }}</span></div>
+        <div class="info-row"><span class="label">VREMENSKA ZONA</span><span class="value">{{ .Get "zona" }}</span></div>
+        <div class="info-row"><span class="label">JEZIK</span><span class="value">{{ .Get "jezik" }}</span></div>
+        <div class="info-row"><span class="label">POLOŽAJ</span><span class="value">{{ .Get "polozaj" }}</span></div>
+        <div class="info-row"><span class="label">AERODROM</span><span class="value">{{ .Get "aerodrom" }}</span></div>
+        <div class="info-row"><span class="label">KLIMA</span><span class="value">{{ .Get "klima" }}</span></div>
+    </div>
+
+    <div class="city-map-container">
+        <div id="map-live" class="live-city-map"></div>
+
+        <div class="map-overlay-text">
+            <div class="map-country-row">
+                <span class="map-country">{{ .Get "drzava" }}</span>
+            </div>
+            <span class="map-label">{{ .Get "ime" }}</span>
+            <span class="map-coords">{{ .Get "lat" }}, {{ .Get "lng" }}</span>
+        </div>
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var lat = parseFloat("{{ .Get `lat` }}");
+    var lng = parseFloat("{{ .Get `lng` }}");
+
+    if (!isNaN(lat) && !isNaN(lng)) {
+        var mapElement = document.getElementById('map-live');
+        
+        // Inicijalizacija
+        var map = L.map('map-live', { 
+            zoomControl: false, 
+            attributionControl: false,
+            scrollWheelZoom: false,
+            // Isključujemo animacije koje kvare prikaz na Samsungu
+            fadeAnimation: true,
+            zoomAnimation: false
+        }).setView([lat, lng], 20);
+
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            maxZoom: 19,
+            // Rešava problem sa tvojim globalnim img stilom
+            noWrap: false
+        }).addTo(map);
+
+        var pulsingIcon = L.divIcon({
+            className: 'gps-pulsing-icon',
+            iconSize: [12, 12],
+            iconAnchor: [6, 6]
+        });
+
+        L.marker([lat, lng], { icon: pulsingIcon }).addTo(map);
+
+        // Funkcija za osvežavanje dimenzija
+        function refreshMap() {
+            map.invalidateSize();
+            map.setView([lat, lng], 2);
+        }
+
+        // Samsung fix: Višestruko osvežavanje u prve dve sekunde
+        [100, 500, 1500].forEach(delay => {
+            setTimeout(refreshMap, delay);
+        });
+
+        // ResizeObserver prati promene kontejnera
+        const observer = new ResizeObserver(() => {
+            refreshMap();
+        });
+        observer.observe(mapElement);
+    }
+});
+</script>
