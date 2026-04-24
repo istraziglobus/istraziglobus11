@@ -1,29 +1,160 @@
 <div class="city-data-wrapper">
     <div class="city-info-box">
-        <h3 class="info-title">Osnovne informacije</h3>
-        <div class="info-row"><span class="label">OSNOVAN</span><span class="value">{{ .Get "osnovan" }}</span></div>
-        <div class="info-row"><span class="label">STANOVNIŠTVO</span><span class="value">{{ .Get "stanovnistvo" }}</span></div>
-        <div class="info-row"><span class="label">POVRŠINA</span><span class="value">{{ .Get "povrsina" }}</span></div>
-        <div class="info-row"><span class="label">VALUTA</span><span class="value">{{ .Get "valuta" }}</span></div>
-        <div class="info-row"><span class="label">VREMENSKA ZONA</span><span class="value">{{ .Get "zona" }}</span></div>
-        <div class="info-row"><span class="label">JEZIK</span><span class="value">{{ .Get "jezik" }}</span></div>
-        <div class="info-row"><span class="label">AERODROM</span><span class="value">{{ .Get "aerodrom" }}</span></div>
-        <div class="info-row"><span class="label">KLIMA</span><span class="value">{{ .Get "klima" }}</span></div>
+        <h3 class="info-title">OSNOVNE INFORMACIJE</h3>
+        <div class="info-row"><span class="label">Osnovan</span><span class="value">{{ .Get "osnovan" }}</span></div>
+        <div class="info-row"><span class="label">Stanovništvo</span><span class="value">{{ .Get "stanovnistvo" }}</span></div>
+        <div class="info-row"><span class="label">Površina</span><span class="value">{{ .Get "povrsina" }}</span></div>
+        <div class="info-row"><span class="label">Valuta</span><span class="value">{{ .Get "valuta" }}</span></div>
+        <div class="info-row"><span class="label">Jezik</span><span class="value">{{ .Get "jezik" }}</span></div>
+        <div class="info-row"><span class="label">Aerodrom</span><span class="value">{{ .Get "aerodrom" }}</span></div>
+        <div class="info-row"><span class="label">Pozivni broj</span><span class="value">{{ .Get "pozivni" }}</span></div>
+        <div class="info-row"><span class="label">Zona</span><span class="value">{{ .Get "zona" }}</span></div>
+        <div class="info-row"><span class="label">Klima</span><span class="value">{{ .Get "klima" }}</span></div>
     </div>
 
     <div class="city-map-container">
-        <img src="https://static-maps.yandex.ru/1.x/?lang=en_US&ll={{ .Get `lng` }},{{ .Get `lat` }}&z=3&l=map&theme=dark&size=600,450" 
-             alt="Mapa {{ .Get `ime` }}" 
-             class="static-map-img"
-             style="filter: grayscale(1) invert(1) contrast(1.2);">
+        <iframe 
+    class="live-city-map"
+    width="100%"
+    height="100%"
+    frameborder="0" 
+    style="border:0; position:absolute; top:0; left:0;" 
+    src="https://maps.google.com/maps?q={{ .Get `lat` }},{{ .Get `lng` }}&ll=10.0000,120.0000&z=1&output=embed"
+    allowfullscreen>
+</iframe>
         
-        <div class="map-overlay-text">
+        <div class="map-lock-shield"></div>
+
+        <div class="map-info-bar">
             <div class="map-country-row">
                 <span class="map-flag">{{ .Get "zastava" | safeHTML }}</span>
                 <span class="map-country">{{ .Get "drzava" }}</span>
             </div>
             <span class="map-label">{{ .Get "ime" }}</span>
-            <span class="map-coords">{{ .Get "lat" }}, {{ .Get "lng" }}</span>
+            <span class="map-coords">{{ .Get "lat" }}° N, {{ .Get "lng" }}° E</span>
         </div>
     </div>
 </div>
+
+<style>
+/* --- OSNOVNI LAYOUT --- */
+.city-data-wrapper { 
+    display: flex; 
+    flex-direction: row; 
+    gap: 30px; 
+    margin: 40px 0; 
+    align-items: stretch; 
+    height: 570px; 
+}
+
+.city-info-box { 
+    background: #cdcbcb; 
+    border: 1px solid #eee; 
+    padding: 20px 25px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    flex: 0 0 320px; 
+    max-width: 320px !important; 
+    border-radius: 4px; 
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
+
+.info-title { 
+    font-family: 'Playfair Display', serif; 
+    color: #1a1a1a; 
+    font-size: 20px; 
+    font-weight: 700; 
+    margin-bottom: 12px; 
+    border-bottom: 2px solid #000; 
+    padding-bottom: 8px; 
+    text-align: center; 
+}
+
+.info-row { 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding: 7px 0; 
+    border-bottom: 1px solid #b8b6b6; 
+    text-align: center; 
+}
+
+.info-row:last-child { border-bottom: none; }
+.label { color: #444; font-weight: 600; text-transform: uppercase; font-size: 8px; letter-spacing: 1.5px; margin-bottom: 2px; }
+.value { color: #000; font-weight: 700; font-size: 13px; line-height: 1.2; }
+
+/* --- MAPA I EFEKTI --- */
+.city-map-container { 
+    flex: 1; 
+    position: relative; 
+    border-radius: 4px; 
+    border: 1px solid #111; 
+    overflow: hidden; 
+    background-color: #f0f0f0; /* Svetlija pozadina dok se mapa učitava */
+}
+
+/* SVETLIJA CRNO-BELA MAPA */
+.live-city-map { 
+    width: 100%; 
+    height: 100%; 
+    z-index: 1; 
+    /* Smanjen grayscale na 0.7 i brightness povećan na 1.0 za svetliji izgled */
+    filter: grayscale(0.7) contrast(1.1) brightness(1.0); 
+}
+
+.map-lock-shield {
+    position: absolute;
+    inset: 0;
+    z-index: 4;
+    background: transparent;
+    pointer-events: none; /* Dozvoljava zumiranje skrolom, blokira prevlačenje */
+}
+
+/* --- TAMNA TRAKA SA GLASSMORPHISM --- */
+.map-info-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.85); 
+    backdrop-filter: blur(10px);
+    padding: 25px 30px;
+    z-index: 10;
+    pointer-events: none;
+    border-top: 1px solid rgba(0, 255, 153, 0.2);
+}
+
+.map-country-row { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.map-flag { font-size: 24px; line-height: 1; }
+.map-country { font-family: 'Oswald', sans-serif; font-size: 14px; color: rgba(255, 255, 255, 0.6); letter-spacing: 2.5px; text-transform: uppercase; }
+
+.map-label { 
+    display: block; 
+    font-family: 'Oswald', sans-serif; 
+    font-size: 44px; 
+    font-weight: 800; 
+    color: #00ff99; 
+    text-transform: uppercase; 
+    line-height: 1;
+    text-shadow: 0 0 15px rgba(0, 255, 153, 0.4);
+}
+
+.map-coords { 
+    display: block; 
+    font-family: 'Roboto Mono', monospace; 
+    font-size: 10px; 
+    color: rgba(255, 255, 255, 0.4); 
+    margin-top: 10px; 
+    letter-spacing: 1px;
+}
+
+/* RESPONZIVNOST */
+@media (max-width: 850px) {
+    .city-data-wrapper { flex-direction: column !important; height: auto !important; gap: 15px; }
+    .city-info-box { max-width: 100% !important; padding: 25px !important; }
+    .city-map-container { height: 450px !important; min-height: 450px !important; order: 2; }
+    .map-label { font-size: 32px !important; }
+    .map-info-bar { padding: 15px 20px; }
+}
+</style>
