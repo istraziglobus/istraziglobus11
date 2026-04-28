@@ -1,0 +1,110 @@
+<div class="tickers-wrapper">
+    <div class="ticker-news">
+        <div class="ticker-scroll" id="balkan-news">
+            <span class="ticker-link">● INITIALIZING AVIATION FEED...</span>
+        </div>
+    </div>
+
+    <div class="ticker-data">
+        <div class="ticker-scroll-data" id="global-distances">
+            </div>
+    </div>
+</div>
+
+<script>
+/* ================= VIJESTI UŽIVO ================= */
+async function getGlobalNews() {
+    const rssUrl = 'https://www.exyuaviation.com/feeds/posts/default';
+    const newsContainer = document.getElementById('balkan-news');
+    try {
+        const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`);
+        const data = await res.json();
+        if (data.status === 'ok' && data.items.length > 0) {
+            let html = "";
+            data.items.slice(0, 15).forEach(item => {
+                const time = new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+                html += `<a href="${item.link}" target="_blank" class="ticker-link">● ${item.title.toUpperCase()} <span class="ticker-time">${time}</span></a>`;
+            });
+            newsContainer.innerHTML = html + html;
+        }
+    } catch (e) { console.log("News Error"); }
+}
+
+/* ================= GRADOVI I UDALJENOSTI ================= */
+const cityData = [
+    // EVROPA
+    { city: "BEOGRAD", dist: "280km", code: "rs" }, { city: "RIM", dist: "560km", code: "it" }, 
+    { city: "BEČ", dist: "630km", code: "at" }, { city: "MADRID", dist: "1950km", code: "es" }, 
+    { city: "LONDON", dist: "1880km", code: "gb" }, { city: "PARIZ", dist: "1500km", code: "fr" }, 
+    { city: "BERLIN", dist: "1150km", code: "de" }, { city: "MOSKVA", dist: "2010km", code: "ru" }, 
+    { city: "ATINA", dist: "530km", code: "gr" }, { city: "REJKJAVIK", dist: "3600km", code: "is" }, 
+    { city: "LISABON", dist: "2350km", code: "pt" }, { city: "PRAG", dist: "900km", code: "cz" },
+    { city: "AMSTERDAM", dist: "1550km", code: "nl" }, { city: "BUDIMPEŠTA", dist: "450km", code: "hu" },
+
+    // AMERIKA
+    { city: "NEW YORK", dist: "7250km", code: "us" }, { city: "LOS ANGELES", dist: "10350km", code: "us" }, 
+    { city: "MEXICO CITY", dist: "10600km", code: "mx" }, { city: "TORONTO", dist: "7350km", code: "ca" }, 
+    { city: "BUENOS AIRES", dist: "11500km", code: "ar" }, { city: "SAO PAULO", dist: "10100km", code: "br" },
+
+    // AZIJA i AFRIKA
+    { city: "TOKYO", dist: "9250km", code: "jp" }, { city: "PEKING", dist: "7550km", code: "cn" }, 
+    { city: "BANGKOK", dist: "8200km", code: "th" }, { city: "DUBAI", dist: "3850km", code: "ae" }, 
+    { city: "MUMBAI", dist: "5900km", code: "in" }, { city: "KAIRO", dist: "1750km", code: "eg" }, 
+    { city: "CAPE TOWN", dist: "8900km", code: "za" }, { city: "MARAKEŠ", dist: "2600km", code: "ma" },
+
+    // AUSTRALIJA
+    { city: "SYDNEY", dist: "15900km", code: "au" }, { city: "AUCKLAND", dist: "17800km", code: "nz" }
+];
+
+function initDistances() {
+    const container = document.getElementById('global-distances');
+    const shuffled = cityData.sort(() => 0.5 - Math.random());
+    let html = "";
+    
+    shuffled.forEach(item => {
+        // Koristimo FlagCDN za stabilne zastavice
+        const flagUrl = `https://flagcdn.com/w20/${item.code}.png`;
+        
+        html += `
+            <span>
+                PODGORICA ➔ ${item.city} 
+                <img src="${flagUrl}" class="ticker-flag" alt="${item.city} flag"> : 
+                <span class="status-ok">${item.dist}</span>
+            </span>`;
+    });
+    
+    container.innerHTML = html + html;
+}
+
+/* INIT */
+getGlobalNews();
+initDistances();
+</script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+.tickers-wrapper {
+    width: 100vw; position: relative; left: 50%; margin-left: -50vw;
+    background: #000; border-top: 1px solid #00ffa6; border-bottom: 1px solid #111;
+    overflow: hidden; z-index: 100; font-family: 'JetBrains Mono', monospace;
+}
+
+/* GORNJA TRAKA - VIJESTI */
+.ticker-news { background: #0a0a0a; padding: 3px 0; border-bottom: 1px solid #111; white-space: nowrap; }
+.ticker-scroll { display: inline-block; animation: scroll-left 100s linear infinite; }
+.ticker-link { color: #ddd; text-decoration: none; margin-right: 50px; font-size: 0.70rem; display: inline-block; }
+.ticker-link:hover { color: #00ffa6; }
+.ticker-time { color: #555; font-size: 0.65rem; margin-left: 8px; }
+
+/* DONJA TRAKA - GRADOVI */
+.ticker-data { background: #050505; padding: 2px 0; white-space: nowrap; border-top: 1px solid #0a0a0a; }
+.ticker-scroll-data { display: inline-block; animation: scroll-left 140s linear infinite; color: #00ffa6; font-size: 0.68rem; letter-spacing: 0.5px; }
+#global-distances span { margin-right: 15px; border-right: 1px solid #222; padding-right: 10px; }
+.status-ok { color: #fff; font-weight: bold; text-shadow: 0 0 5px rgba(0,255,166,0.3); }
+.ticker-flag { width: 12px; height: auto; vertical-align: middle; margin: 0 3px; border-radius: 1px; }
+
+/* ANIMACIJA */
+@keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+.tickers-wrapper:hover .ticker-scroll, .tickers-wrapper:hover .ticker-scroll-data { animation-play-state: paused; }
+</style>

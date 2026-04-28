@@ -1621,6 +1621,7 @@ blockquote p {
     /* Smanjite padding kontejnera */
     .whats-now {
         padding: 0.3rem 0.5rem; /* Smanjeno vertikalno, zadržano horizontalno */
+        order: 1;
     }
     
     /* Povećava visinu slike na mobilnom i smanjuje gornju marginu */
@@ -1789,6 +1790,7 @@ blockquote p {
     .most-read-card, .topic-card {
         width: 100%;
         min-height: 350px; 
+        order: 2;
     }
     /* Tekst ostaje na slici i na mobilnom */
     .most-read-content {
@@ -3541,7 +3543,6 @@ article ul li::before {
 .city-tooltip {
     text-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
 }
-
 
 
 
