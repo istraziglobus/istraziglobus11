@@ -121,7 +121,7 @@ Snaga Roterdama ne leži samo u onome što ulazi sa mora, već i u načinu na ko
 
 Rijeka Rajna igra ulogu prirodnog autoputa, omogućavajući transport ogromnih količina tereta baržama do industrijskih centara duboko u kopnu. Ovaj vid transporta je ekonomski najisplativiji i ekološki <span class="highlight-text">**najprihvatljiviji model**</span> za masovnu logistiku velikih razmjera. Moderne barže su opremljene sistemima koji omogućavaju plovidbu čak i pri niskim vodostajima tokom ljetnih mjeseci.
 
-Posebne željezničke linije, poput Betuweroute, dizajnirane su isključivo za teretni saobraćaj, čime se izbjegavaju gužve u putničkom transportu. Luka je tako integrisana u <span class="highlight-text">**nervni sistem**</span> evropske infrastrukture, čineći je nezaobilaznim faktorom stabilnosti tržišta. Ova mreža omogućava da roba koja stigne na sjeverne obale brzo pronađe put ka jugu i ključnim mediteranskim centrima poput {{< kw text="Barselone" url="/gradske-price/barselona/" >}}, čime se zatvara krug evropske pomorske trgovine.
+> Posebne željezničke linije, poput Betuweroute, dizajnirane su isključivo za teretni saobraćaj, čime se izbjegavaju gužve u putničkom transportu. Luka je tako integrisana u <span class="highlight-text">**nervni sistem**</span> evropske infrastrukture, čineći je nezaobilaznim faktorom stabilnosti tržišta. Ova mreža omogućava da roba koja stigne na sjeverne obale brzo pronađe put ka jugu i ključnim mediteranskim centrima poput {{< kw text="Barselone" url="/gradske-price/barselona/" >}}, čime se zatvara krug evropske pomorske trgovine.
 
 ---
 

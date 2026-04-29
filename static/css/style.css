@@ -1621,8 +1621,7 @@ blockquote p {
     /* Smanjite padding kontejnera */
     .whats-now {
         padding: 0.3rem 0.5rem; /* Smanjeno vertikalno, zadržano horizontalno */
-        order: 1;
-    }
+}
     
     /* Povećava visinu slike na mobilnom i smanjuje gornju marginu */
     .whats-now img {
