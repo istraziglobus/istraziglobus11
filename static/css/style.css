@@ -74,97 +74,174 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2.1em
 }
 
-/* =============================
-    OSNOVNI STILOVI DUGMADI 
-   =============================*/
+
+
+
+
+
+/* =========================================
+    UNIFORMISANI STILOVI DUGMADI (GLOBUS)
+   ========================================= */
+
+/* 1. OSNOVA ZA SVA DUGMAD (Zajednički stil) */
 .btn {
     display: inline-block;
-    font-weight: 600; /* Malo deblji font */
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
-    user-select: none;
-    border: 2px solid transparent; /* Deblja ivica */
-    padding: 12px 28px; /* Veći padding */
-    font-size: 1.05rem; /* Malo veći font */
-    line-height: 1.5;
-    border-radius: var(--border-radius-soft); /* Zaobljene ivice */
-    transition: all 0.3s ease; /* Glatke tranzicije */
-    text-decoration: none;
     cursor: pointer;
+    text-decoration: none;
+    font-family: inherit;
+    font-weight: 800;             /* Premium debljina slova */
+    text-transform: uppercase;   /* National Geographic stil */
+    letter-spacing: 0.2px;       /* Razmak između slova */
+    border-radius: 5px;          /* Minimalistički zaobljeno */
+    transition: all 0.3s ease;   /* Glatka animacija */
+    border: 2px solid #2ecc71;   /* Osnovna zelena ivica */
 }
 
+/* 2. PRIMARY (Glavno dugme - Puno zeleno) */
+.btn-primary {
+    background-color: #2ecc71;
+    color: #162238;              /* Tamni tekst na zelenoj pozadini */
+    padding: 2px 8px;          /* Standardna veličina */
+    font-size: 0.55rem;
+    box-shadow: 0 4px 15px rgba(46, 204, 113, 0.2);
+}
+
+.btn-primary:hover {
+    background-color: transparent; /* Postaje providno na hover */
+    color: #2ecc71;               /* Tekst postaje zelen */
+    transform: translateY(-3px);  /* Lagani skok ka gore */
+    box-shadow: 0 6px 20px rgba(46, 204, 113, 0.4);
+}
+
+/* 3. SECONDARY (Sporedno dugme - Outline/Providno) */
+.btn-secondary {
+    background-color: transparent;
+    color: #2ecc71;               /* Zelena slova */
+    padding: 12px 28px;
+    font-size: 0.95rem;
+}
+
+.btn-secondary:hover {
+    background-color: rgba(46, 204, 113, 0.1); /* Blaga zelena pozadina */
+    color: #ffffff;               /* Slova postaju bijela */
+    transform: translateY(-3px);
+}
+
+/* 4. TAGOVI U KARTICAMA (Prilagođeni tvom dizajnu) */
+.article-card-horizontal {
+    position: relative;
+    padding-right: 40px; /* Prostor za vertikalni stub */
+    display: flex;
+    overflow: hidden;
+    background: #1a1a1a;
+    transition: all 0.3s ease;
+}
+
+/* Kontejner za vertikalni tekst */
+.vertical-tag-wrapper {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.02); /* Skoro neprimjetna traka */
+    border-left: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Stil samog taga */
+.article-section-tag {
+    writing-mode: vertical-rl; /* Vertikalno usmjerenje */
+    transform: rotate(180deg); /* Da se čita odozdo nagore */
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: 999;
+    letter-spacing: 3px;
+    color: #2ecc71; /* Tvoja zelena */
+    white-space: nowrap;
+    transition: opacity 0.5s ease;
+}
+
+/* Efekat kada se pređe mišem preko kartice */
+.article-card-horizontal:hover .article-section-tag {
+    opacity: 1;
+    letter-spacing: 5px; /* Suptilno se rašire slova na hover */
+}
+
+/* Stil za tagove na početnoj strani - da budu normalni */
+.hero-section-tag {
+    display: flex;
+    align-items: center;
+    gap: 2px; /* Razmak između linije, tačke i teksta */
+    font-size: 0.55rem; /* Veoma mala slova za premium look */
+    font-weight: 800; /* Podebljana, ali mala */
+    color: rgb(255, 255, 255); /* Suptilna, prozirna bijela */
+    text-transform: uppercase;
+    letter-spacing: 0.5px; /* Veći razmak između slova za čitljivost */
+    padding: 0;
+    background: none; /* Bez pozadine */
+    white-space: nowrap;
+    border-bottom: 3.5px solid rgba(46, 204, 112, 0.811); /* Poluprozirna zelena za suptilnost */
+    line-height: 1;
+}
+
+/* Mala zelena tačka */
+.hero-section-tag::before {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background-color: #2ecc71; /* Tvoja zelena */
+    border-radius: 50%;
+    flex-shrink: 0; /* Ne da tački da se skupi */
+}
+
+
+
+@media (max-width: 768px) {
+    .article-card-horizontal {
+        flex-direction: column; /* Slika ide iznad teksta */
+        padding-right: 0; /* Brišemo desni padding na cijeloj kartici */
+    }
+
+    .article-card-horizontal .content-container {
+        padding-right: 40px; /* Pravimo prostor za vertikalni tag SAMO pored teksta */
+        position: relative;
+    }
+
+    .vertical-tag-wrapper {
+        top: auto; /* Poništavamo top: 0 da ne ide preko slike */
+        bottom: 0;
+        height: calc(100% - 200px); /* Računamo visinu: ukupna visina minus visina slike (npr. 200px) */
+        width: 15px; /* Malo uža traka da bolje leži na mobilnom */
+    }
+
+    /* Ako slika na mobilnom ima fiksnu visinu, npr. 200px */
+    .article-card-horizontal .image-container {
+        width: 100%;
+        height: 200px;
+    }
+}
+
+/* 5. KONTEJNERI I RAZMACI */
 .section-button-container {
-    text-align: center; /* Centriranje dugmeta unutar njegovog kontejnera */
-    margin-top: 60px; /* Dodaje razmak iznad dugmeta */
-    margin-bottom: 60px; /* Dodaje razmak ispod dugmeta (opciono) */
+    text-align: center;
+    margin: 60px 0;
 }
 
-/* ---- STILOVI ZA DUGMAD I TAGOVE U KARTICAMA ---- */
 .card-footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: auto;
     padding-top: 15px;
-    border-top: 1px solid var(--border-light-gray);
+    border-top: 1px solid rgba(255, 255, 255, 0.1); /* Suptilna linija na tamnoj pozadini */
     gap: 10px;
-}
-.btn {
-    display: inline-block;
-    padding: 8px 15px;
-    border-radius: var(--border-radius-soft);
-    font-size: 0.9em;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-}
-.btn-primary {
-    color: #000000; /* Čista bijela za maksimalan kontrast */
-    background-color: #2980b9; /* Malo tamnija plava (umjesto standardne 3498db) */
-    border-color: #2980b9;
-    font-weight: 700; /* Podebljana slova se lakše čitaju i popravljaju skor */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
-    transform: scale(1.01);
-    padding: 12px 28px;
-}
-
-/* Stilovi kada pređeš mišem preko dugmeta */
-.btn-primary:hover {
-    background-color: var(--primary-dark);
-    border-color: var(--primary-dark);
-    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4); /* Istaknutija senka na hover */
-    transform: scale(1.01) translateY(-2px); /* Lagani skok na hover */
-}
-.btn-secondary {
-    color: #000000;
-    background-color: #006A8E;
-    border-color: var(--primary-color);
-    box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); /* Suptilna senka */
-    transform: scale(1.01); /* Uvek 1% veće */
-    padding: 12px 28px; /* Održava originalni veći padding */
-}
-.btn-secondary:hover {
-   background-color: var(--primary-dark);
-    border-color: var(--primary-dar);
-    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.4); /* Istaknutija senka na hover */
-    transform: scale(1.01) translateY(-2px); /* Lagani skok na hover */
-}
-.article-section-tag {
-    font-size: 0.85em;
-    font-weight: 600;
-    color: #000000; /* Tamno siva/crna umesto svetlo sive */
-    background-color: var(--theme-green-color);
-    padding: 6px 12px;
-    border-radius: 5px;
-    opacity: 0.9;
-    white-space: nowrap;
-    border: none;
-    transition: background-color 0.3s ease;
-    white-space: nowrap;     /* već imaš – zadržava u jednom redu */
-    max-width: 60%;          /* zauzima max 60% prostora footera */
-    overflow: hidden;        
-    text-overflow: ellipsis; /* skraćuje s ... ako ne stane */
 }
 /* Dodatak za bolju responsivnost, ako već nemate: */
 img {
@@ -179,12 +256,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
-/* Centriranje teksta za opise sekcija */
-.section-description {
-    text-align: center;
-    margin-top: -20px;
-    margin-bottom: 60px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* ========================================= 
   HEADER - ZAGLAVLJE 
@@ -473,7 +556,7 @@ a:hover {
 .featured-main-article {
     display: flex;
     flex-direction: row; /* Slika i tekst jedno pored drugog */
-    background-color: var(--light-text-color);
+    background-color: #515050;
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
     overflow: hidden;
@@ -511,27 +594,77 @@ a:hover {
 /* Prilagođavanje stilova naslova i opisa */
 .featured-main-article h3 {
     margin-top: 5px;
-    margin-bottom: 0.5px;
+    margin-bottom: 30px;
     font-size: 2.2em; /* Prilagođeno veličini naslova manjih kartica */
-    color: var(--dark-text-color);
+    color: #fffffff0;
     line-height: 1.3;
     font-weight: bold;
 }
 .featured-main-article .article-card-subtitle {
     font-size: 0.95em;
-    color: var(--dark-text-color);
+    color:  #fffffff0;
     opacity: 0.95;
     margin-top: 15px;
-    margin-bottom: 1px;
+    margin-bottom: 50px;
     font-weight: 800;
     line-height: 1.4;
 }
 .featured-main-article p {
     font-size: 0.95em; /* Prilagođeno veličini opisa na manjim karticama */
-    color: var(--dark-text-color);
+    color:  #fffffff0;
     line-height: 1.6;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+    /* GLAVNI KONTEJNER NAJNOVIJEG ČLANKA */
+    .featured-main-article {
+        display: flex;
+        flex-direction: column;
+        min-height: 550px; /* FIKSIRAMO MINIMALNU VISINU */
+        background: #5252528e; /* Da se jasno odvoji od pozadine sajta */
+        margin-bottom: 40px; /* Razmak od ostatka grida */
+        border-left: 3px solid #2ecc71;;
+    }
+
+    /* PRILAGOĐAVANJE SLIKE UNUTAR TOG KONTEJNERA */
+    .featured-image-container {
+        height: 250px; /* Slika zauzima gornji dio */
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .featured-image-container img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    /* SADRŽAJ ISPOD SLIKE */
+    .featured-article-content {
+        padding: 20px !important;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* Gura footer na dno unutar ovih 550px */
+    }
+
+    .featured-main-article h3 {
+        font-size: 1.5rem;
+        margin-bottom: 20px;
+        line-height: 1.2;
+    }
+
+    .featured-main-article p {
+        font-size: 0.9rem;
+        margin-bottom: 15px;
+        /* Ograničavamo tekst da ne "pojede" cijelu visinu */
+        display: -webkit-box;
+        -webkit-line-clamp: 4; 
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
 }
 
 /* Kontejner za manje kartice u redu ispod */
@@ -547,7 +680,7 @@ a:hover {
     flex-direction: column;
     height: 100%;
     min-height: 380px;
-    background-color: var(--light-text-color);
+    background-color: #515050;
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
     overflow: hidden;
@@ -583,13 +716,13 @@ a:hover {
     margin-top: 0;
     margin-bottom: 5px;
     font-size: 1.1em;
-    color: var(--dark-text-color);
+    color:  #fffffff0;
     line-height: 1.3;
 }
 
 .article-card-latest-content p {
     font-size: 0.9em;
-    color: var(--dark-text-color);
+    color:  #fffffff0;
     opacity: 0.9;
     line-height: 1.6;
     flex-grow: 1;
@@ -607,12 +740,6 @@ a:hover {
     flex-wrap: wrap;
 }
 
-/* Stil za dugme "Pročitaj Više" */
-.article-card-latest-content .btn-primary {
-    font-size: 0.85em;
-    padding: 6px 12px;
-    margin-top: 0;
-}
 
 /* Stil za zeleni tag sekcije */
 .article-card-latest-content .article-section-tag {
@@ -651,7 +778,7 @@ a:hover {
 /* Stil za podnaslov u karticama "Najnoviji Članci" */
 .article-card-latest-content .article-card-subtitle {
     font-size: 0.95em; /* Malo manji font od naslova */
-    color: var(--dark-text-color); /* Koristi tamnu boju teksta */
+    color: #fffffff0; /* Koristi tamnu boju teksta */
     opacity: 0.85; /* Blago providan za manje isticanje */
     margin-top: 35px; /* Mali razmak iznad */
     margin-bottom: 10px; /* Razmak pre opisa */
@@ -674,61 +801,133 @@ a:hover {
     margin-left: auto;
 }
 
+
+
+
+
+
+
+
 /* ========================================= 
-   STILOVI ZA STRANICU SA LISTOM ČLANAKA 
+   STRANICA SA LISTOM ČLANAKA (PREMIUM)
    ========================================= */
-/* Stilovi za kontejner liste članaka na stranici kategorije/sekcije */
+
+/* Kontejner koji drži sve kartice */
 .articles-list-container {
-    display: grid; /* Koristi grid za slaganje horizontalnih kartica */
-    grid-template-columns: 1fr; /* Jedna kolona po širini, kartica ce biti uska po defaultu, a max-width kontejnera je kontroliše */
-    gap: 25px; /* Razmak između kartica */
-    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px; 
+    margin-top: 40px;
+    padding: 0 15px;
 }
-/* Stilovi za pojedinačnu horizontalnu karticu članka */
+
+/* Pojedinačna horizontalna kartica */
 .article-card-horizontal {
-    display: flex; /* Omogućava horizontalni raspored unutar kartice */
-    align-items: center; /* Vertikalno poravnanje sadržaja (slika i tekst) */
-    background-color: var(--light-text-color); /* Bela pozadina */
-    border-radius: var(--border-radius-soft); /* Zaobljene ivice */
-    box-shadow: var(--shadow-light); /* Senka za "dubinu" */
-    overflow: hidden; /* Osigurava da se sadržaj lepo seče unutar granica */
-    text-decoration: none; /* Uklanja podvlačenje sa linka */
-    color: var(--dark-text-color); /* Boja teksta */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Glatka animacija */
-    padding: 15px; /* Unutrašnji razmak oko sadržaja kartice */
-    max-width: 900px; /* Ogranici maksimalnu sirinu kartice na 900px */
-    margin-left: auto; /* Centriraj karticu unutar njenog kontejnera */
-    margin-right: auto; /* Centriraj karticu unutar njenog kontejnera */
+    display: flex;
+    align-items: stretch; 
+    background-color: #515050; /* Tamna premium pozadina */
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    max-width: 950px;
+    margin: 0 auto;
+    position: relative;
+    
+    /* FIKSNA VISINA NA DESKTOPU */
+    height: 280px; 
 }
+
 .article-card-horizontal:hover {
-    transform: translateY(-5px); /* Mali efekat podizanja pri prelasku mišem */
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12); /* Jača senka na hover */
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+    border-color: rgba(46, 204, 113, 0.3); /* Blagi zeleni odsjaj */
 }
+
+/* SLIKA OD IVICE DO IVICE (Edge-to-Edge) */
 .article-card-horizontal .image-container {
-    flex-shrink: 0; /* Sprečava smanjivanje slike */
-    width: 220px; /* Fiksna širina za sliku u kartici (možeš podesiti) */
-    height: 150px; /* Fiksna visina za sliku */
-    margin-right: 25px; /* Razmak između slike i teksta */
-    border-radius: var(--border-radius-soft); /* Zaobljene ivice slike */
+    flex-shrink: 0;
+    width: 320px; 
+    height: 100%; /* Prati fiksnu visinu kartice */
+    margin-right: 0; 
     overflow: hidden;
 }
+
+.article-card-horizontal .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Slika ispunjava prostor bez izobličenja */
+    transition: transform 0.6s ease;
+}
+
+.article-card-horizontal:hover .image-container img {
+    transform: scale(1.05); /* Suptilni zum na hover */
+}
+
+/* SADRŽAJ (TEKSTUALNI DIO) */
+.article-card-horizontal .content-container {
+    flex-direction: column;
+    justify-content: center; 
+    padding: 30px 40px; 
+    flex-grow: 1;
+}
+
 .article-card-horizontal h2 {
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 1.8em; /* Veći naslov */
-    color: var(--secondary-color); /* Boja naslova */
+    margin: 0 0 12px 0;
+    font-size: 1.6rem;
+    line-height: 1.3;
+    color: #ffffff; 
+    font-weight: 800;
 }
+
+.article-card-horizontal p {
+    color: rgba(255, 255, 255, 0.7); 
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    /* Skraćivanje teksta ako je predugačak za fiksnu visinu */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+
+/* KORISTI TVOJU POSTOJEĆU .btn KLASU */
 .article-card-horizontal .read-more-btn {
-    display: inline-block;
-    background-color: var(--primary-color); /* Boja dugmeta */
-    color: #000000; /* Boja teksta dugmeta */
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 0.95em;
-    align-self: flex-start; /* Dugme je poravnato levo */
+    align-self: flex-start;
 }
+
+/* ========================================= 
+   RESPONSIVE (MOBILNI UREĐAJI)
+   ========================================= */
+@media (max-width: 768px) {
+    .article-card-horizontal {
+        flex-direction: column; 
+        height: auto; /* Gasimo fiksnu visinu na mobitelu */
+        min-height: 450px; 
+    }
+
+    .article-card-horizontal .image-container {
+        width: 100%;
+        height: 220px; /* Slika dobija fiksnu visinu na vrhu */
+    }
+
+    .article-card-horizontal .content-container {
+        padding: 25px 20px;
+    }
+    
+    .article-card-horizontal h2 {
+        font-size: 1.4rem;
+    }
+}
+
+
+
+
+
+
 
 
 /* ========================================= 
@@ -1935,9 +2134,9 @@ blockquote p {
     align-items: center;
     gap: 10px;
     color: #2ecc71;
-    font-weight: 700;
-    letter-spacing: 3px;
-    font-size: 0.75rem;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
     margin-bottom: 25px;
 }
 
@@ -2271,7 +2470,7 @@ blockquote p {
     position: relative;
     border-radius: 18px;
     overflow: hidden;
-    background: #0f172a;
+    background: #000000cb;
     margin-bottom: 40px;
     box-shadow: 0 16px 38px rgba(0,0,0,0.18);
 }

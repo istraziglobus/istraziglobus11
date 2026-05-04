@@ -238,8 +238,8 @@
                     {{ end }}
                     <p>{{ .Description | default (.Summary | truncate 150) }}</p>
                     <div class="card-footer">
-                        <span class="btn btn-primary btn-small">Pročitaj Više</span>
-                        <span class="article-section-tag">{{ partial "get_display_section.html" . }}</span>
+                        <span class="btn btn-primary btn-small">Istraži Više</span>
+                        <span class="hero-section-tag">{{ partial "get_display_section.html" . }}</span>
                     </div>
                 </div>
             </a>
@@ -266,8 +266,8 @@
                         {{ end }}
                         <p>{{ .Description | default (.Summary | truncate 150) }}</p>
                         <div class="card-footer">
-                            <span class="btn btn-primary btn-small">Pročitaj Više</span>
-                            <span class="article-section-tag">{{ partial "get_display_section.html" . }}</span>
+                            <span class="btn btn-primary btn-small">Istraži Više</span>
+                            <span class="hero-section-tag">{{ partial "get_display_section.html" . }}</span>
                         </div>
                     </div>
                 </a>
@@ -275,7 +275,7 @@
             </div>
         </div>
         <div style="text-align: center; margin-top: 40px;">
-            <a href="{{ "/posts/" | absURL }}" class="btn btn-secondary">Pogledaj Sve Članke</a>
+            <a href="{{ "/posts/" | absURL }}" class="btn btn-secondary">Istraži Sve Članke</a>
         </div>
     </div>
 </section>
@@ -299,7 +299,7 @@
     </div>
 
     <div style="text-align: center;">
-        <a href="{{ "/koracima-balkana/" | absURL }}" class="btn btn-secondary">Pogledaj Sve Članke</a>
+        <a href="{{ "/koracima-balkana/" | absURL }}" class="btn btn-secondary">Istraži Sve Članke</a>
     </div>
 </section>
 

@@ -18,28 +18,32 @@
                         <img src="{{ . | absURL }}"
                              alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
                              loading="lazy">
+                        
+                        <!-- Mjesec ostaje kao bedž na slici jer je to najčistije -->
+                        {{ if $.Params.mesec_destinacije }}
+                            <span class="month-badge">{{ $.Params.mesec_destinacije }}</span>
+                        {{ end }}
                     </div>
                 {{ end }}
 
                 <div class="content-container">
                     <h2>{{ .Title }}</h2>
-                    <p>{{ .Summary | truncate 200 }}</p>
+                    
+                    <p class="article-summary">
+                        {{ .Summary | truncate 260 }}
+                    </p>
 
                     <div class="horizontal-card-footer">
-                        <span class="read-more-btn">Pročitaj Više</span>
-
-                        {{/* OVAJ DEO JE SADA UNIVERZALAN */}}
-                        {{ if .Params.mesec_destinacije }}
-                            <span class="article-date-mid">{{ .Params.mesec_destinacije }}</span>
-                         {{ end }}
-
-                        {{ with .Params.categories }}
-                            <span class="article-section-tag">
-                                {{ index . 0 }}
-                            </span>
-                        {{ end }}
+                        <span class="btn btn-primary read-more-btn">Istraži Više</span>
                     </div>
                 </div>
+
+                <!-- VERTIKALNI DIO: Kategorija na samoj ivici -->
+                {{ with .Params.categories }}
+                    <div class="vertical-tag-wrapper">
+                        <span class="article-section-tag">{{ index . 0 }}</span>
+                    </div>
+                {{ end }}
             </a>
         {{ end }}
     </div>
