@@ -56,7 +56,7 @@ body {
 .container { 
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 30px;
     padding-bottom: 30px;
 }
 a { 
@@ -1228,7 +1228,7 @@ a:hover {
    FOOTER
    ========================================= */
 .main-footer {
-    background-color: var(--secondary-color);
+    background-color: #000000;
     color: var(--light-text-color);
     padding: 5px 0;
     text-align: center;
@@ -1245,7 +1245,7 @@ a:hover {
 }
 
 .social-links a {
-    color: var(--light-text-color);
+    color: #e0e0e0;;
     font-size: 1.5em;
     margin: 0 10px;
     transition: color var(--transition-speed);
@@ -1360,7 +1360,7 @@ a:hover {
     position: relative;
     margin-bottom: 50px;
     font-size: 1.8em;
-    color: var(--dark-text-color);
+    color: #e0e0e0;
     padding-bottom: 5px;
 }
 
@@ -1625,7 +1625,7 @@ blockquote p {
     margin-top: 40px;
     margin-bottom: 30px;
     font-size: 2.2em;
-    color: var(--dark-text-color);
+    color: #e0e0e0;
     padding-bottom: 5px;
 }
 
@@ -1778,14 +1778,20 @@ blockquote p {
     text-align: center;
 }
 .latest-articles-section .section-title {
-    color: var(--light-text-color);
+    display: inline-block;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 2.2em;
+    color: #e0e0e0;
+    padding-bottom: 5px;
 }
 
 /* Koracima Balkana: Bela pozadina */
 .balkan-section {
     padding: 10px;
     padding-bottom: 15px;
-    background-color: var(--light-text-color);
+    background-color: #3f3f3f;
     text-align: center;
 }
 
@@ -1801,7 +1807,7 @@ blockquote p {
 .travel-tips-section {
     padding: 10px;
     padding-bottom: 15px;
-    background-color: var(--light-text-color);
+    background-color: #3f3f3f;
     text-align: center;
 }
 
