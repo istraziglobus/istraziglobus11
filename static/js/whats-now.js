@@ -181,12 +181,12 @@ const currencyElement = document.getElementById("currency");
 if (city.currency === "EUR") {
     currencyElement.innerHTML = `
         ${currencyIcon} Lokalna valuta: EUR
-        <div class="currency-note">*Vrijednosti su informativne i podložne promjenama.</div>
+       
     `;
 } else if (exchangeRates[city.currency]) {
     currencyElement.innerHTML = `
         ${currencyIcon} 1 EUR = ${exchangeRates[city.currency].toFixed(2)} ${city.currency}
-        <div class="currency-note">*Vrijednosti su informativne i podložne promjenama.</div>
+        
     `;
 } else {
     currencyElement.innerHTML = `
@@ -225,3 +225,30 @@ console.log("Pokušavam učitati sliku sa: " + fullImagePath);
   fetchAllData();
   setInterval(fetchAllData, 10000);
 });
+
+function updateCountdown() {
+    // Postavi datum početka prvenstva (11. Jun 2026.)
+    const eventDate = new Date('June 11, 2026 00:00:00').getTime();
+    const now = new Date().getTime();
+    const diff = eventDate - now;
+
+    // Ako je prvenstvo prošlo
+    if (diff <= 0) {
+        document.querySelector("#countdown-grid-compact").innerHTML = "<div style='color:#2ecc71; font-weight:800;'>PRVENSTVO JE POČELO!</div>";
+        return;
+    }
+
+    // Kalkulacija vremena
+    const d = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+
+    // Upisivanje u tvoj HTML
+    document.getElementById('days').innerText = d < 10 ? '0' + d : d;
+    document.getElementById('hours').innerText = h < 10 ? '0' + h : h;
+    document.getElementById('mins').innerText = m < 10 ? '0' + m : m;
+}
+
+// Pokreni odmah i postavi interval da se ažurira svaku minutu
+updateCountdown();
+setInterval(updateCountdown, 60000);

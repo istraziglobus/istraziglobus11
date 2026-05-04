@@ -203,15 +203,13 @@
 
 {{ partial "live-tickers.html" . }}
 
-<section class="quote-horoscope-section">
+<section class="dashboard-section" style="padding: 40px 0;">
     <div class="container">
-        <div class="quotes-bg"></div>
-        <div class="two-column-grid">
-            {{ partial "most-read.html" . }}
-            {{ partial "whats-now.html" . }}
-        </div>
+        {{ partial "hero-dashboard.html" . }} 
     </div>
 </section>
+
+{{ partial "most-read.html" . }}
 
 <section class="latest-articles-section" id="najnoviji-clanci">
     <div class="container">
@@ -307,9 +305,7 @@
 
 <section class="home-specials">
   <div class="container">
-    <div class="two-column-grid">
       {{ partial "destination-of-month-home.html" . }}
-      {{ partial "on-this-day.html" . }}
     </div>
   </div>
 </section>

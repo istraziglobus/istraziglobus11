@@ -59,3 +59,5 @@ document.addEventListener('DOMContentLoaded', function () {
         window.location.href = tag.dataset.sectionUrl;
     });
 });
+
+

@@ -85,26 +85,103 @@ initDistances();
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
 
 .tickers-wrapper {
-    width: 100vw; position: relative; left: 50%; margin-left: -50vw;
-    background: #000; border-top: 1px solid #00ffa6; border-bottom: 1px solid #111;
-    overflow: hidden; z-index: 100; font-family: 'JetBrains Mono', monospace;
+    width: 100vw; 
+    position: relative; 
+    left: 50%; 
+    margin-left: -50vw;
+    background: #000; 
+    border-top: 1px solid var(--globus-green); 
+    border-bottom: 2px solid var(--globus-green);
+    
+    /* KLJUČNA IZMJENA: */
+    margin-top: 0; /* Resetuj marginu */
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    
+    overflow: hidden; 
+    z-index: 100; 
+    font-family: 'JetBrains Mono', monospace;
 }
 
 /* GORNJA TRAKA - VIJESTI */
-.ticker-news { background: #0a0a0a; padding: 3px 0; border-bottom: 1px solid #111; white-space: nowrap; }
-.ticker-scroll { display: inline-block; animation: scroll-left 100s linear infinite; }
-.ticker-link { color: #ddd; text-decoration: none; margin-right: 50px; font-size: 0.70rem; display: inline-block; }
-.ticker-link:hover { color: #00ffa6; }
-.ticker-time { color: #555; font-size: 0.65rem; margin-left: 8px; }
+.ticker-news { 
+    background: #0a0a0a; 
+    padding: 3px 0; 
+    border-bottom: 1px solid #111; 
+    white-space: nowrap; 
+}
+.ticker-scroll { 
+    display: inline-block; 
+    animation: scroll-left 100s linear infinite; 
+}
+.ticker-link { 
+    color: #ddd; 
+    text-decoration: none; 
+    margin-right: 50px; 
+    font-size: 0.70rem; 
+    display: inline-block; 
+}
+/* Hover boja sada prati tvoj brend */
+.ticker-link:hover { 
+    color: var(--globus-green); 
+}
+.ticker-time { 
+    color: #555; 
+    font-size: 0.65rem; 
+    margin-left: 8px; 
+}
 
-/* DONJA TRAKA - GRADOVI */
-.ticker-data { background: #050505; padding: 2px 0; white-space: nowrap; border-top: 1px solid #0a0a0a; }
-.ticker-scroll-data { display: inline-block; animation: scroll-left 140s linear infinite; color: #00ffa6; font-size: 0.68rem; letter-spacing: 0.5px; }
-#global-distances span { margin-right: 15px; border-right: 1px solid #222; padding-right: 10px; }
-.status-ok { color: #fff; font-weight: bold; text-shadow: 0 0 5px rgba(0,255,166,0.3); }
-.ticker-flag { width: 12px; height: auto; vertical-align: middle; margin: 0 3px; border-radius: 1px; }
+/* DONJA TRAKA - MORA imati display: flex da bi sve bilo u liniji */
+.ticker-data { 
+    background: #050505; 
+    padding: 2px 0; 
+    white-space: nowrap; /* Ovo sprečava prelazak u novi red */
+    border-top: 1px solid #111; 
+    overflow: hidden; /* Skriva višak gradova koji nisu u vidnom polju */
+    display: flex;
+    color:#2ecc71
+}
+
+/* UNUTRAŠNJI ELEMENT - Onaj koji se zapravo kreće */
+.ticker-scroll-data { 
+    display: flex; /* Prisiljava gradove da stanu jedan pored drugog */
+    flex-direction: row;
+    animation: scroll-left 140s linear infinite; 
+    color: var(--globus-green); 
+    font-size: 0.68rem; 
+    letter-spacing: 0.5px; 
+}
+
+/* Svaki pojedinačni grad unutar skrola */
+#global-distances span { 
+    display: inline-flex; /* Drži zastavu, tekst i km zajedno */
+    align-items: center;
+    margin-right: 30px; /* Razmak između gradova */
+    border-right: 1px solid #222; 
+    padding-right: 15px; 
+    white-space: nowrap;
+}
+.status-ok { 
+    color: #fff; 
+    font-weight: bold; 
+    text-shadow: 0 0 5px rgba(0,255,166,0.3); 
+}
+.ticker-flag { 
+    width: 12px; 
+    height: auto; 
+    vertical-align: middle; 
+    margin: 0 3px; 
+    border-radius: 1px; 
+}
 
 /* ANIMACIJA */
-@keyframes scroll-left { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
-.tickers-wrapper:hover .ticker-scroll, .tickers-wrapper:hover .ticker-scroll-data { animation-play-state: paused; }
+@keyframes scroll-left { 
+    0% { transform: translateX(0); } 
+    100% { transform: translateX(-50%); } 
+}
+.tickers-wrapper:hover .ticker-scroll, 
+.tickers-wrapper:hover .ticker-scroll-data { 
+    animation-play-state: paused; 
+}
 </style>

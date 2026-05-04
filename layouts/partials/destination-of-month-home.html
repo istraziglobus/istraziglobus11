@@ -1,31 +1,42 @@
 {{ with index (where .Site.RegularPages "Params.featured_monthly_theme" true) 0 }}
+<section class="premium-borderless-section">
+    <div class="container">
+        <div class="borderless-container">
+            
+            <!-- DESKTOP SIDEBAR: Vidi se samo na velikim ekranima -->
+            <div class="borderless-sidebar">
+                <span class="vertical-label">DESTINACIJA MJESECA</span>
+                <span class="month-highlight">{{ .Params.mesec_destinacije | default "MAJ" }}</span>
+            </div>
 
-<a href="{{ .Permalink }}" class="destination-full">
+            <!-- CENTAR: Dominantna slika -->
+            <div class="borderless-main">
+                <a href="{{ .RelPermalink }}" class="image-zoom-wrapper">
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="main-image">
+                    <div class="image-overlay-glow"></div>
+                </a>
+            </div>
 
-  <img
-    src="{{ .Params.image | relURL }}"
-    alt="{{ .Title }}"
-    class="destination-full-bg"
-  >
+            <!-- INFO BOX: Na desktopu lebdi, na mobu se sklapa ispod slike -->
+            <div class="borderless-info-box">
+                <!-- MOBILE LABEL: Vidi se samo na mobilnim uređajima -->
+                {{ with .Params.mesec_destinacije }}
+                <span class="mobile-month-label">
+                    Destinacija mjeseca · {{ . }}
+                </span>
+                {{ end }}
 
-  {{ with .Params.mesec_destinacije }}
-    <span class="destination-top-label">
-      Destinacija mjeseca · {{ . }}
-    </span>
-  {{ end }}
+                <h2 class="borderless-title">{{ .Title }}</h2>
+                <p class="borderless-excerpt">{{ .Description | default (.Summary | truncate 130) }}</p>
+                <div class="borderless-action">
+                    <a href="{{ .RelPermalink }}" class="btn-minimal">
+                        ISTRAŽI PRIČU 
+                        <div class="btn-line"></div>
+                    </a>
+                </div>
+            </div>
 
-  <div class="destination-full-overlay"></div>
-
-  <div class="destination-full-content">
-
-    <h3>{{ .Title }}</h3>
-
-    <p>
-      {{ .Description | default (.Summary | truncate 120) }}
-    </p>
-
-  </div>
-
-</a>
-
+        </div>
+    </div>
+</section>
 {{ end }}

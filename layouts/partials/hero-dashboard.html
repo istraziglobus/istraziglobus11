@@ -1,0 +1,64 @@
+<div class="globus-dashboard">
+    
+    <!-- STUP 1: DNEVNI GLOBUS -->
+    <div class="dash-column daily-history-col">
+        <div class="daily-globus-card">
+            <div class="daily-globus-kicker">Dnevni Globus</div>
+            <div class="daily-globus-date">Danas, {{ now.Format "02.01.2006" }}</div>
+            <div class="daily-globus-body">
+                {{ $today := now.Format "01-02" }}
+                {{ $entry := index site.Data.dnevni_globus $today }}
+                {{ if $entry }}
+                    {{ $parts := split $entry " – " }}
+                    <div class="daily-globus-year">{{ index (findRE "[0-9]{4}" (index $parts 0)) 0 }}.</div>
+                    <p class="daily-globus-text">{{ index $parts 1 }}</p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+
+    <!-- STUP 2: UŽIVO (Sada kompaktan) -->
+    <div class="dash-column live-now-col">
+        <section id="whats-now" class="whats-now">
+            <div class="live-header">
+                <h2>UŽIVO</h2>
+                <h3 id="city-name-wrapper">
+                    <span id="city-name">Učitavam...</span>
+                    <img id="location-flag" src="" alt="" class="small-flag-icon" />
+                </h3>
+            </div>
+            
+            <div class="live-compact-info">
+                <p id="local-time"></p>
+                <p id="weather"></p>
+                <p id="air-quality"></p>
+                <p id="currency"></p>
+                <span class="info-disclaimer">*Vrijednosti su informativne i podložne promjenama.</span>
+            </div>
+            
+            <div class="live-img-container">
+                <img id="location-image" src="" alt="Destinacija" />
+            </div>
+        </section>
+    </div>
+
+    <!-- STUP 3: USKORO -->
+    <div class="timer-card-modern">
+    <!-- GORNJI DIO (VAN OKVIRA) -->
+    <div class="timer-kicker">Uskoro</div>
+    <div class="timer-event-date">Danas, {{ now.Format "02.01.2006" }}</div>
+    
+    <!-- SREDIŠNJI DIO (UNUTAR ZELENOG OKVIRA) -->
+    <div class="timer-body-frame">
+        <div class="event-title-main">FIFA World Cup<br>2026</div>
+     <div class="event-location">MEXICO • USA • CANADA</div>
+        
+        <div id="countdown-grid-compact">
+            <div class="t-box"><span id="days">00</span><small>Dana</small></div>
+            <div class="t-box"><span id="hours">00</span><small>Sati</small></div>
+            <div class="t-box"><span id="mins">00</span><small>Min</small></div>
+        </div>
+    </div>
+</div>
+
+</div>

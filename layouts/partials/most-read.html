@@ -1,9 +1,27 @@
 {{ $mostRead := where .Site.RegularPages "Params.most_read" true }}
 {{ with index $mostRead 0 }}
-<a href="{{ .RelPermalink }}" class="most-read-card" style="background-image: url('{{ .Params.image }}');">
-    <div class="most-read-content">
-        <h2 class="most-read-title">{{ .Title }}</h2>
-        <p class="most-read-description">{{ .Description }}</p>
+<section class="premium-mag-section">
+    <div class="container">
+        <div class="mag-wrapper">
+            <!-- Lijeva strana: Dominantna slika -->
+            <div class="mag-image-side">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </div>
+
+            <!-- Desna strana: Tekst + Broj -->
+            <div class="mag-content-side">
+                <div class="mag-number-right">01</div>
+                <div class="mag-kicker">
+                    <span class="dot"></span> NAJČITANIJA PRIČA
+                </div>
+                <h2 class="mag-title">{{ .Title }}</h2>
+                <p class="mag-excerpt">{{ .Description }}</p>
+                <a href="{{ .RelPermalink }}" class="mag-link">
+                    OTKRIJ VIŠE
+                    <span class="line"></span>
+                </a>
+            </div>
+        </div>
     </div>
-</a>
+</section>
 {{ end }}

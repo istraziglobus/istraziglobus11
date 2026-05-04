@@ -1,24 +1,27 @@
-
-<section class="travel-tips-section">
+<section class="travel-tips-section section-alternate-bg">
     <div class="container text-center">
-        <h2 class="section-title">Savjeti za putovanja</h2>
-        <p class="section-description">Pre nego što krenete na put, pročitajte naše korisne vodiče i savete.</p>
-        <div class="tips-grid">
+        <!-- Naslov sekcije sa tvojom klasom -->
+        <h2 class="section-title">SAVJETI ZA PUTOVANJA</h2>
+
+        <div class="instagram-grid">
             {{ range first 3 (where site.RegularPages "Section" "savjeti") }}
-            <div class="tip-card">
-                {{ with .Params.icon }}
-                    <div class="tip-icon"><i class="{{ . }}"></i></div>
-                {{ end }}
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                {{ with .Params.description }}
-                    <p>{{ . }}</p>
-                {{ end }}
-                <a href="{{ .RelPermalink }}" class="read-more-link">Saznaj više <i class="fas fa-chevron-right"></i></a>
-            </div>
+            <a href="{{ .RelPermalink }}" class="insta-card" style="background-image: url('{{ .Params.image | absURL }}');">
+                <div class="insta-overlay">
+                    <div class="insta-content">
+                        <span class="insta-subtitle">Savjet</span>
+                        <h3 class="insta-title">{{ .Title }}</h3>
+                        {{ with .Params.description }}
+                            <p class="insta-description">{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </a>
             {{ end }}
         </div>
-        <div class="section-button-container">
-      <a href="{{ .Site.BaseURL }}savjeti/" class="btn btn-secondary">Pogledaj sve članke</a>
-    </div>
+
+        <!-- Dugme koje vodi na sve članke -->
+        <div class="button-container">
+            <a href="{{ "/savjeti/" | relURL }}" class="btn btn-secondary">Pogledaj sve članke</a>
+        </div>
     </div>
 </section>
