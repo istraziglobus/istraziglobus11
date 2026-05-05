@@ -209,8 +209,6 @@
     </div>
 </section>
 
-{{ partial "most-read.html" . }}
-
 <section class="latest-articles-section" id="najnoviji-clanci">
     <div class="container">
         <h2 class="section-title">NAJNOVIJI ČLANCI</h2>
@@ -280,6 +278,7 @@
     </div>
 </section>
 
+{{ partial "most-read.html" . }}
 
 <section class="balkan-section">
     <h2 class="section-title">KORACIMA BALKANA</h2>
@@ -311,5 +310,26 @@
 </section>
 
 {{ partial "travel-tips.html" . }}
+
+<button onclick="topFunction()" id="backToTop" title="Idi na vrh">
+    <span class="top-icon">↑</span>
+    <span class="top-text">VRH</span>
+</button>
+
+<script>
+let mybutton = document.getElementById("backToTop");
+
+window.onscroll = function() {
+    if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+        mybutton.style.display = "flex";
+    } else {
+        mybutton.style.display = "none";
+    }
+};
+
+function topFunction() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+}
+</script>
 
 {{ end }}

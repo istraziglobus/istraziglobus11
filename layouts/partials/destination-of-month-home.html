@@ -29,9 +29,8 @@
                 <h2 class="borderless-title">{{ .Title }}</h2>
                 <p class="borderless-excerpt">{{ .Description | default (.Summary | truncate 130) }}</p>
                 <div class="borderless-action">
-                    <a href="{{ .RelPermalink }}" class="btn-minimal">
+                    <a href="{{ .RelPermalink }}" class="btn btn-primary">
                         ISTRAŽI PRIČU 
-                        <div class="btn-line"></div>
                     </a>
                 </div>
             </div>
