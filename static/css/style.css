@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Tanki prateći tekst iznad naslova (Kicker) */
 .section-title::before {
-    content: 'ISTRAŽI GLOBUS EXCLUSIVE';
+    content: 'ISTRAŽI GLOBUS';
     display: block;
     font-size: 0.7rem;
     font-weight: 500;
@@ -1048,6 +1048,9 @@ a:hover {
 
 
 
+
+
+
 /* ========================================= 
    PODEŠAVANJE ZA POJEDINAČNE ČLANKE 
    ========================================= */
@@ -1250,15 +1253,54 @@ a:hover {
 
 
 
+
+
+
+
 /* ========================================= 
-   BUTON SHARE 
+   SHARE BUTTONS - MINIMALIST LUXURY
    ========================================= */
-.share-button[data-share-platform="facebook"] { background-color: #3b5998; }
-.share-button[data-share-platform="twitter"] { background-color: #1da1f2; }
-.share-button[data-share-platform="whatsapp"] { background-color: #25d366; }
-.share-button[data-share-platform="linkedin"] { background-color: #0077b5; }
-.share-button[data-share-platform="viber"] { background-color: #7360f2; }
-.share-button[data-share-platform="email"] { background-color: #B23121; }
+
+.share-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 12px; /* Moderno blago zaobljeno */
+    background-color: rgba(255, 255, 255, 0.01) !important; /* Skoro providna baza */
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    color: #0e0d0d !important;
+    font-size: 2.4rem !important;
+    text-decoration: none;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    cursor: pointer;
+}
+
+/* Hover efekat: Dugme dobija boju platforme i blagi sjaj */
+.share-button:hover {
+    transform: translateY(-5px);
+    border-color: transparent !important;
+    color: #2ecc71 !important;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Specifične boje na HOVER-u */
+.share-button[data-share-platform="facebook"]:hover { background-color: #3b5998 !important; }
+.share-button[data-share-platform="twitter"]:hover { background-color: #1da1f2 !important; }
+.share-button[data-share-platform="whatsapp"]:hover { background-color: #25d366 !important; }
+.share-button[data-share-platform="linkedin"]:hover { background-color: #0077b5 !important; }
+.share-button[data-share-platform="viber"]:hover { background-color: #7360f2 !important; }
+.share-button[data-share-platform="email"]:hover { background-color: #B23121 !important; }
+
+/* Mobilna optimizacija */
+@media (max-width: 600px) {
+    .share-button {
+        width: 65px;
+        height: 65px;
+        font-size: 2rem !important;
+    }
+}
 
 
 
@@ -1669,84 +1711,101 @@ a:hover {
 
 
 /* ========================================= 
-   SAVJETI ZA PUTOVANJA - FINALNI STIL
+   SAVJETI ZA PUTOVANJA - LUXURY DARK EDITION
    ========================================= */
-
 
 .instagram-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin-bottom: 40px;
+    gap: 30px;
+    margin-bottom: 60px;
 }
 
 .insta-card {
     position: relative;
-    height: 450px; 
+    height: 520px; 
     background-size: cover;
     background-position: center;
-    border-radius: 15px;
+    border-radius: 20px;
     overflow: hidden;
     text-decoration: none;
-    transition: all 0.3s ease;
     display: block;
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 .insta-card:hover {
-    transform: translateY(-8px); /* Lagano iskakanje na gore */
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transform: translateY(-10px);
+    box-shadow: 0 25px 50px rgba(0,0,0,0.5);
 }
 
+/* --- TEXT BLOK: Smanjen duplo i potamnjen --- */
 .insta-overlay {
     position: absolute;
-    inset: 0;
-    /* Gradijent koji ide od tamnog na dnu ka prozirnom na vrhu za čitljivost teksta */
-    background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 50%, transparent 100%);
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    /* Jača crna sa blur efektom za maksimalnu čitljivost */
+    background: rgba(0, 0, 0, 0.652); 
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    padding: 15px 20px; /* Smanjen padding - blok je sada uži */
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.4s ease;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    padding: 25px;
-    text-align: left;
 }
 
+.insta-card:hover .insta-overlay {
+    background: rgba(0, 0, 0, 0.729);
+    border-color: rgba(46, 204, 113, 0.4); /* Diskretni zeleni sjaj na ivici */
+}
+
+/* --- TIPOGRAFIJA --- */
 .insta-subtitle {
-    display: none;
-    color: var(--primary-color);
+    display: inline-block;
+    color: #2ecc71;
     font-weight: 800;
     text-transform: uppercase;
-    font-size: 0.75rem;
-    letter-spacing: 1.2px;
+    font-size: 0.6rem;
+    letter-spacing: 2px;
+    margin-bottom: 5px;
 }
 
 .insta-title {
-    color: #fff;
-    font-size: 1.6rem;
-    margin: 8px 0;
+    color: #ffffff;
+    font-size: 1.4rem; /* Blago smanjen naslov da bi stao u manji blok */
+    margin: 0;
     font-family: 'Playfair Display', serif;
+    font-weight: 700;
     line-height: 1.2;
+    /* Jača sjenka na slovima */
+    text-shadow: 0 2px 10px rgba(0,0,0,0.8); 
 }
 
 .insta-description {
-    color: #cecece;
-    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.8rem;
     line-height: 1.4;
-    margin-top: 5px;
+    margin-top: 8px;
+    font-weight: 300;
     display: -webkit-box;
-    -webkit-line-clamp: 2; /* Siječe opis nakon drugog reda */
+    -webkit-line-clamp: 2; /* Drži opis na max 2 reda */
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
 
-/* Prilagođavanje za mobilne uređaje */
-@media (max-width: 992px) {
-    .instagram-grid { grid-template-columns: repeat(2, 1fr); }
+/* --- RESPONZIVNOST --- */
+@media (max-width: 1100px) {
+    .instagram-grid { grid-template-columns: repeat(2, 1fr); gap: 20px; }
 }
 
-@media (max-width: 600px) {
-    .instagram-grid { grid-template-columns: 1fr; }
-    .insta-card { height: 350px; }
+@media (max-width: 768px) {
+    .instagram-grid { grid-template-columns: 1fr; padding: 0 10px; }
+    .insta-card { height: 380px; }
+    .insta-overlay { bottom: 15px; left: 15px; right: 15px; padding: 15px; }
+    .insta-title { font-size: 1rem; }
 }
-
 
 
 
@@ -1910,78 +1969,70 @@ blockquote p {
 
 
 
-  
+
+
 /* ==========================================================================
-   Stilovi za Koracima Balkana sekciju
+   ISTRAŽI GLOBUS - sekcijMA BALKANA (ULTRA MODERN FULL CODE)
    ========================================================================== */
 
+/* 1. GLAVNI KONTEJNER */
 .balkan-cards-container {
     display: flex;
-    flex-wrap: wrap;
-    margin: -1px; /* Negativna margina da kompenzuje border na karticama */
+    flex-wrap: wrap; /* Desktop podrazumevano */
+    margin: -1px;
     padding-bottom: 40px;
 }
 
+/* 2. MOBILNA VERZIJA: Horizontalni Slider & Krupne Kocke */
+@media (max-width: 767px) {
+    .balkan-cards-container {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        padding: 20px 20px 40px 20px;
+        gap: 15px;
+    }
+
+    /* Sakrivanje scrollbara */
+    .balkan-cards-container::-webkit-scrollbar {
+        display: none;
+    }
+
+    .balkan-card {
+        flex: 0 0 88% !important; /* "Peek" efekat - vidi se kraj sledeće */
+        height: 450px !important; /* Udarna visina za mobilni */
+        scroll-snap-align: center;
+        border-radius: 20px; /* Moderno zaobljene ivice */
+    }
+}
+
+/* 3. KARTICA: OSNOVNI STIL */
 .balkan-card {
     position: relative;
-    width: 100%; /* Podrazumevana širina za mobilne uredjaje */
+    width: 100%;
     height: 350px;
     background-size: cover;
     background-position: center;
     text-decoration: none;
     overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-sizing: border-box; /* Ključno: Ovo osigurava da border ne utiče na širinu */
+    transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.4s ease;
+    box-sizing: border-box;
+    display: block;
 }
 
 .balkan-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
-.card-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end; /* KLJUČNO: Poravnava sadržaj na dno */
-    align-items: center;
-    text-align: center;
-    color: white;
-    background: rgba(0, 0, 0, 0.4);
-    transition: background 0.3s ease;
-    padding-bottom: 25px; /* Dodajemo razmak od dna */
-}
-
-.balkan-card:hover .card-overlay {
-    background: rgba(0, 0, 0, 0.6); /* Dodatno zatamnjenje na hoveru */
-}
-
-.balkan-card .card-title {
-    font-size: 2.2em;
-    letter-spacing: 1.5px;
-    color: white; /* Eksplicitno postavljamo belu boju */
-    text-decoration: underline; /* KLJUČNO: Dodajemo podvlačenje */
-}
-
-.balkan-card .card-subtitle {
-    font-size: 1.25em;
-    letter-spacing: 0.5px;
-    color: #feffff; /* KLJUČNO: Menjamo boju teksta u plavu */
-}
-
-/* Media query za desktop - od 768px i naviše */
+/* 4. DESKTOP MODIFIKACIJA (768px+) */
 @media (min-width: 768px) {
     .balkan-card {
-        width: 50%; /* Ključno: Svaka kartica zauzima 50% širine na desktopu */
-        height: 700px;
+        width: 50%; /* 50/50 split koji si imao */
+        height: 650px;
     }
 
-    /* Beli razmak od 2mm između slika */
-    /* Na prvoj kartici dodajemo border sa desne strane, na drugoj sa leve */
     .balkan-card:first-child {
         border-right: 2px solid white;
     }
@@ -1990,48 +2041,106 @@ blockquote p {
     }
 }
 
-/*== Stilovi samo za mobilne uredjaje (telefoni i manji tableti)==*/
-
-@media (max-width: 767px) {
-  
-    .balkan-card {
-        height: 280px;
-    }
-    .balkan-card .card-title {
-        font-size: 1.3em;
-        letter-spacing: 0.5px;
-        margin-bottom: 1px;
-    }
-    .balkan-card .card-subtitle {
-        font-size: 0.85em;
-        letter-spacing: 0px;
-        margin-top: 0;
-    }
+/* 5. OVERLAY (Moderni Gradijent) */
+.card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+    padding: 0 30px 50px 30px;
+    background: linear-gradient(to top, 
+        rgba(0,0,0,0.95) 0%, 
+        rgba(0,0,0,0.4) 35%, 
+        rgba(0,0,0,0.1) 60%,
+        transparent 100%) !important;
+    box-sizing: border-box;
 }
-.balkan-card .card-overlay {
-    background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 60%, transparent 100%) !important;
+
+/* 6. MODERNA TIPOGRAFIJA */
+.balkan-card .card-title {
+    font-size: 2rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -1.5px; /* Skupljena slova za "impact" */
+    line-height: 1.1;
+    color: #ffffff;
+    margin-bottom: 15px;
+    text-decoration: none !important;
+    text-shadow: 0 4px 15px rgba(0,0,0,0.6);
 }
 
-/* Animacija promene boje teksta na hover */
-.balkan-card .card-title,
+/* "Stakleni" bedž za podnaslov */
 .balkan-card .card-subtitle {
-    transition: all 0.3s ease; /* Ovo je jednostavnije i obuhvata sve */
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #2ecc71; /* Tvoja zelena */
+    background: rgba(255, 255, 255, 0.045);
+    padding: 6px 18px;
+    border-radius: 50px;
+    backdrop-filter: blur(8px); /* Glassmorphism */
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    display: inline-block;
+    transition: all 0.3s ease;
 }
-.balkan-card:hover .card-title,
+
+/* Hover interakcije za tekst */
 .balkan-card:hover .card-subtitle {
-    text-shadow: 0 0 10px rgba(11, 11, 11, 0.8); /* Svetla senka koja čini tekst jasnim */
-    color: white; /* Vratimo boju teksta na belu */
+    background: #2ecc70df;
+    color: #000000;
+    border-color: #2ecc71;
+    transform: scale(1.1);
 }
-/* Stilovi za dugme "Pogledaj ostale clanke" */
+
+/* Responzivni fontovi za manje ekrane */
+@media (max-width: 767px) {
+    .balkan-card .card-title {
+        font-size: 1.2rem;
+        letter-spacing: -0.9px;
+    }
+    
+    .balkan-card .card-subtitle {
+        font-size: 0.55rem;
+        letter-spacing: 1px;
+    }
+}
+
+/* 7. DUGME I OSTALO */
 .button-container {
     text-align: center;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin: 60px 0;
 }
-/* Stil za alternativnu boju pozadine sekcija */
+
 .section-alternate-bg {
     background-color: var(--alternate-bg-color);
 }
+
+/* DESKTOP: Zadržavamo samo 2 najnovije slike radi elegancije */
+@media (min-width: 768px) {
+    /* Sakriva 3, 4. i 5. karticu na desktopu */
+    .balkan-card:nth-child(n+3) {
+        display: none !important;
+    }
+}
+
+/* MOBILNI: Prikazujemo svih 5 u slideru */
+@media (max-width: 767px) {
+    .balkan-card:nth-child(n+3) {
+        display: block !important; /* Ponovo ih aktiviramo za slider */
+    }
+}
+
+
+
+
 
 
 
@@ -2050,7 +2159,7 @@ blockquote p {
     text-align: center;
 }
 
-/* Koracima Balkana: Bela pozadina */
+/* sekcijma Balkana: Bela pozadina */
 .balkan-section {
     padding: 10px;
     padding-bottom: 15px;
@@ -2477,7 +2586,7 @@ blockquote p {
 .related-category {
     font-size: 13px;
     font-weight: 600;
-    color: #d47500;
+    color: #2ecc71;
     text-transform: uppercase;
     margin-bottom: 4px;
     display: inline-block;
@@ -2510,7 +2619,7 @@ blockquote p {
 
 /* Sekcijske boje */
 :root {
-    --ng-koracima-balkana: #0D6B4A;
+    --ng-sekcijma-balkana: #0D6B4A;
     --ng-gradske-priče: #ff10d3;
     --ng-destinacije-mjeseca: #f81b1b;
     --ng-putni-vodici: #006A8E;
@@ -2935,9 +3044,44 @@ blockquote p {
     }
 
     .btn-primary {
-    margin-top: 25px;
-
+    margin-top: 40px;
+}
+  .borderless-info-box{
+    background: #585858;
 }}
+
+/* Specifično za iPhone 4 i ultra male ekrane (do 320px) */
+@media (max-width: 400px) {
+    .borderless-container {
+        display: block;
+        width: 100vw; /* Koristimo Viewport Width za maksimalnu preciznost */
+        margin-left: -30px !important; /* Poništava tvoj .container padding od 30px */
+        margin-right: 0 !important;
+        padding: 0 !important;
+        background-color: #585858;
+    }
+
+    .image-zoom-wrapper {
+        height: 200px; /* Malo niža slika za male ekrane da ostane mjesta za tekst */
+        padding: 0 1px; /* Još tanji "luft" za minimalni ekran */
+    }
+
+    .borderless-info-box {
+        padding: 20px 25px; /* Smanjen padding da tekst ne bude previše zbijen na 320px */
+        max-width: 100%;
+        background: #585858;
+    }
+
+    .borderless-title {
+        font-size: 1.6rem; /* Smanjujemo naslov da ne puca u tri reda */
+        letter-spacing: -1px;
+    }
+
+    .borderless-excerpt {
+        font-size: 0.9rem; /* Sitniji tekst za bolju čitljivost na malom ekranu */
+        line-height: 1.4;
+    }
+}
 
     /* AKTIVIRAMO MJESEC NA MOBILNOM */
     .mobile-month-label {
@@ -3971,3 +4115,10 @@ article ul li::before {
 .city-tooltip {
     text-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
 }
+
+
+
+
+
+
+
