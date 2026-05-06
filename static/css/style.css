@@ -3,6 +3,10 @@
    ============================= */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
+
+
+
+
 /* ========================================= 
    OSNOVE SAJTA 
    ========================================= */
@@ -76,8 +80,12 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+
+
+
+
 /* =========================================
-    STIL ZA SVE NASLOVE SEKCIJA
+    STIL ZA SVE NASLOVE SEKCIJA - zavrseno
    ========================================= */
 .section-title {
     position: relative;
@@ -125,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* =========================================
-    UNIFORMISANI STILOVI DUGMADI (GLOBUS)
+    UNIFORMISANI STILOVI DUGMADI (GLOBUS) - zavrseno
    ========================================= */
 
 /* 1. OSNOVA ZA SVA DUGMAD (Zajednički stil) */
@@ -319,8 +327,6 @@ h1, h2, h3, h4, h5, h6 {
     flex-shrink: 0; /* Ne da tački da se skupi */
 }
 
-
-
 @media (max-width: 768px) {
     .article-card-horizontal {
         flex-direction: column; /* Slika ide iznad teksta */
@@ -388,7 +394,7 @@ a:hover {
 
 
 /* ========================================= 
-  HEADER - ZAGLAVLJE 
+  HEADER - ZAGLAVLJE - zavrseno
    ========================================= */
 .main-header { /*Definiše opšti izgled zaglavlja: boju pozadine, senku,*/
     background-color: #000000; /* Dark Blue */ ;
@@ -441,8 +447,16 @@ a:hover {
     letter-spacing: 1px;
 }
 
+
+
+
+
+
+
+
+
 /* ========================================= 
-   MAIN NAVIGATION O NAMA, POČETNA, KONTAKT, VIJESTI
+   MAIN NAVIGATION O NAMA, POČETNA, KONTAKT, VIJESTI - zavrseno
    ========================================= */
 .main-nav-primary {
     display: flex; /* PRIKAZI GA NA DESKTOPU KAO FLEXBOX */
@@ -480,8 +494,11 @@ a:hover {
     width: 100%; /* Kada pređeš mišem preko linka, širina linije postaje 100%, stvarajući animaciju */
 }
 
+
+
+
 /* ========================================= 
-   HAMBURGER MENU IKONICA
+   HAMBURGER MENU IKONICA - zavrseno
    ========================================= */
 .hamburger {
     display: block; /* PRIKAŽI HAMBURGER I NA DESKTOPU I NA MOBILNOM */
@@ -524,8 +541,13 @@ a:hover {
     transform: rotate(-45deg);
 }
 
+
+
+
+
+
 /* =========================================
-  DROPDOWN MENU
+  DROPDOWN MENU - zavrseno
    ========================================= */
 .dropdown-menu {
     display: none; /* Uvek SKRIVEN na desktopu! */
@@ -584,8 +606,13 @@ a:hover {
     color: var(--primary-color);
 }
 
+
+
+
+
+
 /* ========================================= 
-   SUBMENU STYLE
+   SUBMENU STYLE - zavrseno
    ========================================= */
 .submenu-toggle {
     display: flex !important; /* Override display: block */
@@ -625,44 +652,10 @@ a:hover {
     opacity: 1;
 }
 
-/* ========================================= 
-   HERO SECTION
-   ========================================= */
-.hero {
-    position: relative;
-    height: 100vh; /* Adjust as needed */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: var(--light-text-color);
-    text-align: center;
-    overflow: hidden;
-    margin-bottom: 5px; /* DODAJTE OVU LINIJU */
-}
-/* Stil za pozadinski video */
-.hero-video-background {
-    position: absolute; /* Apsolutno pozicionira video unutar .hero sekcije */
-    top: 0;
-    left: 0;
-    width: 100%; /* Video zauzima 100% širine svog roditelja */
-    height: 100%; /* Video zauzima 100% visine svog roditelja */
-    object-fit: cover; /* KLJUČNO: Osigurava da video pokriva ceo prostor, sekući višak ako je potrebno, ali čuvajući proporcije */
-    z-index: -1; /* Postavlja video IZA sadržaja hero sekcije (teksta i dugmeta) */
-}
-.hero-content h1 {
-    font-size: 3.5em;
-    margin-bottom: 10px;
-    color: var(--light-text-color);
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
-.hero-content p {
-    font-size: 1.5em;
-    margin-bottom: 30px;
-    color: var(--light-text-color);
-}
+
 
 /* ========================================= 
-   NOVI STILOVI ZA "NAJNOVIJE ČLANKE"
+   NOVI STILOVI ZA "NAJNOVIJE ČLANKE" - zavrseno
    ========================================= */
 .main-articles-layout {
     display: flex;
@@ -857,8 +850,6 @@ a:hover {
     border-top: 1px solid var(--border-light-gray);
     flex-wrap: wrap;
 }
-
-
 /* Stil za zeleni tag sekcije */
 .article-card-latest-content .article-section-tag {
     font-size: 0.85em;
@@ -927,7 +918,7 @@ a:hover {
 
 
 /* ========================================= 
-   STRANICA SA LISTOM ČLANAKA (PREMIUM)
+   STRANICA SA LISTOM ČLANAKA (PREMIUM) - zavrseno
    ========================================= */
 
 /* Kontejner koji drži sve kartice */
@@ -1016,6 +1007,11 @@ a:hover {
 .article-card-horizontal .read-more-btn {
     align-self: flex-start;
 }
+
+
+
+
+
 
 /* ========================================= 
    RESPONSIVE (MOBILNI UREĐAJI)
@@ -1122,30 +1118,6 @@ a:hover {
 .text-orange { color: var(--theme-orange-color); font-weight: 600; }
 .text-purple { color: var(--theme-purple-color); font-weight: 600; }
 
-.share-buttons {
-    display: flex; /* Slaže dugmiće horizontalno */
-    justify-content: center; /* Centira ih unutar kontejnera */
-    align-items: center; /* Centira ih vertikalno */
-    flex-wrap: wrap; /* Omogućava prelamanje na mobilnim uređajima */
-    gap: 15px; /* Dodaje razmak između dugmića */
-    margin: 40px 0 20px;
-}
-
-.share-button {
-    color: var(--primary-color) !important;
-    font-size: 2.5em !important;
-    cursor: pointer !important;
-    transition: all 0.3s ease !important;
-}
-
-.share-button:hover {
-    color: var(--dark-text-color) !important;
-    transform: scale(1.2) !important;
-}
-
-.share-button i {
-    pointer-events: none;
-}
 
 .share-section {
     text-align: center;
@@ -1258,34 +1230,49 @@ a:hover {
 
 
 /* ========================================= 
-   SHARE BUTTONS - MINIMALIST LUXURY
+   SHARE DUGME - zavrseno
    ========================================= */
+
+.share-section {
+    text-align: center;
+    margin: 50px 0;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.share-buttons {
+    /* KLJUČNI DIO: Ovo ih slaže jedno pored drugog */
+    display: flex !important;
+    justify-content: center; /* Centira ih na sredinu ekrana */
+    align-items: center;
+    gap: 15px; /* Razmak između dugmadi */
+    flex-wrap: nowrap; /* Sprečava bježanje u novi red na desktopu */
+    margin-top: 20px;
+}
 
 .share-button {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50px;
-    height: 50px;
-    border-radius: 12px; /* Moderno blago zaobljeno */
-    background-color: rgba(255, 255, 255, 0.01) !important; /* Skoro providna baza */
+    width: 55px;
+    height: 55px;
+    border-radius: 14px;
+    background-color: rgba(255, 255, 255, 0.05) !important;
     border: 1px solid rgba(255, 255, 255, 0.1) !important;
-    color: #0e0d0d !important;
-    font-size: 2.4rem !important;
-    text-decoration: none;
+    color: #000000 !important; /* Bijela boja ikonica za tamnu sivu podlogu */
+    font-size: 1.6rem !important;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    cursor: pointer;
+    text-decoration: none;
 }
 
-/* Hover efekat: Dugme dobija boju platforme i blagi sjaj */
+/* Hover efekti */
 .share-button:hover {
-    transform: translateY(-5px);
-    border-color: transparent !important;
-    color: #2ecc71 !important;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    transform: translateY(-8px);
+    border-color: #2ecc71 !important; /* Tvoja zelena na hoveru */
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
 }
 
-/* Specifične boje na HOVER-u */
+/* Platform-specific hover colors */
 .share-button[data-share-platform="facebook"]:hover { background-color: #3b5998 !important; }
 .share-button[data-share-platform="twitter"]:hover { background-color: #1da1f2 !important; }
 .share-button[data-share-platform="whatsapp"]:hover { background-color: #25d366 !important; }
@@ -1293,12 +1280,17 @@ a:hover {
 .share-button[data-share-platform="viber"]:hover { background-color: #7360f2 !important; }
 .share-button[data-share-platform="email"]:hover { background-color: #B23121 !important; }
 
-/* Mobilna optimizacija */
-@media (max-width: 600px) {
+/* MOBILNA RESPONSIVNOST */
+@media (max-width: 768px) {
+    .share-buttons {
+        gap: 10px; /* Još gušće na telefonu */
+    }
+
     .share-button {
-        width: 65px;
-        height: 65px;
-        font-size: 2rem !important;
+        width: 44px;
+        height: 44px;
+        font-size: 1.3rem !important;
+        border-radius: 10px;
     }
 }
 
@@ -1311,7 +1303,7 @@ a:hover {
 
 
 /* ============================================================= 
-   PREMIUM ISTRAŽI GLOBUS DASHBOARD - CLEAN VERSION (NO !IMPORTANT)
+    DASHBOARD TRI WIDZETA - završeno
    ============================================================= */
 
 /* 1. Glavni kontejner */
@@ -1584,7 +1576,7 @@ a:hover {
 
 
 /* =========================================
-   FOOTER
+   FOOTER - završeno
    ========================================= */
 .main-footer {
     background-color: #000000;
@@ -1696,11 +1688,6 @@ a:hover {
     .main-rome-title {
         font-size: 1.8em;
     }
-    .share-button {
-        display: block;
-        margin: 10px;
-        width: 10%;
-    }
 }
 
 
@@ -1709,9 +1696,8 @@ a:hover {
 
 
 
-
 /* ========================================= 
-   SAVJETI ZA PUTOVANJA - LUXURY DARK EDITION
+   SAVJETI ZA PUTOVANJA - zavrseo
    ========================================= */
 
 .instagram-grid {
@@ -1972,7 +1958,7 @@ blockquote p {
 
 
 /* ==========================================================================
-   ISTRAŽI GLOBUS - sekcijMA BALKANA (ULTRA MODERN FULL CODE)
+   KORACIMA BALKANA - zavrseno
    ========================================================================== */
 
 /* 1. GLAVNI KONTEJNER */
@@ -2190,7 +2176,7 @@ blockquote p {
 
 
 /* ========================================= 
-   KONAČNA ISPRAVKA ZA MOBILNI HEADER 
+   KONAČNA ISPRAVKA ZA MOBILNI HEADER - zavrseno
    ========================================= */
 
 @media (max-width: 768px) {
@@ -2242,14 +2228,12 @@ blockquote p {
 
 
 /* ============================== 
-     SEKCIJA - NAJČITANIJE  
+     SEKCIJA - NAJČITANIJE - zavrseno 
    ============================== */
 .premium-mag-section {
     padding: 35px 0;
     background: #212121; 
 }
-
-
 .mag-wrapper {
     display: grid;
     /* Odnos 65% prema 35% uz gap */
@@ -2532,7 +2516,7 @@ blockquote p {
 
 
 /* ================================================
- LINKOVI NA DNU ČLANAKA 
+ LINKOVI NA DNU ČLANAKA - zavrseno
  ================================================*/
 
 .related-section {
@@ -2614,13 +2598,13 @@ blockquote p {
 
 
 /* ================================================ 
-   NATIONAL GEOGRAPHIC – CLEAN MINIMAL PREMIUM HERO 
+   HEDERI ZA STRANICE SA KARICAMA -zavrseno
    ================================================ */
 
 /* Sekcijske boje */
 :root {
     --ng-sekcijma-balkana: #0D6B4A;
-    --ng-gradske-priče: #ff10d3;
+    --ng-gradske-price: #fb0dcf;
     --ng-destinacije-mjeseca: #f81b1b;
     --ng-putni-vodici: #006A8E;
     --ng-gastronomski-put: #6ffd17f7;
@@ -2630,13 +2614,13 @@ blockquote p {
     --ng-sampionski-plamen: #E6B800;
     --ng-top-5: #fbff1c;
     --ng-postanski-tragovi: #fa6f0c;
-    --ng-neobični-svijet: #250489;
+    --ng-neobicni-svijet: #250489;
     --ng-kulturni-mozaik: #C04C36;
     --ng-mitski-kult: #4B0082;
     --ng-geo-kutak: #27b1b1;
     --ng-stranice-kadra: #f7f1f19c;
     --ng-prirodna-riznica: #2E8B57;
-    --ng-nautički-dnevnik: #284cf0;
+    --ng-nauticki-dnevnik: #284cf0;
 }
 
 /* Glavni kontejner hero sekcije */
