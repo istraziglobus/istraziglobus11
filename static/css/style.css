@@ -1034,7 +1034,7 @@ a:hover {
    ========================================= */
 .single-post-section {
     padding: 60px 0;
-    background-color: #323232; /* Vrlo svetlo siva pozadina */
+    background-color: #0b0b0b; /* Vrlo svetlo siva pozadina */
 }
 .main-rome-title-container {
     text-align: center; /* Osigurava da su H1 i H2 centrirani */
@@ -1052,7 +1052,7 @@ a:hover {
     font-family: 'Roboto', sans-serif;
     font-size: 2.2em; /* Povećana veličina podnaslova */
     font-weight: 500; /* Malo podebljan podnaslov */
-    color: #22ff20;
+    color: #83f28f;
     margin-bottom: 20px;
     line-height: 1.4;
 }
@@ -1071,25 +1071,43 @@ a:hover {
 /* -- Article Specific Styles (za single.html i content) -- */
 .article-hero-image {
     width: 100%;
-    max-height: 750px;
+    max-width: 920px; /* ISTA širina kao content */
+    
+    height: 570px; /* FIKSNA VISINA */
+
+    margin: 50px auto;
+
     overflow: hidden;
-    margin-bottom: 40px;
-    border-radius: 10px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-    max-width: 970px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+
+    border-radius: 18px;
+
+    position: relative;
+
+    box-shadow:
+    0 25px 70px rgba(0,0,0,0.22);
 }
 
+/* slika */
 .article-hero-image img {
     width: 100%;
     height: 100%;
+
     object-fit: cover;
-    object-position: center bottom;
+    object-position: center;
+
+    display: block;
+
+    transition: transform 5s ease;
 }
 
+/* cinematic hover */
+.article-hero-image:hover img {
+    transform: scale(1.04);
+}
+
+/* caption */
 .image-caption {
+    max-width: 920px;
     text-align: center;
     font-size: 0.9em;
     color: #666;
@@ -1190,16 +1208,47 @@ a:hover {
     border-radius: var(--border-radius);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
-/* Prilagođavanja za slike na mobilnim uređajima */
+/* =====================================
+   TABLET
+   ===================================== */
+
+@media (max-width: 1024px) {
+
+    .article-hero-image {
+        height: 420px;
+        border-radius: 14px;
+    }
+}
+
+/* =====================================
+   MOBILE
+   ===================================== */
+
 @media (max-width: 768px) {
-    .article-content img {
-        position: relative;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 110%; /* Širina na mobilnom uređaju */
-        max-width: 110%;
-        height: 250px; /* Postavljena fiksna visina */
-        object-fit: cover; /* Osigurava da se slika ne deformiše */
+
+    .article-hero-image {
+        height: 260px;
+
+        margin: 35px auto;
+
+        border-radius: 12px;
+    }
+
+    .image-caption {
+        font-size: 0.75rem;
+
+        padding: 0 10px;
+    }
+}
+
+/* =====================================
+   SMALL MOBILE
+   ===================================== */
+
+@media (max-width: 400px) {
+
+    .article-hero-image {
+        height: 220px;
     }
 }
 
