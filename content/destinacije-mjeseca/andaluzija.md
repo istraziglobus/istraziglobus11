@@ -27,11 +27,8 @@ featured_monthly_theme: true
 mesec_destinacije: "MAJ 2026"
 ---
 
-<p><strong>
-Andaluzija je najpoznatija regija južne Španije, poznata po gradovima poput Sevilje, Granade i Kordobe, bogatoj mavarskoj istoriji i flamenku. Idealno vrijeme za posjetu je maj, kada su temperature ugodne, a priroda u punom cvatu.
-</strong></p>
 
-Zaboravite na kalendare i digitalne satove; u Andaluziji vrijeme mjere samo sjenke koje se polako kreću preko rascvjetalih patija i zvuci gitare koji najavljuju toplu majsku noć. Dok se ostatak kontinenta tek budi, južna Španija u maju već uveliko živi svoj najljepši san, pretvarajući svaki bijeli zid i svaki gvozdeni balkon u pozornicu za <span class="highlight-text">**najiskreniju proslavu života**</span>. To je destinacija koja vas ne moli za pažnju – ona je otima svojom estetikom, svojom teškom istorijom moreplovaca i mirisom najfinijeg sherry vina. Doći ovdje znači prihvatiti da će vam srce kucati u ritmu "duende" duha, zauvijek zarobljeno između tirkiznog neba i zlatne zemlje.
+Andaluzija je najpoznatija regija južne Španije, poznata po gradovima poput Sevilje, Granade i Kordobe, bogatoj mavarskoj istoriji i flamenku. Idealno vrijeme za posjetu je maj, kada su temperature ugodne, a priroda u punom cvatu. Zaboravite na kalendare i digitalne satove; u Andaluziji vrijeme mjere samo sjenke koje se polako kreću preko rascvjetalih patija i zvuci gitare koji najavljuju toplu majsku noć. Dok se ostatak kontinenta tek budi, južna Španija u maju već uveliko živi svoj najljepši san, pretvarajući svaki bijeli zid i svaki gvozdeni balkon u pozornicu za <span class="highlight-text">**najiskreniju proslavu života**</span>. To je destinacija koja vas ne moli za pažnju – ona je otima svojom estetikom, svojom teškom istorijom moreplovaca i mirisom najfinijeg sherry vina. Doći ovdje znači prihvatiti da će vam srce kucati u ritmu "duende" duha, zauvijek zarobljeno između tirkiznog neba i zlatne zemlje.
 
 <div class="highlight-box">
   <h3>✨ Andaluzija: Destinacija Mjeseca ✨</h3>
