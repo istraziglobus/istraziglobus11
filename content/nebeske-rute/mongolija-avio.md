@@ -12,6 +12,7 @@ image_source: "Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Chinggis_Khaan_International_Airport_from_jetbridge.jpg"
 image_license: "https://commons.wikimedia.org/wiki/File:Chinggis_Khaan_International_Airport_from_jetbridge.jpg"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+location: [47.8864, 106.9057]
 countries: ["Mongolija"]
 cities: ["Ulan Bator"]
 categories:

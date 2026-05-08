@@ -12,7 +12,9 @@ image_source: "Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File:Adansonia_grandidieri02.jpg" 
 image_license: "CC BY-SA 3.0 Unported"
 image_license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en" 
+location: [-18.8792, 47.5079]
 countries: ["Madagaskar"]
+cities: ["Antananarivo"]
 categories:
   - Prirodna Riznica
 tags:
