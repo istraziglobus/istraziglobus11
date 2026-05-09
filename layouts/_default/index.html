@@ -72,9 +72,32 @@
         color: #666; font-size: 0.8rem; margin: 0;
         text-transform: uppercase; letter-spacing: 2px;
     }
+    /* Instrukcija na samom vrhu mape */
+    .top-map-hint {
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 100%; /* Razvlači se od ivice do ivice */
+        text-align: center; /* Centira tekst unutar te širine */
+        z-index: 2000;
+        color: #2ecc71;
+        font-size: 10px;
+        font-weight: 900; /* Masna slova */
+        text-transform: uppercase;
+        letter-spacing: 1.5px; /* Smanjen razmak da bi sve stalo u red na užim ekranima */
+        font-family: monospace;
+        pointer-events: none;
+        animation: hint-fade 3s infinite;
+    }
+
+    @keyframes hint-fade {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+    }
 </style>
 
 <section id="hero-map-section">
+    <div class="top-map-hint">● Interaktivni sistem: Dodirni zelenu tačku</div>
     <div id="hero-text">
         <div class="title-container">
             <div class="green-bar"></div>
