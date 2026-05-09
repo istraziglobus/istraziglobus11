@@ -26,7 +26,7 @@ tags:
   - Inženjering
   - Nautika
   - Gradovi svijeta
-most_read: true
+most_read: false
 ---
 
 Sidnej je grad koji se nikada ne smiruje, nikada ne staje, nikada ne diše istim ritmom dva puta. U jednom trenu miris soli na vjetru, u drugom – žamor i kafa pored luke. U ovom gradu, koji živi između jarbola i oblaka, jutra mirišu na okean i ambiciju, a noći na svjetla luke i nemirni pacifički duh.

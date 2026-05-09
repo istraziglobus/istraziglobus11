@@ -23,6 +23,8 @@ tags:
 - Arhitektura
 - Megastrukture
 - Malezija
+most_read: true
+
 ---
 
 <p><strong>U samom srcu Malezije uzdižu se Petronas Twin Towers — nekada najviše zgrade na svijetu i danas najviše kule bliznakinje — simbol ekonomskog uspona države i nezaobilazna vizit karta Kuala Lumpur koja svojom prepoznatljivom siluetom privlači milione posjetilaca.</strong></p>

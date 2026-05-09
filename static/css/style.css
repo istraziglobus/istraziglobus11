@@ -1072,7 +1072,6 @@ a:hover {
 .article-hero-image {
     width: 100%;
     max-width: 920px; /* ISTA širina kao content */
-    
     height: 570px; /* FIKSNA VISINA */
 
     margin: 50px auto;
@@ -1091,12 +1090,9 @@ a:hover {
 .article-hero-image img {
     width: 100%;
     height: 100%;
-
-    object-fit: cover;
+    object-fit: fill;
     object-position: center;
-
     display: block;
-
     transition: transform 5s ease;
 }
 
@@ -4078,4 +4074,26 @@ article ul li::before {
 /* Opciono: Blagi sjaj oko teksta u tooltipu */
 .city-tooltip {
     text-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.site-stats p {
+    font-family: var(--font-mono); /* Onaj hakerski font koji smo pominjali */
+    color: #83f28f;          /* Tvoja prepoznatljiva zelena */
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 10px;
+    opacity: 0.8;
 }

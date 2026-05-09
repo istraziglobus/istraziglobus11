@@ -4,7 +4,7 @@ subtitle: "Od pepela genocida do afričkog čuda – hronika najbržeg stradanja
 slug: "ruanda-genocid-istorija-oporavak"
 date: 2026-05-09T08:00:00+02:00
 author: "Istraži Globus Tim"
-description: "Analiziramo stravičnih 100 dana genocida u Ruandi, uzroke sukoba Hutua i Tutsija, te nevjerovatnu transformaciju zemlje u najčistiju i najnapredniju državu Afrike."
+description: "Detaljna analiza genocida u Ruandi 1994, uzroka sukoba Hutua i Tutsija i transformacije zemlje u jednu od najstabilnijih država Afrike.”"
 image: "slike/ruanda-genocid/ruanda-hero.jpg"
 image_alt: "francuski vojnik postavlja bodljikavu zicu na aerodromu tokom misije pomoci izbjeglicama iz ruande 1994. godine"
 image_author: "SSGT Andy Dunaway (US Army)" 
@@ -22,6 +22,11 @@ tags:
   - Istorija
   - Afrika
   - Pomirenje
+  - Hutu
+  - Tutsi
+  - Kigali
+  - genocid 1994
+  - Afrika istorija
 ---
 
 U srcu afričkog kontinenta, tamo gdje se magla vjekovima spušta niz hiljadu zelenih brda, leži nacija koja je preživjela najgušći mrak modernog doba. Ruanda je 1994. godine postala poprište najbržeg genocida u ljudskoj istoriji, tragedije koja je u samo tri mjeseca zauvijek promijenila DNK jedne države. Danas, dok posmatramo njen nevjerovatan uspon, vidimo zapis vremena koji nas uči da nijedan ožiljak nije prevelik da bi se preko njega izgradila <span class="highlight-text">**budućnost**</span> utemeljena na jedinstvu.
