@@ -1107,23 +1107,7 @@ a:hover {
     margin: 30px 0 10px 0; /* Razmak oko hero sekcije */
 }
 
-.article-hero-image {
-    width: 100%;
-    max-width: 1100px; /* Širina koju si tražio */
-    height: 670px;     /* Fiksna visina za uniformnost */
-    border-radius: 18px;
-    overflow: hidden;
-    box-shadow: 0 25px 50px rgba(0,0,0,0.5);
-}
 
-.article-hero-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Sprečava deformaciju slike */
-    object-position: center;
-    display: block;
-    transition: transform 0.5s ease;
-}
 
 .article-hero-image:hover img {
     transform: scale(1.03);
@@ -1176,14 +1160,20 @@ a:hover {
 
 /* RESPONSIVE - Da sve radi i na telefonu */
 @media (max-width: 1150px) {
-    .article-hero-image, .image-caption { max-width: 95%; }
+     .image-caption { max-width: 95%; }
 }
 
 @media (max-width: 768px) {
-    .article-hero-image { height: 350px; border-radius: 12px; }
     .main-rome-title { font-size: 2.8em; }
     .subtitle-text { font-size: 1.8em; }
     .article-content .article-text-container { padding: 25px; }
+
+    .image-credit {
+    color: #efefef; /* Ovde stavi boju koju želiš */
+    text-align: center;
+    font-size: 0.5em;
+    opacity: 0.8;
+}
 
     .article-meta {
     display: flex;
@@ -2914,9 +2904,27 @@ article ul li::before {
 }
 
 .article-hero-image img {
-    width: 100%;      /* slika se skalira da stane u širinu */
-    height: auto;     /* očuva proporcije */
+    width: 1050%;      /* slika se skalira da stane u širinu */
+    height: 650px;     /* očuva proporcije */
     display: block;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.5s ease;
+    
+}
+
+/* RESPONSIVE BLOK ZA MOBILNE (ekrani manji od 768px) */
+@media (max-width: 768px) {
+    .article-hero-image {
+        height: 300px; /* Visina koju si tražio */
+        border-radius: 8px;       /* Malo manji radius za manje ekrane */
+    }
+
+    .article-hero-image img {
+        width: 100%;   /* Popravljeno sa 1050% na 100% */
+        height: 100%;  /* Da bi popunila kontejner od 300px */
+        object-fit: cover; /* KLJUČNO: slika se ne rasteže nego se "crop-uje" da izgleda prirodno */
+    }
 }
 
 .article-hero-wrapper .image-caption,
