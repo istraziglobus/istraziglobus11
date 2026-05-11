@@ -1,5 +1,5 @@
 ---
-title: "Ermitaž: Vremenska kapija svjetske umjetnosti"
+title: "Sankt Peterburg: Ermitaž - riznica svjetske istorije"
 subtitle: "Srce Sankt Peterburga u kojem zidovi Zimskog dvorca čuvaju tri miliona tajni"
 slug: "ermitaz-muzej-sankt-peterburg-vjeznost"
 date: 2026-05-08T08:00:00+02:00
