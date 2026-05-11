@@ -60,8 +60,7 @@ body {
 .container { 
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 30px;
-    padding-bottom: 30px;
+    padding: 0 20px;
 }
 a { 
     text-decoration: none;
@@ -1027,226 +1026,184 @@ a:hover {
     }
 }
 
+
+
+
+
+
+
+
 /* ========================================= 
-
    PODEŠAVANJE ZA POJEDINAČNE ČLANKE 
-
    ========================================= */
+
 .single-post-section {
-    padding: 60px 0;
-    background-color: #0b0b0b; /* Vrlo svetlo siva pozadina */
+    padding: 40px 0;
+    background-color: #0b0b0b; /* Crna pozadina sajta */
 }
+
+/* Naslov i Podnaslov */
 .main-rome-title-container {
-    text-align: center; /* Osigurava da su H1 i H2 centrirani */
-    margin-bottom: 20px;
+    text-align: center;
+    margin-bottom: 10px;
 }
+
 .main-rome-title {
     font-family: 'Playfair Display', serif;
-    font-size: 4.5em; /* Povećana veličina naslova */
-    font-weight: 700; /* Podebljan naslov */
+    font-size: 4.5em;
+    font-weight: 700;
     color: #ffffff;
-    margin-bottom: 10px;
-    line-height: 1.2;
+    margin-bottom: 5px;
+    line-height: 1.1;
 }
+
 .subtitle-text {
     font-family: 'Roboto', sans-serif;
-    font-size: 2.2em; /* Povećana veličina podnaslova */
-    font-weight: 500; /* Malo podebljan podnaslov */
-    color: #83f28f;
-    margin-bottom: 20px;
-    line-height: 1.4;
-}
-.article-meta {
-    text-align: center; /* Centriran datum */
-    font-size: 1.1em; /* Malo veći font za datum */
-    color: #000000;
-    margin-top: -15px; /* Malo podignut datum bliže podnaslovu */
-    margin-bottom: 30px; /* Razmak pre slike */
-}
-.publish-date {
-    font-weight: 600;
-    color: #ccc;
+    font-size: 2.2em;
+    font-weight: 500;
+    color: #83f28f; /* Tvoja prepoznatljiva zelena */
+    margin-bottom: 15px;
 }
 
-/* -- Article Specific Styles (za single.html i content) -- */
+.article-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ccc;
+    font-size: 0.9rem;
+    margin-bottom: 35px;
+    font-weight: bold;
+    gap: 10px; /* Razmak između datuma, separatora i vremena čitanja */
+}
+
+/* Linije sa lijeve i desne strane cijelog bloka */
+.article-meta::before, .article-meta::after {
+    content: "";
+    flex: 0.1; /* Dužina linije (povećaj na 0.2 ako želiš duže linije) */
+    height: 1px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 0 10px;
+}
+
+/* Stil za separator (tačkicu) između datuma i vremena */
+.meta-dot {
+    color: #83f28f; /* Tvoja prepoznatljiva zelena */
+    font-weight: bold;
+}
+
+/* Opciono: Možeš malo posvijetliti samo vrijeme čitanja da se razlikuje */
+.reading-time {
+    color: #ccc;
+    font-weight: 500;
+}
+
+/* -- HERO SEKCIJA (Slika i Bijeli Opis) -- */
+.full-width-hero-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0 10px 0; /* Razmak oko hero sekcije */
+}
+
 .article-hero-image {
     width: 100%;
-    max-width: 920px; /* ISTA širina kao content */
-    height: 570px; /* FIKSNA VISINA */
-
-    margin: 50px auto;
-
-    overflow: hidden;
-
+    max-width: 1100px; /* Širina koju si tražio */
+    height: 670px;     /* Fiksna visina za uniformnost */
     border-radius: 18px;
-
-    position: relative;
-
-    box-shadow:
-    0 25px 70px rgba(0,0,0,0.22);
+    overflow: hidden;
+    box-shadow: 0 25px 50px rgba(0,0,0,0.5);
 }
 
-/* slika */
 .article-hero-image img {
     width: 100%;
     height: 100%;
-    object-fit: fill;
+    object-fit: cover; /* Sprečava deformaciju slike */
     object-position: center;
     display: block;
-    transition: transform 5s ease;
+    transition: transform 0.5s ease;
 }
 
-/* cinematic hover */
 .article-hero-image:hover img {
-    transform: scale(1.04);
+    transform: scale(1.03);
 }
 
-/* caption */
-.image-caption {
-    max-width: 920px;
+.image-credit {
+    color: #efefef; /* Ovde stavi boju koju želiš */
     text-align: center;
     font-size: 0.9em;
-    color: #666;
-    margin-top: 10px;
+    opacity: 0.8;
 }
 
-.text-green { color: var(--theme-green-color); font-weight: 600; }
-.text-orange { color: var(--theme-orange-color); font-weight: 600; }
-.text-purple { color: var(--theme-purple-color); font-weight: 600; }
-
-
-.share-section {
-    text-align: center;
-    margin: 40px 0 20px;
-}
-
-.share-section h4 {
-    font-size: 1.8rem;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-/* Stilovi za telo članka (konačna, optimizovana verzija) */
-.article-content {
-    max-width: 900px;
+/* -- GLAVNI TEKST (Siva kartica) -- */
+.article-text-container {
+    max-width: 870px; /* Uže radi lakšeg čitanja */
     margin: 0 auto;
-    padding: 35px;
-    background-color: #a2a0a0;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-    border-radius: var(--border-radius);
-    border: 1px solid var(--border-light-gray);
-    line-height: 1.7;
-    font-size: 1.05em;
-    color: #000000;
 }
+
+.article-content .article-text-container {
+    background-color: #a2a0a0; /* Tvoja siva boja */
+    padding: 45px;
+    border-radius: 12px;
+    color: #1a1a1a; /* Tamna slova na sivoj pozadini */
+    box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+}
+
 .article-content p {
     margin-bottom: 25px;
+    line-height: 1.8;
     text-align: justify;
 }
-.article-content h1,
-.article-content h2,
-.article-content h3,
-.article-content h4,
-.article-content h5,
-.article-content h6 {
-    color: #fffefe;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.942);
-    margin-top: 40px;
-    margin-bottom: 20px;
-    line-height: 1.3;
-}
+
 .article-content h2 {
     font-size: 2.2em;
-    border-bottom: 1px solid var(--border-light-gray);
-    padding-bottom: 10px;
-    margin-bottom: 30px;
-}
-.article-content h3 {
-    font-size: 1.8em;
-    color: var(--primary-color);
-}
-/* Stilovi za liste i linkove, sve na jednom mestu */
-.article-content ul,
-.article-content ol {
-    margin-left: 25px;
-    margin-bottom: 25px;
-    padding-left: 0;
-}
-.article-content ul {
-    list-style-type: disc;
-}
-.article-content ol {
-    list-style-type: decimal;
-}
-.article-content ul li,
-.article-content ol li {
-    margin-bottom: 10px;
-}
-.article-content a {
-    color: var(--primary-color);
-    text-decoration: none;
-    transition: color 0.3s ease-in-out;
-}
-.article-content a:hover {
-    color: var(--secondary-color);
-    text-decoration: underline;
-}
-/* Stilovi za slike unutar članka na desktopu */
-.article-content img {
-    display: block;
-    width: 100%;
-    height: 550px;
-    object-fit: cover;
-    max-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-    border-radius: var(--border-radius);
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-}
-/* =====================================
-   TABLET
-   ===================================== */
-
-@media (max-width: 1024px) {
-
-    .article-hero-image {
-        height: 420px;
-        border-radius: 14px;
-    }
+    color: #ffffff;
+    border-bottom: 2px solid #83f28f;
+    padding-bottom: 8px;
+    margin: 40px 0 25px 0;
 }
 
-/* =====================================
-   MOBILE
-   ===================================== */
+/* Share dugmići */
+.share-section {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    padding-top: 30px;
+}
+
+.share-section h4 { color: #fff; margin-bottom: 20px; }
+
+/* RESPONSIVE - Da sve radi i na telefonu */
+@media (max-width: 1150px) {
+    .article-hero-image, .image-caption { max-width: 95%; }
+}
 
 @media (max-width: 768px) {
+    .article-hero-image { height: 350px; border-radius: 12px; }
+    .main-rome-title { font-size: 2.8em; }
+    .subtitle-text { font-size: 1.8em; }
+    .article-content .article-text-container { padding: 25px; }
 
-    .article-hero-image {
-        height: 260px;
-
-        margin: 35px auto;
-
-        border-radius: 12px;
-    }
-
-    .image-caption {
-        font-size: 0.75rem;
-
-        padding: 0 10px;
-    }
+    .article-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ccc;
+    font-size: 0.5rem;
+    margin-bottom: 1px;
+}
 }
 
-/* =====================================
-   SMALL MOBILE
-   ===================================== */
 
-@media (max-width: 400px) {
 
-    .article-hero-image {
-        height: 220px;
-    }
-}
+
+
+
+
+
+
 
 /* ========================================= 
 
@@ -1650,14 +1607,15 @@ a:hover {
     /* Uklanjanje maksimalne širine za sadržaj članka */
     .article-content {
         max-width: 100%;
-        padding: 0 15px;
+        padding: 0 1px;
     }
     /* Prilagođavanje glavnih naslova na stranici članka */
     .main-rome-title {
         font-size: 2.5em;
     }
     .subtitle-text {
-        font-size: 1.2em;
+        font-size: 0.9em;
+        padding: 20px;
     }  
     /* Prilagođavanje veličine fontova za HERO sekciju */
     .hero-content h1 {
@@ -2949,6 +2907,7 @@ article ul li::before {
 
 .article-hero-image {
     width: 100%;
+    height: 100%;
     border-radius: 10px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     overflow: hidden; /* samo za okvir slike, ne za tekst */
