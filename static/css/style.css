@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 3. SECONDARY (Sporedno dugme - Outline/Providno) */
 .btn-secondary {
-    background-color: transparent;
+    background-color: #0000009d;
     color: #2ecc71;               /* Zelena slova */
     padding: 12px 28px;
     font-size: 0.95rem;
@@ -1156,7 +1156,7 @@ a:hover {
     padding-top: 30px;
 }
 
-.share-section h4 { color: #fff; margin-bottom: 20px; }
+.share-section h4 { color: #0a0a0a; margin-bottom: 20px; }
 
 /* RESPONSIVE - Da sve radi i na telefonu */
 @media (max-width: 1150px) {
@@ -1227,7 +1227,7 @@ a:hover {
     border-radius: 14px;
     background-color: rgba(255, 255, 255, 0.05) !important;
     border: 1px solid rgba(255, 255, 255, 0.1) !important;
-    color: #fffefe !important; /* Bijela boja ikonica za tamnu sivu podlogu */
+    color: #111111 !important; /* Bijela boja ikonica za tamnu sivu podlogu */
     font-size: 1.6rem !important;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     text-decoration: none;
@@ -3013,8 +3013,8 @@ article ul li::before {
 
 .related-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
 }
 
 .related-card {
@@ -3069,6 +3069,11 @@ article ul li::before {
     font-size: 14px;
     color: #555;
     line-height: 1.4;
+}
+@media (max-width: 768px) {
+    .related-grid {
+        grid-template-columns: 1fr; /* Na mobilnom jedna preko druge */
+    }
 }
 
 /* ================================================ 

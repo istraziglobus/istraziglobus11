@@ -7,7 +7,7 @@
     <div class="related-grid">
 
         {{ $sameCategory := where .Site.RegularPages "Params.categories" "intersect" (slice $category) }}
-        {{ $related := $sameCategory.Related $current | first 4 }}
+        {{ $related := $sameCategory.Related $current | first 3 }}
 
         {{ range $related }}
         <a href="{{ .RelPermalink | strings.TrimSuffix "/" }}" class="related-card">
