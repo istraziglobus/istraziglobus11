@@ -1,33 +1,27 @@
-{{ $current := . }}
-{{ $category := index .Params.categories 0 }}
-
-<div class="related-section">
-    <h3 class="related-title">Povezani članci</h3>
-
-    <div class="related-grid">
-
-        {{ $sameCategory := where .Site.RegularPages "Params.categories" "intersect" (slice $category) }}
-        {{ $related := $sameCategory.Related $current | first 3 }}
-
-        {{ range $related }}
-        <a href="{{ .RelPermalink | strings.TrimSuffix "/" }}" class="related-card">
-            <div class="related-image-wrapper">
-                  <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" loading="lazy">
-            </div>
-
-            <div class="related-card-content">
-                <span class="related-category">
-                    {{ index .Params.categories 0 }}
-                </span>
-
-                <h4 class="related-card-title">{{ .Title }}</h4>
-
-                {{ with .Summary }}
-                    <p class="related-card-excerpt">{{ . | plainify | truncate 120 }}</p>
+{{ if not .Params.hide_related }}
+    {{ if .Params.categories }}
+        {{ $current := . }}
+        {{ $category := index .Params.categories 0 }}
+        <div class="related-section">
+            <h3 class="related-title">Povezani članci</h3>
+            <div class="related-grid">
+                {{ $sameCategory := where .Site.RegularPages "Params.categories" "intersect" (slice $category) }}
+                {{ $related := $sameCategory.Related $current | first 3 }}
+                {{ range $related }}
+                <a href="{{ .RelPermalink | strings.TrimSuffix "/" }}" class="related-card">
+                    <div class="related-image-wrapper">
+                        <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" loading="lazy">
+                    </div>
+                    <div class="related-card-content">
+                        <span class="related-category">{{ index .Params.categories 0 }}</span>
+                        <h4 class="related-card-title">{{ .Title }}</h4>
+                        {{ with .Summary }}
+                            <p class="related-card-excerpt">{{ . | plainify | truncate 120 }}</p>
+                        {{ end }}
+                    </div>
+                </a>
                 {{ end }}
             </div>
-        </a>
-        {{ end }}
-
-    </div>
-</div>
+        </div>
+    {{ end }}
+{{ end }}

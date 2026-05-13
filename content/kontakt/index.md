@@ -10,6 +10,7 @@ image_source: "Freepik"
 image_source_url: "https://www.freepik.com/free-photo/traveller-holding-hi-tech-smartphone_1538024.htm" # OVDE UNESITE CE KLI LINK DO STRANICE SLIKE NA FREEPIKU!
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
+hide_share: true
 ---
 
 <p class="intro-paragraph">

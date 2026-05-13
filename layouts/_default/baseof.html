@@ -309,22 +309,50 @@
         {{ end }}
     </main>
 
-    <footer class="main-footer">
-        <div class="container">
-            <img src="{{ "slike/logo/logo.png" | absURL }}" alt="Travel Site Logo" class="footer-logo">
-            <p>&copy; {{ now.Year }} Istraži Globus. Sva prava zadržana.</p>
-         <div class="social-links">
-    <a href="https://www.instagram.com/Istraziglobus" target="_blank" rel="noopener noreferrer" aria-label="Posjetite naš Instagram profil">
-        <i class="fab fa-instagram" aria-hidden="true"></i>
-    </a>
-    <a href="https://www.facebook.com/istraziglobus" target="_blank" rel="noopener noreferrer" aria-label="Posjetite našu Facebook stranicu">
-        <i class="fab fa-facebook" aria-hidden="true"></i>
-    </a>
-    <a href="https://twitter.com/istraziglobus" target="_blank" rel="noopener noreferrer" aria-label="Posjetite naš X (Twitter) profil">
-        <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
-    </a>
+ <footer class="main-footer">
+    <div class="footer-container">
+        <!-- Kolona 1: Logo i kratak opis -->
+        <div class="footer-column">
+            <h4>Istraži Globus</h4>
+            <img src="{{ "slike/logo/logo.png" | absURL }}" alt="Istraži Globus Logo" class="footer-logo">
+            <p class="footer-description">157R4Z1.D3K0D1R4J.PU7UJ.</p>
+        </div>
+
+        <!-- Kolona 2: Pravne stavke i Globus Info (Meni iz config.toml) -->
+        <div class="footer-column">
+            <h4>Korisni linkovi</h4>
+            <ul class="footer-links">
+                {{ range .Site.Menus.footer }}
+                <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- Kolona 3: Društvene mreže -->
+        <div class="footer-column">
+            <h4>Pratite nas</h4>
+            <div class="social-links">
+                <a href="https://www.instagram.com/Istraziglobus" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.facebook.com/istraziglobus" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                    <i class="fab fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://twitter.com/istraziglobus" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+                    <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Donji dio za Copyright -->
+    <div class="footer-bottom">
+        <div class="footer-disclaimer">
+    <p>Sadržaj na istraziglobus.com je isključivo informativnog karaktera.</p>
 </div>
-    </footer>
+        <p>&copy; {{ now.Year }} Istraži Globus. Sva prava zadržana.</p>
+    </div>
+</footer>
 
 <Analytics />
  

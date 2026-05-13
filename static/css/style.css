@@ -1529,34 +1529,165 @@ a:hover {
 
    ========================================= */
 .main-footer {
-    background-color: #000000;
-    color: var(--light-text-color);
-    padding: 5px 0;
-    text-align: center;
+    background-color: #000; /* Crna pozadina kao na slici */
+    padding: 5px 0 3px 0;
+    color: #fff;
+    border-top: 1px solid #1a1a1a;
+}
+
+/* Kontejner koji drži kolone */
+.footer-container {
+    max-width: 870px; /* Širina tvog teksta */
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Tri jednake kolone */
+    gap: 20px;
+    padding: 20px 20px;
+    align-items: start;
+}
+
+/* Stil za svaku kolonu */
+.footer-column h4 {
+    color: #2ecc71; /* Zelena boja za naslove */
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+/* Stil za opis u prvoj koloni */
+.footer-description {
+    display: block;
+    width: 100%;           /* Zauzima cijelu širinu kolone */
+    text-align: left;    /* Centrira tekst u odnosu na kolonu */
+    margin: 5px 0 0 0;    /* Razmak od loga iznad */
+    font-size: 10px;
+    letter-spacing: 1px;   /* Da brojevi budu čitljiviji */
+    color: #bbb;           /* Diskretnija siva da ne guši logo */
 }
 
 .footer-logo {
-    height: 60px;
-    margin-bottom: 20px;
+    max-width: 150px; /* Smanji ovu vrijednost dok ne dobiješ željenu veličinu */
+    height: auto;
+    margin-bottom: 5px;
+    display: block;
+}
+/* Centriranje naslova i sadržaja u trećoj koloni */
+.footer-column:last-child {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrira i naslov i ikonice horizontalno */
 }
 
-.main-footer p {
-    font-size: 0.9em;
-    margin-bottom: 20px;
+/* Poredak jedna ispod druge */
+.social-links {
+    display: flex;
+    flex-direction: column; /* Ređa ih vertikalno */
+    gap: 15px; /* Razmak između ikonica */
+    align-items: center;    /* Ovo ih centrirao horizontalno unutar kolone */
+    text-align: center;     /* Dodatna sigurnost za tekstualne elemente */
 }
 
+/* Veličina i stil ikonica */
 .social-links a {
-    color: #e0e0e0;;
-    font-size: 1.5em;
-    margin: 0 10px;
-    transition: color var(--transition-speed);
+    font-size: 26px; /* Dosta veće ikonice da prate logo */
+    color: #fff;
+    text-decoration: none;
+    transition: transform 0.2s ease, color 0.2s ease;
+    display: inline-block;
 }
 
 .social-links a:hover {
-    color: var(--primary-color);
+    color: #2ecc71;
+    transform: scale(1.1); /* Blago povećanje na kursoru */
 }
 
+/* Stil za listu linkova u sredini */
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
+.footer-links li {
+    margin-bottom: 1px;
+}
+
+.footer-links li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.2s ease;
+}
+
+.footer-links li a:hover {
+    color: #2ecc71;
+}
+
+/* Donji dio sa Copyright-om */
+.footer-bottom {
+    max-width: 870px;
+    margin: 4px auto 0;
+    padding-top: 5px;
+    border-top: 1px solid #1a1a1a;
+    text-align: center;
+    color: #666;
+    font-size: 13px;
+}
+
+/* Responzivnost za mobilne uređaje */
+@media (max-width: 768px) {
+    /* 1. Svi elementi u kontejneru idu jedan ispod drugog i centriraju se */
+    .footer-container {
+        grid-template-columns: 1fr; 
+        text-align: center;
+        gap: 20px; 
+    }
+
+    /* 2. Centriranje svake kolone i njenog sadržaja */
+    .footer-column {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* 3. Zadržana veličina logotipa */
+    .footer-logo {
+        max-width: 50px; 
+        margin: 0 auto 10px auto;
+    }
+
+    /* 4. Centriranje slogana (brojevi i slova) */
+    .footer-description {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    /* 5. Vraćanje ikonica u JEDAN RED (samo za mobilni) */
+    .social-links {
+        flex-direction: row; /* Menjamo iz column u row */
+        justify-content: center;
+        align-items: center;
+        gap: 20px; /* Razmak između ikonica u redu */
+        width: 100%;
+    }
+
+    .footer-links {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* 6. Donji copyright dio */
+    .footer-bottom {
+        margin-top: 20px;
+        font-size: 12px;
+    }
+}
 /* =========================================
 
    RESPONSIVE PODEŠAVANJA 
@@ -1650,7 +1781,6 @@ a:hover {
     gap: 30px;
     margin-bottom: 60px;
 }
-
 .insta-card {
     position: relative;
     height: 520px; 
@@ -3368,6 +3498,7 @@ article ul li::before {
 .premium-borderless-section {
     padding: 35px 0;
     background: #585858; /* Tvoja tamna baza */
+    margin-bottom: 30px;
 }
 
 .borderless-container {

@@ -11,6 +11,7 @@ image_source_url: "https://www.freepik.com/free-photo/port-sunset-with-ferris-wh
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use" # Standardni link za uslove korišćenja Freepika
 Objašnjenje Polja:
+hide_share: true
 ---
 
 

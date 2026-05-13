@@ -72,3 +72,17 @@ weight = 80
   nauticki-dnevnik = "/nauticki-dnevnik/:filename"
 
 
+[[menu.footer]]
+    name = "Politika privatnosti"
+    url = "/politika-privatnosti/"
+    weight = 1
+
+[[menu.footer]]
+    name = "Uslovi korišćenja"
+    url = "/uslovi-koriscenja/"
+    weight = 2
+
+[[menu.footer]]
+    name = "Globus Info (Arhiva)"
+    url = "/arhiva/"
+    weight = 3

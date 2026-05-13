@@ -47,34 +47,45 @@
 
                 {{ partial "related.html" . }}
 
+                <section class="share-section-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
                 <div class="share-section">
-                    <h4>Podijeli ovaj sadržaj:</h4>
-                    <div class="share-buttons">
-                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" 
-                            class="share-button" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="https://x.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" 
-                            class="share-button" target="_blank" rel="noopener noreferrer">
-                            <i class="fa-brands fa-x-twitter"></i>
-                        </a>
-                        <a href="whatsapp://send?text={{ .Title | urlquery }}%20{{ .Permalink | urlquery }}" 
-                            class="share-button" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-whatsapp"></i>
-                        </a>
-                        <a href="viber://forward?text={{ .Title | urlquery }}%20{{ .Permalink | urlquery }}" 
-                            class="share-button" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-viber"></i>
-                        </a>
-                        <a href="mailto:?subject={{ .Title | urlquery }}&body={{ .Permalink | urlquery }}" 
-                            class="share-button" target="_blank" rel="noopener noreferrer">
-                            <i class="fa fa-envelope"></i>
-                        </a>
-                    </div>
+                    
+                    {{ if not .Params.hide_share }}
+                        <h4>Podijeli ovaj sadržaj:</h4>
+                        <div class="share-buttons">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" 
+                                class="share-button" target="_blank" rel="noopener noreferrer">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://x.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" 
+                                class="share-button" target="_blank" rel="noopener noreferrer">
+                                <i class="fa-brands fa-x-twitter"></i>
+                            </a>
+                            <a href="whatsapp://send?text={{ .Title | urlquery }}%20{{ .Permalink | urlquery }}" 
+                                class="share-button" target="_blank" rel="noopener noreferrer">
+                                <i class="fab fa-whatsapp"></i>
+                            </a>
+                            <a href="viber://forward?text={{ .Title | urlquery }}%20{{ .Permalink | urlquery }}" 
+                                class="share-button" target="_blank" rel="noopener noreferrer">
+                                <i class="fab fa-viber"></i>
+                            </a>
+                            <a href="mailto:?subject={{ .Title | urlquery }}&body={{ .Permalink | urlquery }}" 
+                                class="share-button" target="_blank" rel="noopener noreferrer">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </div>
+                    {{ end }}
 
                     <div style="margin-top: 40px; text-align: center;">
                         <a href="{{ .Site.BaseURL }}" class="btn btn-secondary">Nazad na Početnu</a>
                     </div>
                 </div>
-            </div> </div> </div> </section> 
+            </div> 
+        </div> 
+    </div> 
+</section>
+
 {{ end }}
