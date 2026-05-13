@@ -15,8 +15,7 @@ draft: false
 countries: ["Crna Gora"]
 cities: ["Podgorica"]
 categories:
-- Vijesti
-- Avio svijet
+- Globus info
 tags:
 - Wizz Air
 - Podgorica

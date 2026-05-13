@@ -18,8 +18,7 @@ draft: false
 countries: ["Francuska"]
 cities: ["Pariz"]
 categories:
-- Vijesti
-- Kultura i Jezik
+- Globus info
 tags:
 - Luvr
 - Francuska

@@ -19,7 +19,6 @@
                              alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
                              loading="lazy">
                         
-                        <!-- Mjesec ostaje kao bedž na slici jer je to najčistije -->
                         {{ if $.Params.mesec_destinacije }}
                             <span class="month-badge">{{ $.Params.mesec_destinacije }}</span>
                         {{ end }}
@@ -27,18 +26,24 @@
                 {{ end }}
 
                 <div class="content-container">
+                    <!-- Datum je uklonjen odozgo da ne kvari naslov -->
                     <h2>{{ .Title }}</h2>
                     
                     <p class="article-summary">
                         {{ .Summary | truncate 260 }}
                     </p>
 
-                    <div class="horizontal-card-footer">
+                    <div class="horizontal-card-footer" style="display: flex; align-items: center; justify-content: space-between; margin-top: auto; width: 100%;">
                         <span class="btn btn-primary read-more-btn">Istraži Više</span>
+                        
+                        <!-- Datum sada stoji ovdje, u ravan sa dugmetom -->
+                        <span class="footer-date-info" style="color: rgba(255, 255, 255, 0.5); font-size: 0.85rem; font-weight: 500;">
+                            <i class="far fa-calendar-alt" style="margin-right: 5px; color: #2ecc71;"></i>
+                            {{ .Date.Format "02.01.2006." }}
+                        </span>
                     </div>
                 </div>
 
-                <!-- VERTIKALNI DIO: Kategorija na samoj ivici -->
                 {{ with .Params.categories }}
                     <div class="vertical-tag-wrapper">
                         <span class="article-section-tag">{{ index . 0 }}</span>

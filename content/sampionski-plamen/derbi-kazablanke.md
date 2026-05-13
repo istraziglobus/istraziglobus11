@@ -27,9 +27,7 @@ tags:
 - tifo kultura
 ---
 
-<p><strong>Derbi Kazablanke je najveće fudbalsko rivalstvo u Maroku između klubova Raja Casablanca i Wydad Casablanca, poznato po ekstremnoj atmosferi, tifo kulturi i društvenom značaju.</strong></p>
-
-Rivalstvo između Raje i Wydada dijeli porodice, kvartove i generacije. Dok jedan dio grada kuca u ritmu zelene boje, drugi nepokolebljivo stoji uz crvenu. To je sukob koji definiše <span class="highlight-text">**identitet Kazablanke**</span>, grada koji živi za fudbal jednako strastveno kao što živi za slobodu i napredak.
+Derbi Kazablanke je najveće fudbalsko rivalstvo u Maroku između klubova Raja Casablanca i Wydad Casablanca, poznato po ekstremnoj atmosferi, tifo kulturi i društvenom značaju. Rivalstvo između Raje i Wydada dijeli porodice, kvartove i generacije. Dok jedan dio grada kuca u ritmu zelene boje, drugi nepokolebljivo stoji uz crvenu. To je sukob koji definiše <span class="highlight-text">**identitet Kazablanke**</span>, grada koji živi za fudbal jednako strastveno kao što živi za slobodu i napredak.
 
 Biti prisutan na stadionu tokom ovog derbija znači svjedočiti vizuelnom i zvučnom spektaklu koji nadmašuje evropske standarde. Za stanovnike Kazablanke, ovo je <span class="highlight-text">**praznik prkosa**</span> i trijumfa, trenutak kada se kroz koreografije i pjesme ispisuje moderna istorija Maroka, čineći ovaj derbi istinskim kulturnim blagom Magreba.
 

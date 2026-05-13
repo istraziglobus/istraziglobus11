@@ -83,6 +83,11 @@ weight = 80
     weight = 2
 
 [[menu.footer]]
-    name = "Globus Info (Arhiva)"
-    url = "/arhiva/"
+    name = "Politika kolačića"
+    url = "/politika-kolacica/"
     weight = 3
+
+[[menu.footer]]
+    name = "Medijateka"
+    url = "/medijateka/"
+    weight = 4

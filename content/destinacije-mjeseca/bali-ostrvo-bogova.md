@@ -2,7 +2,7 @@
 title: "Bali: Tropski raj i kultura bogova"
 subtitle: "Ostrvo Bogova"
 slug: "bali-ostrvo-bogova"
-date: 2025-07-09T22:00:00+02:00
+date: 2025-07-01T22:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Zakoračite u magični svet Balija, ostrva gde se drevne tradicije susreću sa modernom relaksacijom. Otkrijte bujne pirinčane terase, mirne hramove, surferske talase i autentičnu gostoprimljivost. Bali je više od destinacije – to je iskustvo koje transformiše!"
 image: "slike/bali/bali-hero.jpg"

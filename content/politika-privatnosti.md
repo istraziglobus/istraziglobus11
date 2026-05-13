@@ -3,6 +3,7 @@ title: "Politika privatnosti"
 date: 2025-05-13
 hide_related: true
 hide_share: true
+headless: true
 ---
 
 Na portalu **Istraži Globus**, privatnost naših posjetilaca je prioritet.

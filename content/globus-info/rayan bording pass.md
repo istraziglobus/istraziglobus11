@@ -14,8 +14,7 @@ slug: "ryanair-digitalne-karte"
 draft: false
 countries: ["Ostalo"]
 categories:
-- Vijesti
-- Avio svijet
+- Globus info
 tags:
 - Ryanair
 - Avio saobraćaj
