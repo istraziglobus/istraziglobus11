@@ -3,7 +3,9 @@ title: "Politika kolačića"
 date: 2025-05-13
 hide_related: true
 hide_share: true
-headless: true
+_build:
+  render: always
+  list: never
 ---
 
 Na portalu **Istraži Globus**, cijenimo vašu privatnost i želimo da budemo transparentni u vezi sa tehnologijama koje koristimo.

@@ -3,7 +3,9 @@ title: "Medijateka"
 date: 2025-05-13
 hide_related: true
 hide_share: true
-headless: true
+_build:
+  render: always
+  list: never
 ---
 
 Vizuelni identitet portala **Istraži Globus** počiva na fotografijama koje dočaravaju ljepotu svjetskih destinacija.

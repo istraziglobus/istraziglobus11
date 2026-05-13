@@ -3,7 +3,9 @@ title: "Uslovi korišćenja"
 date: 2025-05-13
 hide_related: true
 hide_share: true
-headless: true
+_build:
+  render: always
+  list: never
 ---
 
 Dobrodošli na **Istraži Globus** (istraziglobus.com). Korišćenjem ovog sajta, prihvatate sledeće uslove:
