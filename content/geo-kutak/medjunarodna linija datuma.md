@@ -1,5 +1,5 @@
 ---
-title: "Da li je moguće putovati kroz vrijeme?"
+title: "Datumska granica: Da li je moguće vratiti se u juče?"
 subtitle: "Međunarodna linija datuma i njeni apsurdi"
 author: "Istraži Globus Tim"
 description: "Saznajte kako je Magelan izgubio dan, zašto je Samoa preskočila 30. decembar i kako na Pacifiku možete vidjeti <sjutra> kroz prozor. Kompletan vodič kroz apsurde međunarodne datumske linije."

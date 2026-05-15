@@ -1,5 +1,5 @@
 ---
-title: "Da li znate pravu istinu o 8. martu?"
+title: "Više od cvijeća: Šta zapravo predstavlja 8. mart?"
 subtitle: "Od gorućih fabrika Menhetna do globalnog simbola slobode"
 author: "Istraži Globus Tim"
 description: "Istorijska analiza 8. marta: od radničkog bunta u Njujorku 1908. do globalnog priznanja u Kopenhagenu i UN-u."

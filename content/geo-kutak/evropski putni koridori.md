@@ -1,5 +1,5 @@
 ---
-title: "Ko vlada putevima Evrope?"
+title: "Putevi moći: Ko vlada evropskim koridorima?"
 subtitle: "Veliki vodič kroz puteve koji spajaju gradove, kulture i narode"
 slug: "evropski-koridori-putevi-povezuju-kontinent"
 date: 2025-11-18T10:00:00+02:00
