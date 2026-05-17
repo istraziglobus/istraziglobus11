@@ -31,7 +31,7 @@ Ove markice nose sa sobom nevjerovatnu priču o planinskoj izolaciji, američkom
 
 ## Himalajska izolacija i potraga za identitetom
 
-Butan je sredinom dvadesetog vijeka bio jedna od najzatvorenijih država na planeti, duboko uklesan u masive Himalaja i sakriven od modernih tokova. Dok su države poput {{< kw text="Japana" url="/countries/japan/" >}} već tada koračali ka ekstremnoj modernizaciji, Butan je i dalje zavisio od pješaka-glasnika kojima su trebali dani da pređu preko nepristupačnih prevoja. U takvom okruženju, <span class="highlight-text">**lokalna administracija**</span> morala je pronaći način da se predstavi svijetu na originalan način.
+Butan je sredinom dvadesetog vijeka bio jedna od najzatvorenijih država na planeti, duboko uklesan u masive Himalaja i sakriven od modernih tokova. Dok su države poput {{< kw text="Japana" url="/countries/japan/" >}} već tada koračale ka ekstremnoj modernizaciji, Butan je i dalje zavisio od pješaka-glasnika kojima su trebali dani da pređu preko nepristupačnih prevoja. U takvom okruženju, <span class="highlight-text">**lokalna administracija**</span> morala je pronaći način da se predstavi svijetu na originalan način.
 
 Zvanični jezik Butana je džongka, a kultura je neraskidivo vezana za budizam, što ga čini jedinstvenim u srcu Azije. Poštanski sistem je bio direktno ogledalo potrebe za modernizacijom, ali prilagođen surovim uslovima izolacije i nedostatku resursa. Upravo je ta <span class="highlight-text">**geografska udaljenost**</span> od svjetskih centara stvorila uslove za nastanak najneobičnijih komada papira u istoriji civilizacije.
 

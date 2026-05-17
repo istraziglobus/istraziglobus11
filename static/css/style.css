@@ -1399,7 +1399,7 @@ a:hover {
 .timer-event-date { 
     color: #ffffff; 
     font-size: 0.95rem; 
-    margin-bottom: 12px; 
+    margin-bottom: 5px; 
     opacity: 0.8; 
 }
 
@@ -1444,7 +1444,7 @@ a:hover {
     font-size: 1rem; /* Smanjeno sa 2rem */
     color: #2ecc71; 
     font-weight: 900; 
-    margin-bottom: 15px; /* Smanjen razmak */
+    margin-bottom: 5px; /* Smanjen razmak */
     line-height: 1.2;
     text-transform: uppercase;
 }
@@ -1460,8 +1460,34 @@ a:hover {
     font-size: 0.85rem;
     color: #ffffff;
     font-weight: 600;
-    margin-bottom: 25px; /* Razmak do brojača */
+    margin-bottom: 5px; /* Razmak do brojača */
     letter-spacing: 1px;
+}
+
+/* Kontejner za grbove i VS znak */
+.event-teams-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;         /* Optimalan razmak na mobilnim ekranima */
+    margin: 8px 0;     /* Smanjen vertikalni razmak da boks ne bude predugačak */
+}
+
+/* Podešavanje za male, elegantne grbove */
+.team-logo {
+    width: 24px;       /* Manja, diskretna širina */
+    height: 24px;      /* Zaključana visina radi simetrije */
+    object-fit: contain;
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.5)); /* Blaga sjenka za bolji kontrast */
+}
+
+/* Stilizacija za 'VS' znak u sredini */
+.versus-sign {
+    font-size: 11px;    /* Smanjen font da ne nadjača grbove */
+    font-weight: 800;   /* Ekstra podebljan za sportski izgled */
+    color: #00ff87;     /* Tvoja prepoznatljiva svetlozelena nijansa */
+    letter-spacing: 0.5px;
+    opacity: 0.9;
 }
 
 /* --- RESPONSIVE --- */

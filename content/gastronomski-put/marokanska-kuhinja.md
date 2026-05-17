@@ -25,7 +25,7 @@ tags:
   - Tradicija
 ---
 
-Marokanska kuhinja jedna je od najpoznatijih gastronomija svijeta, poznata po bogatim začinima, sporom kuhanju i jedinstvenoj kombinaciji slatkih i slanih aroma. Ona je odraz vjekovne istorije i kulturnih uticaja koji su oblikovali ovu sjevernoafričku zemlju. Od berberskih planina do arapskih pustinja, svaki zalogaj priča priču o trgovini začinima, osvajanjima i simbiozi različitih tradicija koje su se sretale na raskršću kontinenata.
+Marokanska kuhinja jedna je od najpoznatijih gastronomija svijeta, poznata po bogatim začinima, sporom kuvanju i jedinstvenoj kombinaciji slatkih i slanih aroma. Ona je odraz vjekovne istorije i kulturnih uticaja koji su oblikovali ovu sjevernoafričku zemlju. Od berberskih planina do arapskih pustinja, svaki zalogaj priča priču o trgovini začinima, osvajanjima i simbiozi različitih tradicija koje su se sretale na raskršću kontinenata.
 
 Više od samo hrane, marokanska trpeza je iskustvo koje budi sva čula, pozivajući vas na putovanje kroz aromatične čarolije. Harmonija slatkog i slanog, uz majstorsku upotrebu <span class="highlight-text">**egzotičnih začina**</span>, stvara slojevite arome koje ostaju u sjećanju dugo nakon što napustite ovu magičnu zemlju.
 
