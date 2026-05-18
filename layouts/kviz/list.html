@@ -1,0 +1,81 @@
+{{ define "main" }}
+
+<style>
+    .full-page-quiz-bg {
+        background: linear-gradient(rgba(10, 10, 10, 0.375), rgba(10, 10, 10, 0.95)), url('/slike/kviz/pozadina.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        width: 100%;
+        min-height: 100vh;
+        padding: 60px 0;
+        margin-top: -20px;
+        margin-bottom: -20px;
+    }
+    
+    .kviz-kartica:hover {
+        transform: translateY(-5px);
+        border-color: #2ecc71 !important;
+        box-shadow: 0 10px 25px rgba(46, 204, 113, 0.3) !important;
+        background: rgba(20, 20, 20, 0.9) !important;
+    }
+    .kviz-kartica:hover .kartica-img {
+        transform: scale(1.05);
+    }
+    .kviz-kartica:hover .kviz-Igraj-btn {
+        background: #27ae60;
+        box-shadow: 0 4px 12px rgba(46, 204, 113, 0.4);
+    }
+</style>
+
+<div class="full-page-quiz-bg">
+    
+    <div style="max-width: 1100px; margin: 0 auto; padding: 0 20px; font-family: inherit; color: #ffffff;">
+        
+        <header style="text-align: center; margin-bottom: 50px; padding: 40px 20px; background: rgba(20, 20, 20, 0.4); border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.05); backdrop-filter: blur(4px);">
+            <h1 style="font-size: 3rem; color: #ffffff; margin-bottom: 15px; letter-spacing: -0.5px;">
+                <span style="color: #2ecc71;">&#9733;</span> {{ .Title }}
+            </h1>
+            <p style="font-size: 1.2rem; color: #cccccc; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+                {{ .Description | default "Testirajte svoje znanje o svjetskim destinacijama, kulturi i geografiji. Izaberite izazov i počnite odmah!" }}
+            </p>
+        </header>
+
+        <h2 style="font-size: 1.5rem; color: #ffffff; margin-bottom: 25px; border-left: 4px solid #2ecc71; padding-left: 12px; text-transform: uppercase; letter-spacing: 1px;">
+            Dostupni Izazovi
+        </h2>
+
+        <div class="kviz-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; margin-bottom: 20px;">
+            {{ range .Pages }}
+            <article class="kviz-kartica" style="background: rgba(15, 15, 15, 0.75); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; transition: all 0.3s ease; backdrop-filter: blur(8px); box-shadow: 0 4px 25px rgba(0,0,0,0.5);">
+                
+                {{ if .Params.image }}
+                <div style="width: 100%; height: 180px; overflow: hidden; border-bottom: 1px solid rgba(255,255,255,0.05);">
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" class="kartica-img">
+                </div>
+                {{ else }}
+                <div style="width: 100%; height: 180px; background: linear-gradient(45deg, #111, #222); border-bottom: 1px solid rgba(255,255,255,0.05);"></div>
+                {{ end }}
+
+                <div style="padding: 25px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <h3 style="margin: 0 0 12px 0; font-size: 1.35rem; line-height: 1.4; color: #ffffff;">
+                            {{ .Title }}
+                        </h3>
+                        <p style="color: #aaaaaa; font-size: 0.95rem; line-height: 1.5; margin: 0 0 20px 0;">
+                            {{ .Description | default "Kliknite ispod da započnete ovaj test znanja i provjerite koliko tačnih odgovora možete sakupiti." }}
+                        </p>
+                    </div>
+
+                    <a href="{{ .Permalink }}" class="kviz-Igraj-btn" style="display: block; text-align: center; background: #2ecc71; color: #ffffff; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 1rem; transition: all 0.2s ease;">
+                        Započni kviz &rarr;
+                    </a>
+                </div>
+
+            </article>
+            {{ end }}
+        </div>
+
+    </div>
+</div>
+{{ end }}
