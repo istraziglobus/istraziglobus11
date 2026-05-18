@@ -2,7 +2,7 @@
 title: "Đavolja Varoš: Kameni svatovi i mistična snaga prirode"
 subtitle: "Gdje legende oživljavaju, a zemljane piramide prkose zakonima fizike"
 slug: "djavolja-varos-vodič-srbija-legende"
-date: 2026-05-18T06:00:00+02:00
+date: 2026-05-17T06:00:00+02:00
 author: "Istraži Globus Tim"
 description: "Otkrijte Đavolju Varoš, jedinstveni prirodni fenomen u Srbiji. Istražite mistične kamene figure, ljekovite izvore i legende koje vijekovima prkose vremenu."
 image: "slike/djavolja-varos/djavolja-varos-hero.jpg"
