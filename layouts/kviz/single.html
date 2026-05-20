@@ -59,7 +59,6 @@
         transition: width 1s linear, background-color 0.3s ease;
     }
 
-    /* Kontejner za odgovore pravi mrežu 2x2 */
     #options-container {
         display: flex;
         flex-wrap: wrap;
@@ -69,7 +68,6 @@
         margin-bottom: 20px;
     }
 
-    /* Dugmad za odgovore zauzimaju tačno 50% */
     .quiz-option-btn {
         background: rgba(35, 35, 35, 0.7) !important;
         border: 1px solid rgba(255, 255, 255, 0.08) !important;
@@ -99,7 +97,6 @@
         }
     }
 
-    /* Dugme Dalje - fiksno na sredini */
     .next-btn-style {
         background: #2ecc71 !important;
         border: none !important;
@@ -183,7 +180,7 @@
         border: 1px solid rgba(255, 255, 255, 0.1);
     }
 
-    /* SEKCIJA ZA DIJELJENJE REZULTATA */
+    /* MODERNA SEKCIJA ZA DIJELJENJE REZULTATA */
     .share-container {
         margin: 25px auto 10px auto;
         padding: 15px;
@@ -195,41 +192,32 @@
         box-sizing: border-box;
     }
 
-    .share-buttons {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
-    }
-
-    @media (max-width: 480px) {
-        .share-buttons {
-            grid-template-columns: repeat(2, 1fr);
-        }
-    }
-
-    .share-btn {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        padding: 10px 10px;
+    .main-share-btn-style {
+        background: #2ecc71 !important;
         color: #ffffff !important;
-        font-size: 0.85rem;
-        font-weight: 600;
-        text-decoration: none !important;
-        border-radius: 8px;
-        transition: all 0.2s ease;
+        border: none !important;
+        padding: 14px 28px;
+        font-size: 1rem;
+        font-weight: 700;
+        border-radius: 10px;
         cursor: pointer;
-        background: rgba(30, 30, 30, 0.8);
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        text-align: center;
+        width: 100%;
+        max-width: 350px;
+        transition: all 0.2s ease;
+        box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
     }
 
-    .share-btn.fb:hover { background: #1877f2 !important; border-color: #1877f2; }
-    .share-btn.tw:hover { background: #111111 !important; border-color: #333333; }
-    .share-btn.viber:hover { background: #7360f2 !important; border-color: #7360f2; }
-    .share-btn.wa:hover { background: #25d366 !important; border-color: #25d366; }
-    .share-btn.ig:hover { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888) !important; border-color: #dc2743; }
-    .share-btn.tt:hover { background: #ff0050 !important; border-color: #ff0050; }
+    .main-share-btn-style:hover {
+        background: #27ae60 !important;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(46, 204, 113, 0.4);
+    }
+
+    .main-share-btn-style:active {
+        transform: translateY(1px);
+    }
 
     .restart-btn-style {
         background: transparent !important;
@@ -301,15 +289,10 @@
             <p id="result-message" style="color: #ffffff; opacity: 0.8; font-size: 1.05rem; max-width: 450px; margin: 0 auto 20px auto; line-height: 1.4;">Učitavanje rezultata...</p>
             
             <div class="share-container">
-                <p style="color: #ffffff; font-size: 0.75rem; opacity: 0.5; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-weight: bold;">Podijeli igru i rezultat:</p>
-                <div class="share-buttons">
-                    <a href="#" id="share-fb" class="share-btn fb" target="_blank">Facebook</a>
-                    <a href="#" id="share-tw" class="share-btn tw" target="_blank">X</a>
-                    <a href="#" id="share-viber" class="share-btn viber">Viber</a>
-                    <a href="#" id="share-wa" class="share-btn wa" target="_blank">WhatsApp</a>
-                    <a href="#" id="share-ig" class="share-btn ig" onclick="copyToClipboardStory(event)">Instagram</a>
-                    <a href="#" id="share-tt" class="share-btn tt" onclick="copyToClipboardStory(event)">TikTok</a>
-                </div>
+                <p style="color: #ffffff; font-size: 0.8rem; opacity: 0.5; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px; font-weight: bold;">Izazovi prijatelje:</p>
+                <button id="main-share-btn" class="main-share-btn-style" onclick="pokreniSistemskiShare()">
+                    🔗 Podijeli rezultat na mrežama
+                </button>
             </div>
 
             <button id="restart-btn" class="restart-btn-style" onclick="restartQuiz()">
@@ -361,7 +344,7 @@
             const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
             const oscillator = audioCtx.createOscillator();
             const gainNode = audioCtx.createGain();
-            oscillator.connect(gainNode);
+             oscillator.connect(gainNode);
             gainNode.connect(audioCtx.destination);
             if (isCorrect) {
                 oscillator.type = 'sine';
@@ -506,48 +489,30 @@
         }
     }
 
-    // NOVA DETALJNA FUNKCIJA ZA DINAMIČKE SOCIAL LINKOVE
-    function ažurirajLinkoveZaDijeljenje(procenat) {
+    // MODERNA FUNKCIJA KOJA POKREĆE FABRIČKI SHARE PROZOR NA TELEFONU
+    function pokreniSistemskiShare() {
+        const procenatTekst = document.getElementById("result-percentage").innerText;
+        const samoBroj = procenatTekst.replace(/[^0-9]/g, '');
+        
         const urlKviza = window.location.href;
         const naslovKviza = document.title || "Geografski Kviz";
-        const tekstPoruke = `Ostvario sam ${procenat}% uspješnosti na kvizu "${naslovKviza}". Možeš li bolje? Saznaj na Istraži Globus:`;
         
-        // Facebook
-        document.getElementById('share-fb').href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(urlKviza)}&quote=${encodeURIComponent(tekstPoruke)}`;
-        
-        // X (Twitter)
-        document.getElementById('share-tw').href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tekstPoruke)}&url=${encodeURIComponent(urlKviza)}`;
-        
-        // Viber
-        document.getElementById('share-viber').href = `viber://forward?text=${encodeURIComponent(tekstPoruke + " " + urlKviza)}`;
-        
-        // WhatsApp
-        document.getElementById('share-wa').href = `https://api.whatsapp.com/send?text=${encodeURIComponent(tekstPoruke + " " + urlKviza)}`;
-        
-        // Za Instagram i TikTok držimo spreman tekst u data-atributu za kopiranje
-        const shareDataText = `${tekstPoruke} ${urlKviza}`;
-        document.getElementById('share-ig').setAttribute('data-share-text', shareDataText);
-        document.getElementById('share-tt').setAttribute('data-share-text', shareDataText);
-    }
+        const shareTitle = `Istraži Globus Kviz`;
+        const shareText = `Ostvario sam ${samoBroj}% uspješnosti na kvizu "${naslovKviza}". Možeš li bolje?`;
 
-    // Instagram i TikTok ne dozvoljavaju direktan URL share iz brauzera, pa im automatski kopiramo tekst i obavještavamo korisnika
-    function copyToClipboardStory(event) {
-        event.preventDefault();
-        const btn = event.currentTarget;
-        const textToCopy = btn.getAttribute('data-share-text');
-        
-        navigator.clipboard.writeText(textToCopy).then(() => {
-            const originalText = btn.innerText;
-            btn.innerText = "Kopirano!";
-            btn.style.background = "#2ecc71";
-            setTimeout(() => {
-                btn.innerText = originalText;
-                btn.style.background = "rgba(30, 30, 30, 0.8)";
-            }, 2000);
-            alert("Tekst sa rezultatom i linkom je kopiran! Otvorite aplikaciju i nalijepite (Paste) direktno na vašu priču ili objavu.");
-        }).catch(err => {
-            console.error('Greška pri kopiranju: ', err);
-        });
+        if (navigator.share) {
+            navigator.share({
+                title: shareTitle,
+                text: shareText,
+                url: urlKviza
+            })
+            .then(() => console.log('Uspješno podijeljeno'))
+            .catch((error) => console.log('Korisnik otkazao share:', error));
+        } else {
+            // Fallback za desktop računare - otvara klasičan Facebook share prozor
+            const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(urlKviza)}&quote=${encodeURIComponent(shareText + " " + urlKviza)}`;
+            window.open(fbUrl, '_blank', 'width=600,height=400');
+        }
     }
 
     function showResults() {
@@ -559,7 +524,6 @@
         const total = rawQuestions.length;
         const percentage = Math.round((score / total) * 100);
         
-        // Ispravljeni ID-jevi završnog ekrana
         document.getElementById("result-percentage").innerText = `${percentage}% Uspješnosti`;
         const evalText = document.getElementById("result-message");
         
@@ -567,9 +531,6 @@
         else if (percentage >= 70) evalText.innerText = "Odličan rezultat! Vrlo dobro prepoznajete simbole i geografiju.";
         else if (percentage >= 50) evalText.innerText = "Solidno znanje, ali ima prostora za malu obnovu gradiva.";
         else evalText.innerText = "Slabiji rezultat. Pokušajte ponovo i naučite nešto novo!";
-        
-        // Aktivacija generisanja linkova za dijeljenje na mrežama
-        ažurirajLinkoveZaDijeljenje(percentage);
         
         const resultScreen = document.getElementById("result-screen");
         resultScreen.style.display = "flex";
