@@ -1,9 +1,12 @@
 {{ define "main" }}
 
+{{ $quizType := .Params.quiz_type | default "default" }}
+{{ $difficulty := .Params.difficulty | default "easy" }}
+{{ $timeLimit := .Params.time_per_question | default 20 }}
+
 <style>
-    /* Pozadina prilagođena i za desktop i za mobilne */
     .single-kviz-bg {
-        background: linear-gradient(rgba(10, 10, 10, 0.232), rgba(10, 10, 10, 0.204)), url('/slike/kviz/pozadina.jpg');
+        background: linear-gradient(rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.95)), url('/slike/kviz/pozadina.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -13,20 +16,19 @@
         align-items: center;
         justify-content: center;
         box-sizing: border-box;
-        padding: 20px 10px; 
+        padding: 15px 10px; 
     }
 
-    /* Kutija kviza */
     .quiz-box-glow {
         background: rgba(20, 20, 20, 0.8) !important;
         border: 1px solid rgba(46, 204, 113, 0.2) !important;
         backdrop-filter: blur(10px);
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 20px rgba(46, 204, 113, 0.08) !important;
         border-radius: 16px;
-        padding: 25px; 
+        padding: 20px; 
         width: 100%;
         max-width: 650px; 
-        min-height: 440px; 
+        min-height: 480px; 
         box-sizing: border-box;
         position: relative;
         display: flex;
@@ -36,12 +38,11 @@
 
     @media (min-width: 768px) {
         .quiz-box-glow {
-            padding: 35px;
-            height: 480px; 
+            padding: 30px;
+            min-height: 500px; 
         }
     }
 
-    /* Traka tajmera */
     .timer-bar-container {
         position: absolute;
         top: 0;
@@ -58,68 +59,199 @@
         transition: width 1s linear, background-color 0.3s ease;
     }
 
-    /* Izgled dugmadi za odgovore */
+    /* Kontejner za odgovore pravi mrežu 2x2 */
+    #options-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+    }
+
+    /* Dugmad za odgovore zauzimaju tačno 50% */
     .quiz-option-btn {
         background: rgba(35, 35, 35, 0.7) !important;
         border: 1px solid rgba(255, 255, 255, 0.08) !important;
         color: #ffffff !important;
-        width: 100%;
+        flex: 1 1 calc(50% - 5px); 
         text-align: left;
-        padding: 14px 20px;
+        padding: 12px 20px;
         font-size: 1.05rem;
         border-radius: 8px;
         cursor: pointer;
         transition: all 0.2s ease !important;
-        margin-bottom: 10px;
+        box-sizing: border-box;
         -webkit-tap-highlight-color: transparent; 
+    }
+
+    @media (max-width: 480px) {
+        .quiz-option-btn {
+            flex: 1 1 100%;
+        }
     }
 
     @media (hover: hover) {
         .quiz-option-btn:not(:disabled):hover {
             background: rgba(46, 204, 113, 0.12) !important;
             border-color: #2ecc71 !important;
-            transform: translateX(4px);
+            transform: translateY(-2px);
         }
     }
 
-    /* Stil za dugme Dalje */
+    /* Dugme Dalje - fiksno na sredini */
     .next-btn-style {
-        padding: 12px 32px;
-        cursor: pointer;
-        background: #2ecc71;
-        color: #ffffff;
-        border: none;
-        border-radius: 6px;
+        background: #2ecc71 !important;
+        border: none !important;
+        color: #ffffff !important;
+        width: 100%;
+        max-width: 250px; 
+        margin: 15px auto 0 auto; 
+        display: none; 
+        text-align: center;
         font-weight: bold;
-        font-size: 1rem;
-        transition: background 0.2s;
+        padding: 12px 20px;
+        font-size: 1.05rem;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.2s ease !important;
+        box-sizing: border-box;
     }
     .next-btn-style:hover {
-        background: #27ae60;
+        background: #27ae60 !important;
     }
 
-    /* Stil za dugme zvuka */
-    .mute-btn-style {
-        background: rgba(0,0,0,0.3); 
-        color: #2ecc71; 
-        border: 1px solid rgba(255,255,255,0.05); 
-        padding: 4px 12px; 
-        border-radius: 4px; 
-        cursor: pointer; 
-        font-size: 1.1rem; 
-        transition: all 0.2s;
+    .quiz-meta {
         display: flex;
+        gap: 8px;
+        margin-top: 6px;
+    }
+
+    .quiz-badge {
+        background: rgba(46, 204, 113, 0.12);
+        border: 1px solid rgba(46, 204, 113, 0.25);
+        color: #2ecc71;
+        padding: 2px 8px;
+        border-radius: 999px;
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600;
+    }
+
+    .quiz-badge.difficulty {
+        color: #f39c12;
+        border-color: rgba(243, 156, 18, 0.25);
+        background: rgba(243, 156, 18, 0.12);
+    }
+
+    .question-progress {
+        margin-bottom: 10px;
+        color: #888;
+        font-size: 0.85rem;
+        font-weight: 500;
+    }
+
+    .iata-code {
+        font-size: 3.8rem;
+        font-weight: 900;
+        text-align: center;
+        color: #2ecc71;
+        letter-spacing: 6px;
+        margin-bottom: 5px;
+        line-height: 1;
+        text-shadow: 0 0 25px rgba(46, 204, 113, 0.35);
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .iata-question {
+        text-align: center;
+        font-size: 1.05rem;
+        line-height: 1.4;
+        color: #dddddd;
+        margin-bottom: 15px;
+    }
+
+    .quiz-flag-img {
+        display: block;
+        max-width: 180px; 
+        width: 100%;
+        height: auto; 
+        margin: 0 auto 15px auto;
+        border-radius: 4px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /* SEKCIJA ZA DIJELJENJE REZULTATA */
+    .share-container {
+        margin: 25px auto 10px auto;
+        padding: 15px;
+        background: rgba(255, 255, 255, 0.02);
+        border-radius: 12px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        max-width: 500px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .share-buttons {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px;
+    }
+
+    @media (max-width: 480px) {
+        .share-buttons {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    .share-btn {
+        display: inline-flex;
         align-items: center;
         justify-content: center;
+        padding: 10px 10px;
+        color: #ffffff !important;
+        font-size: 0.85rem;
+        font-weight: 600;
+        text-decoration: none !important;
+        border-radius: 8px;
+        transition: all 0.2s ease;
+        cursor: pointer;
+        background: rgba(30, 30, 30, 0.8);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        text-align: center;
     }
-    .mute-btn-style:hover {
-        border-color: #2ecc71;
-        background: rgba(46, 204, 113, 0.1);
+
+    .share-btn.fb:hover { background: #1877f2 !important; border-color: #1877f2; }
+    .share-btn.tw:hover { background: #111111 !important; border-color: #333333; }
+    .share-btn.viber:hover { background: #7360f2 !important; border-color: #7360f2; }
+    .share-btn.wa:hover { background: #25d366 !important; border-color: #25d366; }
+    .share-btn.ig:hover { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888) !important; border-color: #dc2743; }
+    .share-btn.tt:hover { background: #ff0050 !important; border-color: #ff0050; }
+
+    .restart-btn-style {
+        background: transparent !important;
+        border: 1px solid #2ecc71 !important;
+        color: #2ecc71 !important;
+        padding: 12px 35px;
+        font-size: 1rem;
+        font-weight: bold;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        display: inline-block;
+        margin-top: 15px;
+    }
+    .restart-btn-style:hover {
+        background: #2ecc71 !important;
+        color: #ffffff !important;
+        box-shadow: 0 0 15px rgba(46, 204, 113, 0.3);
     }
 </style>
 
-<div class="single-kviz-bg">
-    
+<div class="single-kviz-bg {{ $quizType }} difficulty-{{ $difficulty }}">
     <div id="quiz-data-holder" data-questions="{{ .Params.pitanja | jsonify | safeHTML }}" style="display: none;"></div>
 
     <article class="quiz-box-glow">
@@ -127,42 +259,64 @@
             <div id="timer-bar"></div>
         </div>
 
-        <header id="quiz-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 15px; flex-shrink: 0;">
-            <h1 style="font-size: 1.3rem; color: #ffffff; margin: 0; padding-right: 10px; line-height: 1.3;">{{ .Title }}</h1>
+        <header id="quiz-header" style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 10px; flex-shrink: 0;">
+            <div>
+                <h1 style="font-size: 1.25rem; color: #ffffff; margin: 0; padding-right: 10px; line-height: 1.3;">{{ .Title }}</h1>
+                <div class="quiz-meta">
+                    <span class="quiz-badge">{{ $quizType }}</span>
+                    <span class="quiz-badge difficulty">{{ $difficulty }}</span>
+                </div>
+            </div>
             
             <div style="display: flex; gap: 8px; align-items: center; flex-shrink: 0;">
-                <button id="mute-btn" class="mute-btn-style" onclick="toggleMute()" title="Uključi/Isključi zvuk">🔊</button>
+                <button id="mute-btn" class="mute-btn-style" onclick="toggleMute()">🔊</button>
                 <span id="timer-text" style="font-family: monospace; font-size: 1.1rem; color: #2ecc71; font-weight: bold; background: rgba(0,0,0,0.3); padding: 4px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.05);">20s</span>
             </div>
         </header>
 
         <section id="quiz-interface" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-                <div style="min-height: 50px; margin-bottom: 15px;">
-                    <h3 id="question-text" style="color: #ffffff; font-size: 1.2rem; line-height: 1.4; font-weight: 600; margin: 0;">
+            <div style="width: 100%;">
+                <div class="question-progress">
+                    <span id="question-counter">Pitanje 1 / 1</span>
+                </div>
+
+                <div id="question-area" style="margin-bottom: 10px;">
+                    <h3 id="question-text" style="color: #ffffff; font-size: 1.15rem; line-height: 1.4; font-weight: 600; margin: 0;">
                         Učitavanje...
                     </h3>
                 </div>
 
                 <div id="options-container"></div>
             </div>
-
-            <div style="margin-top: 15px; min-height: 45px; display: flex; justify-content: flex-end; align-items: center; flex-shrink: 0;">
-                <button id="next-btn" class="next-btn-style" style="display: none;" onclick="nextQuestion()">
+            
+            <div style="width: 100%; display: flex; justify-content: center;">
+                <button id="next-btn" class="next-btn-style" onclick="nextQuestion()">
                     Dalje &rarr;
                 </button>
             </div>
         </section>
 
-        <section id="result-box" style="display: none; flex-grow: 1; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px 0;">
-            <p id="score-text" style="font-size: 2rem; font-weight: bold; color: #2ecc71; margin: 0 0 15px 0;"></p>
-            <p id="evaluation-text" style="font-size: 1.05rem; color: #cccccc; max-width: 500px; margin: 0 0 30px 0; line-height: 1.5;"></p>
-            <button onclick="location.reload()" style="padding: 12px 35px; cursor: pointer; background: transparent; color: #ffffff; border: 2px solid #2ecc71; border-radius: 6px; font-weight: bold; font-size: 1rem; transition: all 0.2s;" onmouseover="this.style.background='#2ecc71'" onmouseout="this.style.background='transparent'">
+        <div id="result-screen" style="display: none; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 10px 0; flex-grow: 1;">
+            <h2 id="result-percentage" style="color: #2ecc71; font-size: 2.2rem; font-weight: 900; margin-bottom: 8px; text-shadow: 0 0 15px rgba(46,204,113,0.2);">0% Uspješnosti</h2>
+            <p id="result-message" style="color: #ffffff; opacity: 0.8; font-size: 1.05rem; max-width: 450px; margin: 0 auto 20px auto; line-height: 1.4;">Učitavanje rezultata...</p>
+            
+            <div class="share-container">
+                <p style="color: #ffffff; font-size: 0.75rem; opacity: 0.5; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-weight: bold;">Podijeli igru i rezultat:</p>
+                <div class="share-buttons">
+                    <a href="#" id="share-fb" class="share-btn fb" target="_blank">Facebook</a>
+                    <a href="#" id="share-tw" class="share-btn tw" target="_blank">X</a>
+                    <a href="#" id="share-viber" class="share-btn viber">Viber</a>
+                    <a href="#" id="share-wa" class="share-btn wa" target="_blank">WhatsApp</a>
+                    <a href="#" id="share-ig" class="share-btn ig" onclick="copyToClipboardStory(event)">Instagram</a>
+                    <a href="#" id="share-tt" class="share-btn tt" onclick="copyToClipboardStory(event)">TikTok</a>
+                </div>
+            </div>
+
+            <button id="restart-btn" class="restart-btn-style" onclick="restartQuiz()">
                 Ponovi testiranje
             </button>
-        </section>
+        </div>
     </article>
-
 </div>
 
 <script>
@@ -170,6 +324,12 @@
     let rawQuestions = JSON.parse(dataHolder.getAttribute("data-questions"));
     
     let isMuted = localStorage.getItem("quiz_muted") === "true";
+    let currentQuestionIndex = 0;
+    let score = 0;
+    
+    const timeLimitConstant = parseInt("{{ $timeLimit }}");
+    let timeLeft = timeLimitConstant;
+    let timerInterval = null;
 
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
@@ -197,15 +357,12 @@
 
     function playSound(isCorrect) {
         if (isMuted) return; 
-
         try {
             const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
             const oscillator = audioCtx.createOscillator();
             const gainNode = audioCtx.createGain();
-
             oscillator.connect(gainNode);
             gainNode.connect(audioCtx.destination);
-
             if (isCorrect) {
                 oscillator.type = 'sine';
                 oscillator.frequency.setValueAtTime(587.33, audioCtx.currentTime); 
@@ -223,21 +380,12 @@
                 oscillator.start(audioCtx.currentTime);
                 oscillator.stop(audioCtx.currentTime + 0.3);
             }
-        } catch (e) {
-            console.log("AudioContext nije podržan.");
-        }
+        } catch (e) { console.log("AudioContext error."); }
     }
-    
-    let currentQuestionIndex = 0;
-    let score = 0;
-    
-    let timeLeft = 15;
-    let timerInterval = null;
 
     function startTimer() {
         clearInterval(timerInterval);
-        timeLeft = 15;
-        
+        timeLeft = timeLimitConstant;
         const timerText = document.getElementById("timer-text");
         const timerBar = document.getElementById("timer-bar");
         
@@ -249,18 +397,16 @@
         timerInterval = setInterval(() => {
             timeLeft--;
             timerText.innerText = `${timeLeft}s`;
-            
-            let percentage = (timeLeft / 15) * 100;
+            let percentage = (timeLeft / timeLimitConstant) * 100;
             timerBar.style.width = `${percentage}%`;
 
-            if (timeLeft <= 10 && timeLeft > 5) {
+            if (timeLeft <= (timeLimitConstant / 2) && timeLeft > (timeLimitConstant / 4)) {
                 timerText.style.color = "#f39c12";
                 timerBar.style.backgroundColor = "#f39c12";
-            } else if (timeLeft <= 5) {
+            } else if (timeLeft <= (timeLimitConstant / 4)) {
                 timerText.style.color = "#e74c3c";
                 timerBar.style.backgroundColor = "#e74c3c";
             }
-
             if (timeLeft <= 0) {
                 clearInterval(timerInterval);
                 handleTimeOut();
@@ -268,26 +414,14 @@
         }, 1000);
     }
 
-    // POPRAVLJENO: Kada istekne vrijeme, samo zaključavamo dugmad bez bojenja tačnog odgovora
     function handleTimeOut() {
         playSound(false); 
-        
-        const optionsContainerEl = document.getElementById("options-container");
-        const buttons = optionsContainerEl.getElementsByTagName("button");
-        const nextBtn = document.getElementById("next-btn");
-
-        // Samo onemogući klikove na sve opcije
+        const buttons = document.getElementById("options-container").getElementsByTagName("button");
         for (let button of buttons) {
             button.disabled = true;
-            button.style.opacity = "0.6"; // Blago ih osenčimo da se vidi da su zaključane
+            button.style.opacity = "0.5"; 
         }
-
-        if (currentQuestionIndex < rawQuestions.length - 1) {
-            nextBtn.style.display = "block";
-        } else {
-            nextBtn.innerText = "Kraj";
-            nextBtn.style.display = "block";
-        }
+        document.getElementById("next-btn").style.display = "inline-block";
     }
 
     function loadQuestion() {
@@ -296,10 +430,35 @@
         const optionsContainerEl = document.getElementById("options-container");
         const nextBtn = document.getElementById("next-btn");
 
+        document.getElementById("question-counter").innerText = `Pitanje ${currentQuestionIndex + 1} / ${rawQuestions.length}`;
         nextBtn.style.display = "none";
         optionsContainerEl.innerHTML = "";
         
-        questionTextEl.innerHTML = `<span style="color: #2ecc71;">${currentQuestionIndex + 1}.</span> ${currentQuestion.pitanje}`;
+        let flagHTML = "";
+        if (currentQuestion.slika) {
+            flagHTML = `<img src="${currentQuestion.slika}" class="quiz-flag-img" alt="Zastava">`;
+        }
+
+        if ("{{ $quizType }}" === "iata") {
+            const match = currentQuestion.pitanje.match(/\*\*(.*?)\*\*/);
+            if (match) {
+                const code = match[1];
+                const cleanQuestion = currentQuestion.pitanje.replace(/\*\*(.*?)\*\*/, "").trim();
+                questionTextEl.innerHTML = `
+                    <div class="iata-code">${code}</div>
+                    <div class="iata-question">${cleanQuestion}</div>
+                `;
+            } else {
+                questionTextEl.innerHTML = currentQuestion.pitanje;
+            }
+        } else if ("{{ $quizType }}" === "zastave") {
+            questionTextEl.innerHTML = `
+                ${flagHTML}
+                <div style="text-align: center; font-size: 1.1rem; color: #dddddd; margin-bottom: 15px;">${currentQuestion.pitanje}</div>
+            `;
+        } else {
+            questionTextEl.innerHTML = `<span style="color: #2ecc71;">${currentQuestionIndex + 1}.</span> ${currentQuestion.pitanje}`;
+        }
 
         currentQuestion.opcije.forEach((option, index) => {
             const button = document.createElement("button");
@@ -308,17 +467,13 @@
             button.onclick = () => selectOption(index, button);
             optionsContainerEl.appendChild(button);
         });
-
         startTimer();
     }
 
     function selectOption(selectedIndex, selectedButton) {
         clearInterval(timerInterval);
-        
         const currentQuestion = rawQuestions[currentQuestionIndex];
-        const optionsContainerEl = document.getElementById("options-container");
-        const buttons = optionsContainerEl.getElementsByTagName("button");
-        const nextBtn = document.getElementById("next-btn");
+        const buttons = document.getElementById("options-container").getElementsByTagName("button");
 
         for (let button of buttons) {
             button.disabled = true;
@@ -334,19 +489,12 @@
             selectedButton.style.setProperty('background', '#e74c3c', 'important');
             selectedButton.style.setProperty('border-color', '#e74c3c', 'important');
             selectedButton.style.color = "#ffffff";
-            
             buttons[currentQuestion.tacan].style.setProperty('background', '#2ecc71', 'important');
             buttons[currentQuestion.tacan].style.setProperty('border-color', '#2ecc71', 'important');
             buttons[currentQuestion.tacan].style.color = "#ffffff";
             playSound(false); 
         }
-
-        if (currentQuestionIndex < rawQuestions.length - 1) {
-            nextBtn.style.display = "block";
-        } else {
-            nextBtn.innerText = "Kraj";
-            nextBtn.style.display = "block";
-        }
+        document.getElementById("next-btn").style.display = "block";
     }
 
     function nextQuestion() {
@@ -358,32 +506,84 @@
         }
     }
 
+    // NOVA DETALJNA FUNKCIJA ZA DINAMIČKE SOCIAL LINKOVE
+    function ažurirajLinkoveZaDijeljenje(procenat) {
+        const urlKviza = window.location.href;
+        const naslovKviza = document.title || "Geografski Kviz";
+        const tekstPoruke = `Ostvario sam ${procenat}% uspješnosti na kvizu "${naslovKviza}". Možeš li bolje? Saznaj na Istraži Globus:`;
+        
+        // Facebook
+        document.getElementById('share-fb').href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(urlKviza)}&quote=${encodeURIComponent(tekstPoruke)}`;
+        
+        // X (Twitter)
+        document.getElementById('share-tw').href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tekstPoruke)}&url=${encodeURIComponent(urlKviza)}`;
+        
+        // Viber
+        document.getElementById('share-viber').href = `viber://forward?text=${encodeURIComponent(tekstPoruke + " " + urlKviza)}`;
+        
+        // WhatsApp
+        document.getElementById('share-wa').href = `https://api.whatsapp.com/send?text=${encodeURIComponent(tekstPoruke + " " + urlKviza)}`;
+        
+        // Za Instagram i TikTok držimo spreman tekst u data-atributu za kopiranje
+        const shareDataText = `${tekstPoruke} ${urlKviza}`;
+        document.getElementById('share-ig').setAttribute('data-share-text', shareDataText);
+        document.getElementById('share-tt').setAttribute('data-share-text', shareDataText);
+    }
+
+    // Instagram i TikTok ne dozvoljavaju direktan URL share iz brauzera, pa im automatski kopiramo tekst i obavještavamo korisnika
+    function copyToClipboardStory(event) {
+        event.preventDefault();
+        const btn = event.currentTarget;
+        const textToCopy = btn.getAttribute('data-share-text');
+        
+        navigator.clipboard.writeText(textToCopy).then(() => {
+            const originalText = btn.innerText;
+            btn.innerText = "Kopirano!";
+            btn.style.background = "#2ecc71";
+            setTimeout(() => {
+                btn.innerText = originalText;
+                btn.style.background = "rgba(30, 30, 30, 0.8)";
+            }, 2000);
+            alert("Tekst sa rezultatom i linkom je kopiran! Otvorite aplikaciju i nalijepite (Paste) direktno na vašu priču ili objavu.");
+        }).catch(err => {
+            console.error('Greška pri kopiranju: ', err);
+        });
+    }
+
     function showResults() {
         clearInterval(timerInterval);
         document.getElementById("quiz-interface").style.display = "none";
         document.getElementById("quiz-header").style.display = "none";
         document.querySelector(".timer-bar-container").style.display = "none";
         
-        const resultBox = document.getElementById("result-box");
-        const scoreText = document.getElementById("score-text");
-        const evalText = document.getElementById("evaluation-text");
-        
         const total = rawQuestions.length;
-        const percentage = (score / total) * 100;
+        const percentage = Math.round((score / total) * 100);
         
-        scoreText.innerText = `${Math.round(percentage)}% Uspješnosti`;
+        // Ispravljeni ID-jevi završnog ekrana
+        document.getElementById("result-percentage").innerText = `${percentage}% Uspješnosti`;
+        const evalText = document.getElementById("result-message");
         
-        if (percentage >= 90) {
-            evalText.innerText = "Izuzetan nivo opšte informisanosti i preciznog poznavanja geografskih detalja i prirodnih zakonitosti.";
-        } else if (percentage >= 70) {
-            evalText.innerText = "Visok nivo znanja uz minimalne propuste u domenima složenijih geopolitičkih i morfoloških pitanja.";
-        } else if (percentage >= 50) {
-            evalText.innerText = "Prosječan rezultat koji ukazuje na solidno poznavanje osnova, uz primjetan prostor za dodatnu edukaciju.";
-        } else {
-            evalText.innerText = "Nedovoljan procenat tačnih odgovora za prelaznu ocjenu opšteg znanja. Potrebno je dublje obnavljanje gradiva.";
-        }
+        if (percentage >= 90) evalText.innerText = "Izuzetan nivo znanja! Prava ste enciklopedija.";
+        else if (percentage >= 70) evalText.innerText = "Odličan rezultat! Vrlo dobro prepoznajete simbole i geografiju.";
+        else if (percentage >= 50) evalText.innerText = "Solidno znanje, ali ima prostora za malu obnovu gradiva.";
+        else evalText.innerText = "Slabiji rezultat. Pokušajte ponovo i naučite nešto novo!";
         
-        resultBox.style.display = "flex";
+        // Aktivacija generisanja linkova za dijeljenje na mrežama
+        ažurirajLinkoveZaDijeljenje(percentage);
+        
+        const resultScreen = document.getElementById("result-screen");
+        resultScreen.style.display = "flex";
+    }
+
+    function restartQuiz() {
+        currentQuestionIndex = 0;
+        score = 0;
+        document.getElementById("result-screen").style.display = "none";
+        document.getElementById("quiz-interface").style.display = "flex";
+        document.getElementById("quiz-header").style.display = "flex";
+        document.querySelector(".timer-bar-container").style.display = "block";
+        shuffleArray(rawQuestions);
+        loadQuestion();
     }
 
     window.onload = () => {

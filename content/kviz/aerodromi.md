@@ -1,87 +1,90 @@
 ---
 title: "Kviz: Prepoznajete li svjetske aerodrome po IATA kodu?"
 layout: "single"
-description: "Testirajte svoje znanje iz svijeta avijacije. Da li znate koji se aerodromi kriju iza ovih troslovnih skraćenica?"
-image: "slike/kviz/avio-znanje1.jpg"
+quiz_type: "iata"
+difficulty: "medium"
+time_per_question: 15
+image: "slike/kviz/avio-znanje1.jpg" 
+description: "Testirajte svoje znanje iz svijeta avijacije. Da li znate koji se svjetski aerodromi kriju iza ovih troslovnih skraćenica?"
 
-pitanja:
-  - pitanje: "Koji se čuveni svjetski aerodrom krije iza IATA koda: **DXB**?"
-    opcije: ["Doha", "Dubai", "Dablin"]
-    tacan: 1
+pitanja: 
+  - pitanje: "Najvažnija avio-kapija afričkog kontinenta i glavno tranzitno čvorište Južnoafričke Republike prepoznaje se po kodu **JNB**:"
+    opcije: ["Keiptaun", "Kairo", "Najrobi", "Johanezburg O.R. Tambo"]
+    tacan: 3
 
-  - pitanje: "Kada letite za London na njegov najveći i najprometniji aerodrom, na karti će pisati **LHR**. To je:"
-    opcije: ["Gatwick", "Stansted", "Heathrow"]
+  - pitanje: "Ako na avio-karti za London vidite oznaku **LHR**, na koju ćete pistu sletjeti?"
+    opcije: ["Gatvick", "Stansted", "Hitrou", "Luton"]
     tacan: 2
 
-  - pitanje: "Jedan od glavnih i tehnološki najsavremenijih aerodroma u Tokiju nosi oznaku **NRT**. U pitanju je:"
-    opcije: ["Narita", "Haneda", "Osaka"]
-    tacan: 0
-
-  - pitanje: "Koji evropski megapolis i ogroman tranzitni centar koristi IATA kod: **CDG**?"
-    opcije: ["Kopenhagen", "Pariz Šarl de Gol", "Madrid Barahas"]
+  - pitanje: "Novi i masivni mega-aerodrom koji spaja Evropu i Aziju koristi jednostavan kod **IST**:"
+    opcije: ["Izmir", "Istanbul", "Ankara", "Antalija"]
     tacan: 1
 
-  - pitanje: "Ako putujete u Španiju, tačnije u njenu prelijepu prestonicu Madrid, sletjećete na aerodrom sa kodom:"
-    opcije: ["MAD", "BCN", "AGP"]
+  - pitanje: "Jedan od tehnološki najnaprednijih aerodroma u Tokiju koristi kod **NRT**. To je:"
+    opcije: ["Narita", "Haneda", "Osaka", "Fukuoka"]
     tacan: 0
 
-  - pitanje: "Najveća vazdušna luka u Crnoj Gori i glavna tačka spajanja Podgorice sa svijetom nosi kod:"
-    opcije: ["TIV", "TGD", "PRN"]
+  - pitanje: "Glavna kapija sunčane Kalifornije i jedan od najprometnijih aerodroma u Americi nosi kod **LAX**:"
+    opcije: ["Laguardia", "Miami International", "San Diego", "Los Angeles International"]
+    tacan: 3
+
+  - pitanje: "Koju čuvenu evropsku vazdušnu luku označava kod **CDG**?"
+    opcije: ["Kopenhagen", "Pariz Šarl de Gol", "Madrid Barahas", "Brisel Zaventem"]
     tacan: 1
 
-  - pitanje: "Čuveni aerodrom u Njujorku, nazvan po američkom predsjedniku, koristi prepoznatljivi kod:"
-    opcije: ["JFK", "LAX", "ORD"]
+  - pitanje: "Egzotični i ogromni aerodrom Suvarnabhumi prepoznaje se po kodu **BKK**:"
+    opcije: ["Bangkok Suvarnabhumi", "Hong Kong", "Kuala Lumpur", "Džakarta"]
     tacan: 0
 
-  - pitanje: "Koji azijski grad i njegov spektakularni aerodrom (poznat po unutrašnjem vodopadu) nosi kod **SIN**?"
-    opcije: ["Singapur Čangi", "Šangaj", "Sidnej"]
-    tacan: 0
-
-  - pitanje: "Glavno i masivno avio-čvorište u Njemačkoj, tačnije u Frankfurtu, označeno je sa:"
-    opcije: ["MUC", "BER", "FRA"]
+  - pitanje: "Ukoliko putujete u italijansku prestonicu mode i slijećete u Milano, vidjećete kod **MXP**:"
+    opcije: ["Fiumićino", "Linate", "Malpensa", "Orio al Serio"]
     tacan: 2
 
-  - pitanje: "Ako se uputite u Italiju, u centar mode Milano i na njegov najveći aerodrom Malpensa, tražićete kod:"
-    opcije: ["FCO", "MXP", "LIN"]
-    tacan: 1
-
-  - pitanje: "Koji se ultra-popularni aerodrom u Holandiji, poznat po tome što ima samo jedan ogroman terminal, krije iza koda **AMS**?"
-    opcije: ["Amsterdam Šiphol", "Atina", "Antverpen"]
+  - pitanje: "Najpoznatiji aerodrom u Njujorku, nazvan po američkom predsjedniku, koristi kod **JFK**:"
+    opcije: ["John F. Kennedy", "George Washington", "O'Hare", "Newark Liberty"]
     tacan: 0
 
-  - pitanje: "Kada letite za glavni grad Austrije, Beč, vaš prtljag će biti označen tropslovnim kodom:"
-    opcije: ["VIE", "VCE", "VLL"]
+  - pitanje: "Ako letite za Kataloniju i planirate slijetanje na popularni 'El Prat' **BCN**, u kom ste gradu ?"
+    opcije: ["Bilbao", "Valensija", "Bari", "Barselona"]
+    tacan: 3
+
+  - pitanje: "Bavarska avio-luka, poznata po vrhunskoj organizaciji i sopstvenoj pivari, koristi oznaku **MUC**:"
+    opcije: ["Minhen", "Keln", "Hamburg", "Frankfurt"]
     tacan: 0
 
-  - pitanje: "Koji turski megapolis je nedavno izgradio jedan od najvećih aerodroma na svijetu koji nosi jednostavan kod **IST**?"
-    opcije: ["Izmir", "Istanbul", "Izmit"]
+  - pitanje: "Najveća avio-kapija Južne Amerike i gigantsko brazilsko čvorište prepoznaje se po kodu **GRU**:"
+    opcije: ["Rio de Žaneiro", "Sao Paulo Gvaruljos", "Buenos Ajres", "Santijago"]
     tacan: 1
 
-  - pitanje: "Ako putujete u Kataloniju i slijećete u Barselonu, zvanični IATA kod tog aerodroma je:"
-    opcije: ["BAR", "BCN", "BIO"]
+  - pitanje: "Koji se ultra-prometni bliskoistočni avio-gigant krije iza koda **DXB**?"
+    opcije: ["Doha", "Dubai", "Dablin", "Daman"]
     tacan: 1
 
-  - pitanje: "Koji aerodrom u regionu, poznat kao glavno čvorište kompanije Air Serbia, nosi oznaku **BEG**?"
-    opcije: ["Beograd Nikola Tesla", "Budimpešta Franc List", "Bukurešt Henri Koanda"]
-    tacan: 0
-
-  - pitanje: "Jedan od najprometnijih aerodroma u SAD-u i glavna kapija Kalifornije, aerodrom u Los Anđelesu, koristi kod:"
-    opcije: ["LGA", "MIA", "LAX"]
+  - pitanje: "Prelijepi aerodrom Kastrup, ponos Skandinavije, prepoznaćete po kodu **CPH**:"
+    opcije: ["Oslo", "Stokholm", "Kopenhagen", "Helsinki"]
     tacan: 2
 
-  - pitanje: "Kada putujete u vječni grad Rim i slijećete na njegov najveći aerodrom Leonardo da Vinči (Fiumićino), kod je:"
-    opcije: ["FCO", "CIA", "RMA"]
+  - pitanje: "Najveći i najvažniji tranzitni aerodrom u Njemačkoj prepoznaćete po kodu **FRA**:"
+    opcije: ["Minhen", "Berlin", "Diseldorf", "Frankfurt"]
+    tacan: 3
+
+  - pitanje: "Azijsko čvorište poznato po spektakularnom zatvorenom vodopadu i tropskom vrtu nosi kod **SIN**:"
+    opcije: ["Singapur Čangi", "Šangaj Pouđong", "Sidnej Kingsford", "Seul Inčeon"]
     tacan: 0
 
-  - pitanje: "Koji se skandinavski glavni grad i njegov glavni aerodrom kriju iza prepoznatljive skraćenice **CPH**?"
-    opcije: ["Kopenhagen", "Oslo", "Stokholm"]
+  - pitanje: "Najveći aerodrom u Kolumbiji, smješten na velikoj nadmorskoj visini u prestonici Bogoti, nosi kod **BOG**:"
+    opcije: ["Ezeiza", "El Dorado", "Lima Horhe Čavez", "Mariskal Sukre"]
+    tacan: 1
+
+  - pitanje: "Čuveni holandski aerodrom sa specifičnim konceptom jednog ogromnog terminala nosi oznaku **AMS**:"
+    opcije: ["Atina", "Antverpen", "Amsterdam Šiphol", "Brisel"]
+    tacan: 2
+
+  - pitanje: "Glavna kapija Španije i ponos Madrida prepoznaje se po kodu **MAD**. U pitanju je:"
+    opcije: ["Barahas", "El Prat", "Costa del Sol", "San Pablo"]
     tacan: 0
 
-  - pitanje: "Ako letite za njemačku pokrajinu Bavarsku i posjećujete Minhen, tražićete aerodrom sa oznakom:"
-    opcije: ["MUC", "CGN", "HAM"]
-    tacan: 0
-
-  - pitanje: "Glavni grad Tajlanda, Bangkok, poznat je po živopisnom i ogromnom aerodromu Suvarnabhumi koji nosi kod:"
-    opcije: ["BKK", "HKG", "KUL"]
-    tacan: 0
+  - pitanje: "Jedna od glavnih tehnoloških kapija Amerike i prepoznatljivo avio-čvorište u istoimenom zalivu Kalifornije nosi oznaku **SFO**:"
+    opcije: ["Sijetl", "San Francisko", "Sakramento", "San Hoze"]
+    tacan: 1
 ---

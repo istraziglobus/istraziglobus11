@@ -20,6 +20,8 @@ Kako bismo vam pružili najbolji vizuelni doživljaj, koristimo visokokvalitetne
 * **Pexels**
 * **Wikimedia Commons**
 
+Sve ilustracije i grafički prikazi nacionalnih zastava u sekciji sa kvizovima preuzeti su sa platforme Wikimedia Commons i koriste se u skladu sa njihovim licencama o slobodnoj upotrebi zvaničnih državnih simbola.
+
 Zahvaljujemo se globalnoj zajednici fotografa koji dijele svoj rad i omogućavaju nam da zajedno širimo ljubav prema putovanjima i geografiji.
 
 ### Kontakt za autore
