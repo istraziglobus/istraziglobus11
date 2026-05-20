@@ -494,7 +494,38 @@ a:hover {
     padding: 4px 8px !important;
     white-space: nowrap; /* NE prelama */
   }
+.main-nav-primary ul li a i {
+    font-size: 0.8rem !important; /* Još manje na mobilnom */
+    margin-right: 4px !important;
+  }
 }
+
+
+/* Smanjivanje i poravnanje FontAwesome ikonica */
+.main-nav-primary ul li a i {
+    font-size: 0.9em; /* Smanjuje ikonicu da ne bude veća od teksta */
+    margin-right: 7px; /* Razmak između ikonice i teksta */
+    vertical-align: baseline; /* Drži ikonicu u ravni sa tekstom */
+    color: #e0e0e0
+}
+
+/* Efekat da i ikonica reaguje na hover */
+.main-nav-primary ul li a:hover i {
+    color: var(--light-text-color); /* Ikonica posvijetli kad se pređe mišem */
+    transition: color var(--transition-speed);
+}
+/* Specifičan stil za ikonicu sijalice u kvizu */
+.main-nav-primary ul li a .fa-lightbulb {
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+/* Kada se pređe mišem preko linka Kviz, sijalica "zasvijetli" */
+.main-nav-primary ul li a:hover .fa-lightbulb {
+    color: #ffca28; /* Topla žuta boja sijalice */
+    transform: scale(1.2) rotate(10deg); /* Malo se poveća i nagne */
+    text-shadow: 0 0 8px rgba(255, 202, 40, 0.6); /* Blagi sjaj oko sijalice */
+}
+
 
 /* ========================================= 
 

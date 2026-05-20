@@ -2,11 +2,11 @@
 
 {{ $quizType := .Params.quiz_type | default "default" }}
 {{ $difficulty := .Params.difficulty | default "easy" }}
-{{ $timeLimit := .Params.time_per_question | default 20 }}
+{{ $timeLimit := .Params.time_per_question | default 15 }}
 
 <style>
     .single-kviz-bg {
-        background: linear-gradient(rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.95)), url('/slike/kviz/pozadina.jpg');
+        background: linear-gradient(rgba(0, 0, 0, 0.967), rgba(0, 0, 0, 0.962)), url('/slike/kviz/pozadina.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -180,6 +180,50 @@
         border: 1px solid rgba(255, 255, 255, 0.1);
     }
 
+    /* Minimalistički boks koji drži visinu bez skretanja pažnje */
+    .quiz-text-scaffold {
+        max-width: 450px;
+        width: 100%;
+        height: 140px; /* Savršeno balansira visinu sa zastavama */
+        margin: 0 auto 15px auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+        position: relative;
+    }
+
+    /* Suptilne, ultra-tanke linije u uglovima koje samo blago uokviruju prostor */
+    .quiz-text-scaffold::before, .quiz-text-scaffold::after {
+        content: '';
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        border-color: rgba(46, 204, 113, 0.15);
+        border-style: solid;
+    }
+    .quiz-text-scaffold::before {
+        top: 0;
+        left: 0;
+        border-width: 1px 0 0 1px;
+    }
+    .quiz-text-scaffold::after {
+        bottom: 0;
+        right: 0;
+        border-width: 0 1px 1px 0;
+    }
+
+    /* Čisti tekst pitanja unutar boksa */
+    .quiz-pure-question {
+        text-align: center;
+        font-size: 1.25rem;
+        color: #ffffff;
+        line-height: 1.45;
+        font-weight: 600;
+        padding: 0 15px;
+        margin: 0;
+    }
+
     /* MODERNA SEKCIJA ZA DIJELJENJE REZULTATA */
     .share-container {
         margin: 25px auto 10px auto;
@@ -269,9 +313,7 @@
                 </div>
 
                 <div id="question-area" style="margin-bottom: 10px;">
-                    <h3 id="question-text" style="color: #ffffff; font-size: 1.15rem; line-height: 1.4; font-weight: 600; margin: 0;">
-                        Učitavanje...
-                    </h3>
+                    <div id="question-text">Učitavanje...</div>
                 </div>
 
                 <div id="options-container"></div>
@@ -344,7 +386,7 @@
             const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
             const oscillator = audioCtx.createOscillator();
             const gainNode = audioCtx.createGain();
-             oscillator.connect(gainNode);
+            oscillator.connect(gainNode);
             gainNode.connect(audioCtx.destination);
             if (isCorrect) {
                 oscillator.type = 'sine';
@@ -422,11 +464,12 @@
             flagHTML = `<img src="${currentQuestion.slika}" class="quiz-flag-img" alt="Zastava">`;
         }
 
+        // 1. TIP KVIZA: IATA KODOVI
         if ("{{ $quizType }}" === "iata") {
             const match = currentQuestion.pitanje.match(/\*\*(.*?)\*\*/);
             if (match) {
                 const code = match[1];
-                const cleanQuestion = currentQuestion.pitanje.replace(/\*\*(.*?)\*\*/, "").trim();
+                const cleanQuestion = currentQuestion.pitanje.replace(/\*\frac{(.*?)\*\*/, "").trim();
                 questionTextEl.innerHTML = `
                     <div class="iata-code">${code}</div>
                     <div class="iata-question">${cleanQuestion}</div>
@@ -434,13 +477,23 @@
             } else {
                 questionTextEl.innerHTML = currentQuestion.pitanje;
             }
-        } else if ("{{ $quizType }}" === "zastave") {
+        } 
+        // 2. TIP KVIZA: ZASTAVE
+        else if ("{{ $quizType }}" === "zastave") {
             questionTextEl.innerHTML = `
                 ${flagHTML}
                 <div style="text-align: center; font-size: 1.1rem; color: #dddddd; margin-bottom: 15px;">${currentQuestion.pitanje}</div>
             `;
-        } else {
-            questionTextEl.innerHTML = `<span style="color: #2ecc71;">${currentQuestionIndex + 1}.</span> ${currentQuestion.pitanje}`;
+        } 
+        // 3. TIP KVIZA: STANDARDNE TEKSTUALNE TEME (Minimalistički čisti balans)
+        else {
+            questionTextEl.innerHTML = `
+                <div class="quiz-text-scaffold">
+                    <h3 class="quiz-pure-question">
+                        <span style="color: #2ecc71; margin-right: 6px;">${currentQuestionIndex + 1}.</span>${currentQuestion.pitanje}
+                    </h3>
+                </div>
+            `;
         }
 
         currentQuestion.opcije.forEach((option, index) => {
@@ -489,7 +542,6 @@
         }
     }
 
-    // MODERNA FUNKCIJA KOJA POKREĆE FABRIČKI SHARE PROZOR NA TELEFONU
     function pokreniSistemskiShare() {
         const procenatTekst = document.getElementById("result-percentage").innerText;
         const samoBroj = procenatTekst.replace(/[^0-9]/g, '');
@@ -509,7 +561,6 @@
             .then(() => console.log('Uspješno podijeljeno'))
             .catch((error) => console.log('Korisnik otkazao share:', error));
         } else {
-            // Fallback za desktop računare - otvara klasičan Facebook share prozor
             const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(urlKviza)}&quote=${encodeURIComponent(shareText + " " + urlKviza)}`;
             window.open(fbUrl, '_blank', 'width=600,height=400');
         }
