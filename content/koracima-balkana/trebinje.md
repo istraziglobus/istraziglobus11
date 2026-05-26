@@ -24,9 +24,9 @@ tags:
 draft: false
 ---
 
-Postoje gradovi koji se samo posjećuju, i oni koji se doživljavaju svim čulima. <strong>Trebinje</strong>, smješteno na samom jugu Hercegovine, pripada ovoj drugoj grupi. To je mjesto gdje mediteranski šarm pleše sa bogatom balkanskom istorijom. Lagani ritam života ovdje teče u skladu sa smaragdnom Trebišnjicom. Trebinje je poznato kao grad sunca, kamena i stogodišnjih <span class="highlight-text">**platana**</span>. Sa skoro 300 sunčanih dana godišnje, ova reputacija je potpuno zaslužena. Vazduh je ispunjen mirisom ljekovitog bilja i soli koja dopire sa obližnjeg <span class="highlight-text">**Jadrana**</span>. Sunčevi zraci prelamaju se preko kamenih fasada i stvaraju igru svjetlosti koja grad čini živopisnim. Od prve jutarnje kafe do večernje šetnje, Trebinje nudi mir koji se rijetko <span class="highlight-text">**pronalazi**</span>.
+U Trebinje se dolazi kad ti je pun kufer gužve i kad hoćeš malo da usporiš. Prva stvar koju uradiš je da sjedneš pod one čuvene platane, naručiš kafu i samo gledaš kako život polako teče. Grad je skroz od kamena, čist i nekako gospodski, a Trebišnjica je toliko mirna da cijelo mjesto izgleda kao sa razglednice. Sunce te prži, ali te hladi onaj vjetar što stalno pirka sa hercegovačkih brda.
 
-Dok koračate preko starih mostova, osjetićete blagi povjetarac koji stalno donosi svježinu sa okolnih hercegovačkih <span class="highlight-text">brda</span>. Svaki kutak ovog grada poziva vas da usporite i prepustite se istinskom uživanju u trenutku. To je mjesto gdje se gostoprimstvo mjeri osmijehom, a uspomene mirišu na vino i pečene <span class="highlight-text">smokve</span>. Trebinje nije samo destinacija, to je osjećaj vječnog ljeta koji zauvijek nosite u <span class="highlight-text">srcu</span>.
+Nije to grad za trčanje od jednog do drugog spomenika, nego za laganu šetnju preko mostova i obilazak vinarija. Sve miriše na smokve i pršutu, a ljudi su opušteni i niko nigdje ne žuri. Najbolji dio je onaj osjećaj kad krene noć, pa se upale svjetla po <span class="highlight-text">**starim zidinama**</span>, a ti uz čašu domaće žilavke shvatiš da ti za dobar odmor ne treba ništa više od tog mira i dobrog društva.
 
 ## Kastel: Srce starog Trebinja
 

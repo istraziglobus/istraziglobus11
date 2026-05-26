@@ -24,9 +24,9 @@ tags:
   - Putovanja
 ---
 
-Postoje mjesta koja izgledaju kao da su izašla iz bajke. <strong>Jajce</strong> je upravo takvo mjesto. Smješteno na ušću Plive u Vrbas, ovo je jedini grad na svijetu koji u svom centru ima veličanstven vodopad. Ali Jajce nije samo prirodni fenomen. Ono je živa hronika Balkana. Od rimskih hramova do dvorana u kojima se krojila sudbina Jugoslavije, svaki korak kroz ovaj grad je susret sa istorijom.
+Jajce je vjerovatno jedini grad gdje ne moraš da juriš kartu da bi našao glavnu stvar – samo pratiš zvuk vode i on te dovede pravo do onog ogromnog vodopada u samom centru. Nije to neka ušminkana fontana, nego ozbiljna sila prirode koja pršti na sve strane i podsjeća te koliko je ovaj grad zapravo sirov i moćan. Dok stojiš gore i gledaš kako se Pliva ruši u Vrbas, shvatiš da Jajce nije pravljeno da bude lijepo na razglednici, nego je tvrđava koja je vjekovima trpila sve moguće vojske i države.
 
-Vazduh je ovdje oštar i pročišćen mirisom borove <span class="highlight-text">šume</span>. Svaki pogled sa tvrđave otkriva nove panorame koje oduzimaju dah. Jajce je grad koji vas poziva da usporite i <span class="highlight-text">uživate</span>. To je mjesto gdje se svaki trenutak pretvara u trajnu <span class="highlight-text">uspomenu</span>.
+Gore, unutar zidina Starog grada, priča je skroz drugačija – tišina, uske uličice i osjećaj da si u nekom drugom vremenu. Prođeš pored katakombi, baciš pogled na tvrđavu, a onda se sjetiš da se baš tu, u onoj staroj zgradi, krojila <span class="highlight-text">**sudbina cijele Jugoslavije**</span>. Grad je nekako stisnut između planina i rijeka, miriše na vlagu, hladnu vodu i domaću hranu iz onih malih kafana. Nema ovdje lažnog sjaja; Jajce je kameno, čvrsto i skroz autentično mjesto koje ti jasno stavi do znanja da istorija nije samo u knjigama, nego pod tvojim nogama.
 
 ---
 

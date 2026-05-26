@@ -34,29 +34,23 @@ Za Brazilce, São Paulo nije samo grad – to je <span class="highlight-text">**
 
 Sao Paulo je grad koji se ne može opisati jednom riječju, jer on predstavlja kolosalan spoj kultura, mirisa i arhitekture koji preplavljuje sva čula. Ova betonska džungla, najveća na južnoj hemisferi, nudi <span class="highlight-text">**energiju**</span> koja je istovremeno haotična i nevjerovatno privlačna za svakog putnika namjernika.
 
-<div class="content-with-image-layout">
-    <div class="info-box-container">
-        <h3>Osnovne informacije o São Paulu</h3>
-        <ul>
-           <li><strong>Osnovan:</strong> 25. januar 1554. godine</li>
-           <li><strong>Stanovništvo:</strong> ~12,3 miliona (grad); ~22 miliona (metropolitansko područje)</li>
-           <li><strong>Jezik:</strong> Portugalski</li>
-           <li><strong>Valuta:</strong> Brazilski real (R$)</li>
-           <li><strong>Nadimak:</strong> Sampa ili Betonska džungla</li>
-           <li><strong>Geografski položaj:</strong> Jugistočni Brazil, država São Paulo (23°33′S 46°38′W)</li>
-           <li><strong>Aerodrom:</strong> Guarulhos (GRU) – međunarodni; </li>
-           <li><strong>Atrakcija:</strong> Avenida Paulista</li>
-           <li><strong>Pozivni broj:</strong> +55 11</li>
-           <li><strong>Vremenska zona:</strong> BRT −3</li>
-           <li><strong>Regija:</strong> Sudeste (Jugoistočni Brazil)</li>
-           <li><strong>Površina:</strong> 1.521 km²</li>
-           <li><strong>Klima:</strong> Tropska savanska</li>
-        </ul>
-    </div>
-    <figure class="article-image-box">
-        {{< figcredit src="slike/sao-paulo/sao-paulo4.jpg" alt="Mapa Sao Paola" >}}
-    </figure>
-</div>
+{{< citybox 
+    ime="SAO PAULO" 
+    drzava="BRAZIL"
+    zastava="🇧🇷"
+    osnovan="25. januar 1554." 
+    stanovnistvo="~12,3 miliona" 
+    povrsina="1.521 km²"
+    jezik="Portugalski" 
+    valuta="Brazilski real (BRL)"
+    pozivni="+55 11"
+    zona="BRT (UTC-3)"
+    polozaj="Jugoistočni Brazil" 
+    aerodrom="Guarulhos (GRU)" 
+    klima="Vlažna suptropska" 
+    lat="-23.5505" 
+    lng="-46.6333" 
+>}}
 
 ---
 

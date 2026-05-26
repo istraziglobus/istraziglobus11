@@ -24,9 +24,9 @@ tags:
   - Putovanja
 ---
 
-Postoje mjesta na planeti koja svojom pojavom izazivaju strahopoštovanje i tjeraju nas da preispitamo granice stvarnosti. **Đavolja Varoš**, smještena na padinama planine Radan na jugu Srbije, upravo je takav lokalitet. Ovaj rijetki prirodni fenomen, koji se sastoji od 202 specifične zemljane figure, decenijama je bio kandidat za jedno od sedam svjetskih čuda prirode. Njegova grandioznost podsjeća nas na to koliko je moć geoloških sila zapravo nepredvidiva i nezaustavljiva.
+Đavolja Varoš je totalno uvrnuto mjesto i ne liči ni na šta drugo što možeš da vidiš kod nas. Kad se popneš gore, dočekaju te te čudne zemljane kule sa kamenim kapama koje izgledaju kao da će svakog časa da se sruše, ali stoje tu vjekovima. Cijeli kraj je crvenkast, voda koja teče je puna minerala i izgleda kao krv, a tišina je tolika da ti je skoro neprijatno.
 
-Vazduh je ovdje ispunjen mirisom minerala i tišinom koju prekida samo fijuk vjetra kroz kamene kule. Svaki korak uzbrdo otkriva prizore koji izgledaju kao da pripadaju drugoj <span class="highlight-text">planeti</span>. Đavolja Varoš nije samo geološki raritet, već i prostor prožet narodnim vjerovanjima. To je mjesto gdje se priroda poigrala sa oblicima, stvarajući trajnu <span class="highlight-text">fascinaciju</span>. Oštri kontrasti svjetlosti i sjenke dodatno naglašavaju dramatičnost ovog neobičnog krajolika.
+Nije stvar samo u tome kako te figure izgledaju, nego u cijelom tom osjećaju dok hodaš kroz šumu do njih. Vjetar stalno zviždi između onih stubova i stvarno ti postane jasno zašto su ljudi izmislili sve one legende o <span class="highlight-text">**okamenjenim svatovima**</span>. Nema tu nekog velikog luksuza, samo ti i priroda koja se malo poigrala, ali kad stojiš ispred onih figura, osjećaš se baš sitno pred tom snagom zemlje.
 
 ---
 

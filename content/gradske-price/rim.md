@@ -26,33 +26,27 @@ tags:
 most_read: false
 ---
 
-Postoje destinacije, i postoji Rim. Njegovo ime nije samo lokacija na mapi; to je pozivnica u svijet gdje se prošlost i sadašnjost prepliću u neodoljivu tapiseriju koja nikoga ne ostavlja ravnodušnim. <span class="highlight-text">**Rim**</span> nije muzej pod otvorenim nebom, niti je samo skup impresivnih spomenika, već živi dokaz neprekidnog trajanja ljudske civilizacije. On je pulsirajući organizam, živući dokaz da se istorija ne mora učiti samo iz knjiga – ona se ovdje diše, dodiruje i proživljava na svakom koraku kroz sjenke antičkih stubova. 
+Postoje destinacije, i postoji Rim. Njegovo ime nije samo lokacija na mapi; to je pozivnica u svijet gdje se prošlost i sadašnjost prepliću u neodoljivu tapiseriju koja nikoga ne ostavlja ravnodušnim. Rim nije muzej pod otvorenim nebom, niti je samo skup impresivnih spomenika, već živi dokaz neprekidnog trajanja ljudske civilizacije. On je pulsirajući organizam, živući dokaz da se istorija ne mora učiti samo iz knjiga – ona se ovdje diše, dodiruje i proživljava na svakom koraku kroz sjenke antičkih stubova. 
 
 Od masivnih ruševina što prkose vijekovima, preko ekstravagancije baroknih palata, do užurbanih <span class="highlight-text">**piazza**</span> ispunjenih mirisima kafe, Rim se ne obilazi, on se upija svim čulima. Ovaj grad vas poziva da usporite i postanete dio njegove vječne magije koja traje hiljadama godina. Svaki putnik koji zakorači na njegovu kaldrmu postaje dio <span class="highlight-text">**legende**</span>, pronalazeći u svakom ćošku novi razlog za divljenje i inspiraciju koja mijenja pogled na svijet.
 
-<div class="content-with-image-layout">
-    <div class="info-box-container">
-        <h3>  Osnovne informacije o Rimu </h3>
-        <ul>
-            <li><strong>Osnovan:</strong> 21. april 753. p.n.e. (prema legendi o Romulu i Remu)</li>
-            <li><strong>Stanovništvo:</strong> ~2.8 miliona (grad); ~4.3 miliona (metropolitansko područje)</li>
-            <li><strong>Jezik:</strong> Italijanski</li>
-            <li><strong>Valuta:</strong> Euro (€)</li>
-            <li><strong>Nadimak:</strong> Vječni grad (La Città Eterna)</li>
-            <li><strong>Geografski položaj:</strong> Centralna Italija, na reci Tibar </li>
-            <li><strong>Aerodrom:</strong> Leonardo da Vinci–Fiumicino (FCO)</li>
-            <li><strong>Atrakcija:</strong> Koloseum</li>
-            <li><strong>Pozivni broj:</strong> 06</li>
-            <li><strong>Vremenska zona:</strong> CET +1</li>
-            <li><strong>Regija:</strong> Lacio</li>
-            <li><strong>Površina:</strong> 1.285 km²</li>
-            <li><strong>Klima:</strong> Mediteranska </li>
-        </ul>
-    </div>
-    <figure class="article-image-box">
-        {{< figcredit src="slike/rim/rim1.jpg" alt="Mapa Rima" >}}
-    </figure>
-</div>
+{{< citybox 
+    ime="RIM" 
+    drzava="ITALIJA"
+    zastava="🇮🇹"
+    osnovan="21. april 753. p.n.e." 
+    stanovnistvo="~2,8 miliona" 
+    povrsina="1.285 km²"
+    jezik="Italijanski" 
+    valuta="Euro (€)"
+    pozivni="+39 06"
+    zona="CET (UTC+1)"
+    polozaj="Centralni dio (Lacio)" 
+    aerodrom="Fiumicino (FCO)" 
+    klima="Sredozemna" 
+    lat="41.9028" 
+    lng="12.4964" 
+>}}
 
 ---
 

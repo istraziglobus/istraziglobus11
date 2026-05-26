@@ -27,33 +27,27 @@ tags:
 most_read: flase
 ---
 
-Barselona nije samo grad – to je osjećaj, ritam, priča ispisana između mora i planina. U njoj se miješaju mirisi Mediterana, zvuci gitare sa Ramble i boje Antoni Gaudijevih vizija. Od monumentalne <strong>Sagrade Familie</strong> do uskih ulica <em>Barri Gòtic</em> četvrti, Barselona je grad koji ne prestaje da inspiriše i očarava. U isto vrijeme <span class="highlight-text">kosmopolitska i intimna</span>, urbana i umjetnička, ona je spoj tradicije i modernog duha – grad u kojem se svaka kaldrma čini kao pozornica.
+Barselona je grad koji vas primorava da stalno gledate uvis. Dok se u drugim evropskim prestonicama pazite džeparoša na nivou asfalta, ovdje vam pažnju kradu fasade koje izgledaju kao da su isklesane iz snova ili košmara. To je grad koji je decenijama balansirao između svoje mediteranske opuštenosti i fanatičnog radnog elana, stvarajući prostor u kojem <span class="highlight-text">**industrijski pragmatizam**</span> susreće najluđu umjetničku slobodu. Od mirisa morske soli u Barceloneti do sjenki gotskih lukova, Barselona je živi, pulsirajući dokaz da haos može biti savršeno organizovan.
 
-Ono što je čini posebnom jeste njena sposobnost da svakog posjetioca natjera da se osjeća kao dio njene <span class="highlight-text">**vjekovne priče**</span>. Bez obzira tražite li mir u sjenkama katedrala ili energiju na sunčanim obalama, ovaj grad nudi utočište koje se pamti cijelog života.
+Ono što ovaj grad odvaja od ostatka Španije nije samo jezik, već specifična energija – mješavina <span class="highlight-text">**katalonske ambicije**</span> i želje da se svaki trenutak proživi na ulici. Ovdje se kafa ne pije na brzinu, a politika se ne ostavlja za zatvorena vrata; Barselona je grad-scena na kojoj se svaki putnik brzo nađe u ulozi statiste.
 
-<div class="content-with-image-layout">
-    <div class="info-box-container">
-        <h3>  Osnovne informacije o Barseloni </h3>
-        <ul>
-           <li><strong>Osnovan:</strong> rimski grad Barcino (1. vijek p.n.e.)</li>
-           <li><strong>Stanovništvo:</strong> ~1.64 miliona (grad); ~5.6 miliona (metropolitansko područje)</li>
-           <li><strong>Jezik:</strong> Katalonski i španski</li>
-           <li><strong>Valuta:</strong> Euro (€)</li>
-           <li><strong>Nadimak:</strong> Grad Gaudija</li>
-           <li><strong>Geografski položaj:</strong> Severovistočna Španija, na obali Sredozemnog mora (41°23′N 2°11′E)</li>
-           <li><strong>Aerodrom:</strong> Barselona–El Prat (BCN)</li>
-           <li><strong>Atrakcija:</strong> Sagrada Familia</li>
-           <li><strong>Pozivni broj:</strong> 93</li>
-           <li><strong>Vremenska zona:</strong> CET +1</li>
-           <li><strong>Regija:</strong> Katalonija</li>
-           <li><strong>Površina:</strong> 101,9 km²</li>
-           <li><strong>Klima:</strong> Mediteranska</li>
-        </ul>
-    </div>
-    <figure class="article-image-box">
-        {{< figcredit src="slike/barselona/barselona4.jpg" alt="Mapa Barselone" >}}
-    </figure>
-</div>
+{{< citybox 
+    ime="BARCELONA" 
+    drzava="ŠPANIJA"
+    zastava="🇪🇸"
+    osnovan="1. vijek p.n.e. (Barcino)" 
+    stanovnistvo="~1,6 miliona" 
+    povrsina="101,9 km²"
+    jezik="Katalonski i Španski" 
+    valuta="Euro (€)"
+    pozivni="+34 93"
+    zona="CET (UTC+1)"
+    polozaj="Sjeveroistočna obala" 
+    aerodrom="El Prat (BCN)" 
+    klima="Sredozemna (Mediteranska)" 
+    lat="41.3851" 
+    lng="2.1734" 
+>}}
 
 ---
 
@@ -79,6 +73,16 @@ Prošetate li se starim gradom, osjetićete miris prošlosti u svakom klesanom k
 
 Katalonci su izuzetno ponosni na svoj jedinstveni identitet i jezik, a taj osjećaj pripadnosti osjetićete u svakom razgovoru i umjetničkom djelu. Barselona nije samo španska metropola – ona je prije svega <span class="highlight-text">**katalonska ponosna dama**</span>, čiji duh slobode i stvaralaštva čini ovo mjesto posebnim na mapi Evrope. Taj snažan karakter se prepoznaje u lokalnim običajima, hrani i načinu na koji se slavi svaki praznik.
 
+---
+
+## Ritam ulice: La Rambla, tu počinje život
+
+Prava Barselona se ne nalazi na Rambli – ulica kojom se nekada ponosio Federiko Garsija Lorka postala je pretrpana bina za turiste. Da biste osjetili stvarni puls, morate se povući u dubinu kvarta El Born ili Gràcia. U El Bornu, između srednjovjekovnih zidova, danas se nalaze <span class="highlight-text">**kraft radionice**</span> i konceptualni barovi u kojima se vino pije uz diskusije o umjetnosti, dok se na trgu Santa Maria del Mar osjeća dostojanstvo ribarske prošlosti.
+
+Muzika je ovdje sastavni dio vazduha, ali ne ona sa razglasa. To je zvuk improvizovanog flamenca u podzemnim prolazima, ritam bubnjeva u parku Ciutadella ili sjetni glas uličnog pjevača u klaustru stare crkve. U Gràciji, koja je nekada bila zasebno selo, ulice i dalje zadržavaju taj <span class="highlight-text">**komšijski duh**</span>; ovdje se stolovi iznose na trgove, a komšije znaju ime svakog psa i svake mačke u ulici.
+
+Grad vas osvaja svojom sposobnošću da spoji nespojivo. Jutarnja tišina na pijaci Santa Caterina, gdje se lokalci bore za najbolji komad bakalaura, u oštrom je kontrastu sa večernjom galamom u barovima Carrer de Blai. Ta <span class="highlight-text">**urbanu tenzija**</span> između čuvanja tradicije i prihvatanja digitalnih nomada je ono što Barselonu čini jednom od najdinamičnijih tačaka na Mediteranu.
+
 {{< figcredit 
     src="slike/barselona/barselona1.jpg" 
     alt="trg u Barseloni, cuvena Plaza de España"
@@ -91,13 +95,13 @@ Katalonci su izuzetno ponosni na svoj jedinstveni identitet i jezik, a taj osje�
 
 ---
 
-## Mijesto svjetlosti, muzike i ulica koje žive
+## Montjuïc: Vidikovac koji pamti revolucije i medalje
 
-Barselona pulsira u ritmu svojih ulica koje nikada nisu potpuno tihe, čak ni u najdubljoj noći. Uveče, dok sunce polako tone iza brda Tibidabo, grad se pretvara u veliku pozornicu na kojoj svako ima svoju ulogu. Gitare i glasovi odjekuju sa Ramble, dok se iz barova u <span class="highlight-text">**El Bornu**</span> čuje žamor mještana koji uživaju u druženju.
+Brdo Montjuïc je "zelena pluća" Barselone, ali i njena najvažnija strateška tačka. Sa njegovih vrhova grad izgleda kao uredna maketa pritisnuta uz more. Međutim, ovo brdo nije samo prostor za šetnju; ono je <span class="highlight-text">**istorijski poligon**</span>. Tvrđava na vrhu decenijama je služila za nadgledanje, ali i bombardovanje buntovnog grada ispod nje, simbolizujući komplikovan odnos Barselone sa centralnom vlašću.
 
-Svaka ulica nosi svoju melodiju – od sjetnih fado nota iz starih taverni do modernih improvizovanih koncerata u podzemlju metroa. U kvartovima kao što je Gràcia, zidovi su prekriveni muralima koji pričaju priče o <span class="highlight-text">**otporu i ljubavi**</span>, dajući gradu urbani pečat. To je Barselona koja se ne nalazi uvijek na razglednicama, ali se duboko osjeća u svakom udisaju gradskog vazduha.
+Transformacija Montjuïca za Olimpijske igre 1992. godine je ključni momenat u modernoj istoriji grada. Tada je Barselona srušila industrijske barijere i konačno se "vratila" svom moru. Danas, šetnja pored Olimpijskog prstena nudi osjećaj <span class="highlight-text">**trijumfa i nostalgije**</span>, dok Nacionalni muzej umjetnosti Katalonije (MNAC) dominira pejzažom kao čuvar katalonske kulture od romanike do danas.
 
-Grad vas ne osvaja agresivno, već polako, kroz slučajne poglede prolaznika i miris svježeg cvijeća sa uličnih štandova. Zvuk tramvaja koji prolazi kroz rano svitanje i sjenke koje bacaju gotski lukovi stvaraju <span class="highlight-text">**atmosferu**</span> koja je istovremeno nostalgična i progresivna. U tim kontrastima leži prava privlačnost Barselone, mjesta gdje se svaka šetnja pretvara u mali, intimni koncert života.
+Magija brda se najbolje osjeti u smiraj dana, kada turisti odu ka fontanama, a ostanu samo lokalci koji treniraju na strmim stazama ili čitaju u sjenkama botaničkih vrtova. Montjuïc je mjesto gdje grad <span class="highlight-text">**hvata dah**</span>. Pogled koji se odavde pruža na luku, gdje se ukrštaju teretni brodovi i luksuzne jahte, objašnjava zašto je Barselona uvijek bila i ostala trgovačka kapija Evrope.
 
 ---
 
@@ -121,23 +125,23 @@ Osim bazilike, Gaudijeve ruke ostavile su neizbrisiv trag u bajkovitom Parku Gü
 
 ---
 
-## Barselona sa visine: Montjuïc i panorame
+## Barceloneta: Mjesto gdje Barselona diše punim plućima
 
-Ako želite da sagledate Barselonu u njenoj punoj, veličanstvenoj veličini, neophodno je da se uputite na brdo Montjuïc. Ovo uzvišenje koje ponosno gleda na gradsku luku nudi najljepše <span class="highlight-text">**panoramske poglede**</span> koji sežu sve do horizonta i plavetnila mora. Ovdje se nalaze mirne botaničke bašte, Nacionalna palata i utvrđenja koja su vijekovima čuvala grad od napada.
+Barceloneta nije samo gradska plaža – ona je **mentalitet**. Nekadašnje ribarsko naselje danas je najživlji spoj mora, muzike i mediteranske svakodnevice u cijeloj Barseloni. Ovdje se dan ne mjeri satima, već bojom sunca iznad mora i brojem ljudi koji još sjede uz obalu dugo nakon ponoći. Miris soli, zvuk skejtborda i galebovi iznad luke stvaraju atmosferu koja djeluje haotično, ali potpuno prirodno za ovaj grad. Barceloneta pokazuje Barselonu bez fasade: glasnu, opuštenu i neprestano okrenutu ulici i moru.
 
-Magična fontana smještena podno palate nudi spektakl svjetlosti i vode koji svake večeri oduševljava hiljade posjetilaca svojom ljepotom. Montjuïc je bio i domaćin Olimpijskih igara 1992. godine, događaja koji je u potpunosti <span class="highlight-text">**preobrazio**</span> Barselonu i otvorio je modernom svijetu. Danas je to mjesto gdje se istorija spaja sa prirodom, nudeći oazu mira iznad užurbanih gradskih ulica.
+Još prije **Olimpijskih igara 1992**. ovaj dio grada izgledao je potpuno drugačije. Industrijske zone i zapuštena obala godinama su skrivale more od stanovnika, sve dok veliki urbani projekti nisu pretvorili obalu u jednu od najpoznatijih gradskih plaža Evrope. Danas se uz široko šetalište smjenjuju surferi, ulični muzičari, prodavci kokosa i biciklisti koji prolaze tik uz palme. Upravo taj osjećaj stalnog kretanja daje Barceloneti energiju zbog koje ljudi ovdje ostaju mnogo duže nego što su planirali.
 
-Šetnja ovim brdom pruža uvid u sportsku i kulturnu istoriju grada, od olimpijskog stadiona do muzeja posvećenih modernoj umjetnosti. Putnici rado dolaze ovdje kako bi pobjegli od gužve i uživali u tišini koju remeti samo povjetarac sa Mediterana. Montjuïc ostaje <span class="highlight-text">**simbol transformacije**</span> grada koji je uspio da spoji industrijsku prošlost sa blistavom turističkom budućnošću.
+Ali prava duša ovog kvarta krije se u uskim ulicama iza same plaže. Tamo se još uvijek mogu pronaći mali barovi sa starim drvenim stolicama, riblji restorani bez turističkih reklama i lokalci koji godinama **igraju karte** ispred svojih zgrada. Dok ostatak Barselone često djeluje monumentalno i teatralno, Barceloneta je jednostavna i iskrena. Ona podsjeća da je ovaj grad prije svega nastao uz more – i da bez Mediterana Barselona nikada ne bi imala isti ritam, miris ni karakter.
 
 ---
 
-## Camp Nou – srce katalonskog ponosa
+## Camp Nou: Više od sportskog borilišta
 
-Za milione ljudi širom planete, Barselona znači samo jedno – fudbalski klub koji je postao simbol nacionalnog identiteta. Klub FC Barcelona nosi slogan „više od kluba“ jer predstavlja srce <span class="highlight-text">**katalonskog otpora**</span> i ponosa kroz teška istorijska vremena. Camp Nou, njihov dom, nije samo običan sportski stadion, već pravi hram politike, kulture i neopisive strasti.
+Za Katalonce, Camp Nou je zamjenska katedrala. U vrijeme kada je katalonski jezik bio potiskivan, stadion je bio jedino mjesto gdje se slobodno klicalo svom identitetu. Slogan "Més que un club" (Više od kluba) nije marketinški trik, već <span class="highlight-text">**ideološki stav**</span>. To je prostor u kojem se fudbal ne igra samo za golove, već za čast zajednice koja kroz klub kanališe svoju želju za slobodom.
 
-Kroz decenije su na ovom travnjaku igrali najveći geniji fudbalske igre, od Johana Cruyffa do legendarnog Lionela Messija. Svaka utakmica, a posebno čuveni "El Clásico", postaje više od samog sporta – to je <span class="highlight-text">**simbolična borba**</span> za dokazivanje snage i posebnosti Katalonije. Tribine stadiona često odjekuju himnama koje govore o slobodi i pripadnosti jednoj zajedničkoj ideji.
+Na ovom travnjaku se godinama brusila "tiki-taka", filozofija igre koja je promijenila fudbal baš kao što je Gaudi promijenio arhitekturu. Posjeta muzeju kluba i samim tribinama nudi uvid u fanatičnu <span class="highlight-text">**odanost bojama**</span> "blaugrane". Čak i kada tim gubi, energija koja dolazi sa tribina je dokaz o neraskidivoj vezi između grada i njegovih jedanaest predstavnika na terenu.
 
-Kada se zastave podignu i desetine hiljada glasova se stope u jedan, čitav grad počinje da diše istim, snažnim ritmom. Tada Barselona prestaje da bude samo grad na mapi i postaje čisto <span class="highlight-text">**osjećanje zajedništva**</span> koje nadilazi sve granice i jezike. Biti na Camp Nou znači svjedočiti trenutku kada se sport pretvara u najčistiju formu narodne umjetnosti i kolektivne emocije.
+Trenutna rekonstrukcija stadiona je samo još jedna etapa u stalnoj evoluciji Barselone. Stadion se širi i modernizuje, baš kao i grad, ali duh koji se osjeća tokom "El Clásica" ostaje nepromijenjen. To je trenutak kolektivne <span class="highlight-text">**katarse**</span>, kada se cijeli grad zaustavi, a sudbina Barselone se, makar na devedeset minuta, mjeri rezultatom na semaforu.
 
 {{< figcredit 
     src="slike/barselona/barselona3.jpg" 
@@ -158,15 +162,6 @@ Barselonu u suštini čine njeni ljudi – otvoreni, strastveni i izuzetno ponos
 Katalonci vole svoj grad duboko i iskreno, pokazujući to kroz svakodnevne male geste i očuvanje tradicionalnih zanata. Njihova nevjerovatna energija osjeća se svuda, od biciklista koji jure ka plaži do staraca koji mirno posmatraju <span class="highlight-text">**prolaznost vremena**</span> sa klupa. Barselona je zapravo njihovo ogledalo – ona je uvijek u pokretu, uvijek svoja i nikada se ne izvinjava zbog svoje posebnosti.
 
 >U kvartovima poput Gràcije osjetićete atmosferu sela usred metropole, gdje svako svakoga poznaje i pozdravlja. Taj osjećaj <span class="highlight-text">**ljudskosti i topline**</span> je ono što Barselonu izdvaja od drugih hladnih evropskih turističkih centara. Upravo ti ljudi daju boju kamenim fasadama i čine da se svaki putnik, makar na kratko, osjeća kao da pripada ovom magičnom kutku svijeta.
-
----
-## Grad vrhunske umjetnosti i kreativne slobode
-
-Barselona nije samo Gaudi i fudbal; ona je dom u kojem su svoje vizije razvijali velikani poput Dalíja i Picassa. Muzeji posvećeni ovim genijalnim umovima nude dubok uvid u stvaralačke procese koji su zauvijek promijenili modernu umjetnost. <span class="highlight-text">**Kreativna energija**</span> grada osjeća se na svakom koraku, od uličnih instalacija do prestižnih galerija u centru.
-
-Muzej Picassa u srcu Gotičke četvrti čuva preko 4.000 radova iz umjetnikovog ranog, formativnog perioda stvaralaštva. S druge strane, Miróova fondacija na Montjuïcu nudi jedinstvenu kolekciju apstraktnih djela koja prkose <span class="highlight-text">**konvencionalnim formama**</span> i oblicima. Grad živi kroz svoje umjetnike, čineći njihova djela sastavnim dijelom svakodnevice svakog stanovnika i posjetioca.
-
-Čak i izvan muzejskih zidova, Barselona funkcioniše kao platforma za savremene umjetnike i njihove performanse na trgovima. <span class="highlight-text">**Inovacija**</span> je ključna riječ katalonske umjetničke scene, koja stalno teži ka novim načinima izražavanja i provokacije. Umjetnost ovdje nije rezervisana samo za elitu, već je dostupna svima koji su spremni da otvore oči i osjete duh slobode.
 
 <div class="info-box-container">
   <h3>Zanimljivosti o Barseloni</h3>

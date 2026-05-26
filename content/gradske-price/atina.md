@@ -51,7 +51,7 @@ Ako tražite savršeno podšišane travnjake, produžite dalje. Atina je za one 
 
 ---
 
-## Mjesta gdje se dodiruje vječnost
+## Najpoznatije znamenitosti Atine koje morate posjetiti
 
 Atina se ne obilazi, ona se osvaja korak po korak, od prašnjavih staza do mermernih vidikovaca:
 
