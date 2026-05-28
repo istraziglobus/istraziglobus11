@@ -13,7 +13,7 @@ image_source_url: "https://pixabay.com/photos/hollywood-sign-los-angeles-hollywo
 image_license: "Pixabay License"
 image_license_url: "https://pixabay.com/service/license/"
 location: [34.0522, -118.2437]
-countries: ["Sjedinjene Američke Države"]
+countries: ["SAD"]
 cities: ["Los Anđeles"]
 categories:
   - Stranice Kadra

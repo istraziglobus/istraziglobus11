@@ -5,11 +5,11 @@ author: "Istraži Globus Tim"
 date: "2025-10-01"
 description: "Planirate put u Istanbul? Otkrijte najbolje savjete za prevoz, hranu i znamenitosti koje ne smijete propustiti. Doživite magiju Turske uz naš detaljni vodič."
 image: "slike/vodic/istanbul-hero.jpg"
-author: "RidacsA"
-source: "Pixabay"
-source_url: "https://pixabay.com/photos/istanbul-turkey-buildings-city-5809612/"
-license: "Pixabay License"
-license_url: "https://pixabay.com/service/license/"
+image_author: "RidacsA"
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/istanbul-turkey-buildings-city-5809612/"
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/"
 location: [41.0082, 28.9784] 
 countries: ["Turska"]
 cities: ["Istanbul"]

@@ -12,7 +12,7 @@ image_source: "Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File:The_whole_Alhambra_Granada_Spain.jpg"
 image_license: "CC0 1.0"
 image_license_url: "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
-countries: ["Španija"]
+countries: ["Spanija"]
 categories:
   - Destinacija mjeseca
 tags:

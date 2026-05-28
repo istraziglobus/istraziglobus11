@@ -13,7 +13,7 @@ image_license: "CC BY-SA 4.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en" 
 slug: "tunel-gotard-svajcarska-megastruktura"
 draft: false
-countries: ["Švajcarska"]
+countries: ["Svajcarska"]
 cities: ["Erstfeld", "Bodio"]
 categories:
 - Tihe Megastrukture

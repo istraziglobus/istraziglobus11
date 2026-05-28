@@ -5,13 +5,13 @@ date: "2026-01-08"
 description: "Planirate put u Madrid? Otkrijte najbolje savjete za prevoz, hranu i znamenitosti koje ne smijete propustiti. Doživite kraljevski duh Španije uz naš detaljni vodič."
 image: "slike/vodic/madrid-hero.jpg"
 image_alt: "Glavna gradska ulica u Madridu Gran Via"
-author: "RidacsA"
-source: "Pixabay"
-source_url: "https://pixabay.com/photos/madrid-city-spain-architecture-2713751/"
-license: "Pixabay License"
-license_url: "https://pixabay.com/service/license/" 
+image_author: "RidacsA"
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/madrid-city-spain-architecture-2713751/"
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" 
 location: [40.4168, -3.7038]
-countries: ["Španija"]
+countries: ["Spanija"]
 cities: ["Madrid"]
 categories:
   - Putni Vodiči

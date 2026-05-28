@@ -5,11 +5,11 @@ date: "2026-04-24"
 description: "Planirate put u Pariz? Otkrijte najbolje savjete za prevoz, hranu i znamenitosti koje ne smijete propustiti. Doživite duh Grada svjetlosti uz naš detaljni vodič."
 image: "slike/vodic/pariz-hero.jpg"
 image_alt: "prelije zalazak sunca sa Ajfelovom kulom u prvom planu"
-author: "maykeloenning"
-source: "Pixabay"
-source_url: "https://pixabay.com/photos/eiffel-tower-paris-trocadero-gardens-6356472/"
-license: "Pixabay License"
-license_url: "https://pixabay.com/service/license/" 
+image_author: "maykeloenning"
+image_source: "Pixabay"
+image_source_url: "https://pixabay.com/photos/eiffel-tower-paris-trocadero-gardens-6356472/"
+image_license: "Pixabay License"
+image_license_url: "https://pixabay.com/service/license/" 
 location: [/]
 countries: ["Francuska"]
 cities: ["Pariz"]
