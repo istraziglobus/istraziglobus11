@@ -228,13 +228,13 @@ console.log("Pokušavam učitati sliku sa: " + fullImagePath);
 
 function updateCountdown() {
     // Postavi datum početka prvenstva (11. Jun 2026.)
-    const eventDate = new Date('May 30, 2026 18:00:00').getTime();
+    const eventDate = new Date('Jun 11, 2026 21:00:00').getTime();
     const now = new Date().getTime();
     const diff = eventDate - now;
 
     // Ako je prvenstvo prošlo
     if (diff <= 0) {
-        document.querySelector("#countdown-grid-compact").innerHTML = "<div style='color:#2ecc71; font-weight:800;'>UTAKMICA JE POČELA!</div>";
+        document.querySelector("#countdown-grid-compact").innerHTML = "<div style='color:#2ecc71; font-weight:800;'>OTVORENO SP!</div>";
         return;
     }
 

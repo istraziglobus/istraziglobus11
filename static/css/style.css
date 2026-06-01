@@ -1499,14 +1499,13 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 12px;         /* Optimalan razmak na mobilnim ekranima */
     margin: 8px 0;     /* Smanjen vertikalni razmak da boks ne bude predugačak */
 }
 
 /* Podešavanje za male, elegantne grbove */
 .team-logo {
-    width: 24px;       /* Manja, diskretna širina */
-    height: 24px;      /* Zaključana visina radi simetrije */
+    width: 84px;       /* Manja, diskretna širina */
+    height: 84px;      /* Zaključana visina radi simetrije */
     object-fit: contain;
     filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.5)); /* Blaga sjenka za bolji kontrast */
 }
