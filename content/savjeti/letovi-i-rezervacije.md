@@ -71,7 +71,7 @@ Niskobudžetne kompanije odavno nisu transportna preduzeća u tradicionalnom smi
     alt="zena na lap topu rezervise let"
     author="rawpixel.com" 
     source="Freepik"
-    source_url="https://www.magnific.com/free-photos-vectors/travel-selling/23"
+    source_url="https://www.magnific.com/free-photo/beautiful-girl-standing-airport_4975634.htm#fromView=search&page=1&position=48&uuid=df365ca5-2d14-4a0d-b846-49a0a5c6e0cd&query=flight+reservation"
 >}}
 
 ---

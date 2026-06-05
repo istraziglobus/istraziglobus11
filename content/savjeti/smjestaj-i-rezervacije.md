@@ -8,7 +8,7 @@ icon: "fas fa-hotel"
 image: "slike/smjestaj/smjestaj.jpg"
 image_author: "rawpixel.com" 
 image_source: "Freepik"
-image_source_url: "https://www.freepik.com"
+image_source_url: "https://www.magnific.com/free-photo/woman-talking-phone-medium-shot_35022437.htm#fromView=search&page=9&position=9&uuid=e43ea684-d561-4d89-aa04-586dc75ff46c&query=hotel+reception"
 image_license: "Free License (with attribution)"
 image_license_url: "https://www.freepik.com/terms_of_use"
 categories:
