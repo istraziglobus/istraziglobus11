@@ -8,10 +8,15 @@ module.exports = async (req, res) => {
     return res.status(400).json({ error: 'Grad nije proslijeđen.' });
   }
 
-  // Ručno upisujemo tvoj ključ direktno u kôd za lokalni rad
-  const apiKey = "07f643fa96fc6bd47bdc5d0ee6318885";
+ // Čitamo ključ bezbjedno iz Vercel sistema (ne vidi se na GitHubu)
+  const apiKey = process.env.WEATHER_API_KEY;
+
+  if (!apiKey) {
+    return res.status(500).json({ error: 'API ključ nedostaje na serveru!' });
+  }
 
   try {
+    // Jezik stavljamo na "hr" da bi online sve radilo na čitkoj latinici
     const response = await fetch(
       `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=${apiKey}&units=metric&lang=hr`
     );
