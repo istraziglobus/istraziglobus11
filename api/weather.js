@@ -19,7 +19,7 @@ export default async function handler(request, response) {
   }
 
   // U suprotnom, standardno vraćamo običnu vremensku prognozu
-  const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric&lang=sr`;
+  const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
   try {
     const res = await fetch(weatherUrl);

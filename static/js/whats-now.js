@@ -209,11 +209,11 @@ if (city.currency === "EUR") {
           airQualityElement.innerHTML = "💨 Kvalitet vazduha: Nema podataka";
       }
 
-    // Kreiramo ime fajla (malo slova, bez razmaka)
-const cityFileName = data.weather.name.toLowerCase().replace(/\s/g,'');
+
+// Koristimo ime iz našeg niza gradova (city.name), tako smo sigurni da je uvijek latinica
+const cityFileName = city.name.toLowerCase().replace(/\s/g,'');
 
 // Spajamo punu adresu sajta sa putanjom do slike
-// Ovo osigurava da slika radi i na početnoj i u bilo kom članku
 const fullImagePath = window.location.origin + "/slike/city/" + cityFileName + ".jpg";
 
 // Dodeljujemo tu punu putanju slici
