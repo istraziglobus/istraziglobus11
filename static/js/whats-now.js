@@ -48,8 +48,6 @@ const cityNameElement = document.getElementById("city-name");
     "SGD": 1.47, 
     "BRL": 5.45
 };
-
-  const weatherAPIKey = "006710101db1b5a700d24c46ac3f67bb";
   
   const weatherTranslations = {
     // ČISTO VREME
@@ -121,10 +119,12 @@ const cityNameElement = document.getElementById("city-name");
     }
 
     try {
-        const weatherResponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city.name}&units=metric&appid=${weatherAPIKey}`);
+        // Pozivamo našu bezbjednu Vercel funkciju za prognozu
+        const weatherResponse = await fetch(`/api/weather?city=${city.name}`);
         const weatherData = await weatherResponse.json();
 
-        const airPollutionResponse = await fetch(`https://api.openweathermap.org/data/2.5/air_pollution?lat=${weatherData.coord.lat}&lon=${weatherData.coord.lon}&appid=${weatherAPIKey}`);
+        // Pozivamo našu bezbjednu Vercel funkciju za kvalitet vazduha
+        const airPollutionResponse = await fetch(`/api/weather?city=${city.name}&type=pollution&lat=${weatherData.coord.lat}&lon=${weatherData.coord.lon}`);
         const airPollutionData = await airPollutionResponse.json();
 
         const dataToCache = {

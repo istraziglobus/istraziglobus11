@@ -4256,3 +4256,70 @@ article ul li::before {
     margin-top: 10px;
     opacity: 0.8;
 }
+
+
+
+
+/* Pronalazi listu koja ide odmah nakon našeg markera */
+.travel-insight-wrapper + ul {
+    list-style: none !important;
+    padding: 25px !important;
+    margin: 30px 0 !important;
+    background: linear-gradient(135deg, #f8fafc, #ffffff);
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+/* Pretvara svaki element liste (li) u tvoju karticu */
+.travel-insight-wrapper + ul li {
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+    margin: 0 !important;
+    transition: all .25s ease;
+    box-sizing: border-box;
+}
+
+/* Hover efekat za kartice */
+.travel-insight-wrapper + ul li:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .06);
+    border-color: #cbd5e1;
+}
+
+/* Stil za ikonice unutar naslova */
+.travel-insight-wrapper + ul li h3 i {
+    font-size: 1.4rem;
+    color: #3b82f6;
+    margin-right: 8px;
+    display: inline-block;
+}
+
+/* Stil za naslove u karticama (h3) */
+.travel-insight-wrapper + ul li h3 {
+    margin: 0 0 10px 0 !important;
+    padding: 0 !important;
+    font-size: 1.1rem !important;
+    color: #0f172a !important;
+    font-weight: 600 !important;
+    display: flex;
+    align-items: center;
+}
+
+/* Sakrivamo prazne markere na kraju */
+.travel-insight-wrapper, 
+.travel-insight-wrapper-end {
+    display: none;
+}
+
+/* Mobilna optimizacija */
+@media (max-width: 768px) {
+    .travel-insight-wrapper + ul {
+        grid-template-columns: 1fr;
+    }
+}
