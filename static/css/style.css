@@ -4323,3 +4323,7 @@ article ul li::before {
         grid-template-columns: 1fr;
     }
 }
+
+#map {
+    filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3);
+}

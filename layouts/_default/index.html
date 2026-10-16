@@ -141,10 +141,10 @@
         dragging: !L.Browser.mobile
     });
 
-    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     noWrap: false,
     bounds: bounds,
-    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>'
+    attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
 
