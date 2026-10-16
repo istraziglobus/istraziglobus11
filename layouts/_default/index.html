@@ -141,10 +141,12 @@
         dragging: !L.Browser.mobile
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        noWrap: false,
-        bounds: bounds
-    }).addTo(map);
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+    noWrap: false,
+    bounds: bounds,
+    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>'
+}).addTo(map);
+
 
     var lineCoords = [];
     var dataItems = document.querySelectorAll('#map-data li');
