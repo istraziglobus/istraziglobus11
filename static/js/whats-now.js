@@ -30,23 +30,23 @@ const cityNameElement = document.getElementById("city-name");
 
   const exchangeRates = {
     "EUR": 1, 
-    "USD": 1.09,  
-    "GBP": 0.86, 
-    "AUD": 1.64, 
-    "JPY": 176.50, 
-    "RSD": 117.15, 
-    "RUB": 98.50, 
-    "CNY": 7.82,  
-    "AED": 4.00, 
-    "TRY": 35.20,  
-    "ARS": 1080.0, 
-    "HKD": 8.53,  
-    "ISK": 151.0, 
-    "CUP": 24.00, 
-    "MYR": 5.12, 
-    "EGP": 53.00, 
-    "SGD": 1.47, 
-    "BRL": 5.45
+    "USD": 1.13,  
+    "GBP": 0.84, 
+    "AUD": 1.62, 
+    "JPY": 177.70, 
+    "RSD": 117.40, 
+    "RUB": 102.50, 
+    "CNY": 7.53,  
+    "AED": 4.13, 
+    "TRY": 55.77,  
+    "ARS": 1702.40, 
+    "HKD": 8.74,  
+    "ISK": 149.20, 
+    "CUP": 27.10, 
+    "MYR": 4.88, 
+    "EGP": 54.30, 
+    "SGD": 1.46, 
+    "BRL": 5.71
 };
   
   const weatherTranslations = {
@@ -227,16 +227,12 @@ console.log("Pokušavam učitati sliku sa: " + fullImagePath);
 });
 
 function updateCountdown() {
-    // Postavi datum početka prvenstva (11. Jun 2026.)
-    const eventDate = new Date('Jun 11, 2026 21:00:00').getTime();
+    // Postavi datum početka prvenstva (14. Jul 2028.)
+    const eventDate = new Date('Jul 14, 2028 18:00:00').getTime();
     const now = new Date().getTime();
     const diff = eventDate - now;
 
-    // Ako je prvenstvo prošlo
-    if (diff <= 0) {
-        document.querySelector("#countdown-grid-compact").innerHTML = "<div style='color:#2ecc71; font-weight:800;'>OTVORENO SP!</div>";
-        return;
-    }
+
 
     // Kalkulacija vremena
     const d = Math.floor(diff / (1000 * 60 * 60 * 24));
