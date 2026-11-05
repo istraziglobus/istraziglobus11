@@ -24,7 +24,7 @@ tags:
 - Putovanja
 - Gaudi
 - Kultura
-most_read: flase
+most_read: false
 ---
 
 Barselona je grad koji vas primorava da stalno gledate uvis. Dok se u drugim evropskim prestonicama pazite džeparoša na nivou asfalta, ovdje vam pažnju kradu fasade koje izgledaju kao da su isklesane iz snova ili košmara. To je grad koji je decenijama balansirao između svoje mediteranske opuštenosti i fanatičnog radnog elana, stvarajući prostor u kojem <span class="highlight-text">**industrijski pragmatizam**</span> susreće najluđu umjetničku slobodu. Od mirisa morske soli u Barceloneti do sjenki gotskih lukova, Barselona je živi, pulsirajući dokaz da haos može biti savršeno organizovan.
@@ -81,7 +81,7 @@ Prava Barselona se ne nalazi na Rambli – ulica kojom se nekada ponosio Federik
 
 Muzika je ovdje sastavni dio vazduha, ali ne ona sa razglasa. To je zvuk improvizovanog flamenca u podzemnim prolazima, ritam bubnjeva u parku Ciutadella ili sjetni glas uličnog pjevača u klaustru stare crkve. U Gràciji, koja je nekada bila zasebno selo, ulice i dalje zadržavaju taj <span class="highlight-text">**komšijski duh**</span>; ovdje se stolovi iznose na trgove, a komšije znaju ime svakog psa i svake mačke u ulici.
 
-Grad vas osvaja svojom sposobnošću da spoji nespojivo. Jutarnja tišina na pijaci Santa Caterina, gdje se lokalci bore za najbolji komad bakalaura, u oštrom je kontrastu sa večernjom galamom u barovima Carrer de Blai. Ta <span class="highlight-text">**urbanu tenzija**</span> između čuvanja tradicije i prihvatanja digitalnih nomada je ono što Barselonu čini jednom od najdinamičnijih tačaka na Mediteranu.
+Grad vas osvaja svojom sposobnošću da spoji nespojivo. Jutarnja tišina na pijaci Santa Caterina, gdje se lokalci bore za najbolji komad bakalaura, u oštrom je kontrastu sa večernjom galamom u barovima Carrer de Blai. Ta <span class="highlight-text">**urbana tenzija**</span> između čuvanja tradicije i prihvatanja digitalnih nomada je ono što Barselonu čini jednom od najdinamičnijih tačaka na Mediteranu.
 
 {{< figcredit 
     src="slike/barselona/barselona1.jpg" 
@@ -145,10 +145,10 @@ Trenutna rekonstrukcija stadiona je samo još jedna etapa u stalnoj evoluciji Ba
 
 {{< figcredit 
     src="slike/barselona/barselona3.jpg" 
-    alt="Camp Nou, najveci evropski stadion, pogled iz helikoptera"
-    author="Nan Palmero"
+    alt="Camp Nou, najveci evropski stadion, pogled iz zraka"
+    author="Oh-Barcelona.com"
     source="Flickr"
-    source_url="https://flickr.com/photos/97402086@N00/53593604536"
+    source_url="https://www.flickr.com/photos/oh-barcelona/4531818047/"
     license="CC BY 2.0 Generic"
     license_url="https://creativecommons.org/licenses/by/2.0/" 
 >}}
@@ -161,7 +161,7 @@ Barselonu u suštini čine njeni ljudi – otvoreni, strastveni i izuzetno ponos
 
 Katalonci vole svoj grad duboko i iskreno, pokazujući to kroz svakodnevne male geste i očuvanje tradicionalnih zanata. Njihova nevjerovatna energija osjeća se svuda, od biciklista koji jure ka plaži do staraca koji mirno posmatraju <span class="highlight-text">**prolaznost vremena**</span> sa klupa. Barselona je zapravo njihovo ogledalo – ona je uvijek u pokretu, uvijek svoja i nikada se ne izvinjava zbog svoje posebnosti.
 
->U kvartovima poput Gràcije osjetićete atmosferu sela usred metropole, gdje svako svakoga poznaje i pozdravlja. Taj osjećaj <span class="highlight-text">**ljudskosti i topline**</span> je ono što Barselonu izdvaja od drugih hladnih evropskih turističkih centara. Upravo ti ljudi daju boju kamenim fasadama i čine da se svaki putnik, makar na kratko, osjeća kao da pripada ovom magičnom kutku svijeta.
+> U kvartovima poput Gràcije osjetićete atmosferu sela usred metropole, gdje svako svakoga poznaje i pozdravlja. Taj osjećaj <span class="highlight-text">**ljudskosti i topline**</span> je ono što Barselonu izdvaja od drugih hladnih evropskih turističkih centara. Upravo ti ljudi daju boju kamenim fasadama i čine da se svaki putnik, makar na kratko, osjeća kao da pripada ovom magičnom kutku svijeta.
 
 <div class="info-box-container">
   <h3>Zanimljivosti o Barseloni</h3>

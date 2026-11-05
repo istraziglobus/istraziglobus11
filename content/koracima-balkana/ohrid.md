@@ -1,5 +1,5 @@
 ---
-title: "Ohrid : Živa riznica istorije"
+title: "Ohrid: Živa riznica istorije"
 subtitle: "Putovanje u srce Balkana: Bajkovita priča o jezeru, crkvama i miru"
 slug: "ohrid-putopis-makedonija"
 date: 2025-08-06T16:00:00+01:00

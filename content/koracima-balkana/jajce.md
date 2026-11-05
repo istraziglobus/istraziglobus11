@@ -1,5 +1,5 @@
 ---
-title: "Jajce : Kraljevski grad i muzej na vodi"
+title: "Jajce: Kraljevski grad i muzej na vodi"
 subtitle: "Gdje se krunisao posljednji bosanski kralj i gdje priroda prkosi vremenu"
 slug: "jajce-kraljevski-grad-vodič-istorija"
 date: 2026-03-05T13:00:00+01:00

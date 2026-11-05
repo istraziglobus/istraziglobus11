@@ -25,9 +25,9 @@ tags:
   - Tradicija
 ---
 
-Marokanska kuhinja jedna je od najpoznatijih gastronomija svijeta, poznata po bogatim začinima, sporom kuvanju i jedinstvenoj kombinaciji slatkih i slanih aroma. Ona je odraz vjekovne istorije i kulturnih uticaja koji su oblikovali ovu sjevernoafričku zemlju. Od berberskih planina do arapskih pustinja, svaki zalogaj priča priču o trgovini začinima, osvajanjima i simbiozi različitih tradicija koje su se sretale na raskršću kontinenata.
+Na samom sjeverozapadu Afrike, marokanska kuhinja pruža nevjerovatnu paletu aroma, polagano kuvanih jela i neobičnih kombinacija slatkog i slanog. Ova kulinarska tradicija oblikovala se pod uticajem berberskih plemena, arapskih trgovaca i mediteranskih kultura. Šetnja kroz uske ulice marokanskih medina neizbježno vas vodi pored živopisnih tezgi krcatih kuminom, šafranom i ukiseljenim limunom, dok iz glinenih posuda dopire miris krčkanog mesa.
 
-Više od samo hrane, marokanska trpeza je iskustvo koje budi sva čula, pozivajući vas na putovanje kroz aromatične čarolije. Harmonija slatkog i slanog, uz majstorsku upotrebu <span class="highlight-text">**egzotičnih začina**</span>, stvara slojevite arome koje ostaju u sjećanju dugo nakon što napustite ovu magičnu zemlju.
+Ručak u Maroku prevazilazi prostu potrebu za hranom. To je prilika za polagano uživanje u jelima iz posuda sa kupolastim poklopcem i dugotrajni razgovor uz topli čaj od nane. Specifične mješavine začina i tradicija dijeljenja obroka čine marokansku trpezu jednom od najautentičnijih na afričkom kontinentu.
 
 ---
 
@@ -63,7 +63,7 @@ Osim praškastih začina, Marokanci obilno koriste svježe bilje poput korijande
 
 ## Kus-kus kao nacionalni simbol
 
-Kus-kus je mnogo više od obične tjestenine; to je ritualno jelo koje se tradicionalno <span class="highlight-text">**priprema petkom**, nakon podnevne molitve. Proces pripreme je dugotrajan i zahtijeva strpljenje, jer se sitna zrna pšenice više puta pare iznad bogatog variva. Pravi marokanski kus-kus mora biti lagan i vazdušast, nikako ljepljiv.
+Kus-kus je mnogo više od obične tjestenine; to je ritualno jelo koje se tradicionalno <span class="highlight-text">**priprema petkom**</span>, nakon podnevne molitve. Proces pripreme je dugotrajan i zahtijeva strpljenje, jer se sitna zrna pšenice više puta pare iznad bogatog variva. Pravi marokanski kus-kus mora biti lagan i vazdušast, nikako ljepljiv.
 
 Najpoznatija varijanta je <span class="highlight-text">**"sedam vrsta povrća"**</span>, koja simbolizuje izobilje i blagoslov. Povrće poput bundeve, tikvica, mrkve i leblebija kuha se zajedno sa mesom kako bi kus-kus upio sve mirisne sokove. Servira se u velikim posudama, pri čemu se povrće slaže u obliku piramide preko posteljice od zrnevlja.
 

@@ -1,5 +1,5 @@
 ---
-title: "Đurđevića Tara : Kameni div iznad ambisa"
+title: "Đurđevića Tara: Kameni div iznad ambisa"
 subtitle: "Arhitektonsko remek-djelo iznad najdubljeg kanjona Evrope"
 slug: "most-na-djurdjevica-tari-vodic"
 date: 2025-07-06T14:00:00+01:00
@@ -38,7 +38,7 @@ Betonska konstrukcija se savršeno uklopila u sivi kamen durmitorskih <span clas
 Kada je završen, most je predstavljao tehnološki vrhunac Kraljevine Jugoslavije. Putnici su prvi put mogli bezbjedno preći preko ponora <span class="highlight-text">**kanjona**</span>. Ipak, niko tada nije slutio kakvu će ulogu ovaj most odigrati u ratu. On je ubrzo postao mnogo više od saobraćajnice. Postao je simbol strateške nadmoći i herojskog otpora naroda.
 
 {{< figcredit 
-    src="/slike/balkan/most1.jpg" 
+    src="slike/balkan/most1.jpg" 
     alt="Impresivni most na Djurdjevića Tari"
     author="Julian Nyča"
     source="Wikimedia Commons"

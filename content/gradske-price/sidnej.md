@@ -63,7 +63,7 @@ Kada se nađete u ovoj okeanskoj metropoli, ove lokacije su nezaobilazne za potp
 * **Bondi Beach:** Legendarna plaža, raj za surfere i simbol opuštenog australijskog života.
 * **Darling Harbour:** Srce zabave i pješačka zona prepuna restorana, akvarijuma i muzeja.
 
-<span class="highlight-text"> iz vazduha: Doživite grad u punom 4K sjaju</span> 👇
+<span class="highlight-text">Iz vazduha: Doživite grad u punom 4K sjaju</span> 👇
 
 {{< youtube-custom n5Jk63JnLwI >}}
 
@@ -75,7 +75,7 @@ Sidnej ima mračnu i fascinantnu prošlost. Osnovan kao kaznena kolonija za brit
 
 Aboridžinski korijeni Sidneja su još dublji i datiraju desetinama hiljada godina unazad. Danas grad polako, ali ponosno, vraća dug svojoj prastaroj kulturi kroz nazive mjesta i umjetničke festivale. Sidnej je uspio da se transformiše iz "zatvora na kraju svijeta" u magnet za mozak i kapital, postajući <span class="highlight-text">**finansijsko srce Pacifika**</span>.
 
-Stanovnici Sidneja, poznati kao "Sydneysiders", opsjednuti su stilom života (lifestyle). Ovdje se uspjeh ne mjeri samo satom na ruci, već brojem sati provedenih na suncu. Ta <span class="highlight-text">**opuštena energija**</span> je zarazna; u Sidneju nema žurbe koja guši. Čak i usred poslovnog distrikta, osjetićete da je okean blizu i da niko nije toliko zaposlen da ne bi mogao da uživa u popodnevnom roštilju (barbie) na plaži.
+Stanovnici Sidneja, poznati kao "Sydneysiders", opsjednuti su stilom života (lifestyle). Ovdje se uspjeh ne mjeri samo satom na ruci, već brojem sati provedenih na suncu. Ta <span class="highlight-text">**opuštena energija**</span> je zarazna; u Sidneju nema žurbe koja guši. Čak i usred poslovnog distrikta, osjetit ćete da je okean blizu i da niko nije toliko zaposlen da ne bi mogao da uživa u popodnevnom roštilju (barbie) na plaži.
 
 ---
 
@@ -109,17 +109,17 @@ Danas Harbour Bridge nije samo saobraćajna arterija, već i jedna od najvećih 
 
 ---
 
-## Haymarket – Najveći kineski uticaj na jugu
+## Haymarket – Tradicija Zlatne groznice i mirisi Azije
 
-Četvrt Haymarket (Chinatown) je fascinantan primjer kako su se različite kulture integrisale u australijsko društvo, stvarajući jedinstven <span class="highlight-text">**mikrokozmos**</span> usred grada. Ulaskom u ovaj kvart, putnik se osjeća kao da je zakoračio u Aziju, zahvaljujući crvenim lukovima i kineskim natpisima. Haymarket čuva nasljeđe doseljenika koji su decenijama donosili svoju <span class="highlight-text">**vještinu**</span> i kulturu na tlo Australije.
+Predio Haymarket, poznatiji kao sidnejski Chinatown, nosi istoriju koja je direktno povezana sa velikom australijskom Zlatnom groznicom iz 19. vijeka. Prvi doseljenici iz Guangdong provincije stigli su ovdje u potrazi za bogatstvom, donoseći sa sobom kulturu i tradiciju koje su trajno preoblikovale identitet metropole. Danas je ovaj dio grada prepun <span class="highlight-text">**žive tradicije**</span>, gdje se iznad ulica pružaju crveni lampioni i tradicionalne kapije Paifang na ulazu u ulicu Dixon.
 
-Danas je ovaj dio grada centar azijske kulture, poznat po svojim noćnim pijacama i prodavnicama egzotične robe. <span class="highlight-text">**Harmonija**</span> između australijske direktnosti i azijske tradicije vidljiva je u svakom restoranu i zanatskoj radnji. Turisti rado dolaze ovdje da probaju autentični dim sum ili istraže prodavnice koje nude najnovije trendove iz Hong Konga usred Sidneja.
+Ovdje se ne dolazi samo u razgledanje, već na prava kulinarska putovanja. Od najpoznatijih porodičnih *Yum Cha* restorana u kojima se *dim sum* kolica guraju između stolova još od ranog jutra, do večernjih noćnih marketa koji petkom ulice pune aromama pečenih pataka i svježih morskih plodova. Haymarket nudi spoj <span class="highlight-text">**autentičnog nasljeđa**</span> i modernog ritma života koji privlači podjednako i lokalce i putnike.
 
-Međutim, Chinatown nije samo turistička atrakcija, već živa zajednica koja ljubomorno čuva svoje korijene i običaje kroz generacije. <span class="highlight-text">**Ponos**</span> koji mještani osjećaju prema svom nasljeđu vidi se u svakoj proslavi kineske nove godine pod svjetlima grada. Ovaj kvart nas uči da su različitosti najveće bogatstvo svake metropole i da su granice tu samo da bi se uspješno prelazile.
+Ovaj kvart je podsjetnik na to koliko je Sidnej zapravo prirodno povezan sa azijsko-pacifičkim regionom. Kroz generacije trgovaca, kuvara i zanatlija, Haymarket je sačuvao svoj <span class="highlight-text">**jedinstveni duh**</span> koji obogaćuje kulturnu scenu grada, dokazujući da se prave vrijednosti i zajedništvo najbolje čuvaju kroz poštovanje sopstvenih korijena.
 
 {{< figcredit 
     src="slike/sidnej/sidnej2.jpg" 
-    alt="Arhittektonsko čudo u Barangaroo waterfront"
+    alt="Arhitektonsko čudo u Barangaroo waterfront"
     author="Fang Lan Hsu (芳蘭 徐芳蘭)"
     source="Flickr / Wikimedia Commons"
     source_url="https://www.flickr.com/photos/fanglanhsu/52930380087/"
@@ -131,7 +131,7 @@ Međutim, Chinatown nije samo turistička atrakcija, već živa zajednica koja l
 
 ## Blue Mountains: Divljina na pragu metropole
 
-Svega sat i po vožnje od Sidneja nalazi se potpuno drugi svijet – Plave planine. Ime su dobile po **plavičastoj magli** koja nastaje isparavanjem ulja iz nepreglednih šuma eukaliptusa. Ovo je predio dubokih kanjona, dramatičnih vodopada i strmih litica koji podsjeća na to koliko je Australija zapravo divlja i neukroćena. Dok stojite na ivici vidikovca Echo Point, shvatićete da je plavetnilo horizonta ovdje toliko intenzivno da se granica između neba i šume potpuno gubi. To je prostranstvo koje vas istovremeno čini malenim, ali i nevjerovatno živim.
+Svega sat i po vožnje od Sidneja nalazi se potpuno drugi svijet – Plave planine. Ime su dobile po **plavičastoj magli** koja nastaje isparavanjem ulja iz nepreglednih šuma eukaliptusa. Ovo je predio dubokih kanjona, dramatičnih vodopada i strmih litica koji podsjeća na to koliko je Australija zapravo divlja i neukroćena. Dok stojite na ivici vidikovca Echo Point, shvatit ćete da je plavetnilo horizonta ovdje toliko intenzivno da se granica između neba i šume potpuno gubi. To je prostranstvo koje vas istovremeno čini malenim, ali i nevjerovatno živim.
 
 Tri sestre (Three Sisters) su najpoznatija formacija stijena, povezana sa drevnim **aboridžinskim legendama**. Šetnja kroz ove planine nudi tišinu koju je u gradu nemoguće pronaći. To je mjesto gdje se vrijeme usporava, a vazduh postaje oštar i hladan. Sidnej ima tu nevjerovatnu privilegiju da na dohvat ruke ima jedan od najljepših nacionalnih parkova na planeti. Svaki korak stazama Wentworth Fallsa otkriva skrivene pećine i poglede koji se nisu mijenjali hiljadama godina. Miris vlažne zemlje i daleki huk vodopada stvaraju prirodnu simfoniju koja briše sav urbani stres.
 
@@ -159,13 +159,13 @@ Za one koji traže nešto mirnije, grad nudi brojna pozorišta i dvorane u kojim
 
 ---
 
-## Umjetnost na ulicama: Murali i Newtown
+## Umjetnost na ulicama: Buntovnički duh Newtowna
 
-Za ljubitelje urbane kulture, ulice kvarta Newtown predstavljaju vrhunac kreativnog izražavanja i jedan od najživopisnijih <span class="highlight-text">**mozaika**</span> na svijetu. Smještena zapadno od centra, ova zona je galerija na otvorenom gdje se radovi stalno mijenjaju i dopunjuju. Ulična umjetnost je ovdje postala legitiman način <span class="highlight-text">**dijaloga**</span> između lokalne zajednice i društva, pretvarajući sivi beton u eksploziju boja.
+Za ljubitelje alternativne scene i nefiltriranog gradskog života, kvart Newtown predstavlja pravu oazu slobodne misli i urbane kulture. Duž glavne ulice King Street i okolnih zabačenih pasaža, fasade starih viktorijanskih zgrada pretvorene su u <span class="highlight-text">**otvoreno platno**</span>. Najčuveniji među njima je istorijski mural *"I Have a Dream"* sa likom Martina Lutera Kinga, koji decenijama stoji kao simbol borbe za ljudska prava i jednakost.
 
-Svaki zid u Enmore Roadu priča svoju priču, od ekoloških poruka do apstraktnih snova mladih australijskih vizionara i umjetnika. <span class="highlight-text">**Transformacija**</span> prostora je nevjerovatna, jer se motivi mijenjaju svakih nekoliko mjeseci, osiguravajući da nijedna šetnja nije potpuno ista. Newtown je srce kreativne industrije grada, privlačeći fotografe, muzičare i turiste željne autentičnog vizuelnog iskustva.
+Ovaj kvart nudi potpuno drugačiju energiju u odnosu na staklene solitere finansijskog centra. Newtown je dom nezavisnih knjižara, vintage shopova sa pločama i odjećom, kao i malih teatara poput kultnog Enmore Theatre-a gdje su svoje karijere počinjali najveći australijski bendovi. Ovdje ulična umjetnost nije vandalizam, već <span class="highlight-text">**glas zajednice**</span> koji komentariše ekologiju, politiku i savremeno društvo.
 
-Četvrt Surry Hills, koja okružuje ove uličice, poznata je po svojim butik galerijama, barovima i opuštenoj atmosferi koja traje do kasno. <span class="highlight-text">**Inspiracija**</span> koju pruža ovaj kvart osjeti se u svakom razgovoru uz pivo i svaku novu skicu na fasadi. U Sidneju, umjetnost ne živi samo u muzejima, već diše na ulicama zajedno sa ljudima koji ih svakodnevno čine živim.
+Šetnja kroz Enmore Road otkriva restorane sa kuhinjama iz svih dijelova svijeta, stvarajući opuštenu, boemsku atmosferu gdje se svako osjeća dobrodošlim. Newtown drži lekciju o tome kako grad može rasti i modernizovati se, a da pritom zadrži svoju <span class="highlight-text">**slobodarsku dušu**</span> i prkosi uniformisanosti komercijalnog turizma.
 
 <div class="info-box-container">
   <h3>Zanimljivosti o Sidneju</h3>
@@ -189,8 +189,8 @@ Hodajući kroz ove ulice, možete vidjeti zgrade poput Queen Victoria Building, 
 Revitalizacija George Street-a donijela je novu energiju, pretvarajući glavnu ulicu u zonu bez automobila sa modernim lakim šinama i pješačkim zonama. <span class="highlight-text">**Vizija**</span> modernog Sidneja uključuje povratak ljudima i stvaranje prostora koji su ekološki održivi i prijatni za život. Posjeta centru je putovanje kroz ambiciju koje vam pomaže da razumijete kako je ovaj grad postao globalni titan kakav je danas.
 
 <div class="tip-box">
-  <h3>Detalj iz grada koji diše bojama</h3>
-  <p>U srcu Sidneja nalazi se <strong>The Rocks</strong> – istorijska četvrt ispod luka Harbour Bridge-a, potpuno izgrađena od pješčara. Svaki kamen je istorija, svaka uličica priča. Umjetnici i zanatlije ovdje vikendom stvaraju pijacu koja je srce zajednice, a mještani kažu da se miris starog Sidneja ovdje najbolje osjeća – nikad nije isti dva puta. To je lice Sidneja: uvijek staro, uvijek novo, uvijek u pokretu.</p>
+  <h3>Srce od žutog pješčara u senci luka</h3>
+  <p>U samom podnožju Harbour Bridge-a leži <strong>The Rocks</strong> – najstariji kvart Sidneja čije su ulice ručno klesali prvi zatvorenici iz žutog pješčara. Svaki kamen ovdje nosi priču o pomorcima, starim pabovima poput <em>Lord Nelsona</em> i kolonijalnim skladištima koja su danas pretvorena u galerije i moderne restorane. Vikendom se ovdje održava poznati sajam zanatlija, gdje možete osjetiti miris starog, pomorskog Sidneja dok posmatrate brodove u luci.</p>
 </div>
 
 ---
@@ -201,7 +201,7 @@ Sidnej je grad koji vas uči da se ne bojite daljine. On je daleko od svega, ali
 
 Odlazak iz Sidneja je uvijek težak. Ostavljate za sobom to specifično jutarnje sunce koje se odbija od Opere i osjećaj da je sve moguće ako imate dasku za surf i malo sreće. On je grad koji vas <span class="highlight-text">**ispunjava optimizmom**</span> i podsjeća da je život prekratak da ga ne bismo proveli pored vode.
 
-Kada sklopite oči i pomislite na Sidnej, vidjećete plavetnilo. To je plavetnilo neba, mora i slobode koja se ne može kupiti, već samo osjetiti šetajući obalom Bondija. Sidnej je <span class="highlight-text">**praznik za sva čula**</span> i destinacija koja će zauvijek promijeniti način na koji gledate na pojam idealnog grada.
+Kada sklopite oči i pomislite na Sidnej, vidjet ćete plavetnilo. To je plavetnilo neba, mora i slobode koja se ne može kupiti, već samo osjetiti šetajući obalom Bondija. Sidnej je <span class="highlight-text">**praznik za sva čula**</span> i destinacija koja će zauvijek promijeniti način na koji gledate na pojam idealnog grada.
 
 {{< faq title="Često postavljana pitanja o posjeti Sidneju" >}}
 

@@ -23,10 +23,10 @@ draft: false
 ---
 
 
-Istanbul je grad na dva kontinenta – Evropa i Azija, podijeljen Bosforom. Sa više od 15 miliona stanovnika, to je jedan od najživljih i kulturno najbogatijih gradova svijeta. Od veličanstvenih vizantijskih mozaika u Aja Sofiji do užurbane atmosfere Kapali Čaršije, Istanbul je mesto gde se drevna istorija i moderni ritmovi spajaju u neodoljivu, pulsirajuću celinu. Ovo je jedinstvena metropola u kojoj miris začina s Istoka prati zvonjavu tramvaja sa Zapada, pozivajući vas na putovanje kroz vreme i kulturu koje ćete pamtiti zauvek.
+Istanbul je jedini grad na svijetu koji se prostire na dva kontinenta, razdijeljen moćnim Bosforom. Sa više od 15 miliona stanovnika, ovo je nevjerovatno dinamična metropola u kojoj se prepliću vjekovi istorije. Dok šetate od monumentalne Aja Sofije do bučnih prolaza Kapali čaršije, osjetićete spoj osmanskog nasljeđa i savremenog gradskog života. Istanbul vas osvaja na prvi korak – mirisom svježe pržene kafe, kricima galebova oko trajekta i karakterističnim pozivom na molitvu koji odjekuje iznad krovova Sultanahmeta.
 
 ## 1. Zašto Istanbul?
-Ovdje se susreću osmanska raskoš, vizantijska istorija i moderna turska svakodnevica. Grad je pun kontrasta: džamije naspram crkava, bazari pored tržnih centara, tradicionalni čaj u naselju Üsküdar dok u Beyoğlu ispijate koktel na rooftop baru. Upravo ta neponovljiva mešavina Istoka i Zapada, haosa i elegancije, čini Istanbul jedinstvenim magnetom za svakog putnika koji traži priču izvan uobičajene turističke staze. 
+Istanbul je mjesto gdje se prepliću osmanska raskoš, vizantijska istorija i moderna turska svakodnevica. Grad je pun kontrasta: džamije naspram crkava, bazari pored tržnih centara, tradicionalni čaj u naselju Üsküdar dok u Beyoğlu ispijate koktel na rooftop baru. Upravo ta neponovljiva mješavina Istoka i Zapada, haosa i elegancije, čini Istanbul jedinstvenim magnetom za svakog putnika koji traži priču izvan uobičajene turističke staze. 
 
 ---
 
@@ -264,9 +264,7 @@ Moguće je doći autoputem, ali treba uračunati putarinu i gorivo. Putarina Srb
 
 ## 13. Zaključak
 
-Istanbul nije samo grad – to je iskustvo.  
-Sa svojim džamijama, palatama, bazarima i živopisnim kvartovima, svaki putnik u njemu pronađe nešto svoje.  
-Bilo da ste ljubitelj istorije, gastronomije ili želite uživati u vibrantnoj atmosferi metropole na dva kontinenta – Istanbul će vas osvojiti.  
+Istanbul je grad kojem se putnici uvijek iznova vraćaju. Njegova snaga leži u neiscrpnoj energiji, bogatoj istoriji i gostoprimstvu na svakom koraku. Bilo da dođete zbog obilaska carskih palata, istraživanja živopisnih kvartova na azijskoj strani ili jednostavnog uživanja u turskom čaju uz pogled na Bosfor – ovaj grad će vas brzinom i šarmom potpuno osvojiti.
 
 {{< figcredit 
     src="slike/vodic/istanbul3.jpg" 

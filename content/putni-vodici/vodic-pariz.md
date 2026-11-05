@@ -22,10 +22,10 @@ tags:
 draft: false
 ---
 
-Pariz je sinonim za eleganciju i jedna od najposjećenijih metropola svijeta. Smješten na obalama rijeke Sene u srcu sjeverne Francuske, ovaj grad spaja vjekovnu aristokratsku istoriju sa avangardnom umjetnošću koja pulsira njegovim arondismanima. Od gvozdenih konstrukcija Ajfelovog tornja do mističnih hodnika Luvra, Pariz je mjesto gdje se imperijalna grandioznost i romantični ritmovi spajaju u neodoljivu, vanvremensku cjelinu. Ovo je jedinstvena metropola u kojoj miris svježe pečenih kroasana prati šum užurbanih bulevara, pozivajući vas na putovanje kroz modu i gastronomiju koje ćete pamtiti zauvijek.
+Ima nečeg posebnog u načinu na koji Pariz dočekuje svoje posjetioce. Smješten duž rijeke Sene, francuski glavni grad veći dio svoje privlačnosti duguje prepoznatljivoj arhitekturi, širokim bulevarima i bogatom kulturnom nasljeđu. Od impresivnog pogleda sa Ajfelovog tornja do kaldrmisanih ulica Monmartra i izložbi u muzejima Luvr i d'Orsay, Pariz pruža osjećaj putovanja kroz nekoliko različitih epoha odednom. Ovo je grad u kojem doručak u lokalnoj pekari i šetnja pored bukinista uz reku čine jednostavne, a nezaboravne trenutke.
 
 ## 1. Zašto Pariz?
-Ovdje se susreću raskoš ere Prosvjetiteljstva, burna Francuska revolucija i savremena globalna kultura. Grad je pun kontrasta: monumentalne avenije naspram uskih boemskih ulica na Monmartru, svjetski muzeji pored tradicionalnih bistroa, opušteno ispijanje kafe u Latinskoj četvrti dok na Jelisejskim poljima pratite najnovije dizajnerske trendove. Upravo ta neponovljiva mješavina prefinjenosti i umjetničke energije čini Pariz magnetom za svakog putnika koji traži autentičan duh Evrope.
+Pariz je jedna od onih destinacija koje jednostavno morati doživjeti uživo, bez obzira koliko ste fotografija vidjeli na internetu. Razlog za posjetu leži u nevjerovatnoj koncentraciji svetske kulturne baštine na relativno malom prostoru. U istom danu možete vidjeti Mona Lizu, popiti kafa na balkonu restorana sa pogledom na Operu Garnier i provesti popodne u hladu parka Tuileries. Pored velikih spomenika, Pariz vas osvaja i malim stvarima – poput sjajnih peciva, francuskih sireva i opuštene šetnje kroz četvrt Marais.
 
 ---
 
@@ -195,7 +195,6 @@ Povoljna opcija iz susjednih država (FlixBus). Cijena iz Amsterdama ili Kelna: 
 - **Beretke i šalovi:** Klasični simboli pariskog stila.  
 - **Sirevi i vina:** Camembert ili Roquefort kupljeni u lokalnoj *fromagerie*.  
 - **Knjige sa keja:** Stari posteri i knjige od bukinista pored Sene.  
-- **Figurice tornja:** Od najjeftinijih do luksuznih dizajnerskih verzija.  
 
 👉 Najbolje mjesto: **Galeries Lafayette** za luksuz ili **Rue de Rivoli** za suvenire.  
 
@@ -248,9 +247,7 @@ Povoljna opcija iz susjednih država (FlixBus). Cijena iz Amsterdama ili Kelna: 
 
 ## 13. Zaključak
 
-Pariz nije samo grad – to je stanje uma (état d'esprit).  
-Sa svojim širokim bulevarima, intimnim kafeima i kulturom koja se osjeća na svakom ćošku, svaki posjetilac ovdje pronađe djelić inspiracije.  
-Bilo da ste ljubitelj istorije, modni fanatik ili prosto želite osjetiti čuveni "joie de vivre" – Pariz će vas osvojiti svojom estetikom i neprolaznim šarmom.  
+Pariz je destinacija koja nudi obilje sadržaja za svakog posjetioca. Šetnja obalama Sene, obilazak svetski poznatih muzeja i opušteni trenuci u pariskim parkovima čine ovo putovanje nezaboravnim. Bez obzira da li vas privlači istorija, vrhunska umetnost ili klasična gastronomska ponuda, Francuska prijestonica pruža iskustvo koje se pamti čitavog života.
 
 {{< figcredit 
     src="slike/vodic/pariz3.jpg" 

@@ -25,11 +25,9 @@ tags:
 
 ---
 
-Meksiko je zemlja sunca, boja i ritma, ali prije svega – zemlja kukuruza. Za Meksikance, kukuruz nije samo biljka; on je dio njihove duše i osnovni gradivni element identiteta i temelj svakodnevnog života. Prema drevnom majanskom mitu, ljudi su stvoreni upravo od kukuruza, zlatnog zrna koje daje život i snagu.
+Priča o meksičkoj kuhinji neodvojiva je od priče o kukuruzu, biljci koja je milenijumima temelj života na ovom prostoru. Prema majanskim mitovima, prvi ljudi stvoreni su upravo od kukuruznog tijesta. Dok druge civilizacije u centru gastronomske tradicije imaju pšenicu ili rižu, Meksiko je svoju kulturu izgradio oko ovog zlatnog zrna koje se uzgaja u desecima autentičnih varijeteta.
 
-Dok Evropa ima hljeb, a Azija rižu, Meksiko ima kukuruz – svoj hljeb, svoje srce i svoju najdublju priču. U svakom zrncu krije se prošlost naroda koji je učio da poštuje zemlju, da hvali sunce i da živi u ritmu prirode. Kada se iznad dolina digne miris svježih tortilja, to je miris istorije koja traje hiljadama godina.
-
-U svijetu koji se neprestano mijenja, meksička trpeza ostaje čuvar tradicije i zajedništva. Svaki obrok je prilika za slavlje života, uz nezaobilazne boje čilija i avokada koje prate zlatnu podlogu kukuruza. Pozivamo vas na putovanje kroz ukuse koji su toliko moćni da ih je UNESCO proglasio <span class="highlight-text">**svjetskom kulturnom baštinom**</span>.
+Od mirisa svježih kukuruznih tortilja sa uličnih štandova do složenih sosova u kojima se kombinuju čili i čokolada, meksička trpeza odiše bogatstvom ukusa i boja. Zbog svoje vjekovne istorije, autentičnih tehnika i kulturnog značaja, ova gastronomija nosi status <span class="highlight-text">**svjetske nematerijalne kulturne baštine**</span> pod zaštitom UNESCO-a.
 
 ---
 

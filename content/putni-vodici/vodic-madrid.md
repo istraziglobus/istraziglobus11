@@ -22,10 +22,10 @@ tags:
 draft: false
 ---
 
-Madrid je srce Španije i jedna od najživljih metropola Evrope. Smješten na centralnom platou Iberijskog poluostrva, ovaj grad spaja kraljevsku grandioznost sa nezaustavljivim modernim životom koji pulsira njegovim avenijama. Od remek-djela u muzeju Prado do uzavrele atmosfere na stadionu Santiago Bernabéu, Madrid je mjesto gdje se aristokratska istorija i savremeni ritmovi spajaju u neodoljivu, pulsirajuću cjelinu. Ovo je jedinstvena metropola u kojoj miris svježe prženih ćurosa prati žamor užurbanih trgova, pozivajući vas na putovanje kroz umjetnost i kulturu koje ćete pamtiti zauvijek.
+Ako tražite grad u kom se živi na ulici, bez žurbe i sa puno strasti, Madrid je prava adresa. Španska prijestonica, smještena na visokom platou u samom srcu zemlje, osvaja otvorenošću i nevjerovatnom energijom. Ovdje se kraljevska elegancija i široke avenije prirodno spajaju sa opuštenim lokalnim životom. Od svjetski poznatih slika u muzeju Prado do bučnih taverni u kvartu La Latina, Madrid nudi toplinu koja vas već prvog dana natjera da se osjećate kao kod kuće.
 
 ## 1. Zašto Madrid?
-Ovdje se susreću kraljevska raskoš dinastije Bourbon, burna španska istorija i moderna evropska svakodnevica. Grad je pun kontrasta: monumentalne palate naspram uskih boemskih ulica, svjetski muzeji pored tradicionalnih taverni, opušteno ispijanje vina u četvrti La Latina dok na Gran Vía pratite najnovije modne trendove. Upravo ta neponovljiva mješavina elegancije i ulične energije čini Madrid magnetom za svakog putnika koji traži autentičan duh Španije.
+Glavni adut Madrida je njegov neprevaziđen stil života. Za razliku od nekih drugih evropskih metropola koje djeluju kao muzej na otvorenom, Madrid živi punim plućima svakog sata u danu. Ovdje ćete lako kombinovati posjetu jednoj od najvećih kraljevskih palata u Evropi sa ručkom na lokalnoj pijaci San Miguel, ili popodnevnom šetnjom kroz park Retiro. Grad je savršen za gurmane, ljubitelje umjetnosti i sve koji žele da osjete autentičnu špansku atmosferu bez pretjeranog turističkog pritiska.
 
 ---
 
@@ -197,7 +197,6 @@ Dobro povezan sa Portugalom i ostatkom Španije. Cijena iz Lisabona ili Sevilje:
 - **Lepeze (Abanicos):** Ručno oslikane, od 10 € naviše.  
 - **Jamón Ibérico:** Vakumirana šunka spremna za put.  
 - **Saffron i maslinovo ulje:** Nezaobilazni začini.  
-- **Dres Real Madrida:** Najpopularniji suvenir za ljubitelje sporta.  
 
 👉 Najbolje mjesto: **El Rastro** (nedjeljni buvljak) ili **Gran Vía** za brendove.  
 
@@ -250,9 +249,7 @@ Dobro povezan sa Portugalom i ostatkom Španije. Cijena iz Lisabona ili Sevilje:
 
 ## 13. Zaključak
 
-Madrid nije samo grad – to je način života (estilo de vida).  
-Sa svojim kraljevskim palatama, nepreglednim muzejima i energijom koja ne jenjava ni u 3 sata ujutro, svaki putnik ovdje pronađe svoju strast.  
-Bilo da ste zaljubljenik u umjetnost, gurman ili prosto želite osjetiti čuvenu "la movida" atmosferu – Madrid će vas osvojiti svojom toplinom i neposrednošću.  
+Madrid je grad u kojem se brzo osjećate dobrodošlo. Njegovi ureveni trgovi, bogati muzeji i kultura dijeljenja obroka sa prijateljima ostavljaju upečatljiv utisak. Bilo da dođete zbog remek-djela umjetnosti, posjete legandarnom Bernabéu stadionu ili opuštanja u parku Retiro, Madrid će vam pokazati najljepše lice španskog načina života.
 
 {{< figcredit 
     src="slike/vodic/madrid1.jpg" 

@@ -1,5 +1,5 @@
 ---
-title: "Trebinje : Grad platana i sunca"
+title: "Trebinje: Grad platana i sunca"
 subtitle: "Mediteranski duh Hercegovine pod stogodišnjim platanima"
 slug: "trebinje-vodic-hercegovina"
 date: 2025-07-06T15:00:00+01:00

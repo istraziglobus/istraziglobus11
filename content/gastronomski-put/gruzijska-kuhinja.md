@@ -25,9 +25,9 @@ tags:
   - Tradicija
 ---
 
-Gruzijska kuhinja predstavlja jedan od najstarijih i najautentičnijih gastronomskih sistema na svijetu, prepoznatljiv po specifičnim začinima, upotrebi oraha i najdužoj tradiciji vinarstva. Ona je direktan odraz burne istorije i neobičnog geografskog položaja ove kavkaske zemlje koja spaja istok i zapad. Od sniježnih vrhova planina do sunčanih dolina Kahetija, svaki zalogaj priča priču o neraskidivoj vezi naroda sa zemljom i <span class="highlight-text">**hrišćanskim nasljeđem**</span> koje se čuva vijekovima.
+Ispod visokih vrhova Kavkaza razvila se jedna od najstarijih kulinarskih kultura na planeti, čiji recepti traju milenijumima. Gruzijska kuhinja je duboko vezana za zemlju, hrišćansku tradiciju i vjekovni uzgoj vinove loze. Od sunčanih dolina regije Kaheti pa sve do strmih planinskih sela Svanetija, svaki obrok odiše aromatičnim biljem, orasima i specifičnim sirevima. Kada sjednete za gruzijski sto, dočekaće vas neprekidni slijed tanjira i gostoprimstvo kakvo se rijetko gdje još sreće.
 
-Više od samog obroka, gruzijska trpeza je duhovno iskustvo koje prožima sva čula, pozivajući vas na putovanje kroz aromatične rituale. Harmonija svježih biljaka i bogatih sosova, uz majstorsku upotrebu <span class="highlight-text">**lokalnih sorti grožđa**</span>, stvara složene ukuse koji ostaju u sjećanju kao simbol nevjerovatnog gostoprimstva ove magične regije.
+Ova trpeza nije samo jednostavan obrok, već upečatljiv društveni ritual koji uključuje višesatno nazdravljanje, pjesmu i slavljenje života. Bogati sosovi od oraha, svježi hljeb iz glinenih peći i autohtone sorte grožđa stvaraju ukuse koji se dugo pamte i čine ovu gastronomiju potpuno jedinstvenom na mapi Evrope i Azije.
 
 ---
 

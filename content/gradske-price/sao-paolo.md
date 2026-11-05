@@ -74,13 +74,13 @@ Kada se nađete u ovoj južnoameričkoj metropoli, ove lokacije su nezaobilazne 
 
 Avenija Paulista predstavlja kičmu grada i mjesto gdje se najbolje osjeća njegova nezaustavljiva ekonomska i kulturna <span class="highlight-text">**snaga**</span>. Nekada dom bogatih kafenih barona, danas je ova ulica šuma nebodera u kojima se donose najvažnije poslovne odluke Južne Amerike. Nedjeljom se avenija zatvara za saobraćaj, pretvarajući se u džinovski park gdje ulični muzičari i umjetnici stvaraju atmosferu <span class="highlight-text">**slobode**</span> i zajedništva.
 
-Šetnja ovom ulicom nudi uvid u arhitektonske kontraste koji definišu Sao Paulo kroz decenije brzog razvoja. Ovdje se nalaze neki od najvažnijih muzeja, poput MASP-a, čija lebdeća struktura predstavlja <span class="highlight-text">**ikonu**</span> modernizma i hrabrosti singapurskih inženjera. Svaki korak na Paulisti otkriva novi sloj grada, od luksuznih tržnih centara do skrivenih knjižara koje čuvaju intelektualni duh Brazila.
+Šetnja ovom ulicom nudi uvid u arhitektonske kontraste koji definišu Sao Paulo kroz decenije brzog razvoja. Ovdje se nalaze neki od najvažnijih muzeja, poput MASP-a, čija lebdeća staklena struktura na crvenim stubovima arhitektice Line Bo Bardi predstavlja <span class="highlight-text">**ikonu**</span> brazilskog modernizma i vizionarskog inženjeringa. Svaki korak na Paulisti otkriva novi sloj grada, od luksuznih tržnih centara do skrivenih knjižara koje čuvaju intelektualni duh Brazila.
 
 Čak i u trenucima najveće gužve, avenija zadržava određeni šarm koji putnike podsjeća na užurbanost Njujorka ili Tokija. <span class="highlight-text">**Dinamičnost**</span> prolaznika, miris svježe brazilske kafe i neprekidni protok informacija čine je savršenim mjestom za posmatranje života. Paulista nije samo ulica; ona je ogledalo aspiracija jednog naroda koji stalno teži ka modernijoj i boljoj budućnosti.
 
 {{< figcredit 
     src="slike/sao-paulo/sao-paulo1.jpg" 
-    alt="posled na čuvenu aveniju Paulista, žila kucavica grada Sao Paula"
+    alt="pogled na čuvenu aveniju Paulista, žila kucavica grada Sao Paula"
     author="Rodrigo.Argenton"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:Avenida_Paulista_no_p%C3%B4r_do_sol.jpg"
@@ -104,14 +104,13 @@ Posjeta čuvenoj pijaci Mercado Municipal je obavezna tačka za svakog gurmana k
 
 Za ljubitelje urbane kulture, uska uličica Beco do Batman predstavlja vrhunac kreativnog izražavanja i jedan od najljepših <span class="highlight-text">**murala**</span> na svijetu. Smještena u boemskom kvartu Vila Madalena, ova ulica je galerija na otvorenom gdje se radovi stalno mijenjaju i dopunjuju. Ulična umjetnost je ovdje postala legitiman način <span class="highlight-text">**dijaloga**</span> između umjetnika i društva, pretvarajući sivi beton u eksploziju boja.
 
-Svaki zid u ovoj uličici priča svoju priču, od političkih poruka do apstraktnih snova mladih brazilskih vizionara i umjetnika. <span class="highlight-text">**Transformacija**</span> prostora je nevjerovatna, jer se motivi mijenjaju svakih nekoliko mjeseci, osiguravajući da nijedna posjeta nije potpuno ista. Beco do Batman je srce kreativne industrije grada, privlačeći fotografe, muzičare i turiste željne autentičnog vizuelnog iskustva.
+Svaki zid u ovoj uličici priča svoju priču, od političkih poruka do apstraktnih snova mladih brazilskih vizionara i umjetnika. <span class="highlight-text">**Transformacija**</span> prostora je nevjerovatna, jer se motifs mijenjaju svakih nekoliko mjeseci, osiguravajući da nijedna posjeta nije potpuno ista. Beco do Batman je srce kreativne industrije grada, privlačeći fotografe, muzičare i turiste željne autentičnog vizuelnog iskustva.
 
 Vila Madalena, koja okružuje ovu uličicu, poznata je po svojim barovima, galerijama i opuštenoj atmosferi koja traje do ranih jutarnjih sati. <span class="highlight-text">**Inspiracija**</span> koju pruža ovaj kvart osjeti se u svakom razgovoru uz pivo i svaku novu skicu na fasadi. U Sao Paulu, umjetnost ne živi samo u muzejima, već diše na ulicama zajedno sa ljudima koji ih svakodnevno čine živim.
 
-
 {{< figcredit 
     src="slike/sao-paulo/sao-paulo2.jpg" 
-    alt="zgrada muzeja umjestonosti u Sao Paulu"
+    alt="zgrada muzeja umjetnosti u Sao Paulu"
     author="Francisco Anzola"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:MASP_-_Museu_de_Arte_de_S%C3%A3o_Paulo_(232990027).jpg"
@@ -133,7 +132,7 @@ Međutim, Liberdade nije samo turistička atrakcija, već živa zajednica koja l
 
 ## Noćni život i ritam sambe
 
-Kada sunce zađe, Sao Paulo se transformiše u jedno od najuzbudljivijih mjesta za izlazak na cijelom svijetu, nudeći nepresušan <span class="highlight-text">**izvor**</span> zabave. Od underground klubova u centru do sofisticiranih džez barova u kvartu Itaim Bibi, grad nudi muziku za svaki ukus i raspoloženje. Noćni život je ovdje <span class="highlight-text">**institucija**</span>, a žurke često traju do izlaska sunca uz zvuke sambe, bosa nove i moderne elektronike.
+Kada sunce zađe, Sao Paulo se transformiše u jedno od najuzbudljivijih mjesta za izlazak na cijelom svijetu, nudeći nepresušen <span class="highlight-text">**izvor**</span> zabave. Od underground klubova u centru do sofisticiranih džez barova u kvartu Itaim Bibi, grad nudi muziku za svaki ukus i raspoloženje. Noćni život je ovdje <span class="highlight-text">**institucija**</span>, a žurke često traju do izlaska sunca uz zvuke sambe, bosa nove i moderne elektronike.
 
 Kvart Vila Madalena postaje epicentar zabave svakog petka, sa svojim bezbrojnim kafićima čiji se stolovi izlijevaju direktno na uske i šarene pločnike. <span class="highlight-text">**Atmosfera**</span> je ispunjena smijehom, glasnom muzikom i aromom svježe pripremljenih koktela poput čuvene caipirinhe. Mještani, poznati kao "Paulistanos", strastveni su ljubitelji noćnog života i rado će vas ugostiti u svom omiljenom baru uz priče o gradu.
 
@@ -141,7 +140,7 @@ Za one koji traže nešto mirnije, grad nudi brojna pozorišta i koncertne dvora
 
 {{< figcredit 
     src="slike/sao-paulo/sao-paulo3.jpg" 
-    alt="Detalja sa jedne od ulica Sao Paula noću"
+    alt="Detalj sa jedne od ulica Sao Paula noću"
     author="Wilfredor"
     source="Wikimedia Commons"
     source_url="https://commons.wikimedia.org/wiki/File:Famiglia_Mancini_restaurant_facade_in_S%C3%A3o_Paulo_downtown,_Brazil.jpg"
@@ -176,7 +175,7 @@ U rano jutro, park je ispunjen ljudima koji praktikuju jogu ili voze bicikle, st
     <li>Grad ima najveću japansku zajednicu van Japana; četvrt Liberdade poznata je po festivalima i japanskim pijacama.</li>
     <li>U São Paulu se govori više od 200 jezika – grad je dom stotinama imigrantskih zajednica iz čitavog svijeta.</li>
     <li>Park Ibirapuera dizajnirao je slavni arhitekta Oscar Niemeyer; to je jedno od najljepših zelenih utočišta u Latinskoj Americi.</li>
-    <li>Ulični mural "Etnias"(Etničke grupe) umjetnika Kobrasa, naslikan povodom Olimpijskih igara u Riju 2016, jedan je od najvećih murala na svijetu </li>
+    <li>Ulični mural "Etnias" (Etničke grupe) umjetnika Kobrasa, naslikan povodom Olimpijskih igara u Riju 2016, jedan je od najvećih murala na svijetu.</li>
    </ul>
 </div>
 
@@ -192,7 +191,7 @@ Revitalizacija centra donijela je novu energiju starim zdanjima, pretvarajući i
 
 <div class="tip-box">
   <h3>Detalj iz grada koji diše bojama</h3>
-  <p>U centru São Paula nalazi se <strong>Beco do Batman</strong> – uska uličica u četvrti Vila Madalena, potpuno prekrivena muralima. Svaki zid je platno, svaka boja priča. Umjetnici iz cijelog svijeta dolaze da ostave svoj trag, a mještani kažu da se uličica mijenja svakih nekoliko mjeseci – nikad nije ista dva puta. To je lice São Paula: uvijek novo, uvijek živo, uvijek u pokretu.</p>
+  <p>U centru São Paula nalazi se <strong>Beco do Batman</strong> – uska uličica u četvrti Vila Madalena, potpuno prekrivena muralima. Svaki zid je platno, svaka boja priča. Umjetnici iz cijelog svijeta dolaze da ostave svoj trag, a mještani kažu da se uličica mijenja svakih nekoliko mjeseci – nikad nije ista dva puta. To me je podsjetilo da je São Paulo uvijek nov, uvijek živ i neprestano u pokretu.</p>
 </div>
 
 ---
@@ -201,7 +200,7 @@ Revitalizacija centra donijela je novu energiju starim zdanjima, pretvarajući i
 
 Sao Paulo možda nema plaže Rio de Janeira, ali posjeduje dušu i karakter koji putnike osvaja polako, ali <span class="highlight-text">**bespovratno**</span> kroz iskustva. To je grad koji traži da ga istražite duboko, da se izgubite u njegovim kvartovima i probate hranu na mjestima koja niste planirali posjetiti. Njegova prava snaga leži u ljudima, toj nevjerovatnoj <span class="highlight-text">**energiji**</span> koja čini da se uprkos betonu osjećate živim i dobrodošlim.
 
-Ovo nije samo turistička destinacija, već lekcija o preživljavanju, kreativnosti i neiscrpnoj želji za stalnim napretkom i modernizacijom svih aspekata života. Sao Paulo vas uči da se ljepota može naći i u najneočekivanijim <span class="highlight-text">**mjestima**</span>, ako ste dovoljno otvoreni da je potražite ispod površine. Svaki odlazak iz ovog grada prati obećanje o povratku, jer onaj ko jednom osjeti njegov ritam, zauvijek ostaje povezan sa njim.
+Ovo nije samo turistička destinacija, već lekcija o preživljavanju, kreativnosti i neiscrpnoj želji za stalnim napretkom i modernizacijom svih aspekata života. Sao Paulo vas uči da se ljepota može naći i u najneočekivanijim <span class="highlight-text">**mjestima**</span>, ako ste dovoljno otvorene da je potražite ispod površine. Svaki odlazak iz ovog grada prati obećanje o povratku, jer onaj ko jednom osjeti njegov ritam, zauvijek ostaje povezan sa njim.
 
 Zato, kada planirate svoje putovanje u Brazil, nemojte samo projuriti kroz njegov aerodrom, već mu posvetite vrijeme koje istinski zaslužuje svojom veličinom. Osjetite miris kiše na vrelom asfaltu, popijte kafu sa mještanima i dopustite da vas <span class="highlight-text">**magija**</span> Južne Amerike potpuno obuzme. Sao Paulo nije grad za turiste – on je grad za putnike koji traže istinu, autentičnost i beskrajni prostor za lično otkrivanje.
 

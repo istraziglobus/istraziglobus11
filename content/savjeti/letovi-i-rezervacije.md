@@ -60,7 +60,7 @@ Zbog toga, dok vi razmišljate o kupovini, neko drugi na drugom kraju svijeta mo
 
 Geografski položaj Balkana i Crne Gore donosi specifičnu dinamiku na tržištu avio-saobraćaja. Sa jedne strane imamo ultra-niskobudžetne prevoznike (ULCC) kao što su Ryanair i Wizz Air, dok sa druge strane stoje tradicionalni, takozvani "legacy" prevoznici poput Lufthanse, Austrian Airlines-a ili Turkish Airlines-a. Razumijevanje matematike iza ova dva modela ključ je za izbjegavanje finansijskih zamki.
 
-### Skriveni troškovi (Ancillary Revenue) kao primarni izvor zaraze
+### Skriveni troškovi (Ancillary Revenue) kao primarni izvor zarade
 Niskobudžetne kompanije odavno nisu transportna preduzeća u tradicionalnom smislu; one funkcionišu kao marketinške platforme koje vam jeftino prodaju osnovnu uslugu, a zatim agresivno naplaćuju dodatke. To se naziva *ancillary revenue* i često čini više od 40% njihove ukupne zarade.
 
 * **Prtljag kao matematička jednačina:** Osnovna cijena karte kod low-cost kompanija pokriva samo mali ruksak koji se smješta ispod sjedišta ispred vas (dimenzija oko 40x20x25 cm). Dodavanje velikog kabinskog prtljaga (kofer do 10kg) ili čekiranog kofera (20kg) često košta duplo više od same karte. Ako vam je potreban puni prtljag, obavezno uporedite ukupnu cijenu low-cost karte sa cijenom tradicionalnog prevoznika. Tradicionalne kompanije u svoju standardnu tarifu često uključuju i veći prtljag i obrok, pa konačna razlika može biti minimalna ili u korist tradicionalnih prevoznika.
@@ -150,7 +150,7 @@ Cijene avio-karata direktno zavise od troškova kerozina i sezonskih fluktuacija
 
 Da biste primijenili sve naučeno, vaša strategija prilikom sledeće kupovine karata treba da prati sledeći istraživački protokol:
 
-1.  Ovorite **Google Flights** i mapirajte cijene za željenu destinaciju tokom cijelog mjeseca kako biste identifikovali najjeftinije dane za polazak i povratak.
+1.  Otvorite **Google Flights** i mapirajte cijene za željenu destinaciju tokom cijelog mjeseca kako biste identifikovali najjeftinije dane za polazak i povratak.
 2.  Ukoliko su u pitanju low-cost kompanije, provjerite preko **Azair-a** da li kombinovanje različitih prevoznika u odlasku i povratku donosi dodatne uštede.
 3.  Ukoliko pretražujete karte za više osoba, obavezno uradite kontrolni test i provjerite cijenu za samo jednog putnika kako biste otkrili stanje u tarifnim buketima.
 4.  Prije nego što kliknete na dugme za kupovinu, izračunajte kompletan trošak: osnovna cijena + prtljag + transfer od sekundarnog aerodroma do centra grada.

@@ -25,9 +25,9 @@ tags:
   - Vezuv
 ---
 
-Napuljska pizza nije samo jelo; to je neraskidivi dio identiteta grada koji pulsira energijom, haosom i nevjerovatnom ljepotom. U uskim, kamenim ulicama Napulja, miris pečenog tijesta i svježeg paradajza uvlači se u svaku poru života, pričajući priču o skromnim počecima koji su osvojili čitavu planetu. Baš kao što vrhunska vina i sireve nudi {{< kw text="Francuska" url="/countries/francuska/" >}}, tako i napuljska pizza predstavlja vrhunac svjetske gastronomije pod zaštitom UNESCO-a. Ona je dokaz da se iz jednostavnosti, uz poštovanje <span class="highlight-text">**vjekovne tradicije**</span> i prirodnih bogatstava Kampanije, rađa istinsko umjetničko djelo koje je UNESCO uvrstio na listu nematerijalne kulturne baštine.
+U uskim, kamenim ulicama Napulja, miris pečenog tijesta i svježeg paradajza dio je svakodnevice. Napuljska pizza nastala je u skromnim radničkim četvrtima, da bi vremenom izrasla u jedan od najpoznatijih simbola italijanske gastronomske kulture. Kao što vrhunska vina nudi {{< kw text="Francuska" url="/countries/francuska/" >}}, tako i napuljska pizza predstavlja spoj lokalnih sastojaka i zanatske preciznosti pod zaštitom UNESCO-a.
 
-Više od gastronomskog iskustva, posjeta napuljskim pizzerijama predstavlja hodočašće za svakog ljubitelja autentičnih ukusa. Harmonija mekog tijesta, kremaste mozzarelle i aromatičnog bosiljka, uz majstorsku kontrolu <span class="highlight-text">**užarenih peći na drva**</span>, stvara doživljaj koji nadilazi običan obrok. Svaki zalogaj u Napulju je susret sa istorijom, strasnim temperamentom mještana i snagom vulkanskog tla koje daruje najukusnije plodove Mediterana.
+Posjeta napuljskim pizzerijama pruža direktan susret sa autentičnim receptima koji se prenose decenijama. Kombinacija mekog tijesta, sočnog San Marzano paradajza, svježe mozzarelle i kratkog pečenja u pećima na drva daje picu koja se značajno razlikuje od modernih industrijskih verzija.
 
 ---
 
@@ -164,7 +164,7 @@ Avantura istraživanja ukusa u kvartu Quartieri Spagnoli pružiće vam uvid u na
 
 <div class="tip-box">
       <h3>Pica na poček: "Pizza a Otto"</h3> 
-      <p>U starim četvrtima Napulja decenijama je opstajala tradicija <strong>"Pizza a otto"</strong>. To je značilo da pizu možete pojesti danas, a platiti je tek nakon osam dana. Ovaj običaj je nastao kako bi i najsiromašniji stanovnici mogli uživati u toplom obroku kada im je džep prazan, oslanjajući se isključivo na međusobno povjerenje i čast, što je i danas simbol nevjerovatne solidarnosti ovog grada.</p>
+      <p>U starim četvrtima Napulja decenijama je opstajala tradicija <strong>"Pizza a otto"</strong>. To je značilo da pizu možete pojesti danas, a platiti je tek nakon osam dana. Ovaj običaj je nastao kako bi i najsiromašniji stanovnici mogli uživati u toplom obroku kada im je džep prazan, oslanjajući se isključivo na međusobno povrenje i čast, što je i danas simbol nevjerovatne solidarnosti ovog grada.</p>
 </div>
 
 ---
