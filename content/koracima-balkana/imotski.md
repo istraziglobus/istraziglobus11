@@ -26,7 +26,7 @@ tags:
 most_read: false
 ---
 
-Kada se sa dalmatinske obale kroz tunel Sveti Ilija prođe iza moćne planine Biokovo, pejzaž se u trenutku mijenja i pred vama se otvara surovi, ali čudesni svijet Imotske krajine. U samom srcu ovog krševitog platoa smjestio se Imotski, gradić čija se istorija vijekovima prepliće sa neukrotivim silama prirode i podzemnim vodama.
+Kada se sa dalmatinske obale kroz tunel Sveti Ilija prođe iza moćne planine Biokovo, pejzaž se u trenutku mijenja i pred vama se otvara surovi, ali čudesni svijet Imotske krajine. U samom srcu ovog krševitog platoa smjestio se Imotski, gradić čija se istorija vijekovima prepliće sa neukrotivim silama prirode i podzemnim vodama. Smješten je nekako tačno na polovini puta izmedju Mostara i Splita - na svega sat vremena vožnje od splitske obale.
 
 Ono po čemu je ovaj kraj postao poznat širom planete jesu dva divovska ponora – Modro i Crveno jezero, prirodni fenomeni koji izgledaju kao da su potekli iz epskih bajki. Ovdje su se kroz istoriju spajale mletačka i otomanska kultura, ostavljajući za sobom kamene utvrde, bogatu tradiciju i narodna predanja koja se i danas prenose s koljena na koljeno.
 
