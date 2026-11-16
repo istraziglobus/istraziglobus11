@@ -24,6 +24,8 @@ tags:
 - Planine
 - Fenomeni
 - Ekosistem
+most_read: true
+
 ---
 
 Bajkalsko jezero sadrži oko petinu svjetskih zaliha slatke površinske vode, više nego sva sjevernoamerička Velika jezera zajedno. Ova činjenica sama po sebi objašnjava razmjeru <span class="highlight-text">**gigantskog vodenog spremnika**</span> koji se smjestio na jugoistoku Sibira u {{< kw text="Rusiji" url="/countries/rusija/" >}}, nedaleko od grada Irkutska.
