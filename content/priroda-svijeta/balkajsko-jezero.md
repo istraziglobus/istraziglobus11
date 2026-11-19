@@ -6,26 +6,24 @@ description: "Saznajte kako je nastalo Bajkalsko jezero, zašto u njemu žive sl
 date: 2026-11-10T07:00:00+01:00
 image: "slike/bajkal/bajkal-hero.jpg"
 image_alt: "zamrznuto bajkalsko jezero sa prozirnim ledom u blizini ostrva olhon rusija"
-image_author: "Sergey Pesterev" 
+image_author: "Sergey Pesterev"
 image_source: "Wikimedia Commons"
-image_source_url: "https://commons.wikimedia.org/wiki/File:Lake_Baikal_in_winter.jpg" 
+image_source_url: "https://commons.wikimedia.org/wiki/File:Lake_Baikal_in_winter.jpg"
 image_license: "CC BY-SA 4.0"
 image_license_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 slug: "bajkalsko-jezero-plavo-sibirsko-oko"
 draft: false
-most_read: false
+most_read: true
 countries: ["Rusija"]
 categories:
-- Priroda Svijeta
+  - Priroda Svijeta
 tags:
-- Bajkalsko jezero
-- Sibir
-- Voda
-- Planine
-- Fenomeni
-- Ekosistem
-most_read: true
-
+  - Bajkalsko jezero
+  - Sibir
+  - Voda
+  - Planine
+  - Fenomeni
+  - Ekosistem
 ---
 
 Bajkalsko jezero sadrži oko petinu svjetskih zaliha slatke površinske vode, više nego sva sjevernoamerička Velika jezera zajedno. Ova činjenica sama po sebi objašnjava razmjeru <span class="highlight-text">**gigantskog vodenog spremnika**</span> koji se smjestio na jugoistoku Sibira u {{< kw text="Rusiji" url="/countries/rusija/" >}}, nedaleko od grada Irkutska.

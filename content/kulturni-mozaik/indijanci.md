@@ -2,7 +2,7 @@
 title: "Starosjedioci Amerike: Nasljeđe jednog kontinenta"
 subtitle: "Upoznajte drevne civilizacije, bogato kulturno nasljeđe i savremeni život starosjedilaca Sjeverne Amerike"
 slug: "domorodacki-narodi-sjeverne-amerike-kultura-tradicija"
-date: 2026-11-18T06:00:00+01:00
+date: 2026-11-17T06:00:00+01:00
 author: "Istraži Globus Tim"
 description: "Otkrijte istoriju, jezike, običaje i tradiciju domorodačkih naroda Sjeverne Amerike, od drevnih naselja i Velikih ravnica do savremenih zajednica."
 image: "slike/indijanci-kultura/indijanci-hero.jpg"

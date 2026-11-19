@@ -2,7 +2,7 @@
 title: "Oresundski most: Skandinavska veza koja nestaje pod morem"
 subtitle: "Kako je spoj mosta, vještačkog ostrva i podvodnog tunela premostio Baltik između Danske i Švedske"
 slug: "oresundski-most-tunel-danska-svedska"
-date: 2026-11-16T08:40:00+01:00
+date: 2026-11-15T08:40:00+01:00
 author: "Istraži Globus Tim"
 description: "Oresundski most-tunel spaja Kopenhagen i Malme preko mora. Otkrijte zašto put usred tjesnaca naglo uranja pod vodu i kako je nastao ovaj skandinavski inženjerski poduhvat."
 image: "slike/oresund/oresund-hero.jpg"
